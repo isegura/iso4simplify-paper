@@ -1,0 +1,686 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>All Error Analysis Reports</title>
+  <style>
+:root {
+  color-scheme: light;
+  --bg: #f7f7f4;
+  --ink: #1f2933;
+  --muted: #667085;
+  --line: #d9ded7;
+  --panel: #ffffff;
+  --head: #eef1ec;
+  --band: #f1f4ef;
+  --accent: #245c7a;
+  --high: #e9f5ee;
+  --compare: #eef3fb;
+  --low: #fbefe8;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: Arial, Helvetica, sans-serif; line-height: 1.5; }
+main { width: min(1440px, calc(100% - 32px)); margin: 32px auto 56px; }
+.intro, .dataset-section { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 24px; }
+h1 { margin: 0 0 8px; font-size: 32px; }
+h2 { margin: 0 0 18px; padding: 12px 14px; background: var(--band); border-radius: 6px; }
+h3 { margin: 24px 0 12px; font-size: 20px; }
+p { color: var(--muted); margin: 0 0 14px; }
+a { color: var(--accent); font-weight: 700; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: #ecefeb; padding: 2px 5px; border-radius: 4px; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 10px; }
+th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+th { background: var(--head); position: sticky; top: 0; z-index: 1; }
+tbody tr:nth-child(even) { background: #fbfbf8; }
+.model-section + .model-section { margin-top: 28px; }
+.role-high { background: var(--high); font-weight: 700; }
+.role-compare { background: var(--compare); font-weight: 700; }
+.role-low { background: var(--low); font-weight: 700; }
+.note { margin-top: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="intro">
+      <h1>All Error Analysis Reports</h1>
+      <p>Index of all 72 HTML reports with the 15 records with the lowest SARI for each experiment.</p>
+      <p>Reports are grouped by dataset, then by model. Within each model they are ordered as: minimal, iso, iso+examples; zero, one, few; and for few-shot, random before metric.</p>
+    </section>
+    <section class="dataset-section"><h2>Cochrane</h2><section class="model-section">
+<h3>Llama 3.1 8B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_zero_lowest_sari.html">predictions_llama3_1_8b_cochrane_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_one_lowest_sari.html">predictions_llama3_1_8b_cochrane_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_few_random_lowest_sari.html">predictions_llama3_1_8b_cochrane_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_few_metric_lowest_sari.html">predictions_llama3_1_8b_cochrane_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_zero_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_one_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_few_random_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_few_metric_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_zero_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_one_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_few_random_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_few_metric_lowest_sari.html">predictions_llama3_1_8b_cochrane_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section><section class="model-section">
+<h3>Mixtral 8x7B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_zero_lowest_sari.html">predictions_mixtral_latest_cochrane_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_one_lowest_sari.html">predictions_mixtral_latest_cochrane_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_few_random_lowest_sari.html">predictions_mixtral_latest_cochrane_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_few_metric_lowest_sari.html">predictions_mixtral_latest_cochrane_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_zero_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_one_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_few_random_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_few_metric_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_examples_zero_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_examples_one_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_examples_few_random_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_examples_few_metric_lowest_sari.html">predictions_mixtral_latest_cochrane_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section></section>
+<section class="dataset-section"><h2>Plaba</h2><section class="model-section">
+<h3>Llama 3.1 8B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_zero_lowest_sari.html">predictions_llama3_1_8b_plaba_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_one_lowest_sari.html">predictions_llama3_1_8b_plaba_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_few_random_lowest_sari.html">predictions_llama3_1_8b_plaba_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_few_metric_lowest_sari.html">predictions_llama3_1_8b_plaba_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_zero_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_one_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_few_random_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_few_metric_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_zero_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_one_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_few_random_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_few_metric_lowest_sari.html">predictions_llama3_1_8b_plaba_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section><section class="model-section">
+<h3>Mixtral 8x7B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_minimal_zero_lowest_sari.html">predictions_mixtral_latest_plaba_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_minimal_one_lowest_sari.html">predictions_mixtral_latest_plaba_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_minimal_few_random_lowest_sari.html">predictions_mixtral_latest_plaba_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_minimal_few_metric_lowest_sari.html">predictions_mixtral_latest_plaba_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_zero_lowest_sari.html">predictions_mixtral_latest_plaba_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_one_lowest_sari.html">predictions_mixtral_latest_plaba_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_few_random_lowest_sari.html">predictions_mixtral_latest_plaba_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_few_metric_lowest_sari.html">predictions_mixtral_latest_plaba_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_zero_lowest_sari.html">predictions_mixtral_latest_plaba_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_one_lowest_sari.html">predictions_mixtral_latest_plaba_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_few_random_lowest_sari.html">predictions_mixtral_latest_plaba_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_few_metric_lowest_sari.html">predictions_mixtral_latest_plaba_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section></section>
+<section class="dataset-section"><h2>TSAR 2025</h2><section class="model-section">
+<h3>Llama 3.1 8B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_minimal_zero_lowest_sari.html">predictions_llama3_1_8b_tsar2025_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_minimal_one_lowest_sari.html">predictions_llama3_1_8b_tsar2025_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_minimal_few_random_lowest_sari.html">predictions_llama3_1_8b_tsar2025_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_minimal_few_metric_lowest_sari.html">predictions_llama3_1_8b_tsar2025_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_zero_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_one_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_few_random_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_few_metric_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_examples_zero_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_examples_one_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_examples_few_random_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_examples_few_metric_lowest_sari.html">predictions_llama3_1_8b_tsar2025_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section><section class="model-section">
+<h3>Mixtral 8x7B</h3>
+<table>
+<thead>
+<tr><th>#</th><th>Prompt type</th><th>Strategy</th><th>Sampling</th><th>File</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td><code>minimal</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_zero_lowest_sari.html">predictions_mixtral_latest_tsar2025_minimal_zero_lowest_sari.html</a></td>
+  <td>Prompt type minimal, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_one_lowest_sari.html">predictions_mixtral_latest_tsar2025_minimal_one_lowest_sari.html</a></td>
+  <td>Prompt type minimal, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_few_random_lowest_sari.html">predictions_mixtral_latest_tsar2025_minimal_few_random_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_few_metric_lowest_sari.html">predictions_mixtral_latest_tsar2025_minimal_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type minimal, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_zero_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><code>iso</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_one_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_one_lowest_sari.html</a></td>
+  <td>Prompt type iso, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_few_random_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_few_metric_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso, few-shot strategy with metric example selection.</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><code>iso_examples</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_zero_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_examples_zero_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, zero-shot strategy.</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><code>iso_examples</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_one_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_examples_one_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, one-shot strategy.</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_few_random_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_examples_few_random_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with random example selection.</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><code>iso_examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_few_metric_lowest_sari.html">predictions_mixtral_latest_tsar2025_iso_examples_few_metric_lowest_sari.html</a></td>
+  <td>Prompt type iso_examples, few-shot strategy with metric example selection.</td>
+</tr>
+</tbody>
+</table>
+</section></section>
+  </main>
+</body>
+</html>

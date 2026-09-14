@@ -1,0 +1,417 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Comparative configuration error evidence</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 32px; color: #222; line-height: 1.45; }
+    h1 { margin-bottom: 0.2rem; }
+    h2 { margin-top: 2rem; }
+    .note { max-width: 980px; padding: 14px 16px; border-left: 4px solid #5f5f8f; background: #f5f5fb; }
+    table { border-collapse: collapse; width: 100%; margin-top: 12px; font-size: 13px; }
+    th, td { border: 1px solid #cfcfcf; padding: 8px; vertical-align: top; }
+    th { background: #eeeeee; text-align: left; }
+    td:nth-child(8) { max-width: 460px; }
+    a { color: #224f9c; }
+  </style>
+</head>
+<body>
+  <h1>Evidence of Error Patterns in Comparative Configurations</h1>
+  <p class="note">
+    This report summarizes concrete examples found during the qualitative error analysis of the selected
+    comparative configurations. The table links point to the complete HTML reports for each configuration.
+    <em>Stop reason</em> comes from the Ollama termination metadata: <code>stop</code> means that the model stopped
+    naturally, while <code>length</code> means that it reached the configured generation limit.
+  </p>
+  <section>
+  <h2>Llama 3.1 8B / Cochrane / ISO / few-random</h2>
+  <p><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD005255</td>
+  <td>76</td>
+  <td>201</td>
+  <td>25.91</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>76 generated words vs. 201 reference words; omits explanatory detail</td>
+  <td>We found nine studies that compared how often babies were fed with how much they ate in a day. These studies included 593 premature babies who were learning to eat from a bottle or cup. The studies showed that feeding babies when they want to eat, rather than at set times, might help them learn to feed themselves faster. However, the quality of these studies was low and more research is needed to confirm this findin...</td>
+</tr>
+<tr>
+  <td>CD009170</td>
+  <td>89</td>
+  <td>243</td>
+  <td>28.31</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps numerical/statistical details such as 54%, 69%, and one in six operations</td>
+  <td>We found 10 studies (2961 surgeons) comparing blunt needles with sharp needles during surgery. The use of blunt needles reduced glove perforations by 54% compared to sharp needles, which means one glove perforation is prevented in every six operations. Blunt needles also reduced needle stick injuries by 69%. Although using blunt needles requires more force, it was still considered acceptable in most studies. There i...</td>
+</tr>
+<tr>
+  <td>CD001302</td>
+  <td>100</td>
+  <td>231</td>
+  <td>29.91</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps OHSS, HES, imprecision, blinding, adverse events</td>
+  <td>We included nine studies comparing different treatments to prevent ovarian hyperstimulation syndrome (OHSS). The evidence was of low to moderate quality due to imprecision, poor reporting, and lack of blinding. Human albumin may reduce OHSS rates from 12% to 9%, but it also reduces pregnancy chances from 40% to 32%. HES reduced OHSS rates from 16% to 5%, while mannitol reduced OHSS rates from 52% to 29%. There was n...</td>
+</tr>
+<tr>
+  <td>CD002022</td>
+  <td>154</td>
+  <td>79</td>
+  <td>31.22</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps RR, 95% CI, antagonist-induced withdrawal, naltrexone, anaesthesia</td>
+  <td>Nine studies (eight randomised controlled trials) involving 1109 participants met the inclusion criteria for the review. Antagonist-induced withdrawal is more intense but less prolonged than withdrawal managed with reducing doses of methadone, and doses of naltrexone sufficient for blockade of opioid effects can be established significantly more quickly with antagonist-induced withdrawal than withdrawal managed with...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / Cochrane / ISO / few-random</h2>
+  <p><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD005122</td>
+  <td>5</td>
+  <td>454</td>
+  <td>27.38</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;over 13,00&#39;</td>
+  <td>Four studies involving over 13,00</td>
+</tr>
+<tr>
+  <td>CD008720</td>
+  <td>18</td>
+  <td>236</td>
+  <td>27.93</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;10,00&#39;</td>
+  <td>We included four studies with a total of 522 women in our review. Three studies compared giving 10,00</td>
+</tr>
+<tr>
+  <td>CD009919</td>
+  <td>9</td>
+  <td>190</td>
+  <td>29.78</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;a total of 1&#39;</td>
+  <td>Three studies were included with a total of 1</td>
+</tr>
+<tr>
+  <td>CD003122</td>
+  <td>12</td>
+  <td>128</td>
+  <td>31.03</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;over 10,00&#39;</td>
+  <td>Twenty-four studies were included, but only sixteen of them (involving over 10,00</td>
+</tr>
+<tr>
+  <td>CD005255</td>
+  <td>151</td>
+  <td>201</td>
+  <td>31.19</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>151 generated words vs. 201 reference words; compresses source and reference detail</td>
+  <td>We looked at nine studies with a total of 593 preterm babies who were changing from tube to oral feeding. The studies compared responsive feeding (feeding only when the baby shows signs of hunger) with scheduled interval regimens (feeding at regular intervals). The studies had some issues, such as not being blinded and not assessing all randomized participants. Meta-analyses showed that responsive feeding may lead t...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Llama 3.1 8B / PLABA / ISO / few-random</h2>
+  <p><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>25963653</td>
+  <td>164</td>
+  <td>251</td>
+  <td>20.12</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps hCG, BMI, parity, hyperemesis gravidarum, reference ranges</td>
+  <td>Human chorionic gonadotropin (hCG) is a hormone produced by the placenta during pregnancy. It helps with fetal growth and various functions of the placenta, uterus, and fetus. To understand how hCG affects health outcomes, it&#39;s essential to know about reference ranges for hCG levels and what factors influence them. We studied 8195 women in the Generation R Study and found that hCG levels vary depending on how pregna...</td>
+</tr>
+<tr>
+  <td>27630909</td>
+  <td>188</td>
+  <td>275</td>
+  <td>20.33</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps hCG, ectopic pregnancy, expectant management, medical management</td>
+  <td>We studied how often ectopic pregnancies (pregnancies outside the uterus) occur and how they are diagnosed. We also looked at how human chorionic gonadotropin (hCG) levels change in these cases. Our study included 337 women who had ectopic pregnancies from January 2006 to December 2012. We found that some women with ectopic pregnancies had hCG levels below a certain threshold, while others showed different patterns...</td>
+</tr>
+<tr>
+  <td>33818024</td>
+  <td>151</td>
+  <td>242</td>
+  <td>24.34</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps beta-hCG, molar pregnancy, chemo, plant names, IU/L</td>
+  <td>We need to carefully monitor levels of βhCG (a hormone) and any growths in the uterus to prevent cancer from spreading, start treatment early, and avoid unnecessary chemo. A 36-year-old woman had a missed abortion and was diagnosed with a molar pregnancy (when the placenta grows too much). Her βhCG level was very high at 509,921 IU/L. She had surgery to remove the growth, but six weeks later she came back to the hos...</td>
+</tr>
+<tr>
+  <td>30422545</td>
+  <td>42</td>
+  <td>81</td>
+  <td>22.16</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>42 generated words vs. 81 reference words; compresses the explanation</td>
+  <td>Human chorionic gonadotropin (hCG) is a chemical made by early embryos. It helps identify normal pregnancies, problems with pregnancy, and can be useful after an abortion. Measuring hCG levels also helps in some cancers like choriocarcinoma and other tumors outside the uterus.</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / PLABA / ISO+examples / few-random</h2>
+  <p><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>27630909</td>
+  <td>34</td>
+  <td>275</td>
+  <td>13.39</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;from 2006 to 2&#39;; keeps Introduction and Aim labels</td>
+  <td>Introduction: The symptoms of Ectopic Pregnancy (EP) can vary. Testing for a hormone called hCG helps diagnose EP early. Aim: This study looked at hCG levels in women with EP from 2006 to 2</td>
+</tr>
+<tr>
+  <td>21636864</td>
+  <td>3</td>
+  <td>185</td>
+  <td>14.17</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;From July 2&#39;</td>
+  <td>From July 2</td>
+</tr>
+<tr>
+  <td>34960751</td>
+  <td>21</td>
+  <td>207</td>
+  <td>18.13</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;COVID-1&#39;</td>
+  <td>A group of 303 patients admitted to a hospital in Portugal were studied from September to November 2020. Some had COVID-1</td>
+</tr>
+<tr>
+  <td>33816325</td>
+  <td>20</td>
+  <td>239</td>
+  <td>21.57</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;Covid-1&#39;</td>
+  <td>This study looked at the amount of SARS-CoV-2 (the virus that causes Covid-19) in samples from people who had Covid-1</td>
+</tr>
+<tr>
+  <td>33224987</td>
+  <td>26</td>
+  <td>454</td>
+  <td>24.72</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;COVID-1&#39;</td>
+  <td>Knowledge about how well COVID-19 antibody tests work more than 35 days after symptoms start is limited. This study looked at the positivity rate of COVID-1</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Llama 3.1 8B / TSAR 2025 / ISO / few-random</h2>
+  <p><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>52</td>
+  <td>52</td>
+  <td>43.0</td>
+  <td>35.1</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>adds a note explaining that the text was rewritten</td>
+  <td>Blek le Rat started painting rats on walls in Paris. Now, he tries to make people think about social issues by painting pictures of problems like homelessness in big cities. Note: I have rewritten the text according to the provided instructions, focusing on simplicity, clarity, and concision while maintaining a respectful tone.</td>
+</tr>
+<tr>
+  <td>78</td>
+  <td>63</td>
+  <td>52.0</td>
+  <td>37.96</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>adds a note explaining compliance with the instructions</td>
+  <td>Some big transportation projects involve building bridges. Bridges connect roads over water, mountains or other roads. They&#39;re a key part of civil engineering and get a lot of attention when they fail. Note: I have followed the instructions to simplify the text while maintaining its original meaning and structure. The simplified version is written in plain language, avoiding complex vocabulary and sentence structure...</td>
+</tr>
+<tr>
+  <td>76</td>
+  <td>70</td>
+  <td>68.0</td>
+  <td>38.1</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>uses a bulleted list rather than prose similar to the references</td>
+  <td>We own many things that are not being used. These include: * A thick coat for cold weather, but we live in a hot country. * Old smartphones that have been replaced by newer models. * Cars that only get driven on weekends. * Guest rooms that have become storage spaces. Note: I&#39;ve rewritten the text to make it more concise and easy to understand, while maintaining its original meaning.</td>
+</tr>
+<tr>
+  <td>111</td>
+  <td>69</td>
+  <td>77.5</td>
+  <td>38.67</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>adds a note saying it followed the instructions</td>
+  <td>In older horror films, it was hard for characters to get help when they needed it. Now that we have mobile phones, this is less believable. What makes a horror film more suspenseful? No phone signal! If you&#39;re in a scary movie, at the worst moment, your phone will probably not work. (Note: I&#39;ve followed the instructions and only provided the simplified text without any additional explanations or labels.)</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / TSAR 2025 / ISO+examples / few-random</h2>
+  <p><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>66</td>
+  <td>8</td>
+  <td>66.0</td>
+  <td>26.71</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;over 40,00&#39;</td>
+  <td>PwC conducted a worldwide survey with over 40,00</td>
+</tr>
+<tr>
+  <td>93</td>
+  <td>10</td>
+  <td>71.0</td>
+  <td>28.8</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;In 2&#39;</td>
+  <td>The rover checks the air near it regularly. In 2</td>
+</tr>
+<tr>
+  <td>41</td>
+  <td>31</td>
+  <td>83.5</td>
+  <td>31.33</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;in 199&#39;</td>
+  <td>A possible way to protect Earth from a Potentially Hazardous Asteroid (PHA) is to use an eight-ton rocket with a nuclear bomb. This idea was in the movie &quot;Armageddon&quot; in 199</td>
+</tr>
+<tr>
+  <td>117</td>
+  <td>17</td>
+  <td>83.0</td>
+  <td>34.36</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;about 10,00&#39;</td>
+  <td>The Scallion is published once a week and given for free in school buildings, with about 10,00</td>
+</tr>
+<tr>
+  <td>119</td>
+  <td>113</td>
+  <td>107.0</td>
+  <td>36.28</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>longer discursive output with an added transition paragraph</td>
+  <td>The speaker&#39;s words resonated with me, as I believe that increased connection through technology can lead to feelings of isolation. This may not be as relevant for my generation, who lived without technology for a significant portion of our lives and have learned how to be alone and find comfort in it. However, the under-20 age group is at risk of missing out on the experience of solitude and learning to enjoy their...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+</body>
+</html>

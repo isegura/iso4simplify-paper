@@ -1,0 +1,378 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>High-performing configuration error evidence</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 32px; color: #222; line-height: 1.45; }
+    h1 { margin-bottom: 0.2rem; }
+    h2 { margin-top: 2rem; }
+    .note { max-width: 980px; padding: 14px 16px; border-left: 4px solid #4067b2; background: #f3f6fc; }
+    table { border-collapse: collapse; width: 100%; margin-top: 12px; font-size: 13px; }
+    th, td { border: 1px solid #cfcfcf; padding: 8px; vertical-align: top; }
+    th { background: #eeeeee; text-align: left; }
+    td:nth-child(8) { max-width: 460px; }
+    a { color: #224f9c; }
+  </style>
+</head>
+<body>
+  <h1>Evidence of Error Patterns in High-performing Configurations</h1>
+  <p class="note">
+    This report summarizes concrete examples found during the qualitative error analysis of the selected
+    high-performing configurations. The table links point to the complete HTML reports for each configuration.
+    <em>Stop reason</em> comes from the Ollama termination
+    metadata: <code>stop</code> means that the model stopped naturally, while <code>length</code> means that it
+    reached the configured generation limit.
+  </p>
+  <section>
+  <h2>Llama 3.1 8B / Cochrane / ISO+examples / few-metric</h2>
+  <p><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_few_metric_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD009170</td>
+  <td>134</td>
+  <td>243</td>
+  <td>27.83</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>RR 0.46; RR 0.31</td>
+  <td>We found 10 studies involving 2961 surgeons who compared using blunt needles with sharp needles during surgery. The studies looked at different types of surgeries, including abdominal closure, caesarean section, vaginal repair, and hip replacement. Using blunt needles reduced the risk of glove perforations by half (RR 0.46). This means that one glove perfor...</td>
+</tr>
+<tr>
+  <td>CD010814</td>
+  <td>175</td>
+  <td>278</td>
+  <td>28.47</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>OR; 95% CI; MD</td>
+  <td>Twelve studies involving 1932 participants were included in this review. Glue reduced postoperative chronic pain by 37% compared to suture (OR 0.63, 95% CI 0.44 to 0.91). However, the results changed when we looked at different types of mesh. Lightweight mesh showed no significant benefit from using glue, but heavyweight mesh did (OR 0.38, 95% CI 0.17 to 0....</td>
+</tr>
+<tr>
+  <td>CD006301</td>
+  <td>240</td>
+  <td>272</td>
+  <td>29.29</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>RCTs; myeloablative therapy; HR; CI; interstitial pneumonitis; veno-occlusive disease; ends with &#39;after&#39;</td>
+  <td>We identified three RCTs including 739 children. They all used an age of one year as the cut-off point for pre-treatment risk stratification. The first updated search identified a manuscript reporting additional follow-up data for one of these RCTs, while the second update identified an erratum of this study. Myeloablative therapy was compared to convention...</td>
+</tr>
+<tr>
+  <td>CD007744</td>
+  <td>74</td>
+  <td>384</td>
+  <td>27.65</td>
+  <td>stop</td>
+  <td>Possible over-compression</td>
+  <td>rofecoxib; valdecoxib; lumiracoxib; etoricoxib; celecoxib; IBD</td>
+  <td>There were no studies that looked at the safety or effectiveness of three withdrawn pain medications: rofecoxib, valdecoxib, and lumiracoxib. Two studies (381 people with inflammatory bowel disease) compared two other pain medications: etoricoxib and celecoxib. These studies found that these medications did not make IBD symptoms worse. However, the studies...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Llama 3.1 8B / PLABA / ISO+examples / few-random</h2>
+  <p><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>35240553</td>
+  <td>163</td>
+  <td>280</td>
+  <td>23.88</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>Here is the simplified text; final explanatory note</td>
+  <td>Here is the simplified text: COVID-19 can affect many organs, including the brain. In the brain, COVID-19 can cause an imbalance of certain minerals that are important for normal brain function. We studied how these minerals affect the brain during a viral infection. Our results show that an imbalance of these minerals can make COVID-19 more likely to damag...</td>
+</tr>
+<tr>
+  <td>34883281</td>
+  <td>111</td>
+  <td>249</td>
+  <td>25.66</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>Note explaining how the text had been rewritten</td>
+  <td>We studied why patients with severe Covid-19 have high levels of a protein called ferritin. We found that inflammation is not the main reason for this increase. In fact, ferritin has been linked to several serious diseases, including adult-onset Still&#39;s disease, macrophage activation syndrome, catastrophic antiphospholipid syndrome, and septic shock. Covid-...</td>
+</tr>
+<tr>
+  <td>15552918</td>
+  <td>46</td>
+  <td>39</td>
+  <td>26.37</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>Note explaining how the text had been rewritten</td>
+  <td>We don&#39;t know what causes most cases of asthma. We can&#39;t find a way to prevent it from happening. Note: I&#39;ve rewritten the text using simple words, short sentences, and an active voice. I&#39;ve also removed unnecessary words and phrases to make the text more concise.</td>
+</tr>
+<tr>
+  <td>34619975</td>
+  <td>155</td>
+  <td>214</td>
+  <td>26.98</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>Here is the simplified text; redox; metformin; lupus; biomarkers</td>
+  <td>Here is the simplified text: Metformin has been suggested as a treatment for lupus. The main target of metformin is the part of cells that helps control redox (a balance between oxidation and reduction). This balance is important in immune cells, which are involved in autoimmune diseases like lupus. This review looks at whether metformin can help with lupus...</td>
+</tr>
+<tr>
+  <td>34605394</td>
+  <td>86</td>
+  <td>184</td>
+  <td>27.16</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>belimumab; anifrolumab</td>
+  <td>We studied how effective two new treatments (belimumab and anifrolumab) are for patients with active lupus (a disease that affects many parts of the body). We looked at data from six studies involving 2,757 patients. The results showed that belimumab was more effective than a placebo in treating lupus symptoms after one year. Belimumab also worked better th...</td>
+</tr>
+<tr>
+  <td>34924800</td>
+  <td>146</td>
+  <td>213</td>
+  <td>21.54</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>ferritin; deferiprone; deferasirox; deferoxamine</td>
+  <td>Ferritin helps keep the body&#39;s iron levels in balance. It has 24 parts that work together to deliver iron to different tissues. Normal ferritin levels are between 10-200 ng/mL for men and 30-300 ng/mL for women. When ferritin levels get too high, it can cause problems. High ferritin levels may also contribute to the inflammation and poor outcomes seen in CO...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / Cochrane / minimal / one</h2>
+  <p><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_one_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD008720</td>
+  <td>29</td>
+  <td>236</td>
+  <td>26.53</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;10,00&#39;</td>
+  <td>Four studies with 522 women were included in a review. One study did not report results for each woman and was not analyzed. Three studies looked at giving 10,00</td>
+</tr>
+<tr>
+  <td>CD006301</td>
+  <td>64</td>
+  <td>272</td>
+  <td>31.39</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>64 words vs. 272 reference words; ends with &#39;after&#39;</td>
+  <td>Three studies were found which looked at children with neuroblastoma. These studies used an age of one year as the cut-off point for deciding on treatment. An updated search also found additional follow-up data and a correction for one of these studies. The results showed that myeloablative therapy was better than conventional chemotherapy or no further tre...</td>
+</tr>
+<tr>
+  <td>CD013137</td>
+  <td>18</td>
+  <td>344</td>
+  <td>31.45</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>18 words vs. 344 reference words</td>
+  <td>A single study looked at the impact of early brain scans within 48 hours after surgery in 1</td>
+</tr>
+<tr>
+  <td>CD010166</td>
+  <td>178</td>
+  <td>467</td>
+  <td>34.12</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>I2; subgroup analysis; risk of bias</td>
+  <td>881 full-text documents were reviewed, and 15 national initiatives with over 260,000 people met the criteria. These initiatives, except one, used an uncontrolled study design and showed high study heterogeneity (I2 &gt; 90%). The evidence was graded as very low due to the risk of bias and variation in effect size across studies. Ten initiatives provided suffic...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / PLABA / ISO / few-random</h2>
+  <p><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_few_random_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>27630909</td>
+  <td>49</td>
+  <td>275</td>
+  <td>14.95</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>49 words vs. 275 reference words; Introduction; Aim</td>
+  <td>Introduction: The signs of Ectopic Pregnancy (EP) can vary. Checking the level of hCG (a hormone produced during pregnancy) in the blood is important for early diagnosis. Aim: This study looked at hCG trends in EP and its role in making decisions about managing and following up on EPs.</td>
+</tr>
+<tr>
+  <td>29169352</td>
+  <td>46</td>
+  <td>225</td>
+  <td>23.69</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;March 2&#39;</td>
+  <td>A study was done to see if a certain type of surgery, arthroscopic knee cavity internal drainage and popliteal cyst cavity debridement, is effective for treating popliteal cysts in patients with knee osteoarthritis. This surgery was performed on 58 patients from August 2007 to March 2</td>
+</tr>
+<tr>
+  <td>30088053</td>
+  <td>34</td>
+  <td>220</td>
+  <td>25.64</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;2013 to 2&#39;</td>
+  <td>A study was done to test a new way of treating popliteal cysts with arthroscopy (a type of surgery that uses small tools and cameras). The study had 34 patients from 2013 to 2</td>
+</tr>
+<tr>
+  <td>32840002</td>
+  <td>4</td>
+  <td>275</td>
+  <td>26.12</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>4 words vs. 275 reference words</td>
+  <td>People who had Covid-1</td>
+</tr>
+<tr>
+  <td>34924800</td>
+  <td>123</td>
+  <td>213</td>
+  <td>21.0</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>hyperferritinemia; deferiprone; deferasirox; deferoxamine; FDA; microgram/L</td>
+  <td>Ferritin is a protein that controls the body&#39;s iron levels and has normal values between 10-200 ng/mL in men and 30-300 ng/mL in women. It delivers iron to tissues, acts as a signal molecule and an inflammatory marker. When ferritin levels go above 1000 &#181;g/L, it is called hyperferritinemia. Iron chelators like deferiprone, deferirox, and deferoxamine are FD...</td>
+</tr>
+<tr>
+  <td>32631287</td>
+  <td>176</td>
+  <td>309</td>
+  <td>25.55</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>AI; AICR; arthroscopic terminology</td>
+  <td>A study was done to compare the results of two surgical methods for treating popliteal cysts, a build up of fluid in the knee. The first method is arthroscopic internal drainage (AI) alone and the second method is AI combined with cutting out part of the cyst wall (AICR). The study included 42 patients, 20 of whom had the AI procedure and 22 who had the AIC...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / TSAR 2025 / minimal / few-metric</h2>
+  <p><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_few_metric_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>71</td>
+  <td>2</td>
+  <td>58.5</td>
+  <td>26.16</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction: &#39;In 2&#39;</td>
+  <td>In 2</td>
+</tr>
+<tr>
+  <td>89</td>
+  <td>21</td>
+  <td>83.0</td>
+  <td>28.2</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;It was published in 2&#39;</td>
+  <td>&quot;The Hunger Games&quot; is a popular book for young people, written by American author Suzanne Collins. It was published in 2</td>
+</tr>
+<tr>
+  <td>93</td>
+  <td>10</td>
+  <td>71.0</td>
+  <td>29.35</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;and in 2&#39;</td>
+  <td>The Mars rover checks the air often, and in 2</td>
+</tr>
+<tr>
+  <td>22</td>
+  <td>36</td>
+  <td>76.5</td>
+  <td>29.55</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;In 2&#39;</td>
+  <td>Thousands of wild dogs live in the streets of Moscow, Russia. Some of these dogs were born in the city, while others were pets that people abandoned. These dogs live alone or in packs. In 2</td>
+</tr>
+<tr>
+  <td>35</td>
+  <td>32</td>
+  <td>73.0</td>
+  <td>41.8</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>ends with &#39;In 2&#39;</td>
+  <td>People in the art world are starting to value graffiti and street art more. There have been big exhibitions of street art in galleries in Paris, London, and Los Angeles. In 2</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+</body>
+</html>

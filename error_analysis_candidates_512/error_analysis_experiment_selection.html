@@ -1,0 +1,247 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Experiment Selection for Error Analysis</title>
+  <style>
+:root {
+  color-scheme: light;
+  --bg: #f7f7f4;
+  --ink: #1f2933;
+  --muted: #667085;
+  --line: #d9ded7;
+  --panel: #ffffff;
+  --head: #eef1ec;
+  --band: #f1f4ef;
+  --accent: #245c7a;
+  --high: #e9f5ee;
+  --compare: #eef3fb;
+  --low: #fbefe8;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: Arial, Helvetica, sans-serif; line-height: 1.5; }
+main { width: min(1440px, calc(100% - 32px)); margin: 32px auto 56px; }
+.intro, .dataset-section { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 24px; }
+h1 { margin: 0 0 8px; font-size: 32px; }
+h2 { margin: 0 0 18px; padding: 12px 14px; background: var(--band); border-radius: 6px; }
+h3 { margin: 24px 0 12px; font-size: 20px; }
+p { color: var(--muted); margin: 0 0 14px; }
+a { color: var(--accent); font-weight: 700; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: #ecefeb; padding: 2px 5px; border-radius: 4px; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 10px; }
+th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+th { background: var(--head); position: sticky; top: 0; z-index: 1; }
+tbody tr:nth-child(even) { background: #fbfbf8; }
+.model-section + .model-section { margin-top: 28px; }
+.role-high { background: var(--high); font-weight: 700; }
+.role-compare { background: var(--compare); font-weight: 700; }
+.role-low { background: var(--low); font-weight: 700; }
+.note { margin-top: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <section>
+      <h1>Experiment Selection for Error Analysis</h1>
+      <p>This document summarizes the 18 configurations selected for the qualitative error analysis: six configurations per dataset, with three configurations for Llama 3.1 8B and three for Mixtral 8x7B.</p>
+      <p>For each model and dataset, the selection includes a high-performing configuration, a low-performing or diagnostically relevant configuration, and an additional comparative configuration chosen to examine prompt design or example selection effects.</p>
+      <p>Each linked report contains the 15 examples with the lowest SARI scores for that configuration.</p>
+      <p><a href="all_error_analysis_reports.html">Open the full report index</a></p>
+    </section>
+    <section>
+<h2>Cochrane</h2>
+<table>
+<thead>
+<tr><th>Model</th><th>Prompt</th><th>Strategy</th><th>Sampling</th><th>Role</th><th>Main reason</th><th>HTML report</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso+examples</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Llama on Cochrane.</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_examples_few_metric_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting a low-performing Llama configuration on Cochrane.</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_one_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Allows comparison with structured ISO instructions under few-shot prompting.</td>
+  <td><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_iso_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Mixtral on Cochrane.</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_minimal_one_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting a low-performing ISO configuration.</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_zero_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Allows comparison between zero-shot and few-shot ISO prompting.</td>
+  <td><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Plaba</h2>
+<table>
+<thead>
+<tr><th>Model</th><th>Prompt</th><th>Strategy</th><th>Sampling</th><th>Role</th><th>Main reason</th><th>HTML report</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso+examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Llama on PLABA.</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_examples_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>minimal</code></td>
+  <td>one</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting a low-performing Llama configuration on PLABA.</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_one_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Allows comparison with ISO few-shot prompting.</td>
+  <td><a href="llama/plaba/predictions_llama3_1_8b_plaba_iso_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Mixtral on PLABA.</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting the zero-shot ISO baseline.</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_zero_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso+examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Allows comparison between ISO and ISO+examples under few-shot prompting.</td>
+  <td><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_examples_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>TSAR 2025</h2>
+<table>
+<thead>
+<tr><th>Model</th><th>Prompt</th><th>Strategy</th><th>Sampling</th><th>Role</th><th>Main reason</th><th>HTML report</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Llama on TSAR 2025.</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_minimal_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting a low-performing ISO configuration.</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_zero_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Llama 3.1 8B</td>
+  <td><code>iso</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Allows comparison between zero-shot and few-shot ISO prompting.</td>
+  <td><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>minimal</code></td>
+  <td>few</td>
+  <td>metric</td>
+  <td class="role-high">High-performing</td>
+  <td>Best SARI configuration for Mixtral on TSAR 2025.</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_minimal_few_metric_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso</code></td>
+  <td>zero</td>
+  <td>--</td>
+  <td class="role-low">Low-performing / diagnostic</td>
+  <td>Useful for inspecting a low-performing ISO configuration.</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_zero_lowest_sari.html">Open report</a></td>
+</tr>
+<tr>
+  <td>Mixtral 8x7B</td>
+  <td><code>iso+examples</code></td>
+  <td>few</td>
+  <td>random</td>
+  <td class="role-compare">Comparative</td>
+  <td>Representative ISO+examples few-shot configuration for comparison.</td>
+  <td><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_examples_few_random_lowest_sari.html">Open report</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+  </main>
+</body>
+</html>

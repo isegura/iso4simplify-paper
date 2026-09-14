@@ -1,0 +1,361 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>llama3 1 8b tsar2025 iso examples few metric - lowest SARI</title>
+<style>
+:root{--ink:#1f2937;--muted:#667085;--line:#d0d5dd;--bg:#ffffff;--original:#eff6ff;--reference:#eefaf1;--reference2:#f1efff;--prediction:#fff4e5}
+*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;margin:0;background:var(--bg);color:var(--ink);line-height:1.42}main{width:min(1500px,calc(100% - 32px));margin:22px auto 44px}.page-summary{background:#f8fafc;border-left:4px solid #0f766e;padding:12px 16px;margin:14px 0 28px;color:#344054}h1{font-size:30px;margin:0 0 8px}h2{font-size:30px;margin:28px 0 12px}.rule{height:1px;background:var(--line);margin:0 0 24px}.metadata-title{font-size:24px;margin:0 0 20px}.metrics-grid{display:grid;grid-template-columns:repeat(4,minmax(170px,1fr));gap:14px 44px;margin:0 0 28px}.metric{display:flex;gap:10px;align-items:baseline;min-width:0}.metric-label{font-weight:700;color:var(--muted);font-size:17px}.metric-value{font-size:18px;color:#111827}.text-stack{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;align-items:start}.text-card{border:1px solid #d0d5dd;border-radius:8px;padding:16px 22px}.text-card h3{font-size:21px;margin:0 0 10px}.text-card p{font-size:18px;margin:0;line-height:1.45}.original{background:var(--original)}.reference{background:var(--reference)}.reference-a2{background:var(--reference)}.reference-b1{background:var(--reference2)}.prediction{background:var(--prediction)}.record{margin:0 0 42px}@media(max-width:900px){main{width:min(100% - 20px,1500px)}.metrics-grid{grid-template-columns:repeat(2,minmax(150px,1fr));gap:10px 24px}.text-stack{grid-template-columns:1fr}.text-card p{font-size:18px}h1,h2{font-size:25px}.metadata-title{font-size:21px}}@media(max-width:560px){.metrics-grid{grid-template-columns:1fr}.text-card{padding:14px}.text-card p{font-size:16px}}
+</style>
+</head>
+<body><main>
+<h1>llama3 1 8b tsar2025 iso examples few metric: 15 lowest-SARI cases</h1>
+<div class="page-summary">Selected from the current prediction CSV using the per-instance SARI column. SARI range: 34.37-42.28; mean: 39.91.</div>
+<div class="page-summary">The field <strong>Stop reason</strong> indicates why the model stopped generating the output. A value of <code>stop</code> means that generation ended naturally, whereas <code>length</code> means that the maximum generation limit was reached. Outputs with <code>length</code> were considered truncated.</div>
+<article class="record">
+<h2>Record 1</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">78</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">59</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">66</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">52.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">34.37</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">7.18</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">8.19</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">55.95</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.88</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">62.25</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Some of the biggest and most expensive transportation projects in the world have involved building bridges. Bridges are crucial links that carry cars, trucks and trains across bodies of water, mountain gorges or other roads. As a result, they are one of the most important aspects of civil engineering and are subject to intense scrutiny, especially when they collapse.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Some of the biggest and most expensive transport projects are bridges. Bridges are important because they let cars, trucks and trains cross rivers, mountains or other roads, They are an important part of building work, and people look after them carefully, especially when a bridge falls down.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Some of the biggest and most expensive transport projects in the world have included building bridges.  Bridges are very important things which can allow cars, trucks and trains to cross rivers, mountain valleys or other roads.  As a result, they are a key part of civil engineering and are studied very carefully, especially if one falls down.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Some big transportation projects involve building bridges. Bridges connect different parts of land over water or mountains. They are very important for roads and trains. When a bridge collapses, it gets a lot of attention.
+
+Note: I have followed the instructions to simplify the text using everyday words, direct structure, active voice, and positive form. I have also used numbered lists and Arabic numerals where necessary.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 2</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">80</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">130</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">74</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">101.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">36.75</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">20.94</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">4.53</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">84.57</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">73.36</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Dogs that live in packs have learnt that humans are more likely to give food to smaller, cuter dogs so those dogs are sent to beg for food for the whole pack. Some dogs have even learnt to use the city&#39;s metro system to get from one part of their territory to another! Scientists are not sure how the dogs know when to get off the train. One idea is that they use their excellent sense of smell and have learnt to recognise the scents of their favourite destinations. Another possibility is that they have learnt to recognise the names of stations they hear in announcements. Either way, metro passengers have now got so used to the sight of dogs on the trains that they travel largely unnoticed by locals.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Dogs that live in groups know that people give food more easily to small, cute dogs. So the group sends those dogs to ask for food. Some dogs can even use the city metro to go from one place to another! Scientists do not know how they know when to get off the train. Maybe they use their strong smell to know their favourite places. Or maybe they listen to the names of the stations. Today, people on the metro are so used to the dogs.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Dogs that live in groups have learned that people usually give food more easily to smaller and cuter dogs. Because of this, those dogs were sent to beg for food for everyone. Some dogs have even learned how to use the city&#39;s metro system to travel across their territory! Scientists are not sure how they know when to get off the train. One idea is that they use their strong sense of smell and can recognise the scents of the places they like. Another idea is that they probably understand the names of stations from the announcements. Whatever the reason is, metro passengers are now so used to seeing dogs on trains that locals hardly notice them.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Dogs in packs know humans give food to smaller, cuter dogs. So, these dogs are sent to beg for food for the whole pack. Some dogs use the metro system to move around their territory. Scientists don&#39;t know how they get off at the right stop. Maybe they smell their favourite places or hear station names on announcements. Either way, people on the trains are used to seeing dogs and don&#39;t notice them anymore.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 3</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">52</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">47</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">38</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">43.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">37.81</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">24.57</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.43</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">71.53</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.96</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">89.97</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Blek le Rat started out painting rats on the walls of his home city, Paris. Nowadays, he tries to make people think about different social issues and problems. He paints pictures of homeless people in big cities to encourage residents to think about the problem of homelessness.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Blek le Rat began by painting rats on the walls of Paris, his home city. Now, he uses his art to talk about social problems. In big cities, he paints pictures of homeless people to make others think about homelessness.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Blek le Rat was known for painting rats on the walls of Paris, his home city. Nowadays, his art focuses on social issues and problems. For example, he paints images of homeless people in big cities to make residents think more about the issue of homelessness.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Blek le Rat started painting rats on walls in Paris. Now, he tries to make people think about important issues. He paints pictures of homeless people in cities to remind people that there is a problem with homelessness.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 4</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">40</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">88</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">41</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">70.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">38.32</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">18.02</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">5.10</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">76.75</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.90</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">65.30</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>George Lucas was one of the early film directors to directly base his story on the 17 stages of the hero&#39;s journey. Typically the hero starts the story living an ordinary life, but something happens that calls them to an adventure that changes everything. At the beginning of Star Wars, Luke lives an ordinary life with his aunt and uncle, repairing robots. When he finds Princess Leia&#39;s message to Obi-Wan Kenobi inside the robot R2D2, it is &#39;the call to adventure&#39; that starts the hero on his journey.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>George Lucas was one of the first movie makers to use &#39;the hero&#39;s journey&#39; idea. In this story, the hero starts with a normal life. Then something happens that begins an adventure. In Star Wars, Luke lives with his aunt and uncle and fixes robots. One day, he finds a message from Princess Leia. This is the start of his journey.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>George Lucas was one of the first film directors to base a story on the 17 stages of the hero&#39;s journey. In this type of story, the hero begins with a normal life, but something happens that sends them on an adventure. In Star Wars, Luke Skywalker lives with his aunt and uncle and works on robots. When he finds Princess Leia&#39;s message in the robot R2D2, it becomes his &#39;call to adventure&#39; and marks the beginning of his journey.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Luke Skywalker lives an ordinary life with his aunt and uncle. He repairs robots. But then he finds a message from Princess Leia inside a robot called R2D2. This is what calls him to go on an adventure that changes everything.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 5</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">46</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">71</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">61</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">64.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">38.32</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">25.31</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.58</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">62.12</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">94.53</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Whether NASA can find the remaining middle-sized NEOs depends on getting the money to build NEOCam, a 0.5-metre space telescope which would use infrared light to locate asteroids. If it did get the money, it could probably achieve its goal in ten years. Once logged, the planetary defence team would still need to work out how to defend the planet against being hit by the truly worrying asteroids – the PHAs.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>NASA needs money to build NEOCam, a space telescope with a small lens, to find the rest of the middle-sized asteriods. This telescope would use infrared light to look for them. If NASA gets the money, it could finish this in 10 years. After that, the team must still plan how to stop the very dangerous asteriods, called PHAs, from hitting Earth.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>NASA can only find the rest of the middle-sized asteriods if it gets money to build NEOCam, a space telescope with a 0.5-meter lens that uses infrared light to find them. With enough money, NEOCam could probably finish this work in 10 years. But after that, the planetary defence team would still have to think about how to protect Earth from the most dangerous asteroids, called PHAs.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Whether NASA can find remaining middle-sized NEOs depends on getting money for NEOCam. This is a 0.5-metre space telescope that uses infrared light to locate asteroids. If they get the money, it could probably achieve its goal in ten years. Once logged, the planetary defence team would still need to work out how to defend against truly worrying asteroids – PHAs.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 6</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">21</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">72</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">75</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">52.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">39.78</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">6.03</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">9.77</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">51.74</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.88</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">73.00</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Your dreams might show you all kinds of insights into things that you didn&#39;t realise you were thinking about. Common dreams like being able to fly or falling, your teeth falling out or having no clothes on in a public place probably mean something similar in most people. But the key to understanding exactly what they mean to you is to connect them to the events and feelings in your daily life.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>People have different dreams when they sleep. Some common dreams are flying, falling, losing teeth, or being outside with no clothes. These dreams often mean the same thing for many people. To know what your dream means, think about what is happening in your life and how you feel.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Dreams can tell us something about our thoughts and feelings, even if we don&#39;t realise it. Many people have similar dreams, like flying, falling, losing teeth, or being in public without clothes. These dreams often have the same meaning for most people. To really understand your dream, you should think about your daily life and emotions.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Your dreams can show you things about yourself that you didn&#39;t know. Most common dreams, like flying or falling, probably mean similar things for everyone. But to understand what they mean to you, connect them to your daily life.
+
+Note: I have rewritten the text in a simplified style, using everyday words and avoiding complex expressions. The original text has been transformed into plain language communication, ensuring that it is relevant, findable, understandable, and usable.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 7</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">56</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">117</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">78</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">93.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">40.53</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">28.24</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.63</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">63.49</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">87.52</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>When Gabriela became aware of the cultural differences between her and her team, she took the initiative to have an open conversation with them about their feelings about her leadership. Pleased to be asked for their thoughts, Gabriela&#39;s team openly expressed that they were not used to being told what to do. They enjoyed having more room for initiative and creative freedom. When she told her team exactly what she needed them to do, they felt that she didn&#39;t trust them to do their job well. They realised that Gabriela was taking it personally when they tried to challenge or make changes to her decisions, and were able to explain that it was how they&#39;d always worked.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>When Gabriela saw that she and her team had cultural differences, she chose to talk with them openly about her leadership. The team was glad to be asked and said they were not used to being told what to do. They liked having more freedom and space to be creative. When Gabriela told them exactly what to do, they felt she didn&#39;t trust them to do their job. They also saw that Gabriela felt upset when they questioned her decisions. They explained that this was just the way they normally worked.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>When Gabriela noticed the cultural differences between her and her team, she decided to have an open conversation with them about her leadership. The team was happy to share their thoughts and explained that they were not used to being told exactly what to do. They enjoyed having more space for initiative and creativity. When Gabriela gave them strict instructions, they felt she did not trust them to do their jobs well. They also realised that Gabriela was taking it personally when they challenged her decisions. They explained that this was the normal way they worked.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>When Gabriela understood the differences between her culture and her team&#39;s, she talked openly with them about their feelings. They said they didn&#39;t like being told what to do all the time. They liked having more freedom to make decisions. When Gabriela gave them specific tasks, they felt she didn&#39;t trust them. They explained that this was how they usually worked.
+
+Note: I have rewritten the text in a simplified style, using everyday words and avoiding complex sentences.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 8</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">111</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">92</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">66</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">77.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">40.84</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">13.00</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">3.90</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">86.72</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">85.09</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>In older horror films, when protagonists were in desperation, it was difficult or impossible for them to call for help or call the police. Mobile phones have made that situation a bit less believable now. What&#39;s the solution to maintain suspense? No phone coverage! If you&#39;re a hero in a horror film, it&#39;s almost certain that at a key moment, just when you absolutely need to call for help, you will not have any coverage at all. Or your phone battery will die just as you are making the call. Or both.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>In old horror films, the main characters could not easily call for help or the police. But now people have mobile phones, so this problem looks less true. How do films keep the story scary? The answer is no phone signal! In many horror films, when the hero really needs to call, there is no signal. Or the phone battery dies while they are calling. Sometimes both happen.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>In old horror films, when the main characters were in trouble, it was hard or even impossible for them to call for help or contact the police. Today, with mobile phones, that probelm seems less realistic. So how do filmmakers keep the suspense? They use the idea of no phone signal. In many horror films, at the key moment when the hero needs to call for help, there is no signal. Or the phone battery will die just as thry make the call. Or sometimes both happen.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>In horror films, it was hard for characters to get help when they needed it. Now that we have mobile phones, this is less believable. What makes a horror film suspenseful? No phone signal! If you&#39;re in a scary movie, at some point your phone will probably not work when you need it most. Or the battery will run out just as you&#39;re calling for help.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 9</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">109</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">83</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">75</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">85.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.15</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">23.13</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.14</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">77.26</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">80.16</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Best-selling author Terrie Sharp knows how to tell a good story or two, having twice won the Olive Crime Writer Award. Born on the housing estate with the highest crime rate in Glasgow, she learned to keep quiet, stay out of trouble and how to open car doors with a knife. Luckily, she only used her knowledge to write her novels and she&#39;s not so quiet these days, appearing on popular daytime shows like Police Today and at writing conferences throughout the UK.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Terrie Sharp is a very popular writer, and her books sell well. She has won the Olive Crime Writer Award two times. She was born in Glasgow, a place with a lot of crime. As a child, she learned to be quiet, stay safe, and even how to open car doors with a knife. Luckily, she only used this for her stories. Now she is not quiet, she goes on TV shows like Police Today and gives talks at writing conferences in the UK.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Terrie Sharp is a best-selling author who knows how to tell exciting stories. She has won the Olive Crime Writer Award twice. She grew up on a housing estate in Glasgow that had the highest crime rate in the UK. There, she learned to stay quiet, avoid trouble, and even open car doors with a knife. Luckily, she only used this in her books. Nowadays, she is not that quite, she often appears on TV shows like Police Today and speaks at writing conferences across the UK.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Here is the simplified text:
+
+Terrie Sharp is a well-known author who has won two awards for her crime stories. She grew up in a part of Glasgow with high crime rates, where she learned to be quiet and stay out of trouble. However, instead of using these skills for bad things, she used them to write her novels. Today, she appears on TV shows like Police Today and at writing events across the UK.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 10</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">100</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">126</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">95</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">113.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.27</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">28.82</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.35</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">73.73</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">83.19</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>As for news stories that make us think the world is an increasingly violent place, there is cause for some optimism too. Between the end of World War II and 1990, there were 30 wars that killed more than 100,000 people. Today there are still civil wars, but countries are mostly co-existing more peacefully than in the past. However, terrorism has shot up in the last few years and, since World War II, wars have killed many more civilians than soldiers. Even for civilians, though, the statistics are not all bad. Although deaths are nine times more likely to be a result of violent crime than political conflict, the global murder rate fell slightly, from 8 per 100,000 people in 2000 to about 5.3 in 2015.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>The news often makes us think the world is getting more violent, but there is some hope. Between the end of World War II and 1990, 30 wars killed more than 100,000 people each. Today, there are still civil wars, but many countries live more peacefully than before. Terrorism has grown in the last years, and since World War II, wars have killed more peopl than soldiers. But not all statistics are bad. People are nine times more likely to die from violent crime than from war, but the world murder rate has gone down, from 8 per 100,000 people in 2000 to about 5.3 in 2015.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>When we read the news, it may seem like the world is becoming more violent, but there are also reasons to be hopeful. Between the end of World War II and 1990, there were 30 wars that killed more than 100, 000 people. Today, there are still civil wars, but many countries live more peacefully than before. Terrorism has grown in the last years, and since World War II, wars have killed more civilians than soldiers. But statistics are not all bad for civilians. Deaths are nine times more likely to come from violent crime than from political conflict, but the global murder rate has gone down, from 8 per 100,000 people in 2000 to about 5.3 in 2015.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Here is the simplified text:
+
+&quot;The world may seem more violent than ever, but there&#39;s some good news too. Between World War II and 1990, there were 30 wars that killed over 100,000 people. Today, countries are mostly getting along better than before. However, terrorism has increased in recent years, and many civilians have been killed in wars. But the statistics aren&#39;t all bad. You&#39;re more likely to be killed by violent crime than a war, but the number of murders per 100,000 people actually decreased from 8 in 2000 to about 5.3 in 2015.&quot;</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 11</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">62</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">64</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">68</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">56.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.30</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">18.33</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.59</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">64.89</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">83.36</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Writing about your dreams will mean you start to remember more details about the dream, so think about the people and place where the dream happened as they might add to the meaning too. Over the period of a week you&#39;ll be surprised how much you&#39;ve written down. Now you can start connecting your dreams to the events and feelings in your daily life.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>When you write down your dreams, you remember more things. Think about the people and the place in the dream, because they can mean something. After one week, you will see that you have written a lot. Then, you can see how your dreams link to your feelings in your daily life.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>If you write about your dreams, you will begin to remember more details. Try to think about the people and the place in the dream, because they can also mean something. After one week, you may be surprised at how much you have written. Then, you can start to see how your dreams connect to your daily life and your feelings.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Writing about your dreams will help you remember more details. Think about who was there and where it happened, as this might add meaning too. After a week, you&#39;ll be surprised at how much you&#39;ve written down. Now connect your dreams to what&#39;s happening in your daily life.
+
+(Note: I have rewritten the text using simple language, avoiding complex vocabulary and sentence structures, while maintaining the original message.)</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 12</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">98</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">60</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">29</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">53.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.78</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">9.44</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.34</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">75.43</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">66.94</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Personally, I think it&#39;s fascinating to consider how we&#39;ll speed up our evolution as a species by augmenting our bodies. Imagine if you could implant a computer inside our brain! Soon we&#39;ll be able to do just that and enhance our mathematical ability, audiovisual perception and our memory, and this idea is only going to become more and more commonplace.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>I think it exciting to think about how people can change with technology. One day, we might put a computer inside the brain. This could help us be better at maths, see and hear better, and remember more things. In the future, this idea will be more common.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>I think it is very interesting to imagine how humans will evolve faster by adding technology to our bodies. For example, imagine having a computer inserted into our brain. In the future, this may be possible, and it could improve our maths skills, our hearing and sight, and our memory. This idea will probably become more and more common.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>We will soon be able to implant a computer in our brain. This will help us do math better, see and hear things more clearly, and remember things easier.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 13</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">72</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">134</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">102</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">118.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.88</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">27.34</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">5.23</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">80.26</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">81.74</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Having decided to go to school, Auggie then has to face his first day. Like every child starting at a new school, he is really anxious. But because of the way he looks, it&#39;s an agonising experience. Nobody wants to sit next to him and he notices other kids staring at him or talking about him behind their hands. Fortunately, he makes friends with Jack, a boy in his class, and Summer, a girl he chats with at lunch. But it&#39;s not just the first day that&#39;s hard. Auggie soon learns that his classmates don&#39;t want to touch him for fear of catching &#39;the plague&#39;. As he goes through the school year, Auggie goes through many intense ups and downs till finally an unexpected and traumatic event at a school camp changes things completely.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Auggie decides to go to school and face his first day. He is very nervous, like other new students. But because of how he looks, it is very hard. No one wants to sit near him, and he sees children looking at him and talking about him. He is lucky to make two friends: Jack, a boy in his class, and Summer, a girl he meets at lunch. Still, life at school is not easy. Some kids think they will get a sickness, called &quot;the plague,&quot; if they touch him. During the school year, he has many good and bad moments. Then, at a school camp, something shocking and difficult happens that changes everything.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>After deciding to go to school, Auggie has to face his first day. Like every child starting at a new school, he is very nervous. However, because of his appearance, the experience is even more painful. No one wants to sit next to him, and he sees other children staring or talking about him. Fortunately, he makes friends with Jack, a boy in his class, and Summer, a girl he chats with at lunch. But the difficulties don&#39;t stop there. Auggie soon learns that some classmates avoid touching him, as if thy could catch a disease called &quot;the plague.&quot; Throughout the school year, he goes through many highs and lows, until an unexpected and difficult event at a school camp changes everything.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Auggie starts going to school. He is very nervous like most kids starting at a new school. But it&#39;s hard for him because of how he looks. Nobody wants to sit next to him, and other kids stare or talk about him behind their hands. Luckily, Auggie makes friends with Jack from his class and Summer from lunch. However, the first day is not the only tough one. His classmates are afraid to touch him because they think it will make them sick. Throughout the school year, Auggie faces many difficult moments until a traumatic event at a school camp changes everything.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 14</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">44</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">107</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">97</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">86.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">42.24</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">33.25</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">9.21</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">57.86</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">82.59</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Around the 18th and 19th centuries two main ideas about dreams became popular. One was the idea that the things we see in our dreams represent things hidden from our conscious mind. Freud believed that if we understand what dreams are telling us, we can understand our hidden feelings and the problems they cause. However, the other theory was the opposite. It said that dreams are just a collection of random activity in the brain while it&#39;s organising memories and events from the day. When we wake up, we try to make sense of these random images and feelings and put them into some sort of story.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>In the 18th and 19th centuries, people had two main ideas about dreams. The first idea was that dreams show things that we dont know in our mind. Freud believed that if we look at dreams, we can understand our hidden feelings and problems. The second idea was opposite. It said dreams are only random things in the brain when it is cleaning and organising the day&#39;s memories. When we wake up, we try to make a story from these pics and feelings.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>In the 18th and 19th centuries, two main ideas about dreams became popular. The first was that dreams show things that are hidden in our minds. Freud thought that by studying dreams, we can learn about our secret feelings and the problems they create. The second idea was the opposite. It said that the dreams are the result of random brain activity while it is sorting memories and events from the day. When we wake up, our brain tries to connect these random images and feelings into a story.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Around 200 years ago, two ideas about dreams became popular. One idea is that things in our dreams represent hidden thoughts and feelings we&#39;re not aware of. Freud thought that if we understand what our dreams are telling us, we can understand these hidden feelings and problems. However, another theory says that dreams are just random brain activity while it&#39;s organizing memories from the day. When we wake up, we try to make sense of these random images and feelings.
+
+Note: I have rewritten the text in a simplified style, using everyday words and avoiding complex sentences.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 15</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">47</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">105</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">72</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">91.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">42.28</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">27.95</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">5.81</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">74.81</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.94</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">94.52</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>The &#39;buy nothing&#39; trend has now reached influencers on social media who usually share posts of clothing and make-up that they recommend for people to buy. Some YouTube stars now encourage their viewers not to buy anything at all for periods as long as a year. Two friends in Canada spent a year working towards buying only food. For the first three months they learned how to live without buying electrical goods, clothes or things for the house. For the next stage, they gave up services, for example haircuts, eating out at restaurants or buying petrol for their cars. In one year, they&#39;d saved $55,000.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>The &quot;buy nothing&quot; idea is now gaining popularity among social media influencers. Normally, they show clothes and make-up for people to buy. But now, some YouTubers tell their fans not to buy anything, even for one year. Two friends in Canada did this and only bought food for a year. In the first three months, they stopped buying electronics, clothes, and things for the house. Later, they also stopped paying for services, like haircuts, eating in restaurants, and petrol for their cars. In one year, they saved $55,000.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>The &quot;buy nothing&quot; concept has now become popular among influencers on social media, who normally post about clothes and make-up for people to buy. Some YouTubers now ask their followers to stop shopping completely, even for a year. In Canada, two friends tried this challenge and only bought food. In the first three months, they learned to live without buying things like electronics, clothes, or things for the house. Later, they also gave up services such as haircuts, eating in restaurants, or paying for petrol for their cars. In one year, they had saved $55,000</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>The &#39;buy nothing&#39; trend has now reached social media influencers who usually share posts about things to buy. Some YouTube stars encourage people not to buy anything for a year. Two friends in Canada spent a year only buying food. For three months, they learned how to live without buying electrical goods, clothes or household items. Next, they gave up services like haircuts and eating out. In one year, they saved $55,000.</p></section>
+</div>
+</article>
+</main></body>
+</html>

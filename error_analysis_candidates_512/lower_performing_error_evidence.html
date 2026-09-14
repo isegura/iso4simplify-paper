@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Low-performing configuration error evidence</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 32px; color: #222; line-height: 1.45; }
+    h1 { margin-bottom: 0.2rem; }
+    h2 { margin-top: 2rem; }
+    .note { max-width: 980px; padding: 14px 16px; border-left: 4px solid #8a4a12; background: #fff7ed; }
+    table { border-collapse: collapse; width: 100%; margin-top: 12px; font-size: 13px; }
+    th, td { border: 1px solid #cfcfcf; padding: 8px; vertical-align: top; }
+    th { background: #eeeeee; text-align: left; }
+    td:nth-child(8) { max-width: 460px; }
+    a { color: #224f9c; }
+  </style>
+</head>
+<body>
+  <h1>Evidence of Error Patterns in Low-performing Configurations</h1>
+  <p class="note">
+    This report summarizes concrete examples found during the qualitative error analysis of the selected
+    low-performing configurations. The table links point to the complete HTML reports for each configuration.
+    <em>Stop reason</em> comes from the Ollama termination metadata: <code>stop</code> means that the model stopped
+    naturally, while <code>length</code> means that it reached the configured generation limit.
+  </p>
+  <section>
+  <h2>Llama 3.1 8B / Cochrane / minimal / one</h2>
+  <p><a href="llama/cochrane/predictions_llama3_1_8b_cochrane_minimal_one_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD005255</td>
+  <td>87</td>
+  <td>201</td>
+  <td>24.67</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>87 generated words vs. 201 reference words; omits explanatory detail</td>
+  <td>We found nine studies that compared two ways of feeding preterm babies: one where they eat when hungry, and another where food is given at set times. These studies were small and had some weaknesses in their design. The results suggest that eating when hungry might help babies transition to solid food a bit faster, but it&#39;s not clear if this makes a big difference. We don&#39;t have strong evidence that this way of feed...</td>
+</tr>
+<tr>
+  <td>CD006383</td>
+  <td>97</td>
+  <td>269</td>
+  <td>24.88</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>97 generated words vs. 269 reference words; compresses several findings</td>
+  <td>We looked at four studies that compared two types of insulin: detemir and glargine. These studies involved 2250 people who were randomly assigned to take either type of insulin for a period of time ranging from 24 weeks to one year. The results showed no significant difference in how well the insulins controlled blood sugar levels or reduced the risk of hypoglycemia (low blood sugar). However, detemir was associated...</td>
+</tr>
+<tr>
+  <td>CD007744</td>
+  <td>73</td>
+  <td>384</td>
+  <td>26.14</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>73 generated words vs. 384 reference words; keeps IBD but omits much of the reference detail</td>
+  <td>Two studies were done on patients with inflammatory bowel disease (IBD) who took either a new type of pain reliever or a placebo. The studies found that neither of these medications caused more problems for the patients, but they also didn&#39;t show any clear benefits. Because the studies were small and short, it&#39;s hard to say if these medications are safe for people with IBD. More research is needed to understand thei...</td>
+</tr>
+<tr>
+  <td>CD007196</td>
+  <td>85</td>
+  <td>352</td>
+  <td>26.55</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>85 generated words vs. 352 reference words; summarizes the main finding but removes detail</td>
+  <td>We looked at one study that compared two groups of patients with a condition called biliary colic. One group had surgery within 24 hours, while the other group waited an average of four months for surgery. The study found that the group that had surgery quickly had fewer complications during their wait and spent less time in the hospital. They also recovered faster from the surgery itself. However, this study had a...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Llama 3.1 8B / PLABA / minimal / one</h2>
+  <p><a href="llama/plaba/predictions_llama3_1_8b_plaba_minimal_one_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>32443304</td>
+  <td>110</td>
+  <td>305</td>
+  <td>14.27</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>110 generated words vs. 305 reference words; omits explanatory detail</td>
+  <td>We studied how doctors treat a type of knee problem called a popliteal cyst. We compared two ways to do this surgery: one way uses one small cut, and the other way uses two small cuts. We looked at 53 patients who had this surgery. The patients with two small cuts took longer to operate on than those with one small cut. After the surgery, most of the patients got better, but some still had problems. The patients wit...</td>
+</tr>
+<tr>
+  <td>25963653</td>
+  <td>108</td>
+  <td>251</td>
+  <td>15.6</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>108 generated words vs. 251 reference words; keeps hCG acronym and compresses explanations</td>
+  <td>We studied a hormone called human chorionic gonadotropin (hCG) which is important during pregnancy. To understand how hCG affects pregnant women, we need to know more about its levels and what affects them. We looked at data from 8195 women in the Generation R Study. We found that different methods of calculating gestational age gave different results for hCG levels. Some factors like smoking, weight, and ethnicity...</td>
+</tr>
+<tr>
+  <td>32631287</td>
+  <td>91</td>
+  <td>309</td>
+  <td>15.92</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>91 generated words vs. 309 reference words; compresses treatment details</td>
+  <td>We studied how doctors treat popliteal cysts in patients&#39; knees. We looked at two groups: one group had a procedure to drain the cyst, and another group had this procedure plus removing part of the cyst wall. We wanted to see which method worked better. We followed 42 patients for up to 4 years after treatment. The results showed that both methods improved symptoms, but the group with cyst wall removal had more comp...</td>
+</tr>
+<tr>
+  <td>27630909</td>
+  <td>115</td>
+  <td>275</td>
+  <td>16.25</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>115 generated words vs. 275 reference words; summarizes diagnosis details</td>
+  <td>We studied how doctors diagnose ectopic pregnancy (a pregnancy that develops outside the womb). We looked at how levels of a hormone called hCG change over time in women with this condition. We analyzed data from 337 women who had an ectopic pregnancy between 2006 and 2012. Our results showed that hCG levels can be different for each woman, even if they have the same type of treatment. In some cases, the level of hC...</td>
+</tr>
+<tr>
+  <td>34924800</td>
+  <td>110</td>
+  <td>213</td>
+  <td>16.78</td>
+  <td>stop</td>
+  <td>Insufficient simplification</td>
+  <td>keeps ferritin, deferiprone, deferasirox, deferoxamine, ng/mL</td>
+  <td>Ferritin is a protein that helps control how much iron is in the body. It has different parts called chains that work together to keep iron levels healthy. Normal ferritin levels are between 10-200 ng/mL for men and 30-300 ng/mL for women. When ferritin levels get too high, it can cause problems. High ferritin levels have been linked to COVID-19 and may make the disease worse. To treat this, doctors use iron chelato...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Llama 3.1 8B / TSAR 2025 / ISO / zero</h2>
+  <p><a href="llama/tsar2025/predictions_llama3_1_8b_tsar2025_iso_zero_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>78</td>
+  <td>72</td>
+  <td>52.0</td>
+  <td>34.86</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>converts part of the source text into numbered and bulleted lists</td>
+  <td>Bridges are crucial links that connect different parts of a country by carrying cars, trucks, trains, and other vehicles across bodies of water or mountains. They are an essential part of civil engineering and are closely monitored to ensure they remain safe. 1. Bridges carry traffic over: * Bodies of water * Mountain gorges * Other roads 2. Bridges are important for: * Connecting different parts of a country * Faci...</td>
+</tr>
+<tr>
+  <td>76</td>
+  <td>45</td>
+  <td>68.0</td>
+  <td>35.84</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>uses a list of examples rather than prose similar to the references</td>
+  <td>We own things that are not being used. Examples include: * A thick coat for cold weather in a tropical country * An old smartphone replaced by a new one * A car only driven on weekends * A guest room turned into storage space</td>
+</tr>
+<tr>
+  <td>99</td>
+  <td>75</td>
+  <td>99.5</td>
+  <td>36.02</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>starts with &#39;Here is the simplified text&#39;</td>
+  <td>Here is the simplified text: Parents set a bad example when they use their phones during daily activities like cooking or driving. This can confuse teenagers, who may think it&#39;s okay to do the same while doing homework. Some people try to be in two places at once by switching between real-life and online conversations. For example, someone might agree to meet friends but then sit with them in silence while chatting...</td>
+</tr>
+<tr>
+  <td>98</td>
+  <td>56</td>
+  <td>53.5</td>
+  <td>36.69</td>
+  <td>stop</td>
+  <td>Format-related error</td>
+  <td>adds a note explaining the rewriting process</td>
+  <td>We will speed up human evolution by improving our bodies with technology. We can soon implant computers in our brains that will enhance our abilities, such as math skills, vision, and memory. Note: I have applied the principles of organization and hierarchy, writing instructions (linguistic level), visual format, and response format to simplify the original text.</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / Cochrane / ISO / zero</h2>
+  <p><a href="mixtral/cochrane/predictions_mixtral_latest_cochrane_iso_zero_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>CD007196</td>
+  <td>8</td>
+  <td>352</td>
+  <td>23.15</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;average age: 4&#39;</td>
+  <td>A study with 75 participants (average age: 4</td>
+</tr>
+<tr>
+  <td>CD011627</td>
+  <td>4</td>
+  <td>278</td>
+  <td>25.4</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;13 trials with 1&#39;</td>
+  <td>13 trials with 1</td>
+</tr>
+<tr>
+  <td>CD010876</td>
+  <td>6</td>
+  <td>256</td>
+  <td>25.51</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;1987 and 2&#39;</td>
+  <td>Two studies from 1987 and 2</td>
+</tr>
+<tr>
+  <td>CD009953</td>
+  <td>4</td>
+  <td>227</td>
+  <td>26.97</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;984 participants from 1&#39;</td>
+  <td>984 participants from 1</td>
+</tr>
+<tr>
+  <td>CD008720</td>
+  <td>35</td>
+  <td>236</td>
+  <td>28.75</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;20,00&#39;</td>
+  <td>We reviewed four studies involving 522 women. One study didn&#39;t report individual results, so it wasn&#39;t included in our analysis. Three studies compared 10,000 units of hCG priming to no priming. Another study compared 20,00</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / PLABA / ISO / zero</h2>
+  <p><a href="mixtral/plaba/predictions_mixtral_latest_plaba_iso_zero_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>35136706</td>
+  <td>18</td>
+  <td>247</td>
+  <td>13.12</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;non-Covid-1&#39;</td>
+  <td>1. Ferritin is a known inflammation marker. Researchers want to compare ferritin levels in Covid-19 patients and non-Covid-1</td>
+</tr>
+<tr>
+  <td>27630909</td>
+  <td>34</td>
+  <td>275</td>
+  <td>13.65</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;Jan 2006 - Dec 2&#39;</td>
+  <td>**Ectopic Pregnancy (EP) Diagnosis &amp; Management:** EP presentation varies. Serum Beta hCG estimation helps in early diagnosis. This study analyzed hCG trends in EP cases. **Study Details:** - Time: Jan 2006 - Dec 2</td>
+</tr>
+<tr>
+  <td>35240553</td>
+  <td>13</td>
+  <td>280</td>
+  <td>15.56</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;COVID-1&#39;</td>
+  <td>**SARS-CoV-2 and Brain Disorders: The Role of Trace Elements** The virus causing COVID-1</td>
+</tr>
+<tr>
+  <td>34960751</td>
+  <td>14</td>
+  <td>207</td>
+  <td>16.02</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;November 2&#39;</td>
+  <td>303 patients admitted to a Portuguese hospital were studied from September to November 2</td>
+</tr>
+<tr>
+  <td>34924800</td>
+  <td>67</td>
+  <td>213</td>
+  <td>16.41</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>uses numbered/list structure and keeps technical expressions</td>
+  <td>1. Ferritin is a protein that controls the body&#39;s iron levels. It&#39;s made up of light and heavy chains, and its normal level in men is 10-200 ngmL-1 and 30-300 ngmL-1 in women. 2. Ferritin delivers iron to tissues and acts as: - Immunomodulators: they help regulate the immune system - Signaling molecules: they carry messages between cells - Inflammatory markers: their levels rise when there&#39;s inflammation</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Mixtral 8x7B / TSAR 2025 / ISO / zero</h2>
+  <p><a href="mixtral/tsar2025/predictions_mixtral_latest_tsar2025_iso_zero_lowest_sari.html">Open complete HTML report</a></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Text ID</th>
+        <th>Generated words</th>
+        <th>Reference words</th>
+        <th>SARI</th>
+        <th>Stop reason</th>
+        <th>Error pattern</th>
+        <th>Evidence</th>
+        <th>Generated simplification excerpt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>69</td>
+  <td>6</td>
+  <td>81.5</td>
+  <td>29.84</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;Pi and Richard Parker spend 2&#39;</td>
+  <td>Pi and Richard Parker spend 2</td>
+</tr>
+<tr>
+  <td>89</td>
+  <td>23</td>
+  <td>83.0</td>
+  <td>33.2</td>
+  <td>stop</td>
+  <td>Incomplete output</td>
+  <td>prediction stops at &#39;It was published in 2&#39;</td>
+  <td>&quot;The Hunger Games is a popular book, written by American author Suzanne Collins, for teenagers and young adults. It was published in 2</td>
+</tr>
+<tr>
+  <td>54</td>
+  <td>46</td>
+  <td>74.5</td>
+  <td>27.36</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>46 generated words vs. 74.5 reference words; compresses the content</td>
+  <td>Cape Town native Faith47 creates vibrant murals of humans and animals, often in unusual places like streets, abandoned cars, and old factories. She appreciates that street art is typically temporary, which she sees as a symbol of life&#39;s constant change and cycle of endings and beginnings.</td>
+</tr>
+<tr>
+  <td>72</td>
+  <td>59</td>
+  <td>118.0</td>
+  <td>30.38</td>
+  <td>stop</td>
+  <td>Too brief</td>
+  <td>59 generated words vs. 118 reference words; omits reference detail</td>
+  <td>Auggie starts school and feels anxious, especially because of his appearance. Children avoid sitting near him and stare or whisper. He&#39;s lucky to befriend Jack and Summer. However, classmates are afraid to touch him, thinking they might catch a disease. The school year has many ups and downs for Auggie. A scary event at camp turns everything upside down.</td>
+</tr>
+<tr>
+  <td>96</td>
+  <td>72</td>
+  <td>56.0</td>
+  <td>31.77</td>
+  <td>stop</td>
+  <td>Organization or presentation difference</td>
+  <td>adds an explicit summary sentence</td>
+  <td>Basements in horror movies are frightening places. They&#39;re often dark, damp, and home to hidden dangers. You access basements via narrow staircases. Even when empty, they feel ominous. In films, basements may hide monsters or villains&#39; tools. Their gloomy nature makes them ideal for suspenseful scenes. The isolation and limited visibility add to the fear factor. To summarize, basements in horror movies are typically...</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+</body>
+</html>

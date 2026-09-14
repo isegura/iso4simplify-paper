@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.env
+.env.*
+!.env.example
+
+logs/
+backups/
+outputs/*backup*/
+outputs/**/*before_new_run.csv
+scores/*backup*/
+
+.DS_Store
+Thumbs.db
+
+# Local publication preparation and working copies (no files are deleted).
+/reruns/
+/scores_recomputed/
+/outputs 1 sept.zip
+/outputs con bleu.zip
+/rendered_response_reviewers/
+/reviewer_response_docx_text.txt
+/biblio_before_doi_pages.bib
+/biblio_doi_pages_review.md
+/biblio_revision_notes.md
+
+# History, datasets, and final evidence require explicit review before exclusion.
+# Ignore rules do not remove files already tracked by Git.

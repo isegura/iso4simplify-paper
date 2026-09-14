@@ -1,0 +1,353 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>llama3 1 8b tsar2025 iso few metric - lowest SARI</title>
+<style>
+:root{--ink:#1f2937;--muted:#667085;--line:#d0d5dd;--bg:#ffffff;--original:#eff6ff;--reference:#eefaf1;--reference2:#f1efff;--prediction:#fff4e5}
+*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;margin:0;background:var(--bg);color:var(--ink);line-height:1.42}main{width:min(1500px,calc(100% - 32px));margin:22px auto 44px}.page-summary{background:#f8fafc;border-left:4px solid #0f766e;padding:12px 16px;margin:14px 0 28px;color:#344054}h1{font-size:30px;margin:0 0 8px}h2{font-size:30px;margin:28px 0 12px}.rule{height:1px;background:var(--line);margin:0 0 24px}.metadata-title{font-size:24px;margin:0 0 20px}.metrics-grid{display:grid;grid-template-columns:repeat(4,minmax(170px,1fr));gap:14px 44px;margin:0 0 28px}.metric{display:flex;gap:10px;align-items:baseline;min-width:0}.metric-label{font-weight:700;color:var(--muted);font-size:17px}.metric-value{font-size:18px;color:#111827}.text-stack{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;align-items:start}.text-card{border:1px solid #d0d5dd;border-radius:8px;padding:16px 22px}.text-card h3{font-size:21px;margin:0 0 10px}.text-card p{font-size:18px;margin:0;line-height:1.45}.original{background:var(--original)}.reference{background:var(--reference)}.reference-a2{background:var(--reference)}.reference-b1{background:var(--reference2)}.prediction{background:var(--prediction)}.record{margin:0 0 42px}@media(max-width:900px){main{width:min(100% - 20px,1500px)}.metrics-grid{grid-template-columns:repeat(2,minmax(150px,1fr));gap:10px 24px}.text-stack{grid-template-columns:1fr}.text-card p{font-size:18px}h1,h2{font-size:25px}.metadata-title{font-size:21px}}@media(max-width:560px){.metrics-grid{grid-template-columns:1fr}.text-card{padding:14px}.text-card p{font-size:16px}}
+</style>
+</head>
+<body><main>
+<h1>llama3 1 8b tsar2025 iso few metric: 15 lowest-SARI cases</h1>
+<div class="page-summary">Selected from the current prediction CSV using the per-instance SARI column. SARI range: 35.46-42.24; mean: 39.70.</div>
+<div class="page-summary">The field <strong>Stop reason</strong> indicates why the model stopped generating the output. A value of <code>stop</code> means that generation ended naturally, whereas <code>length</code> means that the maximum generation limit was reached. Outputs with <code>length</code> were considered truncated.</div>
+<article class="record">
+<h2>Record 1</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">78</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">59</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">31</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">52.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">35.46</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">14.24</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">8.23</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">54.44</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">86.89</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Some of the biggest and most expensive transportation projects in the world have involved building bridges. Bridges are crucial links that carry cars, trucks and trains across bodies of water, mountain gorges or other roads. As a result, they are one of the most important aspects of civil engineering and are subject to intense scrutiny, especially when they collapse.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Some of the biggest and most expensive transport projects are bridges. Bridges are important because they let cars, trucks and trains cross rivers, mountains or other roads, They are an important part of building work, and people look after them carefully, especially when a bridge falls down.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Some of the biggest and most expensive transport projects in the world have included building bridges.  Bridges are very important things which can allow cars, trucks and trains to cross rivers, mountain valleys or other roads.  As a result, they are a key part of civil engineering and are studied very carefully, especially if one falls down.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Some big transportation projects involve building bridges. Bridges connect roads over water, mountains or other roads. They&#39;re very important for civil engineers and get a lot of attention if they fail.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 2</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">40</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">88</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">41</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">70.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">35.69</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">12.61</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.14</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">75.35</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.91</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">64.69</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>George Lucas was one of the early film directors to directly base his story on the 17 stages of the hero&#39;s journey. Typically the hero starts the story living an ordinary life, but something happens that calls them to an adventure that changes everything. At the beginning of Star Wars, Luke lives an ordinary life with his aunt and uncle, repairing robots. When he finds Princess Leia&#39;s message to Obi-Wan Kenobi inside the robot R2D2, it is &#39;the call to adventure&#39; that starts the hero on his journey.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>George Lucas was one of the first movie makers to use &#39;the hero&#39;s journey&#39; idea. In this story, the hero starts with a normal life. Then something happens that begins an adventure. In Star Wars, Luke lives with his aunt and uncle and fixes robots. One day, he finds a message from Princess Leia. This is the start of his journey.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>George Lucas was one of the first film directors to base a story on the 17 stages of the hero&#39;s journey. In this type of story, the hero begins with a normal life, but something happens that sends them on an adventure. In Star Wars, Luke Skywalker lives with his aunt and uncle and works on robots. When he finds Princess Leia&#39;s message in the robot R2D2, it becomes his &#39;call to adventure&#39; and marks the beginning of his journey.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Luke Skywalker lived an ordinary life with his aunt and uncle. He fixed robots for a living. But then he found a message from Princess Leia inside a robot named R2D2, which was &#39;the call to adventure&#39; that started Luke&#39;s journey.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 3</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">52</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">47</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">36</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">43.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">36.02</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">15.85</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.13</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">72.46</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.96</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">84.25</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Blek le Rat started out painting rats on the walls of his home city, Paris. Nowadays, he tries to make people think about different social issues and problems. He paints pictures of homeless people in big cities to encourage residents to think about the problem of homelessness.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Blek le Rat began by painting rats on the walls of Paris, his home city. Now, he uses his art to talk about social problems. In big cities, he paints pictures of homeless people to make others think about homelessness.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Blek le Rat was known for painting rats on the walls of Paris, his home city. Nowadays, his art focuses on social issues and problems. For example, he paints images of homeless people in big cities to make residents think more about the issue of homelessness.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Blek le Rat started painting rats on walls in Paris. Now, he paints to make people think about social issues. His paintings show homeless people in cities to remind people that homelessness is a big problem.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 4</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">119</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">128</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">58</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">107.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">37.40</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">5.65</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.65</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">60.87</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">78.08</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>So much of what the speaker said rang true. I honestly believe there&#39;s a danger that the more connected we are, the more isolated we feel. I don&#39;t think this is such an issue for my generation who&#39;ve lived without technology for so long. We know how to be alone and, more importantly, we know that it&#39;s OK to be alone. But the under 20s are another kettle of fish. They&#39;re so busy communicating that they never experience the feeling of solitude and run the risk of not learning how to enjoy their own company. In addition, they&#39;re learning conversation through messages that can be edited and changed at the expense of learning the art of real conversation in real time with the person in front of you.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>I agreed with much of what the speaker said. I think that when people are more connected, they can sometimes feel lonelier. For my generation, this is not such a big problem, because we lived many years without modern technology. We know how to be alone, and we know it is OK. But for people under 20, it is different. They spend so much time sending messages that they do not feel real solitude. They may not learn how to enjoy being alone. They also talk by messages that can be changed, instead of learning face-to-face conversations.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Much of what the speaker said felt true to me. I believe there is a danger that the more connected we are, the more lonely we may feel. For my generation, this is less of a problem because we lived for many years without technology. We know how to spend time alone, and we know it is OK to be alone. But young people under 20 are different. They are always busy communicating, but they never really experience solitude. This means they may not learn how to enjoy being alone. Also, they are learning to talk through messages that can be edited, instead of learning real conversation in real time with another person in front of you.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>The speaker&#39;s words are true. Being connected to others can make us feel isolated. My generation didn&#39;t grow up with technology, so we know how to be alone and that it&#39;s okay. But younger people who use technology a lot may not learn this. They&#39;re busy sending messages and editing them, rather than having real conversations in person.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 5</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">50</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">82</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">83</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">76.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">38.97</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">16.36</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.23</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">72.77</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.94</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">80.98</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>People might not realise they are part of the disposable clothing problem because they donate their unwanted clothes to charities. But charity shops can&#39;t sell all those unwanted clothes. &#39;Fast fashion&#39; goes out of fashion as quickly as it came in and is often too poor quality to recycle; people don&#39;t want to buy it second-hand. Huge quantities end up being thrown away, and a lot of clothes that charities can&#39;t sell are sent abroad, causing even more economic and environmental problems.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Some people don&#39;t know they are part of the clothing waste problem because they give old clothes to charities. But charity shops cannot sell all of them. Fast fashion quickly goes out of style and is often poor in quality, so people don&#39;t want to buy second-hand. A lot of clothes are thrown away, and many clothes that charities cannot sell are sent to other countries. This causes money and environmental problems.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>People don&#39;t realise they are part of the problem of disposable clothing because they give their unwanted clothes to charity shops. However, these shops cannot sell everything. Fast fashion quickly goes out of style and is often too low in quality to recycle, so people don&#39;t want to buy it second-hand. As a result, a large amount of clothes are thrown away, and many that charities cannot sell are sent to other countries, which creates more economic and environmental problems.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>People might not realize they&#39;re part of the problem because they donate their old clothes to charity. But charity shops can&#39;t sell all those extra clothes. Fast fashion is made cheaply and quickly, but it&#39;s often low quality and doesn&#39;t last long. People don&#39;t want to buy second-hand clothes that are worn out or look bad. So, huge amounts end up in the trash, and some of what charities can&#39;t sell gets sent abroad, causing more problems for the economy and the environment.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 6</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">95</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">76</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">84</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">66.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">38.99</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">20.44</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.29</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">67.74</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">85.69</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Horror films love uninhabited places. This could be an abandoned hospital, a scary empty house or a ghost town. There&#39;s something about lonely, empty places. What was it like when people lived there? Why did they leave? Maybe it&#39;s also that they are so quiet, which can be very scary too. Of course, abandoned places are also handy for horror film directors in that it&#39;s more believable that you will have no phone coverage there either.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Horror films often happen in empty places. They can be an old hospital, a house or a town without people. Empty places make us think what it was like when people lived there? Why did they leave? These places are also very quiet and scary. For film directors, such places are good too, as it makes sense that there is no phone signal.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Horror films often happen in empty places. These could be old hospitals, abandoned houses, or ghost towns. Such lonely and empty places make us think: what was it like when people lived there? Why did they leave? The slience also adds to the fear, because quiet can be very scary. For directors, abandoned places are also useful, as it seems realistic that there would be no phone signal there.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Horror movies often take place in empty buildings or towns. These can be old hospitals, houses, or even whole towns with no people left. There&#39;s something about these lonely places that makes them scary. People wonder what it was like when they were full of life and why everyone left. It might also be because these places are so quiet, which can be very frightening. Horror movie directors like using abandoned places because it&#39;s believable that there would be no phone signal there either.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 7</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">103</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">73</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">55</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">73.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">40.07</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">8.60</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.87</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">71.32</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.90</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">73.45</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>In an attempt to inject some positivity into their feedback, many managers rely on sandwiching negative feedback between two positive comments. However, when feedback becomes such a routine, employees can start to perceive positive feedback as simply a form of sugarcoating the negatives, thus diminishing its value. Instead, positive feedback should not simply be seen as something to cushion the negative, but should be delivered so as to reinforce and encourage good performance.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Some managers give feedback in a &quot;sandwich&quot; format. They say something good, then something bad, and then something good again. But if they do this too many times, workers may think the good things are fake. They may also think the good ones are there to hide the bad ones. This makes the good feedback weak. Positive feedback should be real. It should help workers feel proud and keep doing the good work.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Many managers try to make feedback softer by using the &quot;sandwich&quot; method: they give a positive comment, followed by a negative one, and finish with another positive. But if this happens too often, workers may think that positive words are only there to hide the bad ones. This makes positive feedback less useful. Positive feedback should not just be used to cover the negatives. It should be given clearly to support the good work.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Here is the simplified text:
+
+&quot;Many managers try to make their feedback sound nicer by putting it between two positive comments. But when this happens all the time, employees start to think that the nice words are just a way of hiding the bad news. Instead, we should give genuine praise to encourage good work.&quot;</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 8</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">111</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">92</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">66</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">77.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">40.82</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">12.50</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.11</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">73.44</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">94.52</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>In older horror films, when protagonists were in desperation, it was difficult or impossible for them to call for help or call the police. Mobile phones have made that situation a bit less believable now. What&#39;s the solution to maintain suspense? No phone coverage! If you&#39;re a hero in a horror film, it&#39;s almost certain that at a key moment, just when you absolutely need to call for help, you will not have any coverage at all. Or your phone battery will die just as you are making the call. Or both.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>In old horror films, the main characters could not easily call for help or the police. But now people have mobile phones, so this problem looks less true. How do films keep the story scary? The answer is no phone signal! In many horror films, when the hero really needs to call, there is no signal. Or the phone battery dies while they are calling. Sometimes both happen.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>In old horror films, when the main characters were in trouble, it was hard or even impossible for them to call for help or contact the police. Today, with mobile phones, that probelm seems less realistic. So how do filmmakers keep the suspense? They use the idea of no phone signal. In many horror films, at the key moment when the hero needs to call for help, there is no signal. Or the phone battery will die just as thry make the call. Or sometimes both happen.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>In old horror movies, characters often couldn&#39;t call for help when they needed it most. With mobile phones now, this situation is less believable. To keep suspense going, there should be no phone coverage. If you&#39;re a hero in a horror film, at the worst moment, your phone will likely have no signal or its battery will die just as you try to make a call.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 9</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">90</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">66</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">53</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">59.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.14</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">27.37</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.33</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">73.98</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">94.53</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Maybe dreams are the result of our mind organising the thoughts we have during the day, but they appear in dreams with symbolic meaning. When we&#39;re awake, our thoughts mostly appear in our minds as words, like conversations we have with ourselves. But when we&#39;re asleep, the part of our brain that controls language becomes less active while the part that controls emotions becomes more active. </p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Dreams might come from our minds, putting our daily thoughts in order. In dreams, these thoughts often look like symbols, not clear words. When we are awake, we usually think in words, like talking to ourselves. But when we sleep, the part for language rests, and the part for feelings are more active.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Dreams may happen because our mind is organising the thoughts we have during the day, but in dreams, these thoughts often appear as symbols. When we are awake, our thoughts usually come to us in words, like small conversations with ourselves. But when we are asleep, the part of the brain that controls language is less active, and the part that controls emotions is more active.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Our brains might be sorting through thoughts from the day and turning them into dreams with special meanings. When we&#39;re awake, our thoughts are like conversations in our minds. But when we sleep, the part of our brain that helps us talk becomes less active while the part that controls emotions gets stronger.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 10</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">69</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">98</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">71</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">81.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.20</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">21.50</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">8.30</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">56.60</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.92</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">79.90</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Pi and Richard Parker spend 227 days in the lifeboat. They live through hunger, illness and exhaustion. They endure violent storms and the burning heat of the Pacific sun, but somehow they survive. At times, Pi finds comfort in his three religions, but at other times he is overcome with loneliness and despair. Finally, the Mexican coast appears on the horizon and everything changes. It would be a shame to give away the ending, so you will have to read the book yourself to find out what happens to Pi and Richard Parker once land is in sight.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Pi and Richard Parker stay in a lifeboat for 227 days. They are usually hungry, sick and very tired. They live through big storms and the hot sun of the Pacific Ocean, but they are alive. Sometimes Pi feels better because of his three religions, but other times he feels very sad and alone. One day, he sees the land of Mexico, and things start to change. To know the ending, you must read the book yourself.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Pi and Richard Parker spend 227 days in the lifeboat. They suffer from hunger, sickness, and extreme tiredness. They face strong storms and the burning heat of the Pacific sun, yet they still manage to survive. Sometimes Pi feels comfort from his three religions, but at other times he feels very lonely and hopeless. Finally, he sees the coast of Mexico in the distance, and everything begins to change. To know what happens next to Pi and Richard, you will need to read the book yourself.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Pi and Richard Parker spend 227 days on a lifeboat. They face hunger, illness, and exhaustion. They survive through violent storms and hot Pacific sun. Sometimes, Pi finds comfort in his three religions, but he also feels lonely and hopeless. Eventually, the Mexican coast appears, and everything changes.
+
+Note: I have rewritten the text to make it simpler, more concise, and easier to understand, while maintaining its original meaning and content.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 11</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">120</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">48</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">34</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">39.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.60</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">22.33</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">9.31</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">48.53</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.94</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">85.39</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Don&#39;t always follow positive feedback with negative feedback. When positive and negative feedback always appear to go hand in hand, the positives can become devalued and ignored. Ensure there are times when positive feedback is given for its own sake and resist the temptation to offer constructive criticism.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Do not always say something bad after saying something good. If good and bad comments always come together, the good words may not feel real. Sometimes, give good feedback only, and try not to add any criticism.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>Don&#39;t always give negative feedback after positive feedback. If positive and negative comments always come together, the positive ones can lose their value and be ignored. Make sure you give positive feedback on its own, and avoid the urge to add criticism.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Don&#39;t just give negative feedback after positive feedback. When you always give both together, people might start ignoring the positives. Make sure there are times when you only give positive feedback, without criticizing anything.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 12</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">96</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">60</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">75</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">56.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.96</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">14.79</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">10.08</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">49.48</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.90</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">81.28</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>No matter what kind of house it is, the basement is a scary place in horror films. That&#39;s usually where something is hiding or where the evil psychopath has hidden their tools. Basements are always dark and often damp. You can only reach them by a narrow staircase. And basements are always creepy, even when there isn&#39;t anything down there.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>In horror films, the basement is always a scary place. It doesn&#39;t matter what house it is. Often, something is hiding there, or a bad person hides their tools. Basement are dark and sometimes wet. You can go down a small staircase to reach them. Even when they are empty, basements feel creepy.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>The basements in horror films are alway scary, no matter what kind of house it is. It&#39;s usually the place where something is hiding or where a dangerous person hides their tools. Basements are always dark and sometimes damp. You can go down by a narrow staircase and reach them. Even if nothing is inside, basements still feel creepy.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Basements in horror movies are usually scary places where something is hiding or where bad people have hidden their tools. They&#39;re often dark and damp, with a narrow staircase leading down to them. Even when there&#39;s nothing down there, basements can still be creepy.
+
+Note: I&#39;ve followed the instructions for simplification, using everyday words, direct structure, and avoiding nominalizations. The simplified text is concise and easy to understand, making it suitable for a general audience.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 13</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">77</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">52</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">42</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">42.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">41.96</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">26.43</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">7.85</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">63.71</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.95</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">86.82</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Throughout history and across cultures, dreams have been associated with prophecy. People thought dreams were messages from the gods, sent to give us knowledge or insight. Even today, many people can recall a time they dreamed about an event, place or person and then, later, the dream came true in real life.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>In history, people in many cultures believed dreams could tell the future. They thought dreams were messages from gods. Even now, some people say they dream about a person, place or event and later it really happeded.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>In history and cultures, people think that dreams are connected to prophecy. They thought dreams were messages from the gods, giving people knowledge or insights. Even now, many people remember dreaming about a person, a place or an event, and later seeing it happen in real life.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>People have long believed that dreams are connected to prophecy. Many think that dreams are messages from higher powers, giving us knowledge or insight. Even today, people can remember times when they dreamed about something and then it happened in real life.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 14</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">72</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">134</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">104</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">118.0</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">42.02</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">31.74</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">6.61</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">70.81</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.94</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">84.82</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>Having decided to go to school, Auggie then has to face his first day. Like every child starting at a new school, he is really anxious. But because of the way he looks, it&#39;s an agonising experience. Nobody wants to sit next to him and he notices other kids staring at him or talking about him behind their hands. Fortunately, he makes friends with Jack, a boy in his class, and Summer, a girl he chats with at lunch. But it&#39;s not just the first day that&#39;s hard. Auggie soon learns that his classmates don&#39;t want to touch him for fear of catching &#39;the plague&#39;. As he goes through the school year, Auggie goes through many intense ups and downs till finally an unexpected and traumatic event at a school camp changes things completely.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>Auggie decides to go to school and face his first day. He is very nervous, like other new students. But because of how he looks, it is very hard. No one wants to sit near him, and he sees children looking at him and talking about him. He is lucky to make two friends: Jack, a boy in his class, and Summer, a girl he meets at lunch. Still, life at school is not easy. Some kids think they will get a sickness, called &quot;the plague,&quot; if they touch him. During the school year, he has many good and bad moments. Then, at a school camp, something shocking and difficult happens that changes everything.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>After deciding to go to school, Auggie has to face his first day. Like every child starting at a new school, he is very nervous. However, because of his appearance, the experience is even more painful. No one wants to sit next to him, and he sees other children staring or talking about him. Fortunately, he makes friends with Jack, a boy in his class, and Summer, a girl he chats with at lunch. But the difficulties don&#39;t stop there. Auggie soon learns that some classmates avoid touching him, as if thy could catch a disease called &quot;the plague.&quot; Throughout the school year, he goes through many highs and lows, until an unexpected and difficult event at a school camp changes everything.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>Having decided to go to school, Auggie faces his first day. He is very anxious like any child starting at a new school. But because of how he looks, it&#39;s an especially hard experience. Nobody wants to sit next to him and kids stare or talk about him behind their hands. Luckily, he befriends Jack from his class and Summer from lunch. However, the first day isn&#39;t the only challenge. Auggie learns that his classmates don&#39;t want to touch him because they think it&#39;s contagious. Throughout the school year, Auggie faces many difficult moments until a traumatic event at a school camp changes everything.</p></section>
+</div>
+</article>
+<article class="record">
+<h2>Record 15</h2>
+<div class="rule"></div>
+<h3 class="metadata-title">Metadata</h3>
+<div class="metrics-grid"><div class="metric"><span class="metric-label">Text ID</span><span class="metric-value">115</span></div>
+<div class="metric"><span class="metric-label">Original words</span><span class="metric-value">128</span></div>
+<div class="metric"><span class="metric-label">Generated words</span><span class="metric-value">114</span></div>
+<div class="metric"><span class="metric-label">Reference words</span><span class="metric-value">107.5</span></div>
+<div class="metric"><span class="metric-label">SARI</span><span class="metric-value">42.24</span></div>
+<div class="metric"><span class="metric-label">BLEU</span><span class="metric-value">22.18</span></div>
+<div class="metric"><span class="metric-label">FKGL</span><span class="metric-value">8.36</span></div>
+<div class="metric"><span class="metric-label">FRE</span><span class="metric-value">64.15</span></div>
+<div class="metric"><span class="metric-label">BERTScore-F1</span><span class="metric-value">0.93</span></div>
+<div class="metric"><span class="metric-label">MeaningBERT</span><span class="metric-value">79.43</span></div>
+<div class="metric"><span class="metric-label">Stop reason</span><span class="metric-value">stop</span></div></div>
+<div class="text-stack">
+<section class="text-card original"><h3>Original text</h3><p>If we want to know where our capability for complex language came from, we need to look at how our brains are different from other animals. This relates to more than just brain size; it is important what other things our brains can do and when and why they evolved that way. And for this there are very few physical clues; artefacts left by our ancestors don&#39;t tell us what speech they were capable of making. One thing we can see in the remains of early humans, however, is the development of the mouth, throat and tongue. By about 100,000 years ago, humans had evolved the ability to create complex sounds. Before that, evolutionary biologists can only guess whether or not early humans communicated using more basic sounds.</p></section>
+<section class="text-card reference-a2"><h3>Reference simplification (A2)</h3><p>To know how humans learned complex language, we must look at how our brains are different from animals&#39; brains. It is not only about the size of the brain, but also about what it can do, and when and why it changes. There are not many clues, as old subjects cannot tell us what kind of speech early humans had. But we can see changes in the mouth, throat, and tongue of early human bones. Around 100,000 years ago, humans got the ability to make complex sounds. Before that, scientists could only guess if early humans used simple sounds to talk.</p></section>
+<section class="text-card reference-b1"><h3>Reference simplification (B1)</h3><p>If we want to know where our ability for complex language came from, we need to look at how the human brain is different from the brains of other animals. It is not only about brain size, but also about what our brains can do, when these abilities appreared and why. There are a few physical clues about this, because objects from early humans cannot show us what kind of speech thry used. But one thing we can study is the development of the mouth, throat and tongue. Around 100,000 years ago, humans developed the ability to make complex sounds. Before that, scientists could only guess if early humans used simpler sounds to communicate.</p></section>
+<section class="text-card prediction"><h3>Generated simplification</h3><p>We need to understand where our brains got their language skills from. To do this, we must look at how human brains are different from other animals. This is about more than just brain size; it&#39;s also about what else our brains can do and when they developed those abilities. There aren&#39;t many physical clues left behind by our ancestors that tell us about their language skills. However, we can see in the remains of early humans that their mouths, throats, and tongues were developing. By around 100,000 years ago, humans had evolved to make complex sounds. Before this time, scientists can only guess whether early humans communicated using simple or more basic sounds.</p></section>
+</div>
+</article>
+</main></body>
+</html>
