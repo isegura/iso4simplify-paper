@@ -1,4 +1,4 @@
-# myiso4simplify
+# iso4simplify
 
 This repository contains the code and results for the paper *ISO-Based and Minimal Prompting for Text Simplification: An Empirical Evaluation with Large Language Models*, submitted to IEEE Access.
 
@@ -193,3 +193,19 @@ their respective licenses. See `data/README.md` for dataset information.
 - Few-shot sampling methods: `random`, `metric`.
 - Flesch Reading Ease is named `FRE`.
 - Final paper scores use standard SARI; do not mix them with historical legacy evaluations.
+
+- ## Citation
+
+If you use this repository or reference our work, please cite our submitted manuscript:
+
+> **ISO-Based and Minimal Prompting for Text Simplification: An Empirical Evaluation with Large Language Models**  
+> Isabel Segura-Bedmar, Alberto Díaz, and Rémi Cardon  
+> *Submitted to IEEE Access*, 2026.
+
+```bibtex
+@unpublished{segurabedmar2026isobased,
+  title  = {ISO-Based and Minimal Prompting for Text Simplification: An Empirical Evaluation with Large Language Models},
+  author = {Segura-Bedmar, Isabel and D{\'i}az, Alberto and Cardon, R{\'e}mi},
+  note   = {Submitted to IEEE Access},
+  year   = {2026}
+}
