@@ -58,7 +58,7 @@ downloads on first use.
 
 ## Running An Experiment
 
-The main script is `main.py`. It generates simplifications and saves predictions incrementally in `outputs/`.
+The main script is `main.py`. It generates simplifications and saves predictions incrementally in the directory specified by `--outputs_dir`.
 
 Example with Ollama and Mixtral, writing to a separate rerun directory:
 
