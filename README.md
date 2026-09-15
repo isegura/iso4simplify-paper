@@ -199,7 +199,20 @@ their respective licenses. See `data/README.md` for dataset information.
 
 ## Citation
 
-If you use this repository or reference our work, please cite our submitted manuscript:
+To cite the code, prompts, results, and error-analysis materials in this
+repository, use the versioned reference below:
+
+```bibtex
+@misc{iso4simplifyrepo,
+  author       = {Segura-Bedmar, Isabel and D{\'i}az, Alberto and Cardon, R{\'e}mi},
+  title        = {{ISO4Simplify}: Code, Prompts, Results, and Error-Analysis Materials},
+  year         = {2026},
+  note         = {Version 1.0.2},
+  howpublished = {\url{https://github.com/isegura/iso4simplify-paper/tree/v1.0.2}}
+}
+```
+
+To cite the submitted manuscript:
 
 > **ISO-Based and Minimal Prompting for Text Simplification: An Empirical Evaluation with Large Language Models**  
 > Isabel Segura-Bedmar, Alberto Díaz, and Rémi Cardon  
