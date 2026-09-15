@@ -208,8 +208,8 @@ repository, use the versioned reference below:
   author       = {Segura-Bedmar, Isabel and D{\'i}az, Alberto and Cardon, R{\'e}mi},
   title        = {{ISO4Simplify}: Code, Prompts, Results, and Error-Analysis Materials},
   year         = {2026},
-  note         = {Version 1.0.2},
-  howpublished = {\url{https://github.com/isegura/iso4simplify-paper/tree/v1.0.2}}
+  note         = {Version 1.0.3},
+  howpublished = {\url{https://github.com/isegura/iso4simplify-paper/tree/v1.0.3}}
 }
 ```
 

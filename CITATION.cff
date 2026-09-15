@@ -9,8 +9,8 @@ authors:
     given-names: "Alberto"
   - family-names: "Cardon"
     given-names: "Rémi"
-version: 1.0.2
+version: 1.0.3
 date-released: 2026-09-15
-url: "https://github.com/isegura/iso4simplify-paper/tree/v1.0.2"
+url: "https://github.com/isegura/iso4simplify-paper/tree/v1.0.3"
 repository-code: "https://github.com/isegura/iso4simplify-paper"
 license: MIT
