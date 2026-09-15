@@ -194,7 +194,7 @@ their respective licenses. See `data/README.md` for dataset information.
 - Flesch Reading Ease is named `FRE`.
 - Final paper scores use standard SARI; do not mix them with historical legacy evaluations.
 
-- ## Citation
+## Citation
 
 If you use this repository or reference our work, please cite our submitted manuscript:
 
@@ -209,3 +209,4 @@ If you use this repository or reference our work, please cite our submitted manu
   note   = {Submitted to IEEE Access},
   year   = {2026}
 }
+```
