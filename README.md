@@ -50,7 +50,8 @@ python -m venv .venv
 pip install -r requirements_windows.txt
 ```
 
-For Hugging Face models that require authentication, define `HF_TOKEN` in the environment. To use Ollama, make sure the Ollama server is running at `localhost:11434` and that the target model is available locally.
+Make sure that Ollama is running at `localhost:11434` and that the required
+models (`llama3.1:8b` and `mixtral:latest`) are available locally.
 
 Ollama must be installed separately; it is not included in
 `requirements_windows.txt`. Metric models and dependencies may require
