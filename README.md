@@ -23,6 +23,9 @@ and repeat-last-n 64. The generation limit is 512 tokens and the context window
 is 8192 tokens. These settings are defined in `main.py` and passed to Ollama by
 `model_utils.py`.
 
+The experiments were run locally with Ollama v0.23.1 on a Windows 11 laptop
+equipped with an NVIDIA GeForce RTX 4080 Laptop GPU and 32 GB of RAM.
+
 Zero-shot, one-shot, and few-shot use 0, 1, and 3 demonstrations, respectively.
 `ISO+examples` additionally contains illustrative examples of plain-language
 principles; these are distinct from the input-output demonstrations.
