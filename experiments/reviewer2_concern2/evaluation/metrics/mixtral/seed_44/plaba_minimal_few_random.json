@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "mixtral",
+    "dataset": "plaba",
+    "prompt": "minimal",
+    "strategy": "few_random",
+    "selection_seed": 44,
+    "n": 148,
+    "SARI": 39.067770270270266,
+    "BERTScore-F1": 0.8913966216216217,
+    "MeaningBERT": 76.20493243243241,
+    "FKGL": 12.300337837837837,
+    "FRE": 42.27540540540541,
+    "BLEU": 14.59586113772816,
+    "empty_n": 0,
+    "capped_n": 0
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern2/predictions/mixtral/seed_44/predictions_mixtral_latest_plaba_minimal_few_random.csv": "c227246a644805c0967998be6cc7c101846da8f9c41017a585dfea0709a11381",
+      "data/plaba/plaba_test.csv": "aecfcf5af437a2c3ec6c0898f04b839a8d92b90c4136f4a3c66b7eaf96a94ebd"
+    },
+    "code": {
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/provenance.json": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda"
+    },
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128"
+    }
+  },
+  "items_sha256": "13ba62095e035b8b78d75248837e1d56506489b3454f498aa7ea9cb9db87e83b",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 17.566835999954492,
+  "historical_items_reused": false,
+  "predictions_verified_unchanged": true,
+  "methodology": "Historical rounded item scores averaged without further rounding; corpus BLEU; all rows retained; TSAR A2/B1 jointly; MeaningBERT versus source; BERTScore scale 0--1."
+}

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_78_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_78_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Six studies with 5193 participants were included in this review. The results showed that giving zinc supplements to children can reduce the chance of getting pneumonia by 13% and the prevalence of pneumonia by 41%. Further analysis revealed that zinc is particularly effective in reducing the incidence of pneumonia defined by specific clinical criteria, such as confirmation by chest examination or chest radiograph, but it has no effect on lower specificity pneumonia case definition. In summary, zinc supplementation in children is associated with a reduction in the incidence and prevalence of pneumonia.",
+  "metadata": {
+    "wall_time_s": 48.192099,
+    "done_reason": "stop",
+    "eval_count": 130,
+    "prompt_eval_count": 3002,
+    "total_duration": 46130898800,
+    "load_duration": 4218300,
+    "prompt_eval_duration": 3258034000,
+    "eval_duration": 42849125000,
+    "total_duration_s": 46.130899,
+    "prompt_eval_duration_s": 3.258034,
+    "eval_duration_s": 42.849125,
+    "prompt_tokens_per_s": 921.4146,
+    "eval_tokens_per_s": 3.0339,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

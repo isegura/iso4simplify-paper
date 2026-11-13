@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "llama",
+    "dataset": "cochrane",
+    "prompt": "minimal",
+    "strategy": "few_retrieval",
+    "n": 125,
+    "SARI": 38.700160000000004,
+    "BERTScore-F1": 0.8749656,
+    "MeaningBERT": 70.47272,
+    "FKGL": 11.56976,
+    "FRE": 43.12968,
+    "BLEU": 6.224946803749665,
+    "empty_n": 0,
+    "capped_n": 0,
+    "mean_LEN_COMPLEX": 349.656,
+    "mean_LEN_PRED": 126.552,
+    "mean_LEN_REF": 220.92,
+    "mean_compression_ratio": 0.40711750808714775,
+    "mean_copy_rate": 0.6532066472338989
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/predictions/llama/predictions_llama3_1_8b_cochrane_minimal_few_retrieval.csv": "2834d9295d575321a1c182cb012a95b688d91e5500f1b365ca4bb8b623139d4a",
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/logs/llama/llama_cochrane_minimal_few_retrieval.complete.json": "eebe89bcc68f6702c093673259d7aa080ec1268c91e236379d11f6669e07a271",
+      "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e"
+    },
+    "manifest": "64b5f5dcb9e462ef187173edc61913489fd0e6978413f2ffbdb38da6a723b13c",
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "torch": "2.10.0",
+      "transformers": "5.3.0"
+    },
+    "code": {
+      "experiments/reviewer2_concern5/evaluate_retrieval.py": "358ecdc7ad282c81cb9a98164b35b63cf476aea4859232ab24600e0d0e3cac8f",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "experiments/reviewer2_concern2/evaluate_descriptors.py": "a0820b79bc26bcbf8bf36492eec74c283ca6af4f47e9c7423bffecb89de4a7fa"
+    }
+  },
+  "items_sha256": "c910d85a0bbf1cca03374dde8d8bef464118770ef093ae96b6fd0c53317f0545",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 55.39844750001794
+}

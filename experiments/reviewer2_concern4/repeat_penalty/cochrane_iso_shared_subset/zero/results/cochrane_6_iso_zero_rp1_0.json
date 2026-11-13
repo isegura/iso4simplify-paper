@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_6_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_6_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "This review looked at four studies that lasted 24 to 52 weeks. The studies involved 2250 people who were given either insulin detemir or glargine. The studies had a high risk of bias. \n\nIn the studies, insulin glargine was given once a day in the evening. Insulin detemir was first given once a day in the evening, but in three studies, patients could also take an additional dose in the morning. In one study, insulin detemir was given twice a day. By the end of the studies, 13.6% to 57.2% of patients were taking insulin detemir twice a day.\n\nBlood sugar control, measured by glycosylated haemoglobin A1c (HbA1c) and HbA1c of 7% or less (with or without hypoglycaemia), was similar between the two treatment groups. There were no significant differences in overall, nocturnal, or severe hypoglycaemia between the two groups. Insulin detemir was linked to less weight gain. Insulin glargine resulted in a lower daily insulin dose and fewer injection site reactions. There were no significant differences in blood sugar variability or 24-hour glucose profiles between the two groups.\n\nIt was not possible to make conclusions about quality of life, costs, or mortality. Only one study reported results on health-related quality of life, and there were no significant differences between the two groups. \n\nOur analysis shows that there is no important difference in effectiveness or safety between insulin detemir and insulin glargine when controlling high blood sugar. However, to achieve the same blood sugar control, insulin detemir was often given twice a day in a higher dose but with less weight gain, while insulin glargine was given once a day, with fewer injection site reactions.",
+  "metadata": {
+    "wall_time_s": 132.332553,
+    "done_reason": "stop",
+    "eval_count": 420,
+    "prompt_eval_count": 1322,
+    "total_duration": 130287266100,
+    "load_duration": 13497700,
+    "prompt_eval_duration": 3307765000,
+    "eval_duration": 126801790000,
+    "total_duration_s": 130.287266,
+    "prompt_eval_duration_s": 3.307765,
+    "eval_duration_s": 126.80179,
+    "prompt_tokens_per_s": 399.6656,
+    "eval_tokens_per_s": 3.3123,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

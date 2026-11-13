@@ -1,0 +1,191 @@
+{
+  "scope": "Completeness, alignment, run logs and termination metadata only; no evaluation metrics computed.",
+  "all_passed": true,
+  "total_predictions": 746,
+  "total_truncated": 8,
+  "runs": [
+    {
+      "dataset": "cochrane",
+      "prompt": "iso",
+      "rows": 125,
+      "expected": 125,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "length": 1,
+        "stop": 124
+      },
+      "truncated": 1,
+      "truncated_pct": 0.8,
+      "elapsed_minutes": 15.05,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 1722,
+      "prediction_sha256": "fa7473df4097a9dc2dbf1267af51f4468c5e48f2e2df02720520a996804dfca2"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "rows": 125,
+      "expected": 125,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "length": 7,
+        "stop": 118
+      },
+      "truncated": 7,
+      "truncated_pct": 5.6,
+      "elapsed_minutes": 15.2,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 4086,
+      "prediction_sha256": "8407efa868d57fb8110565375e56e21557d8cbee299d40713acf79c8411b577e"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso",
+      "rows": 148,
+      "expected": 148,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "stop": 148
+      },
+      "truncated": 0,
+      "truncated_pct": 0.0,
+      "elapsed_minutes": 15.83,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 1254,
+      "prediction_sha256": "6b8ef6101277f517f2ad9b7d6e23cbc61dbedbbc854f39fef43a5310fe3712ef"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso_examples",
+      "rows": 148,
+      "expected": 148,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "stop": 148
+      },
+      "truncated": 0,
+      "truncated_pct": 0.0,
+      "elapsed_minutes": 15.78,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 3618,
+      "prediction_sha256": "4aa275c6c90fe6c8d3abfaabea5d62d724afd6d8b6b8337578891f99dd55d99a"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso",
+      "rows": 100,
+      "expected": 100,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "stop": 100
+      },
+      "truncated": 0,
+      "truncated_pct": 0.0,
+      "elapsed_minutes": 8.64,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 850,
+      "prediction_sha256": "b28f3f4421c2b7100cbd2f2485063c2c53a88a9112645c676c368e93b7698a54"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso_examples",
+      "rows": 100,
+      "expected": 100,
+      "aligned": true,
+      "empty_outputs": 0,
+      "termination_counts": {
+        "stop": 100
+      },
+      "truncated": 0,
+      "truncated_pct": 0.0,
+      "elapsed_minutes": 8.56,
+      "gpu_logged": true,
+      "source_prompt_hashes_match": true,
+      "log_errors": false,
+      "max_prompt_tokens": 3214,
+      "prediction_sha256": "9a54a47bd7f2f16c9f31c6bdb2509005e8f87998caa6b2a51c5d2d8e7fad4a57"
+    }
+  ],
+  "truncated_items": [
+    {
+      "dataset": "cochrane",
+      "prompt": "iso",
+      "row_index": 96,
+      "text_id": "CD008884",
+      "eval_count": "512",
+      "ending": " follow-up (Peto OR 0.83, 95% CI 0.54 to 1.29), both of very low quality according to GRADE.\n\nNeither was a high fraction of inspired oxygen associated with the"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 22,
+      "text_id": "CD011953",
+      "eval_count": "512",
+      "ending": " dialysis adequacy or reduced risk of adverse events.\n\nThrombolysis, fibrin sheath disruption, and over-the-wire catheter exchange are effective and appropriate"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 39,
+      "text_id": "CD005122",
+      "eval_count": "512",
+      "ending": "dence only reported) (RR 1.19, 95% CI 0.37 to 3.90; 2367 infants; 1 trial; very low quality evidence) and incidence of seizures in the neonatal period (RR 0.72,"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 40,
+      "text_id": "CD007744",
+      "eval_count": "512",
+      "ending": " the study in 3% of people in both celecoxib and placebo groups respectively. Gastrointestinal side effects included increased stool frequency, rectal bleeding,"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 82,
+      "text_id": "CD008720",
+      "eval_count": "512",
+      "ending": "ng.\n\nWe need further evidence from well-designed RCTs before we can come to definitive conclusions about the role of hCG priming and the optimal dose and timing"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 103,
+      "text_id": "CD010803",
+      "eval_count": "512",
+      "ending": "ctice.\n\nParticular attention should be paid to the risk of misdiagnosis and overdiagnosis of dementia (and therefore over-treatment) in clinical practice. These"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 118,
+      "text_id": "CD010597",
+      "eval_count": "512",
+      "ending": "CI 0.42 to 1.38), non-antibiotic (8 studies: RR 0.85, 95% CI 0.44 to 1.66), and combined lock solutions (3 studies: RR 0.63, 95% CI 0.22 to 1.81) made little or"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "row_index": 124,
+      "text_id": "CD007497",
+      "eval_count": "512",
+      "ending": "ing data cannot be generalized to settings where stavudine is currently used in ART naive patients with high viral loads. Stavudine dose reduction trials in ART"
+    }
+  ],
+  "note": "Length termination denotes reaching the generation limit, not an incomplete experiment. No subjective abrupt-ending detection performed."
+}

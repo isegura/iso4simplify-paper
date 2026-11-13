@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_82_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_82_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Four studies involving 522 women were included in a review. One study didn't report results for each woman, so it wasn't analyzed. Three studies compared 10,000 units of hCG priming to no priming, and one study compared 20,000 units to 10,000 units. Three studies only included women with PCOS, while the fourth study excluded them. All studies had an unclear risk of bias and low-quality evidence, mainly due to lack of blinding and imprecision.\n\n- When 10,000 units hCG priming was compared to no priming:\n  - No difference in live birth rates (0.65, 95% CI 0.24 to 1.74; one RCT; N = 82; low quality evidence)\n  - No difference in miscarriage rate (0.60, 95% CI 0.21 to 1.72; two RCTs; N = 282; I² statistic = 21%; low quality evidence)\n  - No difference in clinical pregnancy rate (0.52, 95% CI 0.26 to 1.03; two RCTs, N = 282, I² statistic = 0%, low quality evidence)\n  - Findings suggested hCG may reduce clinical pregnancy rates (22% vs 7-23% with hCG priming)\n\n- The study comparing 20,000 units hCG with 10,000 units hCG didn't provide enough data for analysis.\n- No studies reported on adverse events or drug reactions.\n\nThe review found no conclusive evidence that hCG priming affects live birth, pregnancy, or miscarriage rates in IVM. There was low-quality evidence suggesting hCG priming may reduce clinical pregnancy rates, but this was limited by the small amount of data. No data was available on adverse events or drug reactions, so safety cannot be adequately assessed. More well-designed RCTs are needed to make definitive conclusions about hCG priming, including optimal dose and timing.",
+  "metadata": {
+    "wall_time_s": 156.515856,
+    "done_reason": "stop",
+    "eval_count": 491,
+    "prompt_eval_count": 1505,
+    "total_duration": 154422839100,
+    "load_duration": 5325100,
+    "prompt_eval_duration": 4822553000,
+    "eval_duration": 149601215000,
+    "total_duration_s": 154.422839,
+    "prompt_eval_duration_s": 4.822553,
+    "eval_duration_s": 149.601215,
+    "prompt_tokens_per_s": 312.0754,
+    "eval_tokens_per_s": 3.2821,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

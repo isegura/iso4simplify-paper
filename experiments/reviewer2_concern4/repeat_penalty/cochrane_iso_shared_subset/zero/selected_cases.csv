@@ -1,0 +1,172 @@
+row_index,text_id,selection_group,clear_apparent_cut_historical_zero,clear_apparent_cut_historical_few_random,case_id,dataset,prompt,strategy,prompt_file,historical_prediction,historical_done_reason,historical_eval_count,historical_repeat_penalty,full_user_message_sha256
+0,CD009601,random_from_remaining,False,False,cochrane_0_iso_zero,cochrane,iso,zero,iso_zero.md,"We reviewed 11 studies with 414 participants. The studies compared different types of ultrasound therapy and other treatments. Many studies had a high or unclear risk of bias. Overall, there's not enough evidence to say one ultrasound regimen is better than another.
+
+Two studies reported short-term overall improvement. A low-quality study with 68 participants found that, when compared to placebo, ultrasound may increase the chance of improvement after seven weeks of treatment. However, this result should be interpreted with caution due to high dropout rates and unadjusted data.
+
+Another low-quality study with 60 participants found that, at three months post-treatment, ultrasound plus splint increased the chance of improvement compared to splint alone, but decreased the chance of improvement when compared to low-level laser therapy plus splint. However, participants were not blinded to treatment, and there were issues with randomization and potential unit of analysis error.
+
+Differences in ultrasound frequencies, intensities, and combinations with other treatments showed little or no significant impact on symptoms, function, or neurophysiologic parameters. Only three studies reported adverse effects of ultrasound, so more data is needed to make conclusions about its safety.
+
+There is poor quality evidence from limited data suggesting that ultrasound may be more effective than placebo for short- or long-term symptom improvement in people with carpal tunnel syndrome (CTS). There is insufficient evidence to support the use of one type of ultrasound regimen over another, or to show that ultrasound is more effective than other non-surgical treatments for CTS. More rigorous studies are needed to determine the effectiveness and safety of ultrasound for CTS.",stop,380,1.1,3ca8371830a8a26a29cd518625ed9bc9aa060e50ebe7d2acb3decc97465e13e3
+6,CD006383,random_from_remaining,False,False,cochrane_6_iso_zero,cochrane,iso,zero,iso_zero.md,"Four studies looked at people using insulin detemir or glargine for 24 to 52 weeks. A total of 2250 people were involved. The studies had a high risk of bias. 
+
+Insulin glargine was given once daily in the evening, while insulin detemir was first given once daily in the evening. In three studies, an additional dose in the morning was also allowed. In one study, insulin detemir was given twice daily. By the end of the trials, 13.6% to 57.2% of patients on insulin detemir were using it twice daily.
+
+Blood sugar control, measured by glycosylated haemoglobin A1c (HbA1c) and HbA1c of 7% or less with or without hypoglycaemia, was similar between the two groups. There were no significant differences in overall, nighttime, or severe hypoglycaemia between the groups. Insulin detemir resulted in less weight gain. However, insulin glargine led to a lower daily basal insulin dose and fewer injection site reactions. 
+
+There were no significant differences in blood sugar variability or 24-hour profiles between the two groups. No clear conclusions could be drawn on quality of life, costs, or mortality. Only one trial reported on health-related quality of life, showing no significant difference between the groups.
+
+Our analysis suggests that there is no important difference in effectiveness or safety between insulin detemir and insulin glargine for controlling high blood sugar. To achieve similar blood sugar control, insulin detemir was often used twice daily in higher doses with less weight gain, while insulin glargine was injected once daily with fewer injection site reactions.",stop,394,1.1,af6564f44179344af39b6bcb4857cf8eec9456d559e22f64d6456e723c37c9ca
+8,CD013137,documented_failure_in_either_strategy,True,False,cochrane_8_iso_zero,cochrane,iso,zero,iso_zero.md,"**A study compared immediate post-surgery imaging for glioblastoma (GBM) patients to no early imaging in 125 people. Most patients had maximal surgery followed by radiation and temozolomide treatment. The study, despite similar patient features, was at high risk of bias.**
+
+**The study found little or no difference in one-year survival (deaths):",stop,85,1.1,6c8385107da28a623591540dc419c2b42021a0a2908ae24714c1150f3e4aea9b
+12,CD007104,documented_failure_in_either_strategy,True,False,cochrane_12_iso_zero,cochrane,iso,zero,iso_zero.md,"1. Three experiments involved 931 people and tested various neoadjuvant treatments: radiation therapy (RT) alone, RT followed by procarbazine, lomustine, and vincristine (PCV) chemotherapy, PCV chemotherapy alone, and temozolomide chemotherapy alone.
+
+2. None of the studies were ""blinded,"" meaning they're at high risk of bias. They had low risk in other areas.
+
+3. The European Organisation for Research and Treatment of Cancer (EORTC) trial showed that RT plus PCV improved overall survival (OS) compared to RT alone (3.5 years vs 2.6 years). This result was reported 10 years after enrollment ended and wasn't in the original 2",stop,171,1.1,addcf42bdc39562b1d94c76771672acc145948420de7d8fd004c9c4c3bda9ece
+15,CD004339,documented_failure_in_either_strategy,True,False,cochrane_15_iso_zero,cochrane,iso,zero,iso_zero.md,Three studies looked at arginine supplementation in 285 preterm babies from three countries. The studies were high quality and found:,stop,31,1.1,2f49f482cd74813edb5fc24b74d15fe20ea59f7ea6614b18d255ab31fb6cf9ad
+17,CD011424,documented_failure_in_either_strategy,True,True,cochrane_17_iso_zero,cochrane,iso,zero,iso_zero.md,"Nine studies met the criteria for this review. They included 1512 women, most of whom had unexplained infertility. Seven studies involved IUI, and two involved trying to conceive from sex. Eight studies compared causing a minor injury in the womb lining (endometrial injury) to no injury or a sham procedure. One study compared a deep vs. shallow injury.
+
+We're unsure if endometrial injury helps women get pregnant, as the evidence is of very low quality (risk ratio 2.22, 95% confidence interval 1.56 to 3.15; six studies, 950 participants). Endometrial injury may improve pregnancy test results, but the evidence is of low quality (risk ratio 1.98, 95% confidence interval 1.51 to 2.58; eight studies, 1180 participants).
+
+Women undergoing endometrial injury reported an average pain score of 6/10 on a zero-1",stop,230,1.1,7adeb7107a3fcf6c9c3275141daeeb84299dec5177495290e29086512131c4f7
+23,CD006250,documented_failure_in_either_strategy,True,False,cochrane_23_iso_zero,cochrane,iso,zero,iso_zero.md,"18 studies with 4843 participants compared bisphosphonate use to regular treatments.
+
+**Main result:** No clear difference in pain relief between bisphosphonates and control groups (40 more people had pain relief per 1",stop,54,1.1,5aaa1cc5429545e62ba96f5810f9fecd87304cba0f22af81e32a91a0e9b943e8
+27,CD010876,documented_failure_in_either_strategy,True,False,cochrane_27_iso_zero,cochrane,iso,zero,iso_zero.md,Two studies from 1987 and 2,stop,12,1.1,694d0f0e100ad353290689ec0c8c40fbf223220f60e38b0fe9232de1e5044bea
+28,CD006934,random_from_remaining,False,False,cochrane_28_iso_zero,cochrane,iso,zero,iso_zero.md,"Two studies were reviewed. The first study examined surgical urethral dilation and optical urethrotomy in 210 adult men with urethral stricture disease. After three years, there was no significant difference in the number of men who were free from strictures or in how long it took for the strictures to return. The second study looked at urethrotomy and urethroplasty in 50 men with traumatic stricture of the posterior urethra after pelvic fracture injury. In the first six months, more men in the urethrotomy group needed additional surgery compared to the primary urethroplasty group (RR 3.39, 95% CI 1.62 to 7.07). After two years, 64% of men treated with urethrotomy required ongoing self-dilatation or further surgery due to stricture recurrence, compared to 24% of men treated with primary urethroplasty. There was not enough information to combine the results of the studies or accurately determine the effect size. It is unclear which treatment is best for urethral stricture disease in terms of balancing effectiveness, side effects, and costs. High-quality, adequately powered multi-center trials are needed to answer important clinical questions about treating men with urethral strictures.",stop,304,1.1,e70cf16553d7e157758f73773e70f2b43f821169c57d0cad4a01542bed0b2eac
+35,CD010858,random_from_remaining,False,False,cochrane_35_iso_zero,cochrane,iso,zero,iso_zero.md,"A study of 46 people with sickle cell disease took part in a double-blind, randomized controlled trial. Seven participants left before the start, leaving 39 who were divided into two groups. Only 25 completed the full six months. The first group received vitamin D3 for six weeks, the second got a placebo.
+
+The study had some issues: it was biased due to many people in the placebo group dropping out. However, other aspects like randomization and blinding were unbiased.
+
+The vitamin D group had higher serum 25-hydroxyvitamin D levels at eight, 16, and 24 weeks compared to the placebo group. There was no significant difference in side effects (tingling of lips or hands) between the groups, but the quality of this evidence was low.
+
+The vitamin D group also had fewer pain days than the placebo group at week 24, but again, the quality of evidence was low. The review looked at physical functioning PedsQL scores, which were worse for the vitamin D group at weeks 16 and 24, but not significantly different at week 8.
+
+Only one small study was included, which had a high risk of bias regarding incomplete data. Therefore, the evidence is not reliable enough to guide clinical practice. More high-quality studies are needed to determine the effects and safety of vitamin D supplementation in children and adults with sickle cell disease. Clinicians should consider existing guidelines for vitamin D supplementation and dietary reference intakes until further evidence becomes available.",stop,343,1.1,9f1b563c2e66f13b19591330fedc5f104ce23d10b833d09fa96076a21a42f9f0
+36,CD009611,random_from_remaining,False,False,cochrane_36_iso_zero,cochrane,iso,zero,iso_zero.md,"Six studies met the criteria for inclusion, resulting in seven comparisons. These studies included four children's trials and two adult trials, lasting 12 to 52 weeks. A total of 1211 patients with confirmed or suspected persistent asthma were involved.
+
+There was no significant difference between groups in the risk of patients experiencing worsening symptoms requiring oral steroids (1204 patients; Risk Ratio (RR) 1.07; 95% Confidence Interval (CI) 0.87 to 1.32). This means that the risk of exacerbations in the intermittent ICS group could be between 17% and 25%, assuming a 19% risk with daily ICS.
+
+Age, severity of airway obstruction, type of treatment during worsening symptoms, and trial duration did not significantly affect the main result. No difference was found in the risk of patients having serious adverse health events (1055 patients; RR 0.82; 95% CI 0.33 to 2.03).
+
+The intermittent ICS group showed a smaller improvement than the daily ICS group in several areas: peak expiratory flow rate (-2.56%; 95% CI -4.49% to -0.63%), symptom-free days (Standardized Mean Difference (SMD) -0.15; 95% CI -0.28 to -0.03), asthma control days (-9%; 95% CI -14% to -4%), and use of rescue inhalers (0.12 puffs/day; 95% CI 0 to 0.23). The intermittent ICS group also had a greater increase from baseline in exhaled nitric oxide (16.80 parts per billion; 95% CI 11.95 to 21.64).
+
+There was no significant difference between groups for: forced expiratory volume, quality of life, airway hyper-reactivity, adverse effects, hospitalizations, emergency department visits, or withdrawals.
+
+In children's trials, intermittent ICS (budesonide and becl",length,512,1.1,768fdda159cfcc22acfecf7dc9a03eaf3e09f47fc5067ab8d0d2425e780c022c
+39,CD005122,documented_failure_in_either_strategy,False,True,cochrane_39_iso_zero,cochrane,iso,zero,iso_zero.md,"""No new studies are included in this update. Four trials with over 13,000 women from the UK and Ireland, who were in labor, were added instead. These trials were supported by hospitals or the Scottish government. None of these trials reported conflicts of interest. The studies were assessed as having a low risk of bias.
+
+The results from the 2012 review remain unchanged:
+
+- Women who had continuous electronic fetal monitoring (CTG) during labor may have a higher chance of having a cesarean section than those who did not (4 trials, 11,338 women).
+- There is no clear difference in the rate of instrumental vaginal births or perinatal mortality between women who had CTG and those who did not.
+- Women who had CTG had higher rates of electronic fetal monitoring and fetal blood sampling during labor.
+- There were no differences in other secondary outcomes like hypoxic ischaemic encephalopathy or seizures in the neonatal period.
+
+The review found no evidence of benefit for low-risk women using CTG on admission in labor. In fact, it might increase the cesarean section rate by about 20%. The data lacked power to detect possible differences in perinatal mortality.
+
+The findings support recommendations that the admission CTG should not be used for low-risk women in labor. Women should be informed of the potential increase in caesarean section risk without evidence of benefit. Evidence quality ranged from moderate to very low. All trials were conducted in developed Western European countries. Future studies should consider including women admitted with signs of labor and before a formal diagnosis of labor.""",stop,366,1.1,0ddbc3b0e9a1d3ed6cad397efeccdbe86791d2878470342fbd29e6b027d2640f
+43,CD005255,random_from_remaining,False,False,cochrane_43_iso_zero,cochrane,iso,zero,iso_zero.md,"We analyzed nine suitable studies involving 593 babies. The studies compared feeding methods for preterm infants moving from tube to oral feeding. These trials had some issues, like not blinding participants and not fully assessing all randomly assigned babies. 
+
+According to our analysis, which is limited by data quality and availability, responsive feeding may lead to slower weight gain (about 1.36 grams less per kilogram per day) but might help preterm infants start oral feeding sooner (around 5.53 days earlier). However, the impact on hospital stay length was unclear and not consistent across trials. 
+
+The studies did not include any opinions from parents, caregivers, or staff. Overall, the data does not strongly suggest that responsive feeding benefits preterm infants or their families in important ways. There is some low-quality evidence that preterm infants fed based on cues reach full oral feeding faster than those given set volumes at scheduled intervals. This should be interpreted carefully due to trial limitations. A large study is needed to confirm this finding and see if responsive feeding impacts other crucial outcomes for preterm infants.",stop,242,1.1,509649fd33650907d0094d213e71f3eb7ff970e8fd23e3e1aa07f130f161a867
+49,CD011790,documented_failure_in_either_strategy,True,False,cochrane_49_iso_zero,cochrane,iso,zero,iso_zero.md,"We found three new studies on pregabalin for fibromyalgia. Two had a classic design with 3283 participants. They compared pregabalin (150, 300, 45",stop,49,1.1,92a4565826732ed8ca9cc60f8f9c3ef8332a7aa1b713d0b49c62412d7e351f16
+53,CD007074,random_from_remaining,False,False,cochrane_53_iso_zero,cochrane,iso,zero,iso_zero.md,"A study looked at five trials with a total of 240 children, aged one to 18 years, with mild to moderate OSA (AHI 1 to 30 per hour). The trials were conducted in specialized sleep clinics over a follow-up period ranging from six weeks to four months.
+
+Two types of treatments were compared to placebo: intranasal steroids and oral montelukast. Three trials with 137 children tested intranasal steroids, while two trials with 103 children tested oral montelukast. One trial was excluded from the meta-analysis due to concerns about selective reporting.
+
+Children receiving intranasal corticosteroids showed no clear difference in AHI (MD −3.18, 95% CI −8.70 to 2.35) compared to placebo (low-certainty evidence). However, children taking oral montelukast had a lower AHI (MD −3.41, 95% CI −5.36 to −1.45) than those in the placebo group (moderate-certainty evidence).
+
+Children on intranasal corticosteroids showed no clear difference in secondary outcomes compared to placebo. Children taking oral montelukast had a lower respiratory arousal index and nadir of oxygen saturation compared to those in the placebo group (moderate-certainty and high-certainty evidence, respectively).
+
+Adverse events were rare, minor, and evenly distributed between study groups. No trial examined avoiding surgical treatment for OSA as an outcome. There is insufficient evidence for the efficacy of intranasal corticosteroids in treating OSA in children. Montelukast has short-term beneficial effects on OSA in otherwise healthy, non-obese, surgically untreated children (moderate certainty for primary outcome and moderate and high certainty, respectively, for two secondary outcomes).
+
+The clinical significance of the observed treatment effects remains unclear due to a lack of established minimal clinically important differences for polysomnography-based outcomes in children. Long-term efficacy and safety data on anti-inflammatory medications for treating OSA in childhood are not yet available, nor have patient-centered outcomes like concentration ability, vigilance, or school",length,512,1.1,26ca984ef33f1bde9699531eaf874ac72e4d73cf5a2b9ef91dd9bf7062b68717
+54,CD007514,documented_failure_in_either_strategy,False,True,cochrane_54_iso_zero,cochrane,iso,zero,iso_zero.md,"We reviewed 4 studies with 1154 participants, aged 50 to 90 years. All had a probable or possible Alzheimer's Disease (AD) diagnosis and were on cholinesterase inhibitors. The main result in all studies was the change in AD's cognitive subscale score (ADAS-Cog) from the start.
+
+When we combined data, there was no significant advantage of statins (difference -0.26, 95% confidence interval (-1.05 to 0.52), P value = 0.51). All studies also reported change in Mini Mental State Examination (MMSE) from the start. There was no significant benefit from statins in MMSE when we pooled data (difference -0.32, 95% confidence interval (-0.71 to 0.06), P value = 0.10).
+
+Three studies reported side effects from treatment. When we combined data, there was no significant difference between statins and placebo for these (odds ratio 1.09, 95% confidence interval 0.58 to 2.06, P value = 0.78). There was also no significant difference in behavior, overall function or daily activities between the statin and placebo groups.
+
+We assessed study risk as low. We found no studies evaluating the role of statins in treating Vascular Dementia (VaD). Analyses from available studies, including two large randomized controlled trials, suggest that statins have no benefit on primary ADAS-Cog or MMSE measures for AD patients.",stop,363,1.1,037dad6cc64238302cbe127c61b82d19a5a7338586354fa63cdde2ff69d404d9
+55,CD011627,documented_failure_in_either_strategy,True,False,cochrane_55_iso_zero,cochrane,iso,zero,iso_zero.md,13 trials with 1,stop,7,1.1,d6cd6dd8b3dc5ddc33cc79c793e7139d8b074e757ec7e34e5d177da7c128da9d
+58,CD009953,documented_failure_in_either_strategy,True,False,cochrane_58_iso_zero,cochrane,iso,zero,iso_zero.md,984 participants from 1,stop,8,1.1,841db53e67dba42c7179a06a571c602bb07c0cb76d6e63645013d4b90ac57307
+74,CD003122,documented_failure_in_either_strategy,False,True,cochrane_74_iso_zero,cochrane,iso,zero,iso_zero.md,"24 studies were considered, but only 16 (involving 10,114 women) provided useful data. Meta-analyses showed no benefits of ERT or HRT for preventing cognitive decline after 5 or 4 years of treatment. Both ERT and HRT failed to maintain or improve cognitive function over time and may even worsen it (ERT: -0.45, 95% CI -0.99 to 0.09; HRT: -0.16, 95% CI -0.58 to 0.26 at maximum follow up). Negative effects were found for ERT after one year and HRT after three and four years of therapy. Smaller trials reported little evidence of benefit on specific cognitive domains.
+
+There is solid proof that neither ERT nor HRT prevent cognitive decline in older postmenopausal women when given short-term or longer-term (up to five years) therapy. It's unclear if particular types of ERT or HRT have specific effects on certain subgroups of women, although some evidence suggests combined hormone therapy may negatively impact verbal memory tests and slightly improve figural memory in similarly aged women. There is insufficient evidence to determine if specific hormone therapy subgroups could benefit from treatment.
+
+Uncertainties remain regarding the potential positive effects of factors like younger age (< 60 years), type of menopause, type of treatment, mode of delivery, and dosage at a clinically relevant level. The impact of menopausal symptoms on treatment effects should also be studied further. Large RCTs in the USA may provide answers by 2010.
+
+Based on current evidence, ERT or HRT cannot be recommended for overall cognitive improvement or maintenance in older postmenopausal women without cognitive impairment.",stop,400,1.1,5285f860c9f79dbb3e71891260edb63f36b5273e32dbbfb023d1cd4a21e60aef
+76,CD007196,documented_failure_in_either_strategy,True,False,cochrane_76_iso_zero,cochrane,iso,zero,iso_zero.md,A study with 75 participants (average age: 4,stop,15,1.1,658fbcd305b82beb72e55670d4d2a6a517b523c658b4270886d7fde912e09dbb
+78,CD005978,documented_failure_in_either_strategy,True,False,cochrane_78_iso_zero,cochrane,iso,zero,iso_zero.md,"""We found no new studies for this update. We included 6 studies with 5193 participants. Our analysis showed that taking zinc supplements reduced pneumonia cases by 13% (RR 0.87, 95% CI 0.81 to 0.94, six studies, low-quality evidence) and prevalence by 41% (random-effects RR 0.59; 9",stop,101,1.1,b6e9d448866c069cca869134894199cf8f6677d1613f77712f369e38aefb9e61
+82,CD008720,documented_failure_in_either_strategy,True,True,cochrane_82_iso_zero,cochrane,iso,zero,iso_zero.md,"We reviewed four studies involving 522 women. One study didn't report individual results, so it wasn't included in our analysis. Three studies compared 10,000 units of hCG priming to no priming. Another study compared 20,00",stop,61,1.1,846a5aa8eeae8ae60cf8bf5511b0fe1025ec8c8f220d70925bcf42e5081231c3
+89,CD009513,random_from_remaining,False,False,cochrane_89_iso_zero,cochrane,iso,zero,iso_zero.md,"1. Four studies were analyzed. No study looked at the same intervention. Two studies took place in low-income countries.
+
+2. Two studies were randomized controlled trials (RCTs). The other two were non-randomized trials.
+
+3. In one RCT, a home-based nursing program showed better knowledge and medication refills (p=.002). However, it had no effect on CD4 count or viral load.
+
+4. In another RCT, caregiver medication diaries did not significantly reduce the number of missed doses (85% vs. 92%, p=.08). The intervention also had no impact on CD4 percentage or viral load.
+
+5. A non-randomized trial of peer support group therapy for adolescents found no change in self-reported adherence. However, the percentage of participants with suppressed viral load increased from 30% to 80% (p=.06).
+
+6. The second non-randomized trial showed that children on a lopinavir-ritonavir (LPV/r) regimen had better virological suppression (p=.002) than those on a non-nucleoside reverse transcriptase regimen, despite similar adherence rates.
+
+7. Home-based nursing interventions could improve ART adherence, but more evidence is needed. Medication diaries don't seem to affect adherence or disease outcomes.
+
+8. Two interventions—an LPV/r-containing regimen and peer support therapy for adolescents—did not show improvements in adherence. Yet, they demonstrated greater viral load suppression compared to control groups, suggesting a different mechanism for improved health outcomes.
+
+9. Well-designed evaluations of interventions to improve paediatric ART adherence are required.",stop,417,1.1,7f3b10b87796bd99b0a8102a2e12af4d1e408ef201a3f5761140ecc290bc6d7a
+94,CD010683,documented_failure_in_either_strategy,False,True,cochrane_94_iso_zero,cochrane,iso,zero,iso_zero.md,"67 randomized clinical trials with 6197 participants were analyzed. All trials had a high risk of bias. 5771 participants from 64 trials contributed data for at least one outcome. Most comparisons showed no evidence of difference, and any differences found were usually in single trials with small sample sizes. Here is a summary of the evidence from multiple trials:
+
+- Adverse events (complications) occurred more often with radiofrequency dissecting sealer than with the clamp-crush method (250 participants; 3 studies; very low-quality evidence).
+
+- Secondary outcomes showed some differences:
+  - Blood transfusion (proportion) was higher in the low central venous pressure group than in the acute normovolemic haemodilution plus low central venous pressure group (208 participants; 2 studies; low-quality evidence).
+  - Blood transfusion quantity (red blood cells) was lower in the fibrin sealant group than in the control (122 participants; 2 studies; very low-quality evidence).
+  - Blood transfusion quantity (fresh frozen plasma) was higher in the oxidised cellulose group than in the fibrin sealant group (80 participants; 2 studies; very low-quality evidence).
+  - Blood loss, total hospital stay, and operating time were lower with low central venous pressure than with control (237 participants; 4 studies, 197 participants; 3 studies, and 192 participants; 4 studies respectively; all very low-quality evidence).
+
+There is no evidence suggesting that special equipment for liver resection decreases mortality, morbidity, or blood transfusion requirements (very low-quality evidence). Radiofrequency dissecting sealer should not be used outside clinical trials due to low-quality evidence of increased harm without any benefits. However, the sample size was small and credible intervals were wide, meaning that considerable benefit or harm with a specific method of liver resection cannot be ruled out.",stop,444,1.1,c75c6f3f84c9bc2aafd5634d2e121d4883875c6093abb29ee1817020122551cd
+95,CD001499,documented_failure_in_either_strategy,True,False,cochrane_95_iso_zero,cochrane,iso,zero,iso_zero.md,"fifteen studies were used; these studies looked at how physostigmine was given in four ways. Four studies with 29 people used an IV infusion, seven studies with 1",stop,39,1.1,b229ac1de697dbcb50879cec191018fd3d2e97dfc7f8b4345f2e987e754bbbd8
+100,CD003583,documented_failure_in_either_strategy,False,True,cochrane_100_iso_zero,cochrane,iso,zero,iso_zero.md,"20 studies with 2125 participants were analyzed. They looked at 23 different treatments for melasma. The treatments varied, and combining the data wasn't possible due to these differences. Some treatments contained bleaching agents like hydroquinone, while others used less conventional methods such as rucinol or vitamin C iontophoresis. 
+
+The most effective treatment was triple-combination cream (hydroquinone, tretinoin, and fluocinolone acetonide). It worked better than hydroquinone alone, and all dual combinations. Azelaic acid (20%) also worked well, especially when compared to 2% hydroquinone. 
+
+In studies where tretinoin was compared to a placebo, participants reported significant improvement in one study, but not the other. However, objective measures showed that tretinoin reduced melasma severity in both studies. Thiospot was more effective than a placebo as well. 
+
+The most common side effects were mild and temporary, including skin irritation, itching, burning, and stinging. The quality of the studies was generally poor, and current treatments are inadequate. High-quality trials are needed to determine the best treatment options.",stop,266,1.1,936f74b6ef3e912807b07e69ca0029726565f0df2187401608c8d193bebe0763
+105,CD004096,random_from_remaining,False,False,cochrane_105_iso_zero,cochrane,iso,zero,iso_zero.md,"""Review of weight loss drug studies:
+
+- Fluoxetine, orlistat, and sibutramine helped people lose weight. 
+  - Fluoxetine: 5.1 kg (95% confidence interval [CI], 3.3 - 6.9) after 24 to 26 weeks.
+  - Orlistat: 2.0 kg (CI, 1.3 - 2.8) after 12 to 57 weeks.
+  - Sibutramine: 5.1 kg (CI, 3.2 - 7.0) after 12 to 52 weeks.
+- Glycated hemoglobin also decreased with fluoxetine and orlistat.
+- Orlistat had common gastrointestinal side effects.
+- Fluoxetine had tremor, somnolence, and sweating as side effects.
+- Sibutramine caused palpitations.
+- Some studies showed weight loss with mazindol, phenmetrazine, and phentermine.
+- No studies fit the criteria for pseudoephedrine, ephedra, sertraline, yohimbine, amphetamine or its derivatives, bupropion, topiramate, benzocaine, threachlorocitric acid, sertraline, and bromocriptine.
+- Fluoxetine, orlistat, and sibutramine led to significant weight loss, but the long-term health benefits are unclear. The safety of sibutramine is uncertain.
+- Limited data exists on other drugs for weight loss in people with type 2 diabetes.""",stop,380,1.1,790f3cb808041f681475815e9282b403d59050e89dd8f9bc5e10a0c629627814
+109,CD003844,random_from_remaining,False,False,cochrane_109_iso_zero,cochrane,iso,zero,iso_zero.md,"No new studies met our criteria for inclusion in this update. We still have six trials with a total of 1,297 patients. Five trials had a low risk of bias, and one trial had an unclear risk. 
+
+Lung-protective ventilation lowered the chance of death at day 28 (relative risk (RR) of 0.74) and at hospital discharge (RR of 0.80). There's not enough evidence to say for sure about harm or long-term outcomes. 
+
+Differences in study details make it hard to fully understand the combined results. While we can't be certain, there might be a meaningful benefit for long-term survival. 
+
+Using lower tidal volumes is now a common approach for treating acute respiratory distress syndrome and acute lung injury, which means fewer new trials are being done.",stop,191,1.1,aef569bbdda78d8710a1bb6b3943b48676bc2c436d2e03c892fdfba2ac63d364
+110,CD009919,documented_failure_in_either_strategy,False,True,cochrane_110_iso_zero,cochrane,iso,zero,iso_zero.md,"Three studies looked at 123 people. Doctors didn't say how they hid which group was which, making it hard to avoid bias since one group had surgery. Also, two studies didn't mention hiding the random order. All three studies reported on deaths, which happened in two of them. There's no clear proof that the treatment groups had different death rates (RR 0.56, 95% CI 0.13 to 2.42). However, there weren't enough people in the study to find small differences between groups.
+
+Six people out of 123 died. They passed away due to pneumonia, pulmonary embolism, mediastinitis, and septic shock. People who had surgery had fewer cases of pneumonia (RR 0.36, 95% 0.15 to 0.85), chest deformity (RR 0.13, 95% CI 0.03 to 0.67), and tracheostomy (RR 0.38, 95% CI 0.14 to 1.02).
+
+Three studies measured the time until people no longer needed a ventilator, ICU stay length, and hospital stay length. These results can't be combined due to different reporting methods. Chest pain, chest tightness, bodily pain, and side effects were each reported in one study.
+
+Three small studies suggest surgery is better for reducing pneumonia, chest deformity, tracheostomy, time on a ventilator, and ICU stay length. More well-designed studies with more participants are needed to confirm these results and see if surgery affects death rates.",stop,380,1.1,c48e98b829d4e065ba92cbd6d65b200e94ac18599a57d04aa97caf46c4170e91
+114,CD005015,documented_failure_in_either_strategy,True,False,cochrane_114_iso_zero,cochrane,iso,zero,iso_zero.md,In a 2,stop,5,1.1,f828f01e351adf26857531e5a489acb895d421c251639317db337bb9c98ba6da
+122,CD011325,documented_failure_in_either_strategy,True,False,cochrane_122_iso_zero,cochrane,iso,zero,iso_zero.md,"Five studies involving 235 breast cancer survivors met the review's criteria. These studies tested four types of interventions: 1) computer-assisted cognitive training, 2) compensatory strategy training,",stop,46,1.1,439abdcc5c93f882ec06b264179a1b460fd7a42f4a20990eb26a21d5aafa028b

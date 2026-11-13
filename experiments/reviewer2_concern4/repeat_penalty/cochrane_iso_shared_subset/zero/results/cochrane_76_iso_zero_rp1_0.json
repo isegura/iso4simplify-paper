@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_76_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_76_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "A study with 75 participants (average age: 43; 65% were women) was done. It compared immediate laparoscopic gallbladder removal (within 24 hours after diagnosis) to delayed removal (average wait time of 4.2 months). The study had a high risk of bias.\n\nFor both groups, information on death and serious complications was available for 68 participants. There were no deaths in the immediate group, but there was one death (2.5%) in the delayed group. There were no injuries or serious complications related to surgery in either group. However, during the wait for delayed surgery, 14 participants developed complications and needed hospitalization.\n\nThere was no significant difference in the need for open surgery between the two groups. The immediate group had a shorter hospital stay (on average, 1.25 days less) and a shorter operation time (14.80 minutes less) than the delayed group.\n\nThe study suggests that immediate laparoscopic gallbladder removal may reduce complications during the wait for elective surgery, hospital stay, and operation time. However, more randomized clinical trials are needed to confirm these findings.",
+  "metadata": {
+    "wall_time_s": 88.236959,
+    "done_reason": "stop",
+    "eval_count": 262,
+    "prompt_eval_count": 1718,
+    "total_duration": 86194623700,
+    "load_duration": 6665700,
+    "prompt_eval_duration": 6054257000,
+    "eval_duration": 80123581000,
+    "total_duration_s": 86.194624,
+    "prompt_eval_duration_s": 6.054257,
+    "eval_duration_s": 80.123581,
+    "prompt_tokens_per_s": 283.7673,
+    "eval_tokens_per_s": 3.2699,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

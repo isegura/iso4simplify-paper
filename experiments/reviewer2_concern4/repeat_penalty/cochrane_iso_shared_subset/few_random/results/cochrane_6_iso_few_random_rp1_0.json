@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_6_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_6_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "This review looked at four studies with 2250 people who took either insulin detemir or glargine for 24 to 52 weeks. The studies had a high risk of bias. Both types of insulin were dosed once daily, but insulin detemir could also be given twice daily. The results showed no significant differences in blood sugar control or hypoglycaemia between the two groups. Insulin detemir was linked to less weight gain, while insulin glargine resulted in a lower daily insulin dose and fewer injection site reactions. There were no significant differences in blood sugar variability or health-related quality of life. The review suggests that there is no significant difference in efficacy or safety between the two insulins for controlling high blood sugar. However, insulin detemir was often injected twice daily in higher doses, while insulin glargine was injected once daily with fewer injection site reactions. No conclusions could be drawn on costs or mortality.",
+  "metadata": {
+    "wall_time_s": 77.95698,
+    "done_reason": "stop",
+    "eval_count": 215,
+    "prompt_eval_count": 3097,
+    "total_duration": 75915091200,
+    "load_duration": 7039700,
+    "prompt_eval_duration": 4205826000,
+    "eval_duration": 71682528000,
+    "total_duration_s": 75.915091,
+    "prompt_eval_duration_s": 4.205826,
+    "eval_duration_s": 71.682528,
+    "prompt_tokens_per_s": 736.3595,
+    "eval_tokens_per_s": 2.9993,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

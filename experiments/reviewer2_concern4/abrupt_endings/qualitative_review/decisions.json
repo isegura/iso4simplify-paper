@@ -1,0 +1,2232 @@
+[
+  {
+    "review_id": "C001",
+    "label": "clear_apparent_cut",
+    "note": "Termina en un paréntesis abierto tras airways; no llega a aportar el contenido del inciso."
+  },
+  {
+    "review_id": "C002",
+    "label": "clear_apparent_cut",
+    "note": "Termina en un paréntesis abierto tras one year."
+  },
+  {
+    "review_id": "C003",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at three studies with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C004",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C005",
+    "label": "clear_apparent_cut",
+    "note": "El resultado principal termina en pain response seguido de paréntesis abierto."
+  },
+  {
+    "review_id": "C006",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « this result comes from only two studies. A statistical difference in favor of naltrexone was found for retention and abstinence, RR 2.93 (9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C007",
+    "label": "clear_apparent_cut",
+    "note": "El resultado termina en months seguido de un paréntesis abierto."
+  },
+  {
+    "review_id": "C008",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A total of 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C009",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with over 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C010",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at six studies with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C011",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «lative therapy worked better than conventional chemotherapy or no further treatment in keeping children free from disease (three studies, 73». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C012",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with 1154 participants, aged 50 to 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C013",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C014",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «t improvement in overall state. There was no clear difference between chlorpromazine and metiapine groups (2 studies, 120 people, RR 1.11, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C015",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ional status at discharge increased (SMD 0.37, 95% CI 0.20 to 0.54). There was a near significant increase in hospital stay (WMD 5.13 days 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C016",
+    "label": "clear_apparent_cut",
+    "note": "El efecto de antibióticos termina en 8% seguido de paréntesis abierto."
+  },
+  {
+    "review_id": "C017",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The review looked at 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C018",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with a total of 522 women. Three studies compared giving 10,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C019",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «There were 14 studies included in a review, with a total of 227». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C020",
+    "label": "clear_apparent_cut",
+    "note": "El rango de edad acaba en five and, sin segundo extremo."
+  },
+  {
+    "review_id": "C021",
+    "label": "clear_apparent_cut",
+    "note": "La comparación de complicaciones acaba en un paréntesis abierto."
+  },
+  {
+    "review_id": "C022",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « high amount of oxygen compared to a normal amount was not linked with more people dying in studies where the risk of bias was low (RR 1.12,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C023",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «aths, and there were six deaths total. The studies did not find a clear difference in death rates between the two groups (risk ratio 0.56, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C024",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Ten studies involving 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C025",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C026",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «2019 update: 65 studies with 3598 participants were reviewed. 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C027",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «. Ibuprofen was not combined with any anti-sickness medication. All studies used single doses of medicine to treat the attacks. Ibuprofen 40». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C028",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «50 studies with over 45,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C029",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The search resulted in 3952 abstracts, but only three trials met the inclusion criteria (Milinkovic 2007; McComsey 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C030",
+    "label": "clear_apparent_cut",
+    "note": "La frase de supervivencia acaba con un paréntesis abierto."
+  },
+  {
+    "review_id": "C031",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «red to 2.6 years in the RT alone arm (P value = 0.018). This result was reported 10 years after enrolment and not apparent in the original 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C032",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C033",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C034",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «81 documents and found 15 national projects in higher-income countries that aimed to reduce salt intake. These projects included over 260,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C035",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at six studies with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C036",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «14 studies (5 cohort and 9 case-control) with over 1,600,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C037",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with 1154 participants, aged between 50 and 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C038",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «126 reports were found, describing 30 ways to score certain conditions. Only 11 of these ways have been checked for accuracy. Out of these 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C039",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at three studies with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C040",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with a total of 522 women. Three studies compared giving 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C041",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pharmaceutical treatments can help people with type 2 diabetes lose weight. The review looked at 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C042",
+    "label": "clear_apparent_cut",
+    "note": "El efecto termina en day 2; la fuente especifica day 28. Es un aparente corte del número, no solo una oración sin punto."
+  },
+  {
+    "review_id": "C043",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at three studies with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C044",
+    "label": "clear_apparent_cut",
+    "note": "La frase de efectos protectores acaba en un paréntesis abierto."
+  },
+  {
+    "review_id": "C045",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «rticipants were included. Most studies compared statins to placebo or no treatment in adults with CKD not yet on dialysis. 38 studies (37,27». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C046",
+    "label": "clear_apparent_cut",
+    "note": "La frase de supervivencia acaba en un paréntesis abierto."
+  },
+  {
+    "review_id": "C047",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nefit compared to RT alone, with a median OS of 3.5 years versus 2.6 years (P value = 0.018). This result was not apparent in the original 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C048",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C049",
+    "label": "clear_apparent_cut",
+    "note": "La frase sobre mortalidad termina en death seguido de paréntesis abierto."
+  },
+  {
+    "review_id": "C050",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with over 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C051",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at six studies with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C052",
+    "label": "clear_apparent_cut",
+    "note": "La primera viñeta de resultados acaba en Delivery method seguido de paréntesis abierto."
+  },
+  {
+    "review_id": "C053",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We found four studies with 1154 participants, aged between 50 and 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C054",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at two studies with a total of 7». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C055",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ferent doses of hCG. The studies had some limitations, and the quality of evidence was low due to lack of blinding and imprecision. When 10,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C056",
+    "label": "clear_apparent_cut",
+    "note": "La comparación a favor de clavos acaba en un paréntesis abierto."
+  },
+  {
+    "review_id": "C057",
+    "label": "uncertain",
+    "note": "Solo dice que se revisaron 28 estudios con 9330 participantes y acaba en punto y coma. Hay muy poca cobertura y un cierre anómalo, pero la proposición es completa; no permite distinguir omisión de un corte."
+  },
+  {
+    "review_id": "C058",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at three studies with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C059",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Ten studies involving 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C060",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In this update from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C061",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «erence in maintaining viral suppression between high-dose and low-dose stavudine (Milinkovic 2007: RR 1.09, 95% CI: 0.93 to 1.28; McComsey 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C062",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia tres temas y termina en dos puntos sin enumerarlos."
+  },
+  {
+    "review_id": "C063",
+    "label": "clear_apparent_cut",
+    "note": "Termina en P value = sin dar el valor."
+  },
+  {
+    "review_id": "C064",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «low quality evidence); and trough forced expiratory volume in one second (FEV1) change from the baseline was slightly improved (MD 0.08 L, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C065",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «at preterm babies who received arginine had a lower risk of developing NEC (of any stage) compared to those in the placebo group (RR 0.38, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C066",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C067",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «in relief at follow-up (two to five years: 1.62 times more, 95% confidence interval 1.22 to 2.15; and five or more years: 1.56 times more, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C068",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « this result comes from two studies only. A significant difference in favor of naltrexone was found for retention and abstinence, RR 2.93 (9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C069",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Two studies from 1987 and 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C070",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 881 full-text documents and found 15 national initiatives with over 260,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C071",
+    "label": "clear_apparent_cut",
+    "note": "Termina en accuracy data for, dejando el complemento sin completar."
+  },
+  {
+    "review_id": "C072",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «wo trials did not mention any conflicts of interest. Overall, the studies were assessed as having a low risk of bias. The results from the 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C073",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We reviewed 6 studies with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C074",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «edicted. Both studies lasted for 12 weeks. They both used the same combination of inhaled ICS/LABA (fluticasone furoate and vilanterol 100/2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C075",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « **Classic Design Studies:** - Five studies with 3283 participants - Participants were randomly assigned to receive pregabalin (150, 300, 45». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C076",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «13 trials with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C077",
+    "label": "clear_apparent_cut",
+    "note": "La comparación estadística termina en un paréntesis abierto."
+  },
+  {
+    "review_id": "C078",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «er follow-up (OR 0.92, 95% CI 0.65 to 1.29). - Higher quality studies showed a larger non-significant increase in hospital death (OR 1.52, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C079",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ween seven days and one month after starting treatment (RR 0.72, 95% CI 0.56 to 0.94). Older antibiotics yielded similar results (RR 0.69, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C080",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «icant for lightweight mesh (OR 0.77, 95% CI 0.50 to 1.17). Heavyweight mesh resulted in a significant benefit with glue fixation (OR 0.38, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C081",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «isk ratio; 95% confidence interval, six studies, low-quality evidence) and prevalence of pneumonia by 41% (random-effects risk ratio 0.59; 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C082",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ith a total of 522 women. One study didn't report results for each woman, so it wasn't included in our analysis. Three studies looked at 10,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C083",
+    "label": "clear_apparent_cut",
+    "note": "El intervalo de confianza acaba en 3.3 - sin extremo superior."
+  },
+  {
+    "review_id": "C084",
+    "label": "clear_apparent_cut",
+    "note": "El efecto termina en day 2; la fuente especifica day 28. Es un aparente corte del número, no solo una oración sin punto."
+  },
+  {
+    "review_id": "C085",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «embolism, mediastinitis, or septic shock. In studies comparing surgery to medical treatment, there were fewer cases of pneumonia (RR 0.36, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C086",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e they didn't significantly affect the overall analysis. 75% of the studies had low risk for selection, attrition, and reporting bias. All 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C087",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A search found 3,952 abstracts, with three trials meeting inclusion criteria (Milinkovic 2007; McComsey 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C088",
+    "label": "clear_apparent_cut",
+    "note": "La frase sobre embarazo termina en un paréntesis abierto."
+  },
+  {
+    "review_id": "C089",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C090",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at one study comparing nebulized rhDNase with a placebo in 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C091",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «erapy helped keep children free from disease better than regular chemotherapy or no further treatment (three studies, 739 patients; HR 0.78,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C092",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «However, we are uncertain about the difference in AHI between children receiving intranasal corticosteroids compared to placebo (MD −3.18, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C093",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «126 reports were found, describing 30 ways to score the health of the ulcerative colitis (UC) area. Among these 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C094",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «14 studies with 1260 participants and 1361 trigger fingers were analyzed. The age of participants ranged from 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C095",
+    "label": "clear_apparent_cut",
+    "note": "El intervalo de especificidad acaba en from 48% to, sin extremo superior."
+  },
+  {
+    "review_id": "C096",
+    "label": "clear_apparent_cut",
+    "note": "El efecto termina en day 2; la fuente especifica day 28. Es un aparente corte del número, no solo una oración sin punto."
+  },
+  {
+    "review_id": "C097",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 84 studies with over 22,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C098",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The search resulted in 3952 studies, but only three met the criteria (Milinkovic 2007; McComsey 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C099",
+    "label": "clear_apparent_cut",
+    "note": "La frase sobre calidad de evidencia acaba en un paréntesis abierto."
+  },
+  {
+    "review_id": "C100",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Four studies involving over 13,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C101",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at four studies with 1154 participants, aged 50 to 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C102",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Twenty-four studies were included, but only sixteen of them (involving over 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C103",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We included four studies with a total of 522 women in our review. Three studies compared giving 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C104",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ence found was that radiofrequency dissecting sealer had more adverse events (complications) than the clamp-crush method (rate ratio 1.85, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C105",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at 20 studies with a total of 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C106",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Three studies were included with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C107",
+    "label": "no_clear_cut",
+    "note": "El cuerpo termina con una conclusión completa. El bloque Python vacío es una anomalía de formato, no una frase cortada."
+  },
+  {
+    "review_id": "C108",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Two studies were included, involving 281 pregnancies and 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C109",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at six studies with a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C110",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «14 studies with over 1,600,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C111",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Two studies with a total of 880 participants were included. One more study with planned recruitment of 8». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C112",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We found four studies with 1154 participants, aged between 50 and 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C113",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We looked at two trials involving a total of 7». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C114",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « called hCG before fertility treatment to not giving hCG. We found three studies that used 10,000 units of hCG and one study that used 20,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C115",
+    "label": "clear_apparent_cut",
+    "note": "El rango de edad acaba en from 41 to, sin segundo extremo."
+  },
+  {
+    "review_id": "C116",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Ten studies involving 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C117",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «This update from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C118",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «our pain-free (20% vs 10%) and 2-hour headache relief (52% vs 37%). The NNTs for these outcomes were 9.7 and 6.3, respectively. Ibuprofen 40». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C119",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia resultados de supervivencia con dos puntos sin desarrollarlos."
+  },
+  {
+    "review_id": "C120",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «al (OS) compared to RT alone (3.5 years vs 2.6 years). This result was reported 10 years after enrollment ended and wasn't in the original 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C121",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia lo que encontraron los estudios con found: y no lo desarrolla."
+  },
+  {
+    "review_id": "C122",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C123",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «tments. **Main result:** No clear difference in pain relief between bisphosphonates and control groups (40 more people had pain relief per 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C124",
+    "label": "no_clear_cut",
+    "note": "La nota entre paréntesis se cierra y el cuerpo tiene conclusión; no se observa corte del final."
+  },
+  {
+    "review_id": "C125",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Two studies from 1987 and 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C126",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nd three new studies on pregabalin for fibromyalgia. Two had a classic design with 3283 participants. They compared pregabalin (150, 300, 45». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C127",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «13 trials with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C128",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «984 participants from 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C129",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study with 75 participants (average age: 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C130",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ed pneumonia cases by 13% (RR 0.87, 95% CI 0.81 to 0.94, six studies, low-quality evidence) and prevalence by 41% (random-effects RR 0.59; 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C131",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «sults, so it wasn't included in our analysis. Three studies compared 10,000 units of hCG priming to no priming. Another study compared 20,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C132",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «sed; these studies looked at how physostigmine was given in four ways. Four studies with 29 people used an IV infusion, seven studies with 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C133",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In a 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C134",
+    "label": "clear_apparent_cut",
+    "note": "Enumera dos de cuatro intervenciones anunciadas y termina en coma."
+  },
+  {
+    "review_id": "C135",
+    "label": "no_clear_cut",
+    "note": "La última viñeta es completa; la falta de punto final no implica interrupción."
+  },
+  {
+    "review_id": "C136",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Four studies were reviewed that compared using insulin detemir or glargine in people with diabetes for 24 to 5». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C137",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Four studies with a total of 1154 older participants (ages 50 to 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C138",
+    "label": "clear_apparent_cut",
+    "note": "El cierre interleukin-1 corresponde a interleukin-10 en la fuente: el término queda aparentemente cortado, no es solo ausencia de punto."
+  },
+  {
+    "review_id": "C139",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «8 studies with 291 participants (ages 5-2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C140",
+    "label": "clear_apparent_cut",
+    "note": "El efecto termina en day 2; la fuente especifica day 28. Es un aparente corte del número, no solo una oración sin punto."
+  },
+  {
+    "review_id": "C141",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C142",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «24 studies were included, but only 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C143",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Four studies with a total of 522 women were included in this review. Three studies looked at giving 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C144",
+    "label": "clear_apparent_cut",
+    "note": "El efecto termina en day 2; la fuente especifica day 28. Es un aparente corte del número, no solo una oración sin punto."
+  },
+  {
+    "review_id": "C145",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A single study looked at the impact of early brain scans within 48 hours after surgery in 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C146",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C147",
+    "label": "clear_apparent_cut",
+    "note": "El inciso estadístico queda abierto tras 149 participants:."
+  },
+  {
+    "review_id": "C148",
+    "label": "clear_apparent_cut",
+    "note": "Termina en survival after, dejando la frase incompleta."
+  },
+  {
+    "review_id": "C149",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «acebo, and two studies compared oral montelukast to placebo. We are unsure if intranasal corticosteroids have any effect on OSA (MD −3.18, 9». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C150",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « women were included in a review. One study did not report results for each woman and was not analyzed. Three studies looked at giving 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C151",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « have an effect on all-cause mortality, vascular deaths, or stroke events. When excluding studies using clofibrate (a drug discontinued in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C152",
+    "label": "clear_apparent_cut",
+    "note": "La escala zero-10 de la fuente queda aparentemente cortada en zero-1."
+  },
+  {
+    "review_id": "C153",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «1. We looked at 881 documents and found 15 national programs that met our criteria. These programs involved more than 260,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C154",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «1. We added six new studies (517 participants) to this review, making a total of 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C155",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «3,952 abstracts were reviewed for relevance in a search. Three studies met the criteria for inclusion (Milinkovic 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C156",
+    "label": "clear_apparent_cut",
+    "note": "Termina en P < sin valor ni cierre del inciso."
+  },
+  {
+    "review_id": "C157",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ed how arthroscopic treatment of popliteal cysts went at our center and looked at the results, including any problems. Patients: From July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C158",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «at the results of arthroscopic treatment for knee cysts in our hospital. We also checked for problems after treatment. Patients: From July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C159",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ng arthroscopic surgery and predict that this new method would have good results and low rates of recurrence. From January 2013 to January 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C160",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «raining the knee cavity and cleaning out the cyst cavity through small cuts. Fifty-eight people had this surgery from August 2007 to March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C161",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «s dealing with asthma prevention, diagnosis, therapy, and rehabilitation agreed upon a National Disease Management Guideline for Asthma in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C162",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « to decrease by half increased with higher doses. For intravenous prednisolone, clearance from the body increased from 111 to 194 ml/min/1.7». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C163",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The effects of single doses of 10,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C164",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ents. There was no significant difference seen when looking at the effect of patient age, sex, and BMI on ESWL outcome (P values were 0.155,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C165",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ient satisfaction with fURS done using only SA. Methods: We looked at all fURS done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C166",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big issue for healthcare. They were found in 3.8% of people in 197». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C167",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big issue for healthcare. They were found in 3.8% of people in 197». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C168",
+    "label": "clear_apparent_cut",
+    "note": "Acaba en actin-related protein sin identificar Arp4 ni continuar la explicación presente en la fuente."
+  },
+  {
+    "review_id": "C169",
+    "label": "clear_apparent_cut",
+    "note": "La lista de histonas se corta en H, frente a H3/H4 en la fuente."
+  },
+  {
+    "review_id": "C170",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Z) is a drug that blocks the proteasome, a part of cells. Here, we report on patients who received BTZ as treatment for SLE in Sweden from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C171",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «n network meta-analysis was done on randomized controlled trials (RCTs) about the effectiveness and safety of belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C172",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « network meta-analysis was done on randomized controlled trials (RCTs) about the effectiveness and safety of belimumab 10 mg, anifrolumab 30». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C173",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ernal age, and fetal nuchal translucency thickness at 11 + 0-13 + 6 weeks of gestation. A positive outcome can help diagnose trisomies 21, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C174",
+    "label": "clear_apparent_cut",
+    "note": "Termina en p < sin valor ni cierre del inciso."
+  },
+  {
+    "review_id": "C175",
+    "label": "clear_apparent_cut",
+    "note": "Termina en Zn( sin completar el término químico."
+  },
+  {
+    "review_id": "C176",
+    "label": "clear_apparent_cut",
+    "note": "Termina en Zn( sin completar el término químico."
+  },
+  {
+    "review_id": "C177",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A group of 303 patients admitted to a hospital in Portugal with different symptoms were studied from September to November 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C178",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C179",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C180",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «treating popliteal cysts using arthroscopy and to see if this new method would have good results and low rates of recurrence. From January 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C181",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «(BHD) syndrome and other lung diseases with many cysts using CT scans. The study looked at the CT images of 33 patients with BHD syndrome, 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C182",
+    "label": "clear_apparent_cut",
+    "note": "El nombre mechanistic target of rapamycin complex queda sin el 1 de la fuente y sin continuación."
+  },
+  {
+    "review_id": "C183",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «People who had Coronavirus Disease 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C184",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Convalescent plasma (CCP) collection for coronavirus disease 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C185",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «how well COVID-19 antibody tests work more than 35 days after symptoms start is limited. This study looked at the positivity rate of COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C186",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ried the virus but didn't have symptoms. The study tested throat swabs, sputum, and stool samples from 57 hospitalized patients with COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C187",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «This study looked at the amount of SARS-CoV-2 (the virus that causes Covid-19) in samples from people who had Covid-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C188",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «y looks at fURS done under only SA. Methods: The study analyzed all fURS procedures using SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C189",
+    "label": "clear_apparent_cut",
+    "note": "Se corta el nombre del dímero en H4-H, frente a H4-H3 en la fuente."
+  },
+  {
+    "review_id": "C190",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «2,757 patients. The response rate based on the SLE 4 Responder Index (SRI4) at 52 weeks was higher in both belimumab 10 mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C191",
+    "label": "clear_apparent_cut",
+    "note": "La fuente habla de interleukin-17; el cierre interleukin-1 deja aparentemente incompleto el identificador."
+  },
+  {
+    "review_id": "C192",
+    "label": "clear_apparent_cut",
+    "note": "Se corta el identificador del segundo ensayo en TULIP-."
+  },
+  {
+    "review_id": "C193",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «EP) can vary. Testing for a hormone called hCG helps diagnose EP early. Aim: This study looked at hCG levels in women with EP from 2006 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C194",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A group of 303 patients admitted to a hospital in Portugal were studied from September to November 2020. Some had COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C195",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C196",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C197",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « way alternate-day prednisone affects the immune system was studied in patients with various inflammatory diseases taking doses from 5 to 12». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C198",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «body depends on the dose. For oral prednisone, the mean plasma clearance ranged from 572 ml/min/1.73 m² for the 5 mg dose to 2271 ml/min/1.7». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C199",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ily prednisone dose of 7 mg (range 3-10). The control group was made up of healthy non-transplant subjects with a median dose of 10 mg (10-3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C200",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «from your parents. It's caused by changes in the FLCN gene, which makes the folliculin protein. BHD usually affects people in their 30s or 4». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C201",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «People who had Coronavirus Disease 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C202",
+    "label": "no_clear_cut",
+    "note": "La respuesta y la nota final están cerradas; el detector se activa por el paréntesis final."
+  },
+  {
+    "review_id": "C203",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «virus causing COVID-19 (SARS-CoV-2) in samples from people who had traveled and were not sick, as well as hospitalized patients with COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C204",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nly spinal anesthesia (SA). The study analyzed all consecutive fURS procedures done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C205",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «the United States, going from 3.8% in 1970 to 8.8% in 2010. This increase costs around 3.8 billion dollars each year. Each year, over 500,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C206",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « States from 1970 to 2010, going from 3.8% to 8.8%. This increase costs around 3.8 billion dollars each year. It is thought that over 500,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C207",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia ocho modificaciones pero enumera dos y termina en coma."
+  },
+  {
+    "review_id": "C208",
+    "label": "clear_apparent_cut",
+    "note": "Termina en HMG1/ sin completar el nombre HMG1/2."
+  },
+  {
+    "review_id": "C209",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study compared belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C210",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study compared belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C211",
+    "label": "clear_apparent_cut",
+    "note": "Termina en P < sin valor ni cierre del inciso."
+  },
+  {
+    "review_id": "C212",
+    "label": "clear_apparent_cut",
+    "note": "Termina en P < sin valor ni cierre del inciso; fila distinta con el mismo ID que C211."
+  },
+  {
+    "review_id": "C213",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «We studied 303 patients at a Portuguese hospital from September to November 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C214",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «iewed arthroscopic popliteal cyst treatment results at our center, looking at outcomes and complications. Patients: From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C215",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «iteal cysts. It also hypothesized that this new technique would have good clinical results and low recurrence rates. Methods: From January 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C216",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «. Specialists in asthma prevention, diagnosis, treatment, and rehabilitation created a National Disease Management Guideline for Asthma in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C217",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ugs depended on the dose. For oral prednisone, the mean plasma clearance ranged from 572 ml/min/1.73 m2 for the 5 mg dose to 2271 ml/min/1.7». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C218",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «sone dose was 7 mg (range 3-10). The control group consisted of healthy non-transplant subjects with a median prednisone dose of 10 mg (10-3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C219",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nt with corticosteroids up-regulates the Th2 immune response. The study involved three groups: 20 patients with Graves' disease but no GO, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C220",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « virus tests, taken at least one day apart. But testing fecal samples for the virus isn't routine. We share a case of a patient with COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C221",
+    "label": "no_clear_cut",
+    "note": "El último punto de recomendaciones es una unidad completa, sin punto terminal."
+  },
+  {
+    "review_id": "C222",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « blood serum from 57 patients and 8 asymptomatic carriers. They found that severely ill patients had higher viral loads in their samples 3-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C223",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ors impact the success rates of shock wave therapy. Methods: We analyzed 155 patients who had shock wave therapy for stone sizes between 3-2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C224",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «reterorenoscopy (fURS) Performed Under Spinal Anesthesia (SA) We analyzed fURS done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C225",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e a significant burden on healthcare systems. In the United States, the prevalence of kidney stones increased from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C226",
+    "label": "no_clear_cut",
+    "note": "La enumeración final de temas está completa; no queda una frase abierta."
+  },
+  {
+    "review_id": "C227",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Objective: The type I anti-CD2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C228",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ifrolumab 300 mg, and a placebo in SLE patients. Six studies with 2,757 patients were included. Results: - Belimumab 10 mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C229",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « Results: - More patients had a response based on the SLE 4 Responder Index (SRI4) at 52 weeks after taking belimumab 10 mg or anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C230",
+    "label": "clear_apparent_cut",
+    "note": "La fuente habla de T helper 17. El cierre T helper 1 no completa ese identificador; además la frase queda sintácticamente abierta."
+  },
+  {
+    "review_id": "C231",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «patients who got anifrolumab (150 mg or 300 mg) or placebo, 574 finished treatment, with 470 being IFNGS-high. In all groups, anifrolumab 30». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C232",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «how well it worked or caused key side effects. Results: Out of the patients in TULIP-1/TULIP-2 who received anifrolumab (150 mg [n = 91], 30». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C233",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «having a successful pregnancy. Methods: 490 patients pregnant after IVF + ET treatment were studied. The influence of factors like age (20-5». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C234",
+    "label": "uncertain",
+    "note": "Solo devuelve un título completo sobre hCG y embarazo ectópico. La tarea queda insuficientemente atendida, pero el título no contiene una frase cortada; no permite diagnosticar interrupción."
+  },
+  {
+    "review_id": "C235",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Title: Iron Metabolism and COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C236",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «\"**COVID-19 Patient Outlook Prediction:** We studied 303 patients at a Portuguese hospital from September to November 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C237",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ey used a nasopharyngeal swab, RT-PCR technique to detect the coronavirus. Ferritin, LDH, WBC, and CRP were tested using Min Vidus, AccEnT 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C238",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «the body's iron levels. It contains 24 light and heavy chains and can be found in different tissues. Normal ferritin levels are between 10-2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C239",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «the results of arthroscopic treatment for knee cysts in our hospital and analyzed outcomes, including any problems. Patients: From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C240",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «the results of arthroscopic treatment for knee cysts in our hospital and analyzed outcomes, including any problems. Patients: From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C241",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «olved draining the knee cavity and cleaning out the cyst cavity through small cuts. This was done on 58 patients from August 2007 to March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C242",
+    "label": "clear_apparent_cut",
+    "note": "Termina con un paréntesis abierto al iniciar el siguiente elemento de una enumeración."
+  },
+  {
+    "review_id": "C243",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «a median daily prednisone dose of 7 mg (range 3-10). A control group of healthy nontransplant subjects received a median dose of 10 mg (10-3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C244",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study was done on healthy volunteers to see how single doses of 10, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C245",
+    "label": "clear_apparent_cut",
+    "note": "La construcción looked at how ... coronavirus queda sin predicado; además falta completar el nombre del virus."
+  },
+  {
+    "review_id": "C246",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ng results, problems, and patient satisfaction. Methods: The study looked at all fURS procedures done under SA from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C247",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big issue for healthcare. They have become more common in the US, going from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C248",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big issue for healthcare. In the US, the rate of kidney stones went up from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C249",
+    "label": "clear_apparent_cut",
+    "note": "Acaba en actin-related protein sin identificar Arp4 ni continuar la explicación presente en la fuente."
+  },
+  {
+    "review_id": "C250",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Niclas Jareborg and Alastair K.N. Wong studied». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C251",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « belimumab and anifrolumab work for patients with active lupus (SLE). Materials and methods: A study compared belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C252",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «atosus (SLE). Methods: A study was done using information from six randomized controlled trials on the use of belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C253",
+    "label": "clear_apparent_cut",
+    "note": "La fuente habla de interleukin-17; el cierre interleukin-1 deja aparentemente incompleto el identificador."
+  },
+  {
+    "review_id": "C254",
+    "label": "clear_apparent_cut",
+    "note": "Termina en two phase, sin completar la descripción de ensayos de fase 3."
+  },
+  {
+    "review_id": "C255",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «of treating popliteal cysts with arthroscopy (a type of surgery that uses small tools and cameras). The study had 34 patients from 2013 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C256",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ive for treating popliteal cysts in patients with knee osteoarthritis. This surgery was performed on 58 patients from August 2007 to March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C257",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «People who had Covid-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C258",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «on with fURS done using only SA. Methods: The team studied all fURS procedures done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C259",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big issue for healthcare. They have become more common in the United States, going from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C260",
+    "label": "clear_apparent_cut",
+    "note": "La enumeración de variantes de histonas se corta en H."
+  },
+  {
+    "review_id": "C261",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «2,757 patients. The response rate based on the SLE 4 Responder Index (SRI4) at 52 weeks was higher in both belimumab 10 mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C262",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C263",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C264",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2013 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C265",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C266",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study was done to see how different doses of prednisone affect the immune system. The doses used were 10,». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C267",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Some people who had Coronavirus Disease 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C268",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nly spinal anesthesia (SA). The study analyzed all consecutive fURS procedures done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C269",
+    "label": "clear_apparent_cut",
+    "note": "El identificador del dímero acaba en H4-H, sin completar H4-H3."
+  },
+  {
+    "review_id": "C270",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A drug called Bortezomib (BTZ) was used for 12 people with severe lupus from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C271",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nvolving 2,757 patients. The SLE 4 Responder Index (SRI4) response rate at 52 weeks was much higher in the belimumab 10-mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C272",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study of ectopic pregnancies (EP) from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C273",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e beta-hCG compared to those with a TTP of less than 6 months. However, when other factors were considered, the increased risk for trisomy 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C274",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «303 patients admitted to a hospital in Portugal were studied from September to November 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C275",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «erritin is a protein that controls how iron is used in the body. It consists of light and heavy chains, and its normal level is between 10-2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C276",
+    "label": "no_clear_cut",
+    "note": "La conclusión y la nota final están completas."
+  },
+  {
+    "review_id": "C277",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «f Arthroscopic Treatment of Popliteal Cysts** We examined the outcomes of arthroscopic popliteal cyst treatment between July 2007 and July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C278",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «rthroscopic treatment of popliteal cysts fared at our center, focusing on outcomes and complications. **Patients:** From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C279",
+    "label": "no_clear_cut",
+    "note": "La lista y la nota de definiciones están cerradas."
+  },
+  {
+    "review_id": "C280",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «aining the knee cavity and cleaning out the cyst cavity. The study included 58 patients who had this surgery between August 2007 and March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C281",
+    "label": "no_clear_cut",
+    "note": "La lista contiene factores internos/externos y condiciones climáticas; acaba en una viñeta completa. No se juzga aquí cobertura de la fuente."
+  },
+  {
+    "review_id": "C282",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia factores con made worse by: pero no los enumera."
+  },
+  {
+    "review_id": "C283",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «coordinated healthcare program. It brings together different medical fields. Experts agree on guidelines based on existing evidence. 2. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C284",
+    "label": "no_clear_cut",
+    "note": "El cierre declara que se han omitido detalles; la nota es completa. Omitir información no basta para inferir corte."
+  },
+  {
+    "review_id": "C285",
+    "label": "no_clear_cut",
+    "note": "Termina con dos dosis completas en una lista de participantes. Falta cobertura de resultados, pero el final no presenta un corte inequívoco."
+  },
+  {
+    "review_id": "C286",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «1. A patient with coronavirus disease (COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C287",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «exible ureterorenoscopy (fURS) with spinal anesthesia (SA):** We analyzed fURS done under SA for kidney stones from March 2011 to February 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C288",
+    "label": "no_clear_cut",
+    "note": "La última viñeta, 5-HT receptors, es una unidad nominal completa."
+  },
+  {
+    "review_id": "C289",
+    "label": "no_clear_cut",
+    "note": "El texto acaba con una oración completa y cierre de comillas triples."
+  },
+  {
+    "review_id": "C290",
+    "label": "clear_apparent_cut",
+    "note": "La última viñeta termina en actin-related protein sin identificar Arp4 ni continuar."
+  },
+  {
+    "review_id": "C291",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e inhibitor of the 20S proteasome subunit. This report shares experience on BTZ's effectiveness and safety in treating SLE in Sweden (2014-2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C292",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «t in protein levels in their urine after 12 weeks. - Their median proteinuria dropped by 50.3% from 1.83 g/24 hours at the start to 0.91 g/2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C293",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «atients with active SLE. 6 RCTs involving 2,757 patients were included. After 52 weeks, more people in the belimumab 10-mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C294",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «work for patients with active lupus (SLE), and if they're safe. Methods: We analyzed data from six studies of belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C295",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ssful pregnancy. Methods: We studied 490 patients who got pregnant after IVF + ET treatment. We also considered other factors like age (20-5». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C296",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « Serum Beta hCG estimation helps in early diagnosis. This study analyzed hCG trends in EP cases. **Study Details:** - Time: Jan 2006 - Dec 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C297",
+    "label": "clear_apparent_cut",
+    "note": "Se corta el identificador PC12 en PC1."
+  },
+  {
+    "review_id": "C298",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «303 patients admitted to a Portuguese hospital were studied from September to November 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C299",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «**SARS-CoV-2 and Brain Disorders: The Role of Trace Elements** The virus causing COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C300",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «1. Ferritin is a known inflammation marker. Researchers want to compare ferritin levels in Covid-19 patients and non-Covid-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C301",
+    "label": "no_clear_cut",
+    "note": "La última viñeta define los marcadores inflamatorios con una cláusula completa."
+  },
+  {
+    "review_id": "C302",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «xamine the outcomes of arthroscopic treatment for popliteal cysts at a certain center, including any complications. From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C303",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « was to examine the outcomes of arthroscopic treatment for knee cysts at their center, including any complications. From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C304",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «done on healthy volunteers to see how single oral doses of the drug prednisone affect the immune system. Three different doses (10, 15, or 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C305",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big problem for the healthcare system. They have become more common in the United States, from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C306",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Kidney stones are a big problem in healthcare. They were found in 3.8% of people in 197». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C307",
+    "label": "clear_apparent_cut",
+    "note": "Termina en actin-related protein sin identificar Arp4 ni continuar la explicación."
+  },
+  {
+    "review_id": "C308",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ds in EP and its role in managing and following up on EPs. The research included women with EP who were treated at a hospital from 2006 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C309",
+    "label": "clear_apparent_cut",
+    "note": "La construcción The activity of caspase queda sin predicado y sin completar caspase 3/7."
+  },
+  {
+    "review_id": "C310",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e. The second method, AICR, combines AI with cyst wall resection (removal). The study had 42 patients, 20 of whom had the AI procedure and 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C311",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « results of arthroscopic treatment for painful popliteal cysts (fluid-filled sacs in the knee) at a medical center. From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C312",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The goal was to review arthroscopic treatment results for popliteal cysts, including any complications. From July 2007 to July 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C313",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « the knee) using arthroscopy (a type of surgery that uses small tools and cameras). The study had 34 patients from January 2013 to January 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C314",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «easing the Th2 immune response. The study involved three groups: 20 people with Graves' disease but no GO, 16 people with GO symptoms, and 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C315",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «People who had Covid-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C316",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Eight women and four men were given the drug Bortezomib (BTZ) for severe lupus (SLE) in Sweden from 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C317",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «mized controlled trials with 2,757 patients. The SLE 4 Responder Index (SRI4) at 52 weeks showed that both belimumab 10 mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C318",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «mized controlled trials with 2,757 patients. The SLE 4 Responder Index (SRI4) at 52 weeks showed that both belimumab 10 mg and anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C319",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «udy looked at hCG trends in EP and its role in decision making for management and follow-up. The study included women with EP from 2006 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C320",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C321",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C322",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «From 2007 to 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C323",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «, treating, and rehabilitating asthma. These guidelines are based on consensus among medical societies and the best available evidence. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C324",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ave 20 volunteers two doses of a type of corticosteroid called hydrocortisone (HC), one at a moderate dose (250 mg) and one at a low dose (5». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C325",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «d, but a stool sample taken on February 27th still showed signs of the virus. This is similar to what happened during the SARS epidemic in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C326",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « to be discharged from the hospital. 2. However, a stool sample tested positive for the virus. This means that the patient still had COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C327",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «curacy of different tests for COVID-19 antibodies after more than 35 days since the start of symptoms. The study included 268 samples from 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C328",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «This study looked at the virus causing COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C329",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «This study looked at the virus causing COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C330",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A total of 234 flexible ureterorenoscopies (fURS) were done under spinal anesthesia (SA) between March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C331",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ney stones are a common and costly health issue in the United States. The rate of kidney stones has increased from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C332",
+    "label": "clear_apparent_cut",
+    "note": "El identificador anti-CD20 queda cortado en anti-CD2."
+  },
+  {
+    "review_id": "C333",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «dy using a Bayesian network meta-analysis was done on data from randomized controlled trials (RCTs) involving belimumab 10 mg, anifrolumab 3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C334",
+    "label": "clear_apparent_cut",
+    "note": "La fuente habla de T helper 17. El cierre T helper 1 no completa ese identificador; además la frase queda sintácticamente abierta."
+  },
+  {
+    "review_id": "C335",
+    "label": "no_clear_cut",
+    "note": "La conclusión y la nota explicativa final están cerradas."
+  },
+  {
+    "review_id": "C336",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «her's blood, her age, and the thickness of the fluid at the back of the fetus's neck (nuchal translucency). This test can find trisomy 21, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C337",
+    "label": "clear_apparent_cut",
+    "note": "Termina en Zn( sin completar el término químico."
+  },
+  {
+    "review_id": "C338",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A study of 158 patients with COVID-19 was done in Wuhan, China from January 27 to April 5, 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C339",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ity and cleaning out the cyst cavity through specific points of entry. 58 patients were given this treatment between August 2007 and March 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C340",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « dose of 7 mg of prednisone (range 3-10). The control group consisted of healthy non-transplant subjects taking a median dose of 10 mg (10-3». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C341",
+    "label": "clear_apparent_cut",
+    "note": "La enumeración de citoquinas queda cortada en IL-."
+  },
+  {
+    "review_id": "C342",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ical patients. 2. The team selected CP donors who: - Had a mild or moderate case of COVID-19 - Tested positive for the virus causing COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C343",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «1. Kidney stones are a common and costly health issue in the US. The number of people with kidney stones rose from 3.8% in 1970 to 8.8% in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C344",
+    "label": "clear_apparent_cut",
+    "note": "La fecha queda sin valor después de increased ... to 8.8% in."
+  },
+  {
+    "review_id": "C345",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nses based on the SLE 4 Responder Index (SRI4) compared to those on placebo. Belimumab (10 mg) was significantly better than anifrolumab (30». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C346",
+    "label": "no_clear_cut",
+    "note": "La última viñeta concluye la comparación de trisomías; no tiene punto, pero es completa."
+  },
+  {
+    "review_id": "C347",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «were absorbed by the prostate in rats. 2. Rats were given one of these three Zn compounds daily for 30 days at three different doses (3.0, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C348",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «e effectiveness of different Zn compounds (sulfate, gluconate, and citrate) when given daily to male rats for 30 days at three doses (3.0, 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C349",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «127 patients with COVID-19 and 176 without COVID-1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C350",
+    "label": "clear_apparent_cut",
+    "note": "Anuncia resultados comparativos con dos puntos y no los desarrolla."
+  },
+  {
+    "review_id": "C351",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have 4 to 6 dreams every night after they turn ten. This means that each year, a person might have around 2,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C352",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «twelve poor districts controlled by the wealthy Capitol. The Capitol has complete power over the nation. Each district, including District 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C353",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C354",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « small stream in the Andes mountains of Peru. Two years and four months later, Ed arrived at the river's mouth in Brazil, having walked 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C355",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In Britain, people spend over £1,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C356",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «spite stories that make us think the world is more violent. From the end of World War II to 1990, there were 30 wars that killed over 100,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C357",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Spider venom is present in most spider species. Its purpose is to stun or kill prey, not to harm humans. Only 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C358",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «eople have 4 to 6 dreams every night after they turn ten. This means that by the time a person reaches 80, they might have had around 140,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C359",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «rom a Potentially Hazardous Asteroid (PHA) is to use an eight-ton rocket with a nuclear bomb. This idea was in the movie \"Armageddon\" in 199». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C360",
+    "label": "no_clear_cut",
+    "note": "El cuerpo y la nota final son completos."
+  },
+  {
+    "review_id": "C361",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «PwC conducted a worldwide survey with over 40,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C362",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «a small stream in the Andes mountains of Peru. Two years and four months later, he arrived at the river's mouth in Brazil after walking 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C363",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The rover checks the air near it regularly. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C364",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Scallion is published once a week and given for free in school buildings, with about 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C365",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ets. Some of these dogs were born wild, while others are pets that have been abandoned. Some dogs live alone and others live in groups. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C366",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have 4 to 6 dreams every night after they turn 10. This means that by age 80, a person might have had around 140,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C367",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C368",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «d at a small stream in the Andes mountains of Peru and reached the river's end in Brazil after two years and four months, having walked 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C369",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The rover checks the air around it regularly. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C370",
+    "label": "clear_apparent_cut",
+    "note": "La comparación de porcentajes queda en from 3 percent to sin segundo valor."
+  },
+  {
+    "review_id": "C371",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «At Girox Foods, we see an annual employee turnover of around 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C372",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have 4 to 6 dreams each night after they turn ten. This means that by age 80, they might have had around 140,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C373",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « control over the nation. Each district, including District 12 where the story starts, produces different things for the Capitol. District 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C374",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ings ranging from small tags to large, colorful pictures of people on building sides. Sometimes they use cranes for their big projects. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C375",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The rover checks the air around it regularly. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C376",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A new trend is happening instead of consumerism - not buying anything. This idea started in Canada in the 199». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C377",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have around four to six dreams each night after they turn ten. This adds up to about 2,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C378",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A way to protect Earth from an asteroid (PHA) is using a nuclear weapon to break it apart. This idea was in the movie Armageddon in 199». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C379",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «lo. They paint things from small to large, colorful pictures of people on building sides. Sometimes they use cranes to help them paint. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C380",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C381",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «more than 4,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C382",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The rover checks the air on Mars regularly. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C383",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Spider venom is found in many spider species. Its purpose is to immobilize prey, not to harm humans. Only 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C384",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Scallion is published once a week and given for free in faculty buildings, with about 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C385",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ts. Some of these dogs were born in the wild, while others were once pets that were abandoned. Some live alone, but many live in packs. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C386",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have around 2,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C387",
+    "label": "no_clear_cut",
+    "note": "La respuesta y la nota final están cerradas."
+  },
+  {
+    "review_id": "C388",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C389",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C390",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Hunger Games is a popular book for teens and young adults written by American author Suzanne Collins. It was published in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C391",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Mars rover checks the air often. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C392",
+    "label": "no_clear_cut",
+    "note": "La conclusión y la nota final son completas."
+  },
+  {
+    "review_id": "C393",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « of these dogs were born in the wild, while others were once pets that were abandoned. Both individual dogs and dog packs can be found. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C394",
+    "label": "no_clear_cut",
+    "note": "El cuerpo y la nota final están cerrados."
+  },
+  {
+    "review_id": "C395",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en « things, from small tags to large, colorful images of people on building sides. Sometimes they use cranes to help them with their work. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C396",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «A major survey was carried out by PricewaterhouseCoopers (PwC) with over 40,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C397",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C398",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C399",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Mars rover checks the air often. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C400",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «nd 35,000 wild dogs. These dogs were either born in the wild or abandoned by their owners. Some live alone, while others live in packs. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C401",
+    "label": "no_clear_cut",
+    "note": "La oración final está completa; Confidence: 90% es metatexto añadido, no corte numérico."
+  },
+  {
+    "review_id": "C402",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Two large surveys looked at what millennials (people born between 1983 and 199». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C403",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker spend 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C404",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «\"The Hunger Games is a popular book, written by American author Suzanne Collins, for teenagers and young adults. It was published in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C405",
+    "label": "no_clear_cut",
+    "note": "El párrafo termina completo y la lista añadida de instrucciones tiene viñetas completas."
+  },
+  {
+    "review_id": "C406",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «cow, Russia. Some of these dogs were born in the city, while others were pets that people abandoned. These dogs live alone or in packs. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C407",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «ng to value graffiti and street art more. There have been big exhibitions of street art in galleries in Paris, London, and Los Angeles. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C408",
+    "label": "no_clear_cut",
+    "note": "El cuerpo está completo; el paréntesis final indica un supuesto número de caracteres."
+  },
+  {
+    "review_id": "C409",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C410",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «\"The Hunger Games\" is a popular book for young people, written by American author Suzanne Collins. It was published in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C411",
+    "label": "no_clear_cut",
+    "note": "El párrafo está completo; la atribución final entre paréntesis es metatexto, no un corte."
+  },
+  {
+    "review_id": "C412",
+    "label": "no_clear_cut",
+    "note": "El cuerpo termina completo; el paréntesis final indica un supuesto número de palabras."
+  },
+  {
+    "review_id": "C413",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Mars rover checks the air often, and in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C414",
+    "label": "no_clear_cut",
+    "note": "El cuerpo termina completo; el paréntesis final indica un supuesto número de palabras."
+  },
+  {
+    "review_id": "C415",
+    "label": "no_clear_cut",
+    "note": "El párrafo termina completo; Original text by ChatGPT es una atribución añadida."
+  },
+  {
+    "review_id": "C416",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Moscow is home to around 35,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C417",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «art in galleries in Paris, London, and Los Angeles. The American artist Elura Emerald even held a street art show in a New York gallery in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C418",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Many people have 4 to 6 dreams every night after they turn 10. This means that by the time they are 80, they would have had around 140,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C419",
+    "label": "no_clear_cut",
+    "note": "El párrafo está completo y termina con una URL de atribución."
+  },
+  {
+    "review_id": "C420",
+    "label": "no_clear_cut",
+    "note": "El cuerpo termina completo; el paréntesis final indica un supuesto número de palabras."
+  },
+  {
+    "review_id": "C421",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «graffiti tags and large, colorful pictures of people on the sides of buildings. Sometimes they use cranes to help them with their work. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C422",
+    "label": "no_clear_cut",
+    "note": "La nota explicativa final está cerrada y el cuerpo no queda interrumpido."
+  },
+  {
+    "review_id": "C423",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «4,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C424",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «d at a small stream in the Andes mountains of Peru and reached the river's end in Brazil after two years and four months, having walked 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C425",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «\"The Hunger Games\" is a popular book for young people, written by American author Suzanne Collins. It was published in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C426",
+    "label": "no_clear_cut",
+    "note": "La nota final se cierra después de una explicación completa."
+  },
+  {
+    "review_id": "C427",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Mars rover checks the air often, and in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C428",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «hat the mouth, throat, and tongue of early humans had developed in a way that would have allowed them to make complex sounds by about 100,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C429",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have around four to six dreams every night after they turn ten. This means that each year, a person might have about 2,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C430",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «PricewaterhouseCoopers (PwC) conducted a worldwide survey, gathering over 40,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C431",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «a small stream in the Andes mountains of Peru and finished at the river's end in Brazil, two years and four months later, after walking 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C432",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Mars rover checks the air around it regularly. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C433",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «in wars than soldiers. On a positive note, for civilians, the likelihood of dying from violent crime is now nine times less than it was in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C434",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «At Girox Foods, the yearly employee turnover is around 1». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C435",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The wild dogs of Moscow are fascinating because they live in the city. There are around 35,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C436",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Most people have 4 to 6 dreams each night after they turn 10. This adds up to around 2,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C437",
+    "label": "no_clear_cut",
+    "note": "La respuesta y la nota explicativa final están cerradas."
+  },
+  {
+    "review_id": "C438",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «l tags to large, vibrant pictures of people on building sides. Often, they use cranes to help them with their work because it's so big. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C439",
+    "label": "no_clear_cut",
+    "note": "El cuerpo termina completo; el paréntesis final indica un supuesto número de caracteres."
+  },
+  {
+    "review_id": "C440",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «Pi and Richard Parker, a tiger, are in a lifeboat for 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C441",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C442",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «afford from the United Kingdom is the first person to walk from the source to the mouth of the Amazon River. The journey, which covered 6,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C443",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «\"The Hunger Games\" is a popular book for teens and young adults, written by American author Suzanne Collins. It was published in 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C444",
+    "label": "no_clear_cut",
+    "note": "El cuerpo y la nota final están completos."
+  },
+  {
+    "review_id": "C445",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The rover checks the air often. In 2». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  },
+  {
+    "review_id": "C446",
+    "label": "clear_apparent_cut",
+    "note": "La salida termina en «The Scallion is a weekly student newspaper, handed out for free in faculty buildings. It has about 10,00». El cierre deja una cantidad, fecha, intervalo, término técnico o construcción sintáctica aparentemente sin completar; no se basa solo en la falta de punto."
+  }
+]

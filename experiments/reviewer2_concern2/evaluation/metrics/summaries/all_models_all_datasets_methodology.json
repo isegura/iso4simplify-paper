@@ -1,0 +1,12 @@
+{
+  "seeds": [
+    42,
+    44,
+    46
+  ],
+  "sd_ddof": 1,
+  "configurations": 108,
+  "corpus_bleu_not_sentence_mean": true,
+  "generation_calls": 0,
+  "interpretation": "Descriptive spread across three constrained demonstration selections; no equivalence or inferential test."
+}

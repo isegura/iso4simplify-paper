@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_23_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_23_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "\"We analyzed 18 studies with 4843 participants comparing bisphosphonates to regular treatments.\n\nMain result: Bisphosphonates didn't clearly change the number of patients with less pain (40 more per 1000 took bisphosphonates, 19 fewer to 114 more).\n\nSecondary results: Bisphosphonates probably decreased skeletal-related events in prostate cancer patients with bone metastases (58 fewer events per 1000, 85 fewer to 27 fewer). We found no significant difference in death rates.\n\nBisphosphonates probably increased nausea and renal adverse events (7 more cases of nausea and 22 more renal events per 1000). We found no clear difference in jaw osteonecrosis cases.\n\nBisphosphonates likely reduce disease progression. However, they may increase renal impairment and nausea risks.\n\nFuture studies should focus on patient-important outcomes like quality of life and pain, using standardized tools.\"",
+  "metadata": {
+    "wall_time_s": 86.630797,
+    "done_reason": "stop",
+    "eval_count": 247,
+    "prompt_eval_count": 1937,
+    "total_duration": 84585617000,
+    "load_duration": 3496900,
+    "prompt_eval_duration": 7873202000,
+    "eval_duration": 76424862000,
+    "total_duration_s": 84.585617,
+    "prompt_eval_duration_s": 7.873202,
+    "eval_duration_s": 76.424862,
+    "prompt_tokens_per_s": 246.0244,
+    "eval_tokens_per_s": 3.2319,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

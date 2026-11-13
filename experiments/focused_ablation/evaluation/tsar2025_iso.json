@@ -1,0 +1,36 @@
+{
+  "fingerprint": {
+    "prediction": "a761059b70f291e029f58d8cf8abf8a51a1f004ae057ccd4d7c6b6c5432789fe",
+    "evaluator": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+    "meaningbert_module": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+    "metric_runtime": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+    "meaningbert_provenance": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+    "loader": "2f518e2279aad46e65198889b800b6df4cec59dce658b1cdc163974fc57eba5e",
+    "driver": "0f50cb88449d1fa07558c7a0ee0f141263923c8b7f551976705ebf6d51d7d096",
+    "versions": {
+      "evaluate": "0.4.6",
+      "sacrebleu": "2.6.0",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128",
+      "numpy": "2.4.3"
+    },
+    "gold": "da8163752fc79ba846cd2aa11217e7c7fd371797ff04bf0b782ef244d6878c72"
+  },
+  "record": {
+    "dataset": "tsar2025",
+    "prompt": "iso",
+    "n": 100,
+    "BLEU": 28.37,
+    "SARI": 46.68,
+    "FKGL": 8.17,
+    "FRE": 62.26,
+    "BERTScore-F1": 0.919,
+    "MeaningBERT": 80.84,
+    "output_length": 78.37,
+    "compression_ratio": 0.933982125121744,
+    "copy_rate": 0.5797285024602943
+  },
+  "elapsed_seconds": 7.8824101999998675
+}

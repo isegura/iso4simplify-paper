@@ -1,0 +1,10 @@
+dataset,prompt,inputs,min_characters,max_characters,above_original_character_max
+cochrane,iso,125,12233,28169,94
+cochrane,iso_examples,125,22767,38703,94
+cochrane,minimal,125,9137,25073,94
+plaba,iso,148,13008,23809,22
+plaba,iso_examples,148,23543,34344,22
+plaba,minimal,148,9913,20714,22
+tsar2025,iso,100,6125,8465,8
+tsar2025,iso_examples,100,16660,19000,8
+tsar2025,minimal,100,3030,5370,8

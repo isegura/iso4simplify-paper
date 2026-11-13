@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_12_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_12_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Three studies, with a total of 931 participants, looked at different treatments given before surgery for people with anaplastic oligodendroglioma or anaplastic oligoastrocytoma. The studies did not hide from participants or staff which treatment they were getting, so they are at high risk of bias in this regard. However, they were low risk of bias in other ways.\n\nOne study, the European Organisation for Research and Treatment of Cancer (EORTC) trial, found that people who received radiation therapy (RT) plus procarbazine, lomustine and vincristine (PCV) chemotherapy lived longer than those who received RT alone. The median overall survival (OS) was 3.5 years for the RT plus PCV group, compared to 2.6 years for the RT alone group (P value = 0.018). This result was not apparent in a 2008 Cochrane review, but was reported 10 years after the conclusion of enrolment.\n\nTwo studies found that certain biomarkers, including codeletion of complete chromosome arms 1p and 19q and IDH-1 or -2 mutation, were prognostic factors for OS in people with anaplastic oligodendroglioma or anaplastic oligoastrocytoma. These biomarkers were also predictive for OS in one trial. The third trial evaluated these biomarkers prospectively and found them prognostic for progression-free survival.\n\nGiving PCV early, either before or after RT, seems to improve OS in people with anaplastic oligodendroglioma or anaplastic oligoastrocytoma. Use of biomarkers, including codeletion of chromosomes 1p and 19q with or without IDH-1 or -2 mutation, can identify a subset of people with increased sensitivity to combined PCV and RT. The important role of biomarkers was supported in all of the RCTs examined, and prospective evaluation should be undertaken in future studies. However, PCV was associated with significant grade 3 and 4 toxicities, and whether temozolomide can be substituted for this remains unclear.",
+  "metadata": {
+    "wall_time_s": 176.734134,
+    "done_reason": "stop",
+    "eval_count": 505,
+    "prompt_eval_count": 3139,
+    "total_duration": 174688039400,
+    "load_duration": 3964000,
+    "prompt_eval_duration": 4461884000,
+    "eval_duration": 170199143000,
+    "total_duration_s": 174.688039,
+    "prompt_eval_duration_s": 4.461884,
+    "eval_duration_s": 170.199143,
+    "prompt_tokens_per_s": 703.5145,
+    "eval_tokens_per_s": 2.9671,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_94_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_94_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "67 randomized trials with 6197 participants were studied. The trials had a high risk of bias. 5771 participants from 64 trials had data for review outcomes. Most comparisons showed no differences, and where they did, it was in single trials with small sample sizes.\n\nThe only primary outcome with differences from multiple trials was a higher rate of adverse events with radiofrequency dissecting sealer than with the clamp-crush method (rate ratio 1.85, 95% CrI 1.07 to 3.26; 250 participants; 3 studies; very low-quality evidence).\n\nSecondary outcomes with differences from multiple trials were:\n- Higher blood transfusion proportion in the low central venous pressure group than in the acute normovolemic haemodilution plus low central venous pressure group (OR 3.19, 95% CrI 1.56 to 6.95; 208 participants; 2 studies; low-quality evidence).\n- Lower blood transfusion quantity (red blood cells) in the fibrin sealant group than in the control (MD −0.53 units, 95% CrI −1.00 to −0.07; 122 participants; 2 studies; very low-quality evidence).\n- Higher blood transfusion quantity (fresh frozen plasma) in the oxidised cellulose group than in the fibrin sealant group (MD 0.53 units, 95% CrI 0.36 to 0.71; 80 participants; 2 studies; very low-quality evidence).\n- Less blood loss, shorter hospital stays, and shorter operating times with low central venous pressure than with control (very low-quality evidence).\n\nThere is low-quality evidence that liver resection with a radiofrequency dissecting sealer may lead to more adverse events than with the clamp-crush method. Low-quality evidence also suggests that the proportion of people needing a blood transfusion is higher with low central venous pressure than with acute normovolemic haemodilution plus low central venous pressure. Very low-quality evidence indicates that blood transfusion quantity (red blood cells) is lower with fibrin",
+  "metadata": {
+    "wall_time_s": 169.020041,
+    "done_reason": "length",
+    "eval_count": 512,
+    "prompt_eval_count": 1888,
+    "total_duration": 166980733900,
+    "load_duration": 2683000,
+    "prompt_eval_duration": 7193255000,
+    "eval_duration": 159649813000,
+    "total_duration_s": 166.980734,
+    "prompt_eval_duration_s": 7.193255,
+    "eval_duration_s": 159.649813,
+    "prompt_tokens_per_s": 262.4681,
+    "eval_tokens_per_s": 3.207,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

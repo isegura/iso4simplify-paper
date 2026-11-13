@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "reference_pairing_checks": 54,
+  "paired_effects_checked": 36,
+  "bh_families_checked": 2,
+  "bootstrap_intervals_checked": 36,
+  "full_reports": 18,
+  "low_sari_reports": 18,
+  "all_html_links_resolve": true,
+  "unique_latex_labels": true,
+  "input_output_hashes_match": true,
+  "new_inference_calls": 0,
+  "latex_compilation": "success: built-in desktop compiler, latex_validation/main.tex",
+  "statistics_core_tests": "4 synthetic tests passed",
+  "html_visual_browser_preview": "not available: local preview connection timed out; structural/content/link checks passed",
+  "overleaf_integration": "pending"
+}

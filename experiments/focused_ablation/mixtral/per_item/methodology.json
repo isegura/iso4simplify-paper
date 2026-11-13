@@ -1,0 +1,12 @@
+{
+  "comparisons": 6,
+  "paired_rows": 746,
+  "SARI": "raw standard metric per item from paired analysis",
+  "BLEU_sentence": "sacrebleu.sentence_bleu, same helper as existing item evaluation; not corpus BLEU",
+  "semantic_original": "existing original prediction item columns, aligned by row; aggregate reproduction already verified",
+  "semantic_ablated": "existing eval_utils item functions; pinned MeaningBERT",
+  "readability": "textstat per-item, existing two-decimal convention",
+  "additional": "same per-item definitions as completed aggregate evaluation",
+  "rounding": "per-item semantic/readability rounding follows existing code; averages may differ slightly from separately rounded aggregate scores",
+  "prediction_files": "read only; no originals or ablations rewritten"
+}

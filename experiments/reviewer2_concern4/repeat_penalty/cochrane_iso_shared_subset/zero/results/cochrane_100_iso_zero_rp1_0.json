@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_100_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_100_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "20 studies with 2125 participants and 23 treatments were analyzed. However, the treatments varied too much for the results to be combined. Each study used different methods, which can be divided into:\n\n- Treatments with a bleaching agent, like hydroquinone.\n- Triple-combination creams with hydroquinone, tretinoin, and fluocinolone acetonide.\n- Combo therapies with hydroquinone cream and glycolic acid peels.\n- Other options like rucinol, vitamin C iontophoresis, and Thiospot or Gigawhite.\n\nTriple-combination cream was better at lightening melasma than hydroquinone alone or when compared to other dual combinations. Azelaic acid (20%) was better than 2% hydroquinone but not 4% hydroquinone. Tretinoin was rated as improving melasma in one study, and it reduced melasma severity in both studies. Thiospot was more effective than a placebo.\n\nMost side effects were mild and temporary, including skin irritation, itching, burning, and stinging. The quality of the studies was generally poor, and current treatments are not fully effective. High-quality trials are needed to determine the best treatments and their long-term effects.",
+  "metadata": {
+    "wall_time_s": 94.228049,
+    "done_reason": "stop",
+    "eval_count": 289,
+    "prompt_eval_count": 1498,
+    "total_duration": 92165788800,
+    "load_duration": 2603600,
+    "prompt_eval_duration": 4729603000,
+    "eval_duration": 87286035000,
+    "total_duration_s": 92.165789,
+    "prompt_eval_duration_s": 4.729603,
+    "eval_duration_s": 87.286035,
+    "prompt_tokens_per_s": 316.7285,
+    "eval_tokens_per_s": 3.311,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "mixtral",
+    "dataset": "plaba",
+    "prompt": "iso_examples",
+    "strategy": "few_retrieval",
+    "n": 148,
+    "SARI": 38.469121621621625,
+    "BERTScore-F1": 0.8846155405405406,
+    "MeaningBERT": 75.37675675675678,
+    "FKGL": 11.879256756756757,
+    "FRE": 42.432297297297296,
+    "BLEU": 15.91833154000345,
+    "empty_n": 1,
+    "capped_n": 6,
+    "mean_LEN_COMPLEX": 211.35135135135135,
+    "mean_LEN_PRED": 161.66216216216216,
+    "mean_LEN_REF": 226.1283783783784,
+    "mean_compression_ratio": 0.7902276946665805,
+    "mean_copy_rate": 0.6787230681359097
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/predictions/mixtral/predictions_mixtral_latest_plaba_iso_examples_few_retrieval.csv": "cd475d7d7f31ace4dfce33974676e16c11a59eabf69408b0e7216c0f5f1962bb",
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/logs/mixtral/mixtral_plaba_iso_examples_few_retrieval.complete.json": "124e6af7fcaf3f545abde60e00e3e82001c36decc6c515640599e83716a1e4bb",
+      "data/plaba/plaba_test.csv": "aecfcf5af437a2c3ec6c0898f04b839a8d92b90c4136f4a3c66b7eaf96a94ebd"
+    },
+    "manifest": "64b5f5dcb9e462ef187173edc61913489fd0e6978413f2ffbdb38da6a723b13c",
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "torch": "2.10.0",
+      "transformers": "5.3.0"
+    },
+    "code": {
+      "experiments/reviewer2_concern5/evaluate_retrieval.py": "358ecdc7ad282c81cb9a98164b35b63cf476aea4859232ab24600e0d0e3cac8f",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "experiments/reviewer2_concern2/evaluate_descriptors.py": "a0820b79bc26bcbf8bf36492eec74c283ca6af4f47e9c7423bffecb89de4a7fa"
+    }
+  },
+  "items_sha256": "6fae36d1920326961256ce4231a1449d6006ea1572792d0c3a49b7f2dcfe99f4",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 55.35261120001087
+}

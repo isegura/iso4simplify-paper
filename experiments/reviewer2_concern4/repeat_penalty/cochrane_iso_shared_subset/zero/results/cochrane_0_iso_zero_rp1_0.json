@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_0_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_0_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "We reviewed 11 studies with 414 participants. The studies compared different types of ultrasound therapy and other treatments. Many studies had a high or unclear risk of bias. Overall, there's not enough evidence to say one ultrasound regimen is better than another.\n\nTwo studies reported that ultrasound might help lessen symptoms in the short term. The first study, with 68 participants, found that ultrasound plus placebo may improve symptoms compared to placebo alone. The second study, with 60 participants, found that ultrasound plus splint may improve symptoms more than splint alone, but less than low-level laser therapy plus splint. However, these findings should be interpreted with caution due to study limitations.\n\nThere were no significant differences in symptoms, function, or nerve activity between different ultrasound frequencies, intensities, or types of interventions. Only three studies reported on adverse effects, so more data is needed to determine the safety of ultrasound therapy.\n\nThere is poor quality evidence suggesting that ultrasound may be more effective than placebo for short- or long-term symptom improvement in people with carpal tunnel syndrome (CTS). There is insufficient evidence to support the use of one ultrasound regimen over another or to show that ultrasound is more effective than other non-surgical treatments for CTS. More rigorous studies are needed to determine the effectiveness and safety of ultrasound therapy for CTS.",
+  "metadata": {
+    "wall_time_s": 125.603829,
+    "done_reason": "stop",
+    "eval_count": 316,
+    "prompt_eval_count": 1607,
+    "total_duration": 123539856200,
+    "load_duration": 15962269300,
+    "prompt_eval_duration": 10861336000,
+    "eval_duration": 96700519000,
+    "total_duration_s": 123.539856,
+    "prompt_eval_duration_s": 10.861336,
+    "eval_duration_s": 96.700519,
+    "prompt_tokens_per_s": 147.956,
+    "eval_tokens_per_s": 3.2678,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

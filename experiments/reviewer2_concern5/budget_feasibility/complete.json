@@ -1,0 +1,52 @@
+{
+  "status": "complete_feasibility_only",
+  "queries": 373,
+  "model_prompt_queries": 2238,
+  "all_fit": true,
+  "changed_source_rows": 71,
+  "kept_top1_all": true,
+  "kept_top2_all": false,
+  "methods": {
+    "unchanged_top3": 302,
+    "keep_top2_ranked_scan": 55,
+    "keep_top1_short_completion_witness": 13,
+    "keep_top2_short_witness": 3
+  },
+  "frozen_manifest_sha256": "df0c4988120aabf713c7d3d56495b855e0ef94e3b609f360f8f9e211bcc3544d",
+  "frozen_inputs_unchanged": true,
+  "input_sha256": {
+    "data/cochrane/cochrane_train.csv": "26a0933de01af683fe45d6da2613ed3637828fe08719e7db673f203eb32ae640",
+    "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e",
+    "experiments/reviewer2_concern5/embeddings/cochrane.npz": "03cf5cfb6c1dc17643946f8c3189509a1f928e67a293ce1ecf334f590add9a16",
+    "experiments/reviewer2_concern5/embeddings/cochrane.json": "088d1fd94ed1355572d953001cbce971ec4e85d661536e14f4aebebd9b82ce12",
+    "data/plaba/plaba_train.csv": "5102a4d29a83aa2bd33640188fa7e77c23f9c8b1a3bce9aaf395e85bdfcbdf4c",
+    "data/plaba/plaba_test.csv": "aecfcf5af437a2c3ec6c0898f04b839a8d92b90c4136f4a3c66b7eaf96a94ebd",
+    "experiments/reviewer2_concern5/embeddings/plaba.npz": "9369460b30336a9fb72fe3ac030190ce574146b59f369eb0ec77e4b2057981f5",
+    "experiments/reviewer2_concern5/embeddings/plaba.json": "e4da04d546fdec0ee9c8f2d539c4c8abcdbfc3ba62a4581d12061be912acae42",
+    "data/tsar2025/tsar2025_train.csv": "60a3a531c2834ad799033f4dcd8e28c57b7fec86cd9af055a79dd9c9c8a5f32b",
+    "data/tsar2025/tsar2025_test.csv": "dc081d1947d13f77b0eb5b93a0350bcc9fadf65ebe90a54bb1a3835ac6baa9b1",
+    "experiments/reviewer2_concern5/embeddings/tsar2025.npz": "f2c8a6c353383a42187269ab4c4d534628ee281c91d0e4f1fa79f36a08bda5e9",
+    "experiments/reviewer2_concern5/embeddings/tsar2025.json": "567d149983ba4c5ac3e8a90b8f18a7bc599767ec10bae0b20e7f43a88844c281"
+  },
+  "code_sha256": "8004a0af2cc68ccbbced08c401f236fc8824d3c46520d7779ad4fa931e3baeb1",
+  "generation_calls": 0,
+  "embedding_calls": 0,
+  "active_prompts_changed": false,
+  "active_experiment_changed": false,
+  "tsar_reference_policy_changed": false,
+  "search_is_globally_optimal": false,
+  "short_witness_candidates": 30,
+  "ranked_scan_candidates": 128,
+  "independent_table_checks": {
+    "all_2238_fit": true,
+    "all_sources_have_three_examples": true,
+    "same_selection_shared_across_six_conditions": true,
+    "unchanged_rows": 302,
+    "one_original_example_replaced": 68,
+    "two_original_examples_replaced": 3,
+    "maximum_total_budget": 8190,
+    "minimum_spare_tokens": 2,
+    "maximum_selected_retrieval_rank": 3548,
+    "original_frozen_manifest_verified_afterwards": true
+  }
+}

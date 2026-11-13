@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_58_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_58_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We analyzed 12 studies with 811 participants who did Tai Chi or usual care. The studies lasted for 6 weeks to one year and all were randomized controlled trials. Tai Chi showed a longer six-minute walk distance and better lung function compared to usual care. However, the effects on reducing shortness of breath and improving quality of life are unclear. There is not enough data to evaluate the impact of Tai Chi on exercise capacity, balance, and muscle strength. Tai Chi was found to be as effective as other interventions (like breathing exercises or exercise) in improving symptoms and physical and psychological outcomes. No adverse events were reported, meaning Tai Chi is safe to practice for people with COPD. The quality of evidence ranged from very low to moderate. When Tai Chi was added to other interventions, it did not show superiority or additional effects compared to other interventions alone. More studies are needed to determine the most beneficial Tai Chi style and number of forms.",
+  "metadata": {
+    "wall_time_s": 75.988909,
+    "done_reason": "stop",
+    "eval_count": 203,
+    "prompt_eval_count": 3249,
+    "total_duration": 73927133000,
+    "load_duration": 6689500,
+    "prompt_eval_duration": 5836526000,
+    "eval_duration": 68062145999,
+    "total_duration_s": 73.927133,
+    "prompt_eval_duration_s": 5.836526,
+    "eval_duration_s": 68.062146,
+    "prompt_tokens_per_s": 556.6668,
+    "eval_tokens_per_s": 2.9826,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

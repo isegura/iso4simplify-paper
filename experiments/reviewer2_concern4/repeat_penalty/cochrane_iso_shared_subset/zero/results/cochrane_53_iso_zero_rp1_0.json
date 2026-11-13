@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_53_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_53_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "A study looked at 240 children, aged 1 to 18, with mild to moderate OSA (AHI of 1 to 30 per hour). The study was done in five trials at specialized sleep clinics. Follow-up time was 6 weeks to 4 months. \n\nThree trials with 137 children compared intranasal steroids to a placebo. Two trials with 103 children compared oral montelukast to a placebo. One trial was left out of the study, and another had concerns about reporting results correctly. \n\nChildren on intranasal corticosteroids had a lower AHI (MD −3.18, 9",
+  "metadata": {
+    "wall_time_s": 56.880887,
+    "done_reason": "stop",
+    "eval_count": 151,
+    "prompt_eval_count": 1949,
+    "total_duration": 54822086800,
+    "load_duration": 4230200,
+    "prompt_eval_duration": 8047280000,
+    "eval_duration": 46469320000,
+    "total_duration_s": 54.822087,
+    "prompt_eval_duration_s": 8.04728,
+    "eval_duration_s": 46.46932,
+    "prompt_tokens_per_s": 242.1936,
+    "eval_tokens_per_s": 3.2495,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

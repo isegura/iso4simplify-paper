@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "configurations": 162,
+  "structural_means": 90,
+  "response_instances": 20142,
+  "source_groups": 335,
+  "scalar_effects_and_SEs_checked": 57,
+  "omnibus_rank_and_F_checked": 15,
+  "BH_families_checked": [
+    9,
+    48,
+    15
+  ],
+  "bootstrap_draws": 10000,
+  "pointwise_intervals_checked": 57,
+  "input_output_delivery_hashes_match": true,
+  "synthetic_tests": 4,
+  "latex_review_project_compilation": "success using built-in desktop compiler",
+  "complete_overleaf_integration": "pending",
+  "new_inference_calls": 0,
+  "new_metric_evaluations": 0
+}

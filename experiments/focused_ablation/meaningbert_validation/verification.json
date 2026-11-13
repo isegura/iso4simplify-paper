@@ -1,0 +1,107 @@
+{
+  "all_match": true,
+  "meaningbert_module_sha256": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+  "comparisons": [
+    {
+      "dataset": "cochrane",
+      "prompt": "minimal",
+      "n": 125,
+      "saved": 66.44,
+      "recomputed": 66.44,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 12.092236200000116,
+      "prediction_sha256": "187e27b3b78c9b603adc57c62237aea3f4d32ad915ce68e7ef04ea9933ed3b36"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso",
+      "n": 125,
+      "saved": 71.96,
+      "recomputed": 71.96,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 11.380828999999721,
+      "prediction_sha256": "6656e827ac29a688ba825bc113f288a405dd299bc1355f4426bc7c49c2d05a5e"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "n": 125,
+      "saved": 79.21,
+      "recomputed": 79.21,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 11.168671900000845,
+      "prediction_sha256": "8f45cb4d0ac941170b0c3d2198059d97c66e717611279f83f69c19e278e6afd6"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "minimal",
+      "n": 148,
+      "saved": 61.81,
+      "recomputed": 61.81,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 12.672373100000186,
+      "prediction_sha256": "783f031353ad719e899b9674f0ef7dec2ea3eae0a20ebb0e0357ce266a37ca31"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso",
+      "n": 148,
+      "saved": 68.19,
+      "recomputed": 68.19,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 13.034610699998666,
+      "prediction_sha256": "796b802c37c7fbd2b42bf5f3742c1c4bac2643ba3acba4346964e62180ff4333"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso_examples",
+      "n": 148,
+      "saved": 73.15,
+      "recomputed": 73.15,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 12.989331599999787,
+      "prediction_sha256": "7c37d27604f2c7b6bed17fcd8cb549fbab861eeca6366c6b095d619d79681ee2"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "minimal",
+      "n": 100,
+      "saved": 81.08,
+      "recomputed": 81.08,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 5.406426499999725,
+      "prediction_sha256": "310749ce576aaa8941235086c7650aeef5355d5e2e13c5c139e1b384a4cb359b"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso",
+      "n": 100,
+      "saved": 80.84,
+      "recomputed": 80.84,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 5.656939200000124,
+      "prediction_sha256": "a761059b70f291e029f58d8cf8abf8a51a1f004ae057ccd4d7c6b6c5432789fe"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso_examples",
+      "n": 100,
+      "saved": 83.51,
+      "recomputed": 83.51,
+      "delta": 0.0,
+      "exact_at_reported_precision": true,
+      "elapsed_seconds": 5.443703099999766,
+      "prediction_sha256": "9b82aca044dc3e60fcb31a9e1fe4af77a3018cc2126e139cd2449e0b68abd6e0"
+    }
+  ],
+  "reference": "source",
+  "device": "CPU, unchanged original module"
+}

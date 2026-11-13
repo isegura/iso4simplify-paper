@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "scalar_comparisons": 92,
+  "global_strategy_pairs": 10,
+  "local_contexts": 6,
+  "BH_families": [
+    14,
+    78,
+    15
+  ],
+  "all_57_shared_contrasts_match_previous": true,
+  "omnibus_file_byte_identical": true,
+  "bootstrap_draws": 10000,
+  "coefficients_SEs_p_q_intervals_verified": true,
+  "latex_review_project_compilation": "success: built-in desktop compiler",
+  "live_overleaf_integration": "pending"
+}

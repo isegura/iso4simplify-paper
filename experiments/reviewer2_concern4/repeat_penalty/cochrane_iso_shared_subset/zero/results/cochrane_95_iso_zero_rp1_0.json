@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_95_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_95_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Fifteen studies looked at physostigmine given in four ways. Four studies, involving 29 people, used an IV infusion. Seven studies, with 131 people, used regular oral form. Four studies, with 1",
+  "metadata": {
+    "wall_time_s": 24.445125,
+    "done_reason": "stop",
+    "eval_count": 53,
+    "prompt_eval_count": 1765,
+    "total_duration": 22412894800,
+    "load_duration": 7061100,
+    "prompt_eval_duration": 6229144000,
+    "eval_duration": 15909984000,
+    "total_duration_s": 22.412895,
+    "prompt_eval_duration_s": 6.229144,
+    "eval_duration_s": 15.909984,
+    "prompt_tokens_per_s": 283.3455,
+    "eval_tokens_per_s": 3.3312,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

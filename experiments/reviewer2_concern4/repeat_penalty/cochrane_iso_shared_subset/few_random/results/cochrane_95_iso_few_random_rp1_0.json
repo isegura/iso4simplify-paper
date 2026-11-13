@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_95_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_95_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Fifteen studies were included, testing four ways of giving physostigmine to people with Alzheimer's disease. These methods were intravenous infusion, conventional oral form, controlled-release oral form, and a verum skin patch.\n\nNo useful results were found from the intravenous infusion trials. The few results from the conventional oral form showed no benefit of physostigmine compared with placebo.\n\nThe controlled-release physostigmine studies had some positive results, but only for a specific group of patients. When all relevant patients with Alzheimer's disease were given a fixed dose of physostigmine (mean 33 mg/day), there was a higher number of withdrawals, withdrawals due to adverse events, and patients suffering from various side effects compared with placebo at 24 weeks. There was no benefit on cognition.\n\nThe verum patch study showed that both doses of physostigmine were associated with higher numbers of adverse events compared with placebo at 24 weeks. There was no difference between physostigmine and placebo for numbers improved.\n\nThe evidence for the effectiveness of physostigmine for the symptomatic treatment of Alzheimer's disease is limited. Even in a controlled-release formulation, physostigmine showed no convincing benefit and adverse effects remained common, leading to a high rate of withdrawal.",
+  "metadata": {
+    "wall_time_s": 113.424674,
+    "done_reason": "stop",
+    "eval_count": 301,
+    "prompt_eval_count": 3540,
+    "total_duration": 111378749600,
+    "load_duration": 3165800,
+    "prompt_eval_duration": 8124334000,
+    "eval_duration": 103233086000,
+    "total_duration_s": 111.37875,
+    "prompt_eval_duration_s": 8.124334,
+    "eval_duration_s": 103.233086,
+    "prompt_tokens_per_s": 435.728,
+    "eval_tokens_per_s": 2.9157,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

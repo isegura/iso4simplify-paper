@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_36_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_36_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Six studies were included in a review of asthma patients using different inhaled corticosteroid (ICS) strategies. Four studies involved children and two involved adults. The studies lasted for 12 to 52 weeks and were of high quality. A total of 1211 patients with confirmed or suspected persistent asthma were included. \n\nThere was no significant difference in the risk of patients experiencing one or more exacerbations requiring oral corticosteroids between the intermittent and daily ICS groups. The intermittent ICS group had a smaller improvement in lung function, asthma control, and reliever use compared to the daily ICS group. However, there was no significant difference in the risk of serious adverse health events between the two groups. \n\nIn paediatric trials, intermittent ICS was associated with greater growth compared to daily treatment. There was low-quality evidence that intermittent and daily ICS strategies were similarly effective in the use of rescue oral corticosteroids and the rate of severe adverse health events. However, daily ICS was superior to intermittent ICS in several indicators of lung function, airway inflammation, asthma control, and reliever use. Both treatments appeared safe, but a modest growth suppression was associated with daily, compared to intermittent, inhaled budesonide and beclomethasone. \n\nClinicians should carefully weigh the potential benefits and harm of each treatment option, taking into account the unknown long-term impact of intermittent therapy on lung growth and lung function decline.",
+  "metadata": {
+    "wall_time_s": 127.545857,
+    "done_reason": "stop",
+    "eval_count": 345,
+    "prompt_eval_count": 3469,
+    "total_duration": 125480688000,
+    "load_duration": 4986800,
+    "prompt_eval_duration": 7531708000,
+    "eval_duration": 117924887000,
+    "total_duration_s": 125.480688,
+    "prompt_eval_duration_s": 7.531708,
+    "eval_duration_s": 117.924887,
+    "prompt_tokens_per_s": 460.5861,
+    "eval_tokens_per_s": 2.9256,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

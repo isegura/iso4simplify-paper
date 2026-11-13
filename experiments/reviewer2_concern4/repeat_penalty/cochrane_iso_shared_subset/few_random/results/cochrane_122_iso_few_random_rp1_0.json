@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_122_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_122_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Five studies (235 participants) looked at the impact of various interventions on the cognitive function of breast cancer survivors. The interventions included computer-assisted cognitive training, compensatory strategy training, meditation, and physical activity. All studies had a high risk of bias.\n\nThe results showed that computer-assisted cognitive training and compensatory strategy training had beneficial effects on objectively assessed cognitive function, subjectively reported cognitive function, and mental well-being. However, compensatory strategy training did not show any beneficial effect on physical or mental well-being immediately or two months post-intervention. In fact, lower mental well-being immediately post-intervention was observed in patients who received compensatory strategy training compared to wait-list controls.\n\nThe evidence for physical activity and meditation interventions on cognitive outcomes was unclear. Overall, the low-quality evidence suggests that non-pharmacological interventions may have the potential to reduce the risk of or ameliorate cognitive impairment following systemic cancer treatment. However, larger and more rigorous studies are needed to come to firmer conclusions. There is also a need to conduct research into cognitive impairment among cancer patient groups other than women with breast cancer.",
+  "metadata": {
+    "wall_time_s": 95.022019,
+    "done_reason": "stop",
+    "eval_count": 257,
+    "prompt_eval_count": 3300,
+    "total_duration": 92953115900,
+    "load_duration": 2412500,
+    "prompt_eval_duration": 6167424000,
+    "eval_duration": 86763712000,
+    "total_duration_s": 92.953116,
+    "prompt_eval_duration_s": 6.167424,
+    "eval_duration_s": 86.763712,
+    "prompt_tokens_per_s": 535.0694,
+    "eval_tokens_per_s": 2.9621,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

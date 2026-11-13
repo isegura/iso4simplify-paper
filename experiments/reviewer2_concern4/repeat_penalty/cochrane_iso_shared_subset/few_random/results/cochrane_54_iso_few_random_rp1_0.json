@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_54_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_54_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at four studies with 1154 participants, aged 50 to 9",
+  "metadata": {
+    "wall_time_s": 12.598617,
+    "done_reason": "stop",
+    "eval_count": 22,
+    "prompt_eval_count": 3040,
+    "total_duration": 10537941100,
+    "load_duration": 2086900,
+    "prompt_eval_duration": 3600285000,
+    "eval_duration": 6916079000,
+    "total_duration_s": 10.537941,
+    "prompt_eval_duration_s": 3.600285,
+    "eval_duration_s": 6.916079,
+    "prompt_tokens_per_s": 844.3776,
+    "eval_tokens_per_s": 3.181,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

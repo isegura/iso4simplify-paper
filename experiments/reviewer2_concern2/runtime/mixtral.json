@@ -1,0 +1,20 @@
+{
+  "model": "mixtral:latest",
+  "digest": "a3b6bef0f836ff29ddb576a80eeb1b7def43ec9b809466f62e96adb871fe8498",
+  "version": {
+    "version": "0.40.6"
+  },
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "llama",
+    "families": [
+      "llama"
+    ],
+    "parameter_size": "46.7B",
+    "quantization_level": "Q4_0"
+  },
+  "template": "[INST] {{ if .System }}{{ .System }} {{ end }}{{ .Prompt }} [/INST] {{ .Response }}\n",
+  "parameters": "stop                           \"[INST]\"\nstop                           \"[/INST]\"",
+  "system": null
+}

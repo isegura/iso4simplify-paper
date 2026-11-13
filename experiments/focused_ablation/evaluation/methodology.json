@@ -1,0 +1,21 @@
+{
+  "versions": {
+    "evaluate": "0.4.6",
+    "sacrebleu": "2.6.0",
+    "bert-score": "0.3.13",
+    "textstat": "0.7.13",
+    "transformers": "5.3.0",
+    "torch": "2.10.0+cu128",
+    "numpy": "2.4.3"
+  },
+  "sari": "standard; evaluate.load('sari'); no legacy fallback",
+  "original_metrics": "eval_utils.evaluate_predictions, English, eval_semantic=True; unchanged",
+  "meaningbert_reference": "source",
+  "tsar_references": "A2/B1 jointly via load_data_tsar",
+  "meaningbert_module_sha256": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+  "word_count": "len(text.split())",
+  "compression": "mean of output/source whitespace word count ratios",
+  "copy_rate": "mean fraction of output whitespace tokens occurring exactly in source token set; case-sensitive, punctuation retained; empty output=0",
+  "truncation": "all outputs retained, including done_reason=length",
+  "copy_rate_scale": "0 to 1; lexical overlap, not phrase-copy measurement"
+}

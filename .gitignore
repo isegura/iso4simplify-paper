@@ -30,3 +30,8 @@ Thumbs.db
 
 # History, datasets, and final evidence require explicit review before exclusion.
 # Ignore rules do not remove files already tracked by Git.
+
+# Scientific completion certificates required by frozen analyses.
+!experiments/**/logs/
+!experiments/**/logs/**/
+!experiments/**/logs/**/*.complete.json

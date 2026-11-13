@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "mixtral",
+    "dataset": "cochrane",
+    "prompt": "minimal",
+    "strategy": "few_random",
+    "selection_seed": 46,
+    "n": 125,
+    "SARI": 39.497279999999996,
+    "BERTScore-F1": 0.8737911999999999,
+    "MeaningBERT": 75.01056000000001,
+    "FKGL": 12.15448,
+    "FRE": 38.37464000000001,
+    "BLEU": 11.163836225757178,
+    "empty_n": 0,
+    "capped_n": 3
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern2/predictions/mixtral/seed_46/predictions_mixtral_latest_cochrane_minimal_few_random.csv": "95e4c6c663d743bf2f943d9c8d33e33310a3f94a343637fd3eee9a940ac324d3",
+      "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e"
+    },
+    "code": {
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/provenance.json": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda"
+    },
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128"
+    }
+  },
+  "items_sha256": "6804b9c9c1198899e55665393863dbd34db9788c1b6ad7ce02294487a5a7c7bf",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 15.522745900088921,
+  "historical_items_reused": false,
+  "predictions_verified_unchanged": true,
+  "methodology": "Historical rounded item scores averaged without further rounding; corpus BLEU; all rows retained; TSAR A2/B1 jointly; MeaningBERT versus source; BERTScore scale 0--1."
+}

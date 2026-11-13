@@ -1,0 +1,26 @@
+{
+  "status": "pilot_checks_passed",
+  "model": "llama",
+  "dataset": "tsar2025",
+  "outputs": 9,
+  "configurations_partial": 3,
+  "test_rows": [
+    0,
+    1,
+    2
+  ],
+  "source_alignment_verified": true,
+  "demonstration_ids_and_cefr_assignment_verified": true,
+  "all_prompt_counts_match_preflight": true,
+  "empty_outputs": 0,
+  "generation_limit_events": 0,
+  "full_configuration_certificates_expected": 0,
+  "review_is_execution_check_not_quality_validation": true,
+  "output_sha256": {
+    "predictions/llama/predictions_llama3_1_8b_tsar2025_iso_examples_few_retrieval.csv": "f451dfe5c0fe141539bf363ede9d6d6858b4c7b9dafb94f80869fb5773a4a34b",
+    "predictions/llama/predictions_llama3_1_8b_tsar2025_iso_few_retrieval.csv": "b9b28cb807d0e9f3b255c79e9d6b11f28cd7d5b19ad91fdcb773f97f96102cdb",
+    "predictions/llama/predictions_llama3_1_8b_tsar2025_minimal_few_retrieval.csv": "a20523710fc536c8a68ef7e007ebc2a9ce4c6704843fa2ecad632a361b943d4d"
+  },
+  "wall_time_seconds": 226.84198999999998,
+  "next_manual_step": "run_prepared.ps1 -Model llama; resume pilot rows without regeneration"
+}

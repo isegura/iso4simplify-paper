@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_105_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_105_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Multiple studies were reviewed to see how well various weight loss drugs worked in people with type 2 diabetes. The review included 22 randomized controlled trials with a total of 296 participants for fluoxetine, 2036 for orlistat, and 1047 for sibutramine. The drugs led to some weight loss, but the amount varied. Fluoxetine resulted in 5.1 kg of weight loss after 24 to 26 weeks, orlistat led to 2.0 kg of weight loss after 12 to 57 weeks, and sibutramine caused 5.1 kg of weight loss after 12 to 52 weeks. Glycated hemoglobin, a measure of blood sugar control, also modestly decreased with fluoxetine and orlistat. However, side effects were common with these drugs. Gastrointestinal side effects were common with orlistat, tremor, somnolence, and sweating were common with fluoxetine, and palpitations were common with sibutramine. There was not enough data on other drugs such as pseudoephedrine, ephedra, sertraline, yohimbine, amphetamine or its derivatives, bupropion, topiramate, benzocaine, threachlorocitric acid, sertraline, and bromocriptine. The weight loss from fluoxetine, orlistat, and sibutramine is modest and the long-term health benefits are unclear. The safety of sibutramine is also uncertain. There is a lack of data on other drugs for weight loss or control in people with type 2 diabetes.",
+  "metadata": {
+    "wall_time_s": 133.982044,
+    "done_reason": "stop",
+    "eval_count": 379,
+    "prompt_eval_count": 3143,
+    "total_duration": 131922243600,
+    "load_duration": 7119800,
+    "prompt_eval_duration": 4531575000,
+    "eval_duration": 127363449000,
+    "total_duration_s": 131.922244,
+    "prompt_eval_duration_s": 4.531575,
+    "eval_duration_s": 127.363449,
+    "prompt_tokens_per_s": 693.5778,
+    "eval_tokens_per_s": 2.9757,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

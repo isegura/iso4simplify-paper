@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_109_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_109_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "No new studies met our criteria for inclusion in this update. The total number of studies stayed the same, including six trials with 1297 patients. Five trials had a low risk of bias, and one trial had an unclear risk. \n\nLung-protective ventilation reduced 28-day mortality (relative risk (RR) of 0.74, 95% confidence interval (CI) 0.61 to 0.88) and hospital mortality (RR of 0.80, 95% CI 0.69 to 0.92). There was no significant difference in overall mortality if the control group used a plateau pressure of 31 cm H2O or less (RR 1.13, 95% CI 0.88 to 1.45). \n\nWe found insufficient evidence for effects on morbidity and long-term outcomes. Clinical heterogeneity makes interpreting the combined results challenging. Mortality was significantly lower at 28 days and at the end of the hospital stay. The impact on long-term mortality is unclear, but a clinically relevant benefit cannot be ruled out. \n\nVentilation with lower tidal volumes is now a common treatment strategy for acute respiratory distress syndrome and acute lung injury, making it difficult to conduct further trials.",
+  "metadata": {
+    "wall_time_s": 95.160629,
+    "done_reason": "stop",
+    "eval_count": 305,
+    "prompt_eval_count": 1224,
+    "total_duration": 93100096200,
+    "load_duration": 2235400,
+    "prompt_eval_duration": 2527264000,
+    "eval_duration": 90561905000,
+    "total_duration_s": 93.100096,
+    "prompt_eval_duration_s": 2.527264,
+    "eval_duration_s": 90.561905,
+    "prompt_tokens_per_s": 484.3182,
+    "eval_tokens_per_s": 3.3679,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "status": "frozen_before_unified_fit_after_prior_outcome_inspection",
+  "cells": 162,
+  "rows": 20142,
+  "source_groups": 335,
+  "global_contrasts": 9,
+  "local_contrasts": 48,
+  "omnibus_terms": 15,
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20261104,
+  "inference_calls": 0,
+  "provenance": "Revision-stage extension; previous scores and analyses already known. Not preregistered.",
+  "input_hashes": {
+    "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e",
+    "data/plaba/plaba_test.csv": "aecfcf5af437a2c3ec6c0898f04b839a8d92b90c4136f4a3c66b7eaf96a94ebd",
+    "data/tsar2025/tsar2025_test.csv": "dc081d1947d13f77b0eb5b93a0350bcc9fadf65ebe90a54bb1a3835ac6baa9b1"
+  },
+  "code_hashes": {
+    "experiments/joint_analysis_final/run_analysis.py": "d22d61011532eb8ec075dd119b168517552c843724f1d186509c7f1e39a51e3e",
+    "experiments/joint_analysis_final/ANALYSIS_PLAN.md": "4a5b84aae7a3a9d34599bf16654d23f5c01152bea5c89f7166b1be553417900d",
+    "experiments/reviewer2_concern2/statistics_core.py": "e2d2727b16765629d5acdf4f392069f7d1ae499818b501c41a1a8a7e3543dd62"
+  },
+  "design_hashes": {
+    "cells.csv": "810f021b23c8ac1665d8e759d2daf00ef8cf597da160b4540cf8037d13b3dae2",
+    "contrasts.csv": "79b2c7d1bb0faa2981bf9fd20130cf80d8e62e41d7484d08c0d2d7dc5ef306e0",
+    "contrast_weights.npy": "66497ae667ca98b9b2202c148c572aca8e7795f0fee74c3cd20f0e07e41731f9",
+    "omnibus_restrictions.npz": "c43258d43d7223d1f86bbe14ade6fd709e021dd5dfbef4b0f197365184063a71",
+    "sources.csv": "ed7ea9d3742032f329fee43a1c8aecd7f3ad65a51d829fbc9461d6bcbdfac6bd"
+  }
+}

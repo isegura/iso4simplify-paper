@@ -1,0 +1,5 @@
+comparison,scope,wins,losses,ties,n
+iso_examples_minus_iso,historical_42_and_fixed,16,8,0,24
+iso_examples_minus_iso,three_selection_means_and_fixed,15,9,0,24
+iso_minus_minimal,historical_42_and_fixed,10,14,0,24
+iso_minus_minimal,three_selection_means_and_fixed,10,14,0,24

@@ -1,0 +1,3 @@
+strategy,n,historical_stop_cuts,new_stop_cuts,historical_limit,new_limit,historical_any_cut,new_any_cut,resolved_historical_strategy_cuts,new_generation_seconds
+zero,31,15,7,2,1,17,8,10,2678.731486
+few_random,31,8,4,1,1,9,5,4,2905.233836

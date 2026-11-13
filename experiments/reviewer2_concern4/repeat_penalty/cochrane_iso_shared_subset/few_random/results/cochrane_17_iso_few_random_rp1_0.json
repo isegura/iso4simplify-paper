@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_17_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_17_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Nine studies with 1512 women were included in this review. Most of these studies included women with unexplained infertility. The studies looked at women undergoing IUI or trying to conceive from sexual intercourse. Eight studies compared intentional endometrial injury with no injury or a placebo procedure. One study compared a higher degree of injury to a lower degree.\n\nWe are uncertain if endometrial injury improves live birth or ongoing pregnancy (very low-quality evidence). However, it may improve clinical pregnancy rates (low-quality evidence). The average pain experienced during the procedure is 6/10 on a zero-1",
+  "metadata": {
+    "wall_time_s": 57.458277,
+    "done_reason": "stop",
+    "eval_count": 139,
+    "prompt_eval_count": 3538,
+    "total_duration": 55392590400,
+    "load_duration": 1997400,
+    "prompt_eval_duration": 8096939000,
+    "eval_duration": 47274134000,
+    "total_duration_s": 55.39259,
+    "prompt_eval_duration_s": 8.096939,
+    "eval_duration_s": 47.274134,
+    "prompt_tokens_per_s": 436.9552,
+    "eval_tokens_per_s": 2.9403,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

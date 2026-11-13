@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_110_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_110_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Three studies looked at 123 people. Doctors didn't say how they hid info about treatments from the participants and themselves. Two studies didn't explain how they decided which treatment each person got. All studies reported on deaths; two had deaths. There's no clear proof that one treatment affected death risk (RR 0.56,",
+  "metadata": {
+    "wall_time_s": 27.654689,
+    "done_reason": "stop",
+    "eval_count": 75,
+    "prompt_eval_count": 1359,
+    "total_duration": 25579352600,
+    "load_duration": 4581400,
+    "prompt_eval_duration": 3459192000,
+    "eval_duration": 22116721000,
+    "total_duration_s": 25.579353,
+    "prompt_eval_duration_s": 3.459192,
+    "eval_duration_s": 22.116721,
+    "prompt_tokens_per_s": 392.8663,
+    "eval_tokens_per_s": 3.3911,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

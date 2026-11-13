@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_43_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_43_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at nine studies with 593 preterm infants learning to switch from tube to mouth feeding. These studies compared responsive feeding (feeding when the baby shows signs of hunger) with scheduled interval feeding (feeding at set times). The studies had some issues, such as not blinding the researchers or not checking on all the babies in the study. \n\nMeta-analyses (a way of combining results from multiple studies) suggest that responsive feeding may lead to slightly slower weight gain, but it might help babies start oral feeding a bit sooner. However, the impact on hospital stay was not strong or consistent. \n\nThere was no information on what parents, caregivers, or staff thought about these feeding methods. Overall, the evidence does not strongly or consistently show that responsive feeding benefits preterm infants or their families. \n\nA large, well-designed study is needed to confirm if responsive feeding helps preterm infants start oral feeding sooner and to see if it affects other important outcomes.",
+  "metadata": {
+    "wall_time_s": 77.391239,
+    "done_reason": "stop",
+    "eval_count": 217,
+    "prompt_eval_count": 3022,
+    "total_duration": 75332042200,
+    "load_duration": 2469600,
+    "prompt_eval_duration": 3365904000,
+    "eval_duration": 71945182000,
+    "total_duration_s": 75.332042,
+    "prompt_eval_duration_s": 3.365904,
+    "eval_duration_s": 71.945182,
+    "prompt_tokens_per_s": 897.8272,
+    "eval_tokens_per_s": 3.0162,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

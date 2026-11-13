@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it using the metadata below."
+message: "If you use these materials, cite the associated manuscript and identify the repository commit used."
 title: "ISO4Simplify: Code, Prompts, Results, and Error-Analysis Materials"
 type: software
 authors:
@@ -9,8 +9,18 @@ authors:
     given-names: "Alberto"
   - family-names: "Cardon"
     given-names: "Rémi"
-version: 1.0.3
-date-released: 2026-09-15
-url: "https://github.com/isegura/iso4simplify-paper/tree/v1.0.3"
+url: "https://github.com/isegura/iso4simplify-paper"
 repository-code: "https://github.com/isegura/iso4simplify-paper"
 license: MIT
+preferred-citation:
+  type: unpublished
+  title: "ISO-Based and Baseline Prompting for Text Simplification: An Empirical Evaluation with Two Instruction-Tuned Language Models"
+  year: 2026
+  notes: "Manuscript submitted to IEEE Access"
+  authors:
+    - family-names: "Segura-Bedmar"
+      given-names: "Isabel"
+    - family-names: "Díaz"
+      given-names: "Alberto"
+    - family-names: "Cardon"
+      given-names: "Rémi"

@@ -1,0 +1,49 @@
+{
+  "all_complete_and_aligned": true,
+  "runs": [
+    {
+      "dataset": "cochrane",
+      "prompt": "iso",
+      "n": 125,
+      "truncated": 17,
+      "prediction_sha256": "ddde4f0020dc7a6aca2e17d18631d163f64dea624d7c6916752d31ebd8b5555b"
+    },
+    {
+      "dataset": "cochrane",
+      "prompt": "iso_examples",
+      "n": 125,
+      "truncated": 30,
+      "prediction_sha256": "3efd03d459d1c09195d09fbd4b0ff6be65b513f1e5acea9a2b74d5ed64dec1b3"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso",
+      "n": 148,
+      "truncated": 1,
+      "prediction_sha256": "755a340821a90453125205875d00b90b330a515c3d306280bb01b93e55975943"
+    },
+    {
+      "dataset": "plaba",
+      "prompt": "iso_examples",
+      "n": 148,
+      "truncated": 7,
+      "prediction_sha256": "ecf77b5c48c604c952324c304068062eacc7e2f92d764614fa203fd5e1a03853"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso",
+      "n": 100,
+      "truncated": 0,
+      "prediction_sha256": "3436635928c4bb192728e4989fa16b66bbe9cc899e4bab5557b70e93c7fb8add"
+    },
+    {
+      "dataset": "tsar2025",
+      "prompt": "iso_examples",
+      "n": 100,
+      "truncated": 0,
+      "prediction_sha256": "7e5ba5505d1db190d246734ab2e790b462ac4221b95beb8af89e9af4c1192bdf"
+    }
+  ],
+  "total": 746,
+  "truncated": 55
+}

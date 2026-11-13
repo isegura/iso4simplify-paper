@@ -1,0 +1,74 @@
+CASE cochrane/iso/0 id=CD009601 words 261->195 termination stop->stop
+
+ORIGINAL: We reviewed 11 studies with 414 participants. The studies compared different types of ultrasound therapy and other treatments. Many studies had a high or unclear risk of bias. Overall, there's not enough evidence to say one ultrasound regimen is better than another.
+
+Two studies reported short-term overall improvement. A low-quality study with 68 participants found that, when compared to placebo, ultrasound may increase the chance of improvement after seven weeks of treatment. However, this result should be interpreted with caution due to high dropout rates and unadjusted data.
+
+Another low-quality study with 60 participants found that, at three months post-treatment, ultrasound plus splint increased the chance of improvement compared to splint alone, but decreased the chance of improvement when compared to low-level laser therapy plus splint. However, participants were not blinded to treatment, and there were issues with randomization and potential unit of analysis error.
+
+Differences in ultrasound frequencies, intensities, and combinations with other treatments showed little or no significant impact on symptoms, function, or neurophysiologic parameters. Only three studies reported adverse effects of ultrasound, so more data is needed to make conclusions about its safety.
+
+There is poor quality evidence from limited data suggesting that ultrasound may be more effective than placebo for short- or long-term symptom improvement in people with carpal tunnel syndrome (CTS). There is insufficient evidence to support the use of one type of ultrasound regimen over another, or to show that ultrasound is more effective than other non-surgical treatments for CTS. More rigorous studies are needed to determine the effectiveness and safety of ultrasound for CTS.
+
+ABLATED: We reviewed 11 studies with 414 participants. The studies compared different types of ultrasound therapy to each other, placebo, or other non-surgical treatments. Some studies had a low risk of bias, while others did not. Overall, there is not enough evidence to say that one ultrasound regimen is better than another.
+
+Two studies reported short-term overall improvement (patients indicating how their symptoms compare to before treatment) for ultrasound therapy compared to placebo or splint. However, these results should be interpreted with caution due to potential issues with the data. Other comparisons of ultrasound frequencies, intensities, and as part of a multi-component intervention showed small, non-significant differences.
+
+No studies reported negative side effects from ultrasound therapy, but more data is needed for definitive conclusions on safety. There is poor quality evidence suggesting that ultrasound may be more effective than placebo for short- or long-term symptom improvement in people with carpal tunnel syndrome (CTS). There is insufficient evidence to support one type of ultrasound regimen over another, or to show that ultrasound is more effective than other non-surgical treatments for CTS. More rigorous studies are needed to determine the effectiveness and safety of ultrasound therapy for CTS.
+
+END CASE
+
+CASE cochrane/iso/31 id=CD008053 words 198->203 termination stop->stop
+
+ORIGINAL: Two studies (116 women) compared home vs hospital care for preterm premature rupture of membranes (PPROM). Both trials had few eligible women due to strict criteria. Women were monitored for 2 days before randomization. One trial reported on perinatal mortality, but there wasn't enough evidence to say if it differed between groups (RR 1.93, 95% CI 0.19 to 20.05). There were no differences in serious neonatal morbidity, chorioamnionitis, gestational age at delivery, birthweight, or admission to neonatal intensive care. Information on serious maternal morbidity or mortality was not provided. Women in the hospital group were more likely to have a caesarean section (RR 0.28, 95% CI 0.07 to 1.15), but results should be interpreted cautiously due to moderate heterogeneity (I² = 35%). Women managed at home spent less time in the hospital (mean difference -9.60, 95% CI -14.59 to -4.61) and were more satisfied with their care. Home care also cost less. The two studies were small and underpowered to detect differences between groups. More large, powerful randomized controlled trials are needed to measure group differences for important pre-specified outcomes. These trials should focus on maternal satisfaction with care and cost analysis in both developed and developing countries.
+
+ABLATED: Two studies (116 women) compared home vs hospital care for preterm membrane rupture. The small number of women in each trial made it hard to assess outcomes. Women were monitored for 2-3 days before randomization. One study reported on perinatal death, but there wasn't enough evidence to say if it differed between the two groups (RR 1.93, 95% CI 0.19 to 20.05). There were no differences in serious newborn issues, infections, gestational age at delivery, birthweight, or intensive care admission. Information on severe maternal problems or death was missing. Women in the hospital group had a higher chance of cesarean section (RR 0.28, 95% CI 0.07 to 1.15), but results should be interpreted carefully due to moderate heterogeneity (I² = 35%). Women managed at home spent about 10 fewer days in the hospital (mean difference -9.60, 95% CI -14.59 to -4.61) and were more satisfied with their care. Home care also cost less. The two studies were small and underpowered to detect significant differences between groups. More large, well-designed trials are needed to measure group differences for important outcomes. These studies should focus on maternal satisfaction and cost analysis, as they will have social and economic implications in both developed and developing countries.
+
+END CASE
+
+CASE cochrane/iso/62 id=CD011655 words 162->181 termination stop->stop
+
+ORIGINAL: We reviewed three studies with 161 people with schizophrenia. Only two of our main outcomes were available. We measured significant improvement using the Clinical Global Impression (CGI). 
+
+Chlorpromazine and metiapine groups showed no clear difference in global state (2 studies, 120 participants, Relative Risk 1.11, 95% CI 0.84 to 1.47, very low-quality evidence). Similarly, the number of participants with parkinsonism at eight weeks was similar for both groups (2 studies, 70 participants, Relative Risk 0.97, 95% CI 0.46 to 2.03, very low-quality evidence).
+
+We don't have usable data for other important outcomes: significant improvement in mental state, readmission due to relapse, satisfaction with treatment, aggressive or violent behavior, or cost of care. 
+
+Chlorpromazine has been the primary schizophrenia treatment for years. However, there is a lack of high-quality trial data comparing it to metiapine. The importance of determining if metiapine is more or less effective than chlorpromazine seems insignificant in clinical relevance. It's unlikely that future research will focus on this comparison.
+
+ABLATED: 1. We analyzed 3 studies involving 161 people with schizophrenia. Only two of our main outcomes were applicable.
+
+2. A significant improvement in overall condition was assessed using the Clinical Global Impression (CGI). There is no clear difference between chlorpromazine and metiapine groups (in 2 studies, with 120 participants) in terms of this improvement (RR 1.11, 95% CI 0.84 to 1.47; very low quality evidence).
+
+3. The number of participants with parkinsonism after eight weeks was similar for both groups (in 2 studies, with 70 participants) (RR 0.97, 95% CI 0.46 to 2.03; very low quality evidence).
+
+4. There were no usable data available for the following main outcomes: significant improvement in mental state, readmission due to relapse, satisfaction with treatment, aggressive or violent behavior, or cost of care.
+
+5. Chlorpromazine has been a common treatment for schizophrenia for many years. However, there is a lack of high-quality evidence from trials comparing this drug to metiapine. It also seems that determining whether metiapine is more or less effective than chlorpromazine is not clinically relevant, making future research on this comparison unlikely.
+
+END CASE
+
+CASE cochrane/iso/93 id=CD004510 words 106->137 termination stop->stop
+
+ORIGINAL: 33 studies involving 5110 patients were reviewed. Most studies had low quality. The therapy (TFU) was used in various patient groups, in different ways, and with different outcomes. Only a few outcomes were measured in multiple studies. Results varied across and within patient groups. Due to study diversity, only a few outcomes could be combined for analysis. Of the 8 reviews, 5 showed significant statistical variation. Overall, the evidence about TFU's effects is unclear. The low-quality studies require cautious consideration of results. No harmful effects were reported. However, most studies show similar results between TFU and control groups. Therefore, we can't conclude that TFU is effective.
+
+ABLATED: 33 studies involving 5110 patients were reviewed, with most studies having low methodological quality. The procedure called TFU has been used in various patient groups, but it was performed differently each time (varied healthcare providers, frequency, duration, etc.). Many outcomes were measured, but only a few were consistently measured across multiple studies. The effects of TFU are not consistent across all studies or within the same patient group. Due to diversity among the studies, quantitative pooling was only possible for a few outcomes, and five out of eight meta-analyses showed significant statistical heterogeneity. Overall, the evidence about the effects of TFU is inconclusive. The low quality of the studies means that results should be viewed with caution. No adverse effects were reported, but there is no clear evidence showing that TFU is more effective than alternative interventions.
+
+END CASE
+
+CASE cochrane/iso/124 id=CD007497 words 206->19 termination stop->stop
+
+ORIGINAL: Three studies met the needed criteria from a search of 3,952 abstracts. These studies found no significant difference in using high-dose or low-dose stavudine for people already suppressed on ART therapy. The studies were conducted in developed countries and had mostly male participants. Some differences at the start of the studies included triglyceride levels and body mass index. No meta-analysis was done due to study design variations. There were no reports of treatment discontinuation due to side effects. Only three small trials have evaluated high and low stavudine doses, and they don't support a clear advantage for either. More research is needed in ART naive patients with high viral loads in developing countries where stavudine is still used. The WHO-recommended phase-out of stavudine may not be immediately feasible everywhere.
+
+- 3,952 abstracts searched; 3 trials met criteria
+- Developed countries; mostly male participants
+- No significant difference in virologic suppression
+- Studies varied, no meta-analysis done
+- No treatment discontinuation due to side effects
+- 3 small trials, no clear advantage for high or low dose
+- Research needed for ART naive patients with high viral loads in developing countries where stavudine is still used
+- WHO-recommended phase-out of stavudine may not be immediately feasible everywhere
+
+ABLATED: 1. A search found 3,952 abstracts related to the topic. Only three studies met the required criteria (Milinkovic 2
+
+END CASE

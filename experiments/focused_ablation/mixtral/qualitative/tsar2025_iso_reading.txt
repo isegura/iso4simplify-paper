@@ -1,0 +1,52 @@
+CASE tsar2025/iso/0 id=21 words 44->39 termination stop->stop
+
+ORIGINAL: "Dreams can reveal thoughts you weren't aware of. While dreams like flying or falling, losing teeth, or being publicly naked have common interpretations, their true meaning for you is linked to your daily experiences and emotions. Connect your dreams to these for better understanding."
+
+ABLATED: your dreams can reveal thoughts you weren't aware of. Many people share similar dreams, like flying or falling, losing teeth, or being naked in public. To fully understand what your dreams mean, link them to daily events and feelings.
+
+END CASE
+
+CASE tsar2025/iso/24 id=45 words 74->84 termination stop->stop
+
+ORIGINAL: "I'm a self-employed freelancer, which allows me to control my work and time. Working from home was difficult due to distractions like chores, tea breaks, and family interruptions. I tried working at a café, but the Wi-Fi was poor and I drank too much coffee. Ultimately, I rented a desk in a co-working space with five other freelancers. I enjoyed starting my day by getting ready for work and focusing in a professional setting."
+
+ABLATED: 1. I'm a self-employed freelancer, which allows me to control my tasks and time.
+2. Initially, I worked from home but faced many distractions like chores, tea breaks, and family interruptions.
+3. Transitioning to a nearby café helped, but the Wi-Fi was unreliable, and I drank too much coffee.
+4. Ultimately, I chose to rent a desk in a co-working space with five other freelancers.
+5. Working in an office setting improved my focus, and getting dressed for work added structure to my day.
+
+END CASE
+
+CASE tsar2025/iso/49 id=70 words 66->67 termination stop->stop
+
+ORIGINAL: Chloe returned home from school, brewed herself a cup of coffee, and headed to her room. She had homework, but it could wait. She wanted to savor the peaceful hour before her parents came home, and the house buzzed with conversation, TV sounds, or her dad playing his favorite jazz while cooking dinner. She also enjoyed this time because she could play with her pet rats.
+
+ABLATED: 1. Chloe returned from school, brewed coffee, and brought it to her room. She had homework, but it could be done later. She wanted to savor the peaceful hour before her parents came home. The house would then be filled with noises of conversation, TV, or her dad playing jazz as he prepared dinner. She also enjoyed this time because she could play with her pet rats.
+
+END CASE
+
+CASE tsar2025/iso/74 id=95 words 62->79 termination stop->stop
+
+ORIGINAL: Horror movies often feature unoccupied locations, such as abandoned hospitals, spooky empty houses, or deserted towns. There's a certain appeal to desolate, vacant places. You might wonder, what was life like there before? Why did everyone leave? The silence of these places can also be quite eerie. Additionally, it's more plausible for such locations to have no cell service in horror films.
+
+ABLATED: 1. Horror movies often choose isolated locations for their settings, such as abandoned hospitals, spooky empty houses, or deserted towns.
+2. There's a certain eeriness to places with no people around. You might wonder what life was like when they were inhabited and why they became deserted.
+3. The silence in these places can also be quite unsettling.
+4. Additionally, remote areas are beneficial for horror film directors because it's more plausible that there won't be any phone service.
+
+END CASE
+
+CASE tsar2025/iso/99 id=120 words 28->41 termination stop->stop
+
+ORIGINAL: - Don't mix positive and negative feedback.
+- Giving positive feedback alone is important too, so avoid always adding criticisms.
+- Present constructive criticism separately from positive feedback.
+
+ABLATED: 1. Don't mix positive and negative feedback.
+2. Positive feedback should be genuine, not followed by negatives.
+3. Give positive feedback independently; avoid coupling it with criticism.
+4. People may overlook positives when paired with negatives.
+5. Offer constructive criticism sparingly.
+
+END CASE

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_54_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_54_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "We reviewed 4 studies with 1154 participants, aged 50 to 90 years. All had a probable or possible Alzheimer's Disease (AD) diagnosis and the majority used cholinesterase inhibitors. The main result in all studies was the change in the Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-Cog) from the start. \n\nWhen we combined the data, there was no significant advantage from using statins (difference of -0.26, 95% confidence interval (CI) -1.05 to 0.52, P value = 0.51). All studies provided the Mini Mental State Examination (MMSE) change from the start. There was no significant benefit from statins in MMSE when we combined the data (difference of -0.32, 95% CI -0.71 to 0.06, P value = 0.10). \n\nThree studies reported side effects from treatment. When we combined the data, there was no significant difference between statins and placebo (odds ratio 1.09, 95% CI 0.58 to 2.06, P value = 0.78). There was no significant difference in behavior, overall function, or daily activities in the statin and placebo groups. We assessed the risk of bias as low for all studies. \n\nWe found no studies evaluating the role of statins in the treatment of Vascular Dementia (VaD). Analyses from the available studies, including two large randomized controlled trials, suggest that statins have no benefit on the primary outcome measures of ADAS-Cog or MMSE.",
+  "metadata": {
+    "wall_time_s": 121.458377,
+    "done_reason": "stop",
+    "eval_count": 389,
+    "prompt_eval_count": 1265,
+    "total_duration": 119428991400,
+    "load_duration": 2310400,
+    "prompt_eval_duration": 2802133000,
+    "eval_duration": 116462789000,
+    "total_duration_s": 119.428991,
+    "prompt_eval_duration_s": 2.802133,
+    "eval_duration_s": 116.462789,
+    "prompt_tokens_per_s": 451.4418,
+    "eval_tokens_per_s": 3.3401,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

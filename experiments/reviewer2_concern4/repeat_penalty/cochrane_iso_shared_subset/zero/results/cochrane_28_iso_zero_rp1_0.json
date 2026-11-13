@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_28_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_28_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Two studies were examined. The first study compared surgical urethral dilation and optical urethrotomy in 210 adult men with urethral stricture disease. After three years, there was no significant difference in the number of men who were stricture-free or in the time it took for the stricture to return. The second study looked at urethrotomy and urethroplasty in 50 men with a traumatic stricture of the posterior urethra after a pelvic fracture injury. In the first six months, men in the urethrotomy group were more likely to need additional surgery than those in the primary urethroplasty group. After two years, 64% of men in the urethrotomy group needed continued self-dilation or more surgery due to stricture recurrence, compared to 24% of men in the primary urethroplasty group. There was not enough information to determine which treatment is best for urethral stricture disease in terms of balancing effectiveness, side effects, and costs. More high-quality, adequately powered, multi-center trials are needed to answer relevant clinical questions about treating men with urethral strictures.",
+  "metadata": {
+    "wall_time_s": 85.051419,
+    "done_reason": "stop",
+    "eval_count": 271,
+    "prompt_eval_count": 1225,
+    "total_duration": 82982632300,
+    "load_duration": 4589300,
+    "prompt_eval_duration": 2546748000,
+    "eval_duration": 80424338000,
+    "total_duration_s": 82.982632,
+    "prompt_eval_duration_s": 2.546748,
+    "eval_duration_s": 80.424338,
+    "prompt_tokens_per_s": 481.0056,
+    "eval_tokens_per_s": 3.3696,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

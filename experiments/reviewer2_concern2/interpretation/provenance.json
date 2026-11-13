@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-28",
+  "analysis_inputs_sha256": {
+    "metrics_summary": "f3edd781e94c19fb28fd70c0eb78c79a49cce1649028ceb18b7305beaad43650",
+    "metrics_per_seed": "9a7eaf9f4e47153a3f598f1aa1c347f4491d4fbaaacf42991569faa166ccc26a",
+    "descriptors": "fbdc3b78098488671aca4332ee4c6c1301c10063596a5f476c32d769b4b32575",
+    "primary": "21727184af28a349700fe2e93f6c237d079eba72e8d6e406aa2fba2159f74e1c",
+    "secondary": "68834a0130a0c6cc1396c79726dd34eb4df4e992d04153dbb21b71eeb61c9939",
+    "cells": "3ccb34f359cac0b6ab5747b5b3eac533aeffe268fa449ebdf516ef8e22a69e50"
+  },
+  "input_files_unchanged": true,
+  "new_statistical_tests": false,
+  "new_inference": false,
+  "original_tex_or_word_modified": false,
+  "descriptive_seed_sensitivity_only": true
+}

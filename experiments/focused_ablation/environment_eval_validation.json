@@ -1,0 +1,15 @@
+{
+  "torch": "2.10.0+cu128",
+  "cuda": "12.8",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU",
+  "bertscore_device": "cuda",
+  "bertscore_smoke": 1.0,
+  "meaningbert_original_smoke": {
+    "scores": [
+      56.6876220703125
+    ],
+    "hashcode": "21845c0cc85a2e8e16c89bb0053f489095cf64c5b19e9c3865d3e10047aba51b"
+  },
+  "meaningbert_device": "CPU, unchanged original implementation"
+}

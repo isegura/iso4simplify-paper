@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_12_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_12_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "1. Three studies tested different neoadjuvant treatments: RT alone, RT and PCV chemotherapy, PCV chemotherapy alone, and temozolomide chemotherapy alone.\n2. None of the studies used blindfolds, so they may have bias. They had low risk of other bias.\n3. The European Organisation for Research and Treatment of Cancer (EORTC) trial found that RT plus PCV improved overall survival (OS) compared to RT alone (3.5 years vs 2.6 years).\n4. This benefit was not seen in the original 2008 Cochrane review, but was found 10 years after enrollment ended.\n5. Two trials found that codeletion of chromosomes 1p and 19q and IDH-1 or -2 mutation were prognostic factors for OS.\n6. These biomarkers were also predictive for OS in one trial.\n7. The third trial found these biomarkers to be prognostic for progression-free survival when evaluated prospectively.\n8. Early PCV, either before or after RT, may improve OS in participants with AO or AOA.\n9. Biomarkers, including codeletion of chromosomes 1p and 19q with or without IDH-1 or -2 mutation, can identify people more sensitive to PCV and RT.\n10. All trials support the important role of biomarkers, and future studies should evaluate them prospectively.\n11. However, PCV has significant side effects and it is unclear if temozolomide can be used instead.",
+  "metadata": {
+    "wall_time_s": 114.402295,
+    "done_reason": "stop",
+    "eval_count": 362,
+    "prompt_eval_count": 1364,
+    "total_duration": 112343215800,
+    "load_duration": 6304000,
+    "prompt_eval_duration": 3502670000,
+    "eval_duration": 108826401000,
+    "total_duration_s": 112.343216,
+    "prompt_eval_duration_s": 3.50267,
+    "eval_duration_s": 108.826401,
+    "prompt_tokens_per_s": 389.4172,
+    "eval_tokens_per_s": 3.3264,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

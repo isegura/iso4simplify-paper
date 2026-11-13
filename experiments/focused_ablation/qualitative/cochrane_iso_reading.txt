@@ -1,0 +1,111 @@
+CASE cochrane/iso row=0 id=CD009601
+
+SOURCE: We included 11 studies including 414 participants in the review. Two trials compared therapeutic ultrasound with placebo, two compared one ultrasound regimen with another, two compared ultrasound with another non-surgical intervention, and six compared ultrasound as part of a multi-component intervention with another non-surgical intervention (for example, exercises and splint). The risk of bias was low in some studies and unclear or high in other studies, with only two reporting that the allocation sequence was concealed and six reporting that participants were blinded. Overall, there is insufficient evidence that one therapeutic ultrasound regimen is more efficacious than another. Only two studies reported the primary outcome of interest, short-term overall improvement (any measure in which patients indicate the intensity of their complaints compared with baseline, for example, global rating of improvement, satisfaction with treatment, within three months post-treatment). One low quality trial with 68 participants found that when compared with placebo, therapeutic ultrasound may increase the chance of experiencing short-term overall improvement at the end of seven weeks treatment (RR 2.36; 95% CI 1.40 to 3.98), although losses to follow-up and failure to adjust for the correlation between wrists in participants with bilateral CTS in this study suggest that this data should be interpreted with caution. Another low quality trial with 60 participants found that at three months post-treatment therapeutic ultrasound plus splint increased the chance of short-term overall improvement (patient satisfaction) when compared with splint alone (RR 3.02; 95% CI 1.36 to 6.72), but decreased the chance of short-term overall improvement when compared with low-level laser therapy plus splint (RR 0.87; 95% CI 0.57 to 1.33), though participants were not blinded to treatment, it was unclear if the random allocation sequence was adequately concealed, and there was a potential unit of analysis error. Differences between groups receiving different frequencies and intensities of ultrasound, and between ultrasound as part of a multi-component intervention versus other non-surgical interventions, were generally small and not statistically significant for symptoms, function, and neurophysiologic parameters. No studies reported any adverse effects of therapeutic ultrasound, but this outcome was only measured in three studies. More adverse effects data are required before any firm conclusions on the safety of therapeutic ultrasound can be made. There is only poor quality evidence from very limited data to suggest that therapeutic ultrasound may be more effective than placebo for either short- or long-term symptom improvement in people with CTS. There is insufficient evidence to support the greater benefit of one type of therapeutic ultrasound regimen over another or to support the use of therapeutic ultrasound as a treatment with greater efficacy compared to other non-surgical interventions for CTS, such as splinting, exercises, and oral drugs. More methodologically rigorous studies are needed to determine the effectiveness and safety of therapeutic ultrasound for CTS.
+
+ORIGINAL: We reviewed 11 studies with a total of 414 participants. These studies compared different types of ultrasound treatments, such as using ultrasound alone or in combination with other methods like exercises and splints.
+
+Some studies had low risk of bias, but others were unclear or high-risk. Only two studies reported the main outcome we were interested in: short-term improvement in symptoms. 
+
+One study found that ultrasound may improve symptoms compared to a placebo, but this result should be interpreted carefully due to some limitations. Another study found that combining ultrasound with a splint improved symptoms more than using a splint alone, but it did not compare well to another treatment.
+
+The differences between different types of ultrasound treatments were generally small and not significant for most outcomes. No studies reported any negative side effects from ultrasound, but this outcome was only measured in three studies. More research is needed to understand the safety and effectiveness of ultrasound for treating CTS.
+
+There is currently limited evidence that ultrasound is more effective than a placebo or other non-surgical treatments like splints and exercises. Further studies are necessary to determine the best treatment options for people with CTS.
+
+ABLATED: We looked at 11 studies with a total of 414 participants. Two trials compared ultrasound with a placebo, two compared different ultrasound treatments, two compared ultrasound with other non-surgical interventions, and six compared ultrasound as part of a treatment plan with other non-surgical interventions.
+
+Some studies had low risk of bias, but others were unclear or high. Only two studies reported that the allocation sequence was concealed and six reported that participants were blinded.
+
+There is not enough evidence to show which type of ultrasound treatment works best. Two studies reported on short-term improvement, and one found that ultrasound may increase this chance compared to a placebo. However, there are concerns about this study's data.
+
+Another study found that ultrasound plus splint increased the chance of short-term improvement compared to splint alone, but decreased it when compared to low-level laser therapy plus splint.
+
+The differences between different types of ultrasound treatments were generally small and not statistically significant. No studies reported any adverse effects from ultrasound, but this outcome was only measured in three studies.
+
+More research is needed to determine the effectiveness and safety of ultrasound for CTS.
+
+END CASE
+
+
+CASE cochrane/iso row=31 id=CD008053
+
+SOURCE: We included two trials (116 women) comparing planned home versus hospital management for PPROM. Overall, the number of included women in each trial was too small to allow adequate assessment of pre-specified outcomes. Investigators used strict inclusion criteria and in both studies relatively few of the women presenting with PPROM were eligible for inclusion. Women were monitored for 48 to 72 hours before randomisation. Perinatal mortality was reported in one trial and there was insufficient evidence to determine whether it differed between the two groups (risk ratio (RR) 1.93, 95% confidence interval (CI) 0.19 to 20.05).  There was no evidence of differences between groups for serious neonatal morbidity, chorioamnionitis, gestational age at delivery, birthweight and admission to neonatal intensive care. There was no information on serious maternal morbidity or mortality. There was some evidence that women managed in hospital were more likely to be delivered by caesarean section (RR (random-effects) 0.28, 95% CI 0.07 to 1.15). However, results should be interpreted cautiously as there is moderate heterogeneity for this outcome (I² = 35%). Mothers randomised to care at home spent approximately 10 fewer days as inpatients (mean difference -9.60, 95% CI -14.59 to -4.61) and were more satisfied with their care. Furthermore, home care was associated with reduced costs. The review included two relatively small studies that did not have sufficient statistical power to detect meaningful differences between groups. Future large and adequately powered randomised controlled trials are required to measure differences between groups for relevant pre-specified outcomes. Special attention should be given to the assessment of maternal satisfaction with care and cost analysis as they will have social and economic implications in both developed and developing countries.
+
+ORIGINAL: We compared two ways of managing women who go into labor too early: at home or in a hospital. We looked at 116 women in total, but our results are not reliable because there were not enough women in each group to make conclusions.
+
+In one study, we found that babies born at home had the same risk of dying as those born in a hospital. However, more women who gave birth at home went into labor again sooner than those who gave birth in a hospital.
+
+Women who gave birth at home spent fewer days in the hospital and were happier with their care. Home births also cost less money. But we need to do more studies to be sure of these results.
+
+We recommend doing bigger, better studies to compare home and hospital births. These studies should look at how happy women are with their care and how much it costs. This is important because it can affect many people in different countries.
+
+ABLATED: We compared two ways of managing women who go into labor too early: at home or in a hospital. We looked at 116 women in total, but our results are not reliable because each study had very few participants. Women were monitored for 48 to 72 hours before being randomly assigned to either group.
+
+There was no difference in the number of babies who died or got seriously ill between the two groups. However, more women who received hospital care had a cesarean section (RR 0.28). This result is uncertain because there's some variation among the studies.
+
+Women who stayed at home spent about 10 fewer days in the hospital and were happier with their care. Home care also saved money. We need more research to understand the differences between these two approaches, especially how women feel about their care and how much it costs.
+
+END CASE
+
+
+CASE cochrane/iso row=62 id=CD011655
+
+SOURCE: We included three studies randomising 161 people with schizophrenia. Data were available for only two of our seven prestated main outcomes. Clinically important improvement in global state was measured using the Clinical Global Impression (CGI). There was no clear difference between chlorpromazine and metiapine groups (2 RCTs, n = 120, RR 1.11, 95% CI 0.84 to 1.47, very low quality evidence) and numbers of participants with parkinsonism at eight weeks were similar (2 RCTs, n = 70, RR 0.97, 95% CI 0.46 to 2.03, very low quality evidence). There were no useable data available for the other key outcomes of clinically important improvement in mental state, readmission due to relapse, satisfaction with treatment, aggressive or violent behaviour, or cost of care. Chlorpromazine has been the mainstay treatment for schizophrenia for decades, yet available evidence comparing this drug to metiapine fails to provide high-quality trial based data. However, the need to determine whether metiapine is more or less effective than chlorpromazine seems to be lacking in clinical relevance and future research on this comparison seems unlikely.
+
+ORIGINAL: We studied 161 people with schizophrenia in three randomised trials. We looked at seven main outcomes, but only two had enough data for us to compare.
+
+Two studies compared chlorpromazine and metiapine. These studies found no clear difference between the two drugs in improving global state (2 studies, 120 participants). There was also no difference in the number of people with parkinsonism after eight weeks (2 studies, 70 participants).
+
+We couldn't find enough data to compare other important outcomes like mental state improvement, relapse rates, or cost of care. Chlorpromazine has been used for decades, but there's a lack of good-quality evidence comparing it to metiapine. It seems unlikely that more research will be done on this topic.
+
+ABLATED: We studied 161 people with schizophrenia in three randomised trials. We looked at seven important outcomes, but only two had enough data for us to compare.
+
+Two studies showed that chlorpromazine and metiapine have similar effects on global state (a measure of overall health). There was no clear difference between the two drugs in terms of causing parkinsonism (a movement disorder) after eight weeks.
+
+We couldn't find any reliable information on other important outcomes, such as improvement in mental state or aggressive behaviour. Chlorpromazine has been used to treat schizophrenia for a long time, but there is limited evidence comparing it to metiapine. It's unclear whether metiapine is more or less effective than chlorpromazine.
+
+Note: I have followed the instructions and simplified the text according to the ISO 24495-1 standard.
+
+END CASE
+
+
+CASE cochrane/iso row=93 id=CD004510
+
+SOURCE: We included 33 studies involving 5110 patients. Predominantly, the studies were of low methodological quality. TFU has been applied in many patient groups. There is a large variety in the ways the TFU was performed (the health professionals who undertook the TFU, frequency, structure, duration, etc.). Many different outcomes have been measured, but only a few were measured across more than one study. Effects are not constant across studies, nor within patient groups. Due to methodological and clinical diversity, quantitative pooling could only be performed for a few outcomes. Of the eight meta-analyses in this review, five showed considerable statistical heterogeneity. Overall, there was inconclusive evidence about the effects of TFU. The low methodological quality of the included studies means that results must be considered with caution. No adverse effects were reported. Nevertheless, although some studies find that the intervention had favourable effects for some outcomes, overall the studies show clinically-equivalent results between TFU and control groups. In summary, we cannot conclude that TFU is an effective intervention.
+
+ORIGINAL: We looked at 33 studies involving 5,110 patients. Most of these studies were not well done. TFU has been used with many different groups of people. There are many ways to do TFU (who does it, how often, for how long, etc.). Different things have been measured in the studies, but only a few were looked at in more than one study. The results are not consistent across all studies or within each group of patients. Because of the differences in how the studies were done and what they measured, we could only combine some of the data. Of the eight reviews that combined the data, five showed big differences between the groups being compared. Overall, there is no clear evidence about whether TFU works. The results should be taken with caution because many of the studies were not well done. No bad effects were reported. However, while some studies found that TFU helped for some things, overall it did not make a difference compared to doing nothing. In summary, we cannot say if TFU is effective.
+
+ABLATED: We looked at 33 studies involving 5,110 patients. Most of these studies were not well done. TFU has been used with many different groups of people. There are many ways to do TFU (who does it, how often, for how long, etc.). Different things have been measured in the studies, but only a few were looked at in more than one study. The results are not consistent across all studies or within each group of patients. Because of the differences in how the studies were done and what they measured, we could only combine some of the data. Of the eight reviews that combined the data, five showed big differences between the groups being compared. Overall, there is no clear evidence about whether TFU works. The results must be taken with caution because many of the studies were not well done. No bad effects were reported. However, while some studies found that TFU helped for some things, the overall results show that it has little effect compared to doing nothing. In short, we cannot say that TFU is effective.
+
+END CASE
+
+
+CASE cochrane/iso row=124 id=CD007497
+
+SOURCE: The search identified 3952 abstracts which were scanned for relevance. Three trials met the inclusion criteria (Milinkovic 2007; McComsey 2008; Sanchez-Conde 2005). All three trials were conducted in developed countries, participants were ART experienced and all had sustained virologic suppression at baseline. A total of 157 participants were recruited to the trials. Sample sizes ranged from 24 to 92 and more than 79% of participants were male.The studies were at a high risk of selection, performance/detection and selective outcome reporting biases. Some baseline characteristics differed among the groups, including triglyceride levels in two studies and body mass index in one study. In light of variation in the design and follow-up of the study results, no meta-analysis was performed and the results of single studies are presented. There was no significant difference in virologic suppression in the included studies (Milinkovic 2007; McComsey 2008; Sanchez-Conde 2005); Risk Ratio (RR) 1.09 (95% CI: 0.93 to 1.28), 0.94 (95% CI:0.59 to 1.50) and 1.03 (95% CI: 0.90 to 1.18) respectively. Symptomatic hyperlactatemia was seen in the high dose arm of the Milinkovic 2007 study; RR 0.21 (95% CI: 0.01 to 4.66), in no participants in the McComsey 2008 trial and not reported on in the Sanchez-Conde 2005 trial. McComsey 2008 and Milinkovic 2007 demonstrated a reduction in bone mineral density (BMD), reduction in limb fat and an increase in triglycerides in the high dose arms. The studies did not indicate that any participants discontinued treatment due to adverse events. This systematic review identified only three small trials that evaluated virologic efficacy and safety of high dose versus low dose stavudine. All three trials were conducted in developed countries and none reported from developing countries yet stavudine remains a component of ART combination therapy in many developing countries. It was not possible to perform a meta-analysis on these trails. Individual results from the trials were imprecise and have not identified a clear advantage in virologic efficacy or safety between low and high dose stavudine. Furthermore, enrolled participants were treatment experienced with sustained virologic suppression and so existing data cannot be generalized to settings where stavudine is currently used in ART naive patients with high viral loads. Stavudine dose reduction trials in ART naive patients, in developing countries where stavudine is still being used are warranted as the phasing out of stavudine that is recommended by WHO may not be immediately universally feasible.
+
+ORIGINAL: The search found 3952 abstracts. Three studies met the criteria (Milinkovic, McComsey, Sanchez-Conde). These studies were done in developed countries with experienced patients who had controlled HIV at the start.
+
+There were 157 participants in total. The number of participants varied from 24 to 92 and most were men (over 79%). 
+
+The studies had a high risk of bias and some differences between groups, such as triglyceride levels and body mass index. Because of these issues, no overall analysis was done.
+
+There was no significant difference in HIV control between the low and high dose groups (Milinkovic, McComsey, Sanchez-Conde). Some participants experienced side effects like hyperlactatemia or bone density loss.
+
+This review found only three small studies on high vs. low dose stavudine. These studies were done in developed countries but stavudine is still used in many developing countries. More research is needed to understand the safety and effectiveness of stavudine in these settings, especially for new patients with high viral loads.
+
+ABLATED: The search found 3952 abstracts. Three studies met the criteria (Milinkovic, McComsey, Sanchez-Conde). These studies were done in developed countries with people who had been taking ART for a long time and had controlled HIV levels.
+
+A total of 157 people participated in these studies. The sample sizes varied from 24 to 92, and most participants were men (over 79%). 
+
+The studies had some biases and differences in baseline characteristics. For example, triglyceride levels differed in two studies, and body mass index differed in one study.
+
+Because the studies had different designs and follow-up periods, a meta-analysis was not done. Instead, we looked at each study separately. There was no significant difference in HIV control between the high-dose and low-dose groups (Milinkovic, McComsey, Sanchez-Conde).
+
+Some participants experienced side effects, such as symptomatic hyperlactatemia in one study. However, none of the studies showed that people stopped taking their medication due to side effects.
+
+This review found only three small studies on high-dose versus low-dose stavudine. These studies were done in developed countries, but stavudine is still used in many developing countries. It was not possible to combine the results of these studies. The individual study results were imprecise and did not show a clear advantage of high-dose over low-dose stavudine.
+
+Since the participants in these studies were already taking ART and had controlled HIV levels, we cannot apply their findings to people who are new to ART or have high viral loads. More research is needed on stavudine dose reduction in developing countries where it is still used.
+
+END CASE

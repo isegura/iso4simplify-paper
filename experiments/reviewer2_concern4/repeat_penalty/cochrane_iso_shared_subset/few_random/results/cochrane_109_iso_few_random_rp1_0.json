@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_109_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_109_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "No new studies met the criteria for inclusion in this update. The total number of studies remained the same at six trials with 1297 patients. Five trials had a low risk of bias and one trial had an unclear risk of bias. \n\nLung-protective ventilation reduced mortality at day 28 and at the end of the hospital stay. The possibility of a clinically relevant benefit for long-term mortality cannot be excluded. However, there is not enough evidence for morbidity and long-term outcomes. \n\nDifferent lengths of follow up and higher plateau pressure in control arms in some trials make interpreting the combined results difficult. \n\nVentilation with lower tidal volumes is now a common treatment strategy for acute respiratory distress syndrome and acute lung injury, making it unlikely for additional trials to be conducted.",
+  "metadata": {
+    "wall_time_s": 66.526318,
+    "done_reason": "stop",
+    "eval_count": 185,
+    "prompt_eval_count": 2999,
+    "total_duration": 64476110800,
+    "load_duration": 2704000,
+    "prompt_eval_duration": 3218989000,
+    "eval_duration": 61238167000,
+    "total_duration_s": 64.476111,
+    "prompt_eval_duration_s": 3.218989,
+    "eval_duration_s": 61.238167,
+    "prompt_tokens_per_s": 931.659,
+    "eval_tokens_per_s": 3.021,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

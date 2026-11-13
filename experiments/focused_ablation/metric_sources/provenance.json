@@ -1,0 +1,10 @@
+{
+  "source": "C:\\Users\\isegu\\.cache\\huggingface\\modules\\evaluate_modules\\metrics\\davebulaval--meaningbert\\afc23632d5e621cfec96e5622320f97638c3fb9f1f8a04b3566a0bca4ab6261e\\meaningbert.py",
+  "copied_to": "experiments\\focused_ablation\\metric_sources\\meaningbert_original\\meaningbert_original.py",
+  "sha256": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+  "note": "Existing earlier cached implementation. No modifications. Loads root davebulaval/MeaningBERT checkpoint; CPU implementation. Historical identity must be checked against saved scores.",
+  "model_repository": "davebulaval/MeaningBERT",
+  "model_revision": "f40ff1edfdf9f6a6121eb5701b8557426a268495",
+  "model_config_sha256": "c5d5f6687a64ff244a777fce626fa38b39b5b5f8c5a93c8fe72af84bbbe9a5f0",
+  "model_weights_sha256": "3e3c6ccb5e086f30da9f25a21c1b3df3933b0cc0e3ba34967561fde14b68b78e"
+}

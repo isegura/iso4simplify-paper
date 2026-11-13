@@ -1,0 +1,5 @@
+model,dataset,prompt,strategy,n,observed_tokens_min,observed_tokens_median,observed_tokens_mean,observed_tokens_p95,observed_tokens_max,min_observed_headroom_after_512,observed_input_over_context,observed_input_plus_512_over_context
+llama,cochrane,iso_examples,few_random,125,4783,5097.0,5115.416,5492.0,5650,2030,0,0
+llama,cochrane,iso_examples,few_metric,125,4851,5165.0,5183.416,5560.0,5718,1962,0,0
+mixtral,cochrane,iso_examples,few_random,125,5689,6053.0,6083.456,6512.4,6724,956,0,0
+mixtral,cochrane,iso_examples,few_metric,125,5769,6133.0,6163.456,6592.4,6804,876,0,0

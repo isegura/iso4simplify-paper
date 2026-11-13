@@ -1,0 +1,29 @@
+{
+  "seeds": [
+    42,
+    44,
+    46
+  ],
+  "sd_ddof": 1,
+  "configurations": 108,
+  "conditions": 36,
+  "descriptors": [
+    "mean_LEN_COMPLEX",
+    "mean_LEN_PRED",
+    "mean_LEN_REF",
+    "mean_compression_ratio",
+    "mean_copy_rate"
+  ],
+  "input_sha256": {
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_42.csv": "d6b94b407dcff8ce4169b2ce6c6525534a71774483a0d97d22ed1324120ec854",
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_42.json": "14bc6d807bfb95b7265fdfbc7393b3d2c717e7b08030d4ceaf60698d39d5d825",
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_44.csv": "8971942f73b03533aeec13407349fa75528577ac66729ffbd8e32d34e15d6244",
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_44.json": "b3ad540a6805fc4a0d33d1bc7e3787abd1c2d9402ec5c75f2336ae9ed888a3cb",
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_46.csv": "ba279cfaab725f20cd9e7999620b84845421dca8386f1fb94f2888362587149e",
+    "experiments/reviewer2_concern2/evaluation/descriptors/summaries/all_models_all_datasets_seed_46.json": "021dd53d7cfde1ef13ca5a62c2fe9811ad48d014a5b318f37a1cf4105410bc70"
+  },
+  "summary_code_sha256": "35c1f04eb195327febcb246d56a29e832149d5c1f8c4e6e480a2a33f892fdc19",
+  "model_calls": 0,
+  "original_fixed_conditions_replicated": false,
+  "interpretation": "Descriptive variation between the three selected demonstration sets, not inferential uncertainty."
+}

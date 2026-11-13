@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "model_configurations": 162,
+  "response_instances": 20142,
+  "source_clusters": 335,
+  "model_refitted": false,
+  "original_15_omnibus_tests_unchanged": true,
+  "global_contrasts": 14,
+  "local_contrasts": 78,
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261104,
+  "shared_contrasts_verified": 57,
+  "prior_outcomes_known": true,
+  "preregistered": false,
+  "new_inference_calls": 0,
+  "new_metric_evaluations": 0,
+  "parent_completion_sha256": "abdbe26ec15f97b9bc8fe8c116dbad68237b9446b28e2a9c1e836478aee6575c",
+  "code_plan_hashes": {
+    "experiments/joint_analysis_all_pairs/run_analysis.py": "74d6d511a9f2cbb1cc532051400faa661e6a2451aed0d0d2ea92661c281cb72b",
+    "experiments/joint_analysis_all_pairs/ANALYSIS_PLAN.md": "f9e54d9fd9e500c9a71efb757d448dce009251474f993328d0fa79e3708ba292",
+    "experiments/joint_analysis_final/run_analysis.py": "d22d61011532eb8ec075dd119b168517552c843724f1d186509c7f1e39a51e3e",
+    "experiments/reviewer2_concern2/statistics_core.py": "e2d2727b16765629d5acdf4f392069f7d1ae499818b501c41a1a8a7e3543dd62"
+  },
+  "output_hashes": {
+    "experiments/joint_analysis_all_pairs/results/all_scalar_contrasts.csv": "e6985d41a6a05743a578e3e8b2ad348e208da3c8630ea0e3a780444a484a8598",
+    "experiments/joint_analysis_all_pairs/results/bootstrap_contrasts.npy": "85089522f5ca68330c5b7ff0494ca2f79f840a95140a06487ec22725110725fd",
+    "experiments/joint_analysis_all_pairs/results/global_sari.csv": "b5e0ddf9811753415cd35b3f1a8afb546865d44a46968727c213bcf7a2ee3cd7",
+    "experiments/joint_analysis_all_pairs/results/local_sari.csv": "70e6d4674c65f11953f51e2de5069ecabc8af634429ac9eb1cbb7c930350a5cd",
+    "experiments/joint_analysis_all_pairs/results/omnibus_sari.csv": "e8222fb6472adf24eb54812ac64bfa34e44c5cc007359b9911dbc259c1603200",
+    "experiments/joint_analysis_all_pairs/results/shared_contrast_reconciliation.csv": "f4c075c129d88b8dfa32825ab4674888f74838250a23219ac89860d3109e280f"
+  }
+}

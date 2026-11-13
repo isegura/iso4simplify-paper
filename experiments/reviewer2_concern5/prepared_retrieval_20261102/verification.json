@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "assignment_reproduced": true,
+  "pool_sources": 20,
+  "a2_sources": 10,
+  "b1_sources": 10,
+  "source_selection_and_cosines_unchanged": true,
+  "training_pairs_and_embedding_sources_match": true,
+  "unchanged_cochrane_plaba_prompt_bytes": true,
+  "prompt_hashes_checked": 1119,
+  "context_counts_checked": 2238,
+  "all_fit_with_output_and_margin": true,
+  "inference_calls": 0,
+  "original_prompt_files_modified": false
+}

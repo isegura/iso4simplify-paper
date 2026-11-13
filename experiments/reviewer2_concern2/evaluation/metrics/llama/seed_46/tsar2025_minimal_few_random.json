@@ -1,0 +1,49 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "llama",
+    "dataset": "tsar2025",
+    "prompt": "minimal",
+    "strategy": "few_random",
+    "selection_seed": 46,
+    "n": 100,
+    "SARI": 48.94499999999999,
+    "BERTScore-F1": 0.9398040000000001,
+    "MeaningBERT": 81.9773,
+    "FKGL": 7.089499999999999,
+    "FRE": 70.5696,
+    "BLEU": 34.308317619656926,
+    "empty_n": 0,
+    "capped_n": 0
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern2/predictions/llama/seed_46/predictions_llama3_1_8b_tsar2025_minimal_few_random.csv": "221d309fec60d096590680c6bd98a3eabedb1983879577ee0c31e52d0fd327fa",
+      "data/tsar2025/tsar2025_test.csv": "dc081d1947d13f77b0eb5b93a0350bcc9fadf65ebe90a54bb1a3835ac6baa9b1",
+      "data/tsar2025/tsar2025_test_200.csv": "da8163752fc79ba846cd2aa11217e7c7fd371797ff04bf0b782ef244d6878c72"
+    },
+    "code": {
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/provenance.json": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda"
+    },
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128"
+    }
+  },
+  "items_sha256": "f4f1e6ad99addd9f838d565d7d45c4b574b791a14eca87cdbc9b1db6fcb3100b",
+  "bleu_signature": "nrefs:2|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 7.503614699933678,
+  "historical_items_reused": false,
+  "predictions_verified_unchanged": true,
+  "methodology": "Historical rounded item scores averaged without further rounding; corpus BLEU; all rows retained; TSAR A2/B1 jointly; MeaningBERT versus source; BERTScore scale 0--1."
+}

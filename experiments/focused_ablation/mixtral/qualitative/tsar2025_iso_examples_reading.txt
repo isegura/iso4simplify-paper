@@ -1,0 +1,44 @@
+CASE tsar2025/iso_examples/0 id=21 words 47->48 termination stop->stop
+
+ORIGINAL: "Your dreams can reveal thoughts that you weren't aware of. While common dreams like flying or falling, losing teeth, or being naked in public may have similar meanings for many people, to truly understand what they mean for you, link them to your daily experiences and emotions."
+
+ABLATED: "Your dreams can reveal thoughts that you didn't realize you had. Common dreams like flying or falling, losing teeth, or being naked in public often have similar meanings for many people. However, to truly understand what they mean for you, link them to your daily experiences and emotions."
+
+END CASE
+
+CASE tsar2025/iso_examples/24 id=45 words 91->96 termination stop->stop
+
+ORIGINAL: "I'm a self-employed freelancer which is good because it lets me control my work and time. At first, I worked from home but found it hard to focus with so many distractions like chores, making more tea, and family needing my attention. I then tried working at a nearby café, but the Wi-Fi was poor and I ended up drinking too much coffee. Finally, I chose to rent a desk in a co-working space with five other freelancers. I enjoyed getting ready for work and focusing better in an office setting."
+
+ABLATED: "I'm a freelancer and work on my own. This is good because I decide what to do and how to spend my time. At first, I worked from home, but I found it hard to focus with many distractions like housework, making more tea, and family members needing my attention. Then, I went to a nearby café, but the Wi-Fi was not good and I drank too much coffee. In the end, I rented a desk in a co-working space with five other freelancers. I liked getting ready for work and focusing in an office setting."
+
+END CASE
+
+CASE tsar2025/iso_examples/49 id=70 words 68->63 termination stop->stop
+
+ORIGINAL: Chloe came home from school, made herself coffee, and brought it to her room. She had homework, but she decided to do it later. She wanted to enjoy the quiet time before her parents got home and the house became noisy with talking, TV, or her dad listening to jazz while cooking dinner. She also liked this time of day because she could play with her pet rats.
+
+ABLATED: Chloe came home from school, made coffee, and brought it to her room. She had homework, but she decided to do it later. She wanted to relax before her parents got home and the house got noisy with talking, TV, or her dad playing jazz while cooking dinner. She also liked this time of day because she could play with her pet rats.
+
+END CASE
+
+CASE tsar2025/iso_examples/74 id=95 words 70->65 termination stop->stop
+
+ORIGINAL: Horror movies often feature uninhabited places, such as abandoned hospitals, scary empty houses, or ghost towns. There's something eerie about lonely and quiet places. You might wonder what life was like when people lived there and why they left. Additionally, these locations tend to be quiet, which can be quite frightening. Conveniently for horror film directors, it's also more believable that you wouldn't have phone coverage in such isolated places.
+
+ABLATED: Horror movies often feature empty places, such as deserted hospitals, creepy houses, or ghost towns. There's something unsettling about lonely, vacant places. What was life like there when people lived there? Why did they leave? Additionally, these places are usually quiet, which can be quite frightening. Conveniently for horror film directors, it's also more believable that you wouldn't have phone service in such isolated locations.
+
+END CASE
+
+CASE tsar2025/iso_examples/99 id=120 words 45->50 termination stop->stop
+
+ORIGINAL: 1. Give positive feedback without always adding negative feedback.
+2. Positive and negative feedback should not always come together. When they do, positives can lose their value and be ignored.
+3. Give positive feedback on its own.
+4. Avoid combining positive feedback with constructive criticism.
+
+ABLATED: 1. Give positive feedback without always adding negative feedback.
+2. Positive and negative feedback should not always come together. When they do, positives can lose their value and be ignored.
+3. Give positive feedback on its own. Avoid the urge to give constructive criticism every time you give positive feedback.
+
+END CASE

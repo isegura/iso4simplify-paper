@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_114_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_114_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "In a 2019 update, 65 studies (involving 3598 participants) were included. Forty-five studies provided data for our analyses (2698 participants). Treatments included bisphosphonates, vitamin D compounds, teriparatide, denosumab, cinacalcet, parathyroidectomy, and calcitonin. The median follow-up was 12 months.\n\nMost studies evaluated bone density or bone-related biomarkers. Bisphosphonate therapy was usually started in the perioperative transplantation period (within 3 weeks) and regardless of BMD. Risks of bias were generally high or unclear, leading to lower certainty in the results.\n\nCompared to placebo, bisphosphonate therapy administered over 12 months in transplant recipients may prevent fracture (low certainty evidence), but it's uncertain if any other drug class decreased fracture. It's also uncertain if interventions for bone disease in kidney transplantation reduce all-cause or cardiovascular death, myocardial infarction or stroke, or graft loss.\n\nBisphosphonate therapy may decrease acute graft rejection (low certainty evidence), while it's uncertain if any other treatment impacts graft rejection. Bisphosphonate therapy may reduce bone pain (very low certainty evidence), but it's uncertain if bisphosphonates prevent spinal deformity or avascular bone necrosis. Bisphosphonates may increase the risk of hypocalcaemia (low certainty evidence).\n\nEvidence for the benefits and harms of all other treatments is of very low certainty. Evidence for children and young adolescents is sparse. Bisphosphonate therapy may reduce fracture and bone pain after kidney transplantation, but it's possible that treatment may make little or no difference. It's uncertain if bisphosphonate therapy or other bone treatments prevent other skeletal complications after kidney transplantation. The effects of bone treatment for children and adolescents after kidney transplantation are very uncertain.",
+  "metadata": {
+    "wall_time_s": 175.651205,
+    "done_reason": "stop",
+    "eval_count": 484,
+    "prompt_eval_count": 3437,
+    "total_duration": 173597264400,
+    "load_duration": 8106600,
+    "prompt_eval_duration": 7221578000,
+    "eval_duration": 166348876000,
+    "total_duration_s": 173.597264,
+    "prompt_eval_duration_s": 7.221578,
+    "eval_duration_s": 166.348876,
+    "prompt_tokens_per_s": 475.9348,
+    "eval_tokens_per_s": 2.9095,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

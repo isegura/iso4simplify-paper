@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_105_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_105_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "\"Review of weight loss drugs found:\n\n- 22 studies for fluoxetine, orlistat, and sibutramine.\n- Fluoxetine made people lose 5.1 kg, orlistat 2.0 kg, and sibutramine 5.1 kg after certain time periods.\n- Fluoxetine and orlistat also lowered blood sugar.\n- Orlistat often caused stomach issues, fluoxetine caused tremors, sweating, and sleepiness, sibutramine caused palpitations.\n- Some studies showed weight loss with mazindol, phenmetrazine, and phentermine, but none for pseudoephedrine, ephedra, sertraline, yohimbine, amphetamine or its derivatives, bupropion, topiramate, benzocaine, threachlorocitric acid, sertraline, and bromocriptine.\n- Fluoxetine, orlistat, and sibutramine led to significant weight loss, but benefits are unclear and sibutramine's safety is doubtful.\n- Little data exists on other drugs for weight loss in type 2 diabetes.\"",
+  "metadata": {
+    "wall_time_s": 86.620036,
+    "done_reason": "stop",
+    "eval_count": 270,
+    "prompt_eval_count": 1368,
+    "total_duration": 84577111400,
+    "load_duration": 6650200,
+    "prompt_eval_duration": 3537272000,
+    "eval_duration": 80881817000,
+    "total_duration_s": 84.577111,
+    "prompt_eval_duration_s": 3.537272,
+    "eval_duration_s": 80.881817,
+    "prompt_tokens_per_s": 386.7387,
+    "eval_tokens_per_s": 3.3382,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

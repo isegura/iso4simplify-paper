@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_35_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_35_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "A study of 46 people with sickle cell disease found that those who took vitamin D had higher vitamin D levels in their blood and fewer pain days, compared to those who took a placebo. The study had some issues with dropouts and the quality of the evidence was low. Therefore, more high-quality studies are needed before any recommendations can be made for vitamin D supplementation in people with sickle cell disease. Until then, clinicians should follow existing guidelines for vitamin D supplementation.",
+  "metadata": {
+    "wall_time_s": 46.109572,
+    "done_reason": "stop",
+    "eval_count": 106,
+    "prompt_eval_count": 3545,
+    "total_duration": 44040303800,
+    "load_duration": 3782000,
+    "prompt_eval_duration": 8075404000,
+    "eval_duration": 35940580000,
+    "total_duration_s": 44.040304,
+    "prompt_eval_duration_s": 8.075404,
+    "eval_duration_s": 35.94058,
+    "prompt_tokens_per_s": 438.9873,
+    "eval_tokens_per_s": 2.9493,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

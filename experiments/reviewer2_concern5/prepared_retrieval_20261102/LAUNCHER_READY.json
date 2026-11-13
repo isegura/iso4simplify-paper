@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-02",
+  "new_manifest_sha256": "64b5f5dcb9e462ef187173edc61913489fd0e6978413f2ffbdb38da6a723b13c",
+  "validation_passed": true,
+  "powershell_pilot_dry_run_passed": true,
+  "mock_resume_and_completion_passed": true,
+  "mock_tamper_and_token_mismatch_guards_passed": true,
+  "actual_inference_started": false,
+  "recommended_pilot": "run_prepared.ps1 -Model llama -Dataset tsar2025 -Pilot",
+  "expected_pilot_outputs": 9
+}

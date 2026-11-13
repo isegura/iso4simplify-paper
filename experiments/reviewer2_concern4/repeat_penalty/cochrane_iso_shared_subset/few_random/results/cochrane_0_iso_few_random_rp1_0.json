@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_0_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_0_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at 11 studies with 414 participants that compared different ultrasound treatments for carpal tunnel syndrome (CTS). Most studies had some risk of bias, and only a few measured the main outcome of interest: short-term overall improvement. \n\nTwo studies found that ultrasound may increase the chance of short-term overall improvement when compared to placebo or splint alone. However, these results should be interpreted with caution due to study limitations. \n\nThere is no clear evidence that one ultrasound regimen is more effective than another, or that ultrasound is more effective than other non-surgical interventions for CTS. There is also limited and poor-quality evidence on the safety and effectiveness of ultrasound for CTS. More high-quality studies are needed to make firm conclusions.",
+  "metadata": {
+    "wall_time_s": 102.236125,
+    "done_reason": "stop",
+    "eval_count": 176,
+    "prompt_eval_count": 3382,
+    "total_duration": 100176217100,
+    "load_duration": 14971652100,
+    "prompt_eval_duration": 25778678000,
+    "eval_duration": 59400652000,
+    "total_duration_s": 100.176217,
+    "prompt_eval_duration_s": 25.778678,
+    "eval_duration_s": 59.400652,
+    "prompt_tokens_per_s": 131.1937,
+    "eval_tokens_per_s": 2.9629,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

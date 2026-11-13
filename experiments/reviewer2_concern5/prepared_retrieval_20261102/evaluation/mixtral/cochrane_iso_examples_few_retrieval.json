@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "mixtral",
+    "dataset": "cochrane",
+    "prompt": "iso_examples",
+    "strategy": "few_retrieval",
+    "n": 125,
+    "SARI": 38.15552,
+    "BERTScore-F1": 0.8646456,
+    "MeaningBERT": 75.44239999999999,
+    "FKGL": 11.428640000000001,
+    "FRE": 40.63304,
+    "BLEU": 12.373519385165284,
+    "empty_n": 0,
+    "capped_n": 13,
+    "mean_LEN_COMPLEX": 349.656,
+    "mean_LEN_PRED": 179.056,
+    "mean_LEN_REF": 220.92,
+    "mean_compression_ratio": 0.5653678343825953,
+    "mean_copy_rate": 0.7991973997537815
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/predictions/mixtral/predictions_mixtral_latest_cochrane_iso_examples_few_retrieval.csv": "bbefb0c87653550e295f0370e3bb983240d481b051695c2054eb15796bfeec99",
+      "experiments/reviewer2_concern5/prepared_retrieval_20261102/logs/mixtral/mixtral_cochrane_iso_examples_few_retrieval.complete.json": "c4d11dcf6faae921e7d7d33c91e1712b3bb7acdf431f562b773369e1d9c39b29",
+      "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e"
+    },
+    "manifest": "64b5f5dcb9e462ef187173edc61913489fd0e6978413f2ffbdb38da6a723b13c",
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "torch": "2.10.0",
+      "transformers": "5.3.0"
+    },
+    "code": {
+      "experiments/reviewer2_concern5/evaluate_retrieval.py": "358ecdc7ad282c81cb9a98164b35b63cf476aea4859232ab24600e0d0e3cac8f",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "experiments/reviewer2_concern2/evaluate_descriptors.py": "a0820b79bc26bcbf8bf36492eec74c283ca6af4f47e9c7423bffecb89de4a7fa"
+    }
+  },
+  "items_sha256": "afbd81c09e3597bb2d2c8e038135303de2b6562b88a3d03b476a7ae9c102cab6",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 49.85646670003189
+}

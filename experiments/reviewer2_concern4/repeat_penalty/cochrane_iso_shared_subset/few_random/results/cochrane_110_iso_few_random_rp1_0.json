@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_110_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_110_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Three studies with 123 people were included. The studies compared surgery with medical treatment for people with esophageal cancer. The methods used to prevent bias were not reported. There was no clear difference in death rates between the treatment groups (RR 0.56, 95% CI 0.13 to 2.42). However, there were fewer cases of pneumonia, chest deformity, and tracheostomy in the surgery group. There was not enough information to determine if surgery had an effect on mortality. More studies with a larger number of participants are needed to confirm these results.",
+  "metadata": {
+    "wall_time_s": 51.059924,
+    "done_reason": "stop",
+    "eval_count": 134,
+    "prompt_eval_count": 3134,
+    "total_duration": 48991508700,
+    "load_duration": 4451000,
+    "prompt_eval_duration": 4470835000,
+    "eval_duration": 44497003000,
+    "total_duration_s": 48.991509,
+    "prompt_eval_duration_s": 4.470835,
+    "eval_duration_s": 44.497003,
+    "prompt_tokens_per_s": 700.9876,
+    "eval_tokens_per_s": 3.0114,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

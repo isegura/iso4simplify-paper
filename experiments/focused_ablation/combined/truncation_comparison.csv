@@ -1,0 +1,13 @@
+model,dataset,prompt,n,original_length_terminations,ablated_length_terminations
+Llama 3.1 8B,cochrane,iso,125,0,1
+Llama 3.1 8B,cochrane,iso_examples,125,5,7
+Llama 3.1 8B,plaba,iso,148,0,0
+Llama 3.1 8B,plaba,iso_examples,148,0,0
+Llama 3.1 8B,tsar2025,iso,100,0,0
+Llama 3.1 8B,tsar2025,iso_examples,100,0,0
+Mixtral 8x7B,cochrane,iso,125,7,17
+Mixtral 8x7B,cochrane,iso_examples,125,29,30
+Mixtral 8x7B,plaba,iso,148,0,1
+Mixtral 8x7B,plaba,iso_examples,148,7,7
+Mixtral 8x7B,tsar2025,iso,100,0,0
+Mixtral 8x7B,tsar2025,iso_examples,100,0,0

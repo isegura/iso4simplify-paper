@@ -1,0 +1,4 @@
+dataset,training_rows,test_rows,training_rows_with_normalized_exact_source_in_test,shared_text_ids
+cochrane,3568,125,0,0
+plaba,635,148,0,0
+tsar2025,40,100,0,0

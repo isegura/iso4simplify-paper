@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "status": "passed",
+  "candidate_prompts_verified_by_hash": 1119,
+  "native_budget_counts_checked": 2238,
+  "original_training_pairs_verified": 1119,
+  "cosines_recomputed_from_cached_embeddings": true,
+  "six_conditions_share_same_examples": true,
+  "all_have_three_distinct_examples": true,
+  "original_manifest_unchanged": true,
+  "previous_comparable_solutions": 348,
+  "new_better": 13,
+  "new_same": 335,
+  "new_worse": 0,
+  "tsar_policy_pending": true,
+  "inference_calls": 0
+}

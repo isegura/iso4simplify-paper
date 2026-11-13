@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_55_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_55_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at 13 studies with 1316 participants who were incontinent and living in nursing homes or hospitals. Most studies were small and had short follow-up periods. The overall quality of the studies was low. We couldn't combine the data from the studies because they used different skin care products, procedures, and measurement tools.\n\nTwo trials found that soap and water were not effective in preventing or treating incontinence-associated dermatitis (IAD). A skin cleanser or a washcloth with cleansing, moisturizing, and protecting properties might be more effective. Other trials suggested that using a leave-on product, like a moisturizer or skin protectant, might be helpful. No trials reported on how many participants were not satisfied with treatment or on adverse effects.\n\nThere is little evidence, of low to moderate quality, on the effects of interventions for preventing and treating IAD in adults. High-quality trials are needed to confirm the benefits of different skin care products and procedures. It is also important to develop a standard set of outcomes and measurement tools for future studies. The evidence in this review is current up to September 28, 2016.",
+  "metadata": {
+    "wall_time_s": 94.191482,
+    "done_reason": "stop",
+    "eval_count": 257,
+    "prompt_eval_count": 3250,
+    "total_duration": 92141790100,
+    "load_duration": 2112900,
+    "prompt_eval_duration": 5755777000,
+    "eval_duration": 86363239000,
+    "total_duration_s": 92.14179,
+    "prompt_eval_duration_s": 5.755777,
+    "eval_duration_s": 86.363239,
+    "prompt_tokens_per_s": 564.6501,
+    "eval_tokens_per_s": 2.9758,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_15_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_15_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Three studies that included 285 premature babies (140 received arginine) met our criteria. These studies were of good quality. Arginine use in preterm infants lowered the risk of necrotizing enterocolitis (NEC) of any stage by 62% (quality of evidence: moderate). To prevent one case of NEC (any stage), 6 infants had to receive arginine (95% CI 4 to 10). Arginine also decreased the risk of NEC stage 1 and 3 by 63% and 87% (quality of evidence: moderate), respectively. Arginine supplementation was linked to a lower risk of death related to NEC (quality of evidence: low). There was no significant difference in mortality due to any cause between arginine and control or no treatment groups. No significant side effects from arginine were reported. There were no significant differences in adverse outcomes at 36 months between the groups. The small sample size is a limitation of this study. Arginine may prevent NEC in preterm infants, but more research is needed to support its use in clinical practice.",
+  "metadata": {
+    "wall_time_s": 84.765704,
+    "done_reason": "stop",
+    "eval_count": 254,
+    "prompt_eval_count": 1629,
+    "total_duration": 82697424100,
+    "load_duration": 2880300,
+    "prompt_eval_duration": 5460163000,
+    "eval_duration": 77239447000,
+    "total_duration_s": 82.697424,
+    "prompt_eval_duration_s": 5.460163,
+    "eval_duration_s": 77.239447,
+    "prompt_tokens_per_s": 298.3427,
+    "eval_tokens_per_s": 3.2885,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

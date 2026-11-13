@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_39_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_39_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at four studies with over 13,000 women in labor from the UK and Ireland. No conflicts of interest were reported. The studies were assessed as low risk of bias. \n\nCompared to intermittent fetal heart rate monitoring, continuous monitoring (CTG) on admission for low-risk women in labor did not show a clear difference in instrumental vaginal births or perinatal mortality. However, continuous monitoring did lead to higher rates of electronic fetal monitoring, fetal blood sampling, and caesarean sections. \n\nThere was no clear evidence of benefit for the use of admission CTG for low-risk women in labor. In fact, it is likely that admission CTG increases the caesarean section rate by approximately 20%. The data lacked power to detect possible important differences in perinatal mortality. \n\nWe found no evidence to support the continued use of admission CTG for low-risk women in labor. Women should be informed of the increased caesarean section rate without evidence of benefit. The findings of this review support recommendations that the admission CTG not be used for low-risk women in labor. \n\nThe evidence quality ranged from moderate to very low, with downgrading decisions based on imprecision, inconsistency, and a lack of blinding for participants and personnel. All four included studies were conducted in developed Western European countries. Future studies should consider including women admitted with signs of labor and before a formal diagnosis of labor.",
+  "metadata": {
+    "wall_time_s": 123.840117,
+    "done_reason": "stop",
+    "eval_count": 325,
+    "prompt_eval_count": 3654,
+    "total_duration": 121785919200,
+    "load_duration": 6370000,
+    "prompt_eval_duration": 9271697000,
+    "eval_duration": 112487643000,
+    "total_duration_s": 121.785919,
+    "prompt_eval_duration_s": 9.271697,
+    "eval_duration_s": 112.487643,
+    "prompt_tokens_per_s": 394.1026,
+    "eval_tokens_per_s": 2.8892,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

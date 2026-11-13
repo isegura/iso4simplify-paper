@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_55_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_55_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "13 trials with 1",
+  "metadata": {
+    "wall_time_s": 8.469201,
+    "done_reason": "stop",
+    "eval_count": 7,
+    "prompt_eval_count": 1475,
+    "total_duration": 6416826600,
+    "load_duration": 6355800,
+    "prompt_eval_duration": 4613131000,
+    "eval_duration": 1793843000,
+    "total_duration_s": 6.416827,
+    "prompt_eval_duration_s": 4.613131,
+    "eval_duration_s": 1.793843,
+    "prompt_tokens_per_s": 319.7395,
+    "eval_tokens_per_s": 3.9022,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_74_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_74_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Twenty-four studies were included, but only sixteen of them (involving 10,114 women) had useful data. Meta-analyses showed that neither estrogen replacement therapy (ERT) nor hormone replacement therapy (HRT) prevented cognitive impairment after five or four years of treatment. In fact, both ERT and HRT may negatively affect cognitive function over time. Smaller studies examining specific cognitive domains mostly reported no evidence of benefit. There is good evidence that both ERT and HRT do not prevent cognitive decline in older postmenopausal women when given as short-term or longer-term therapy. It is not clear if specific types of ERT or HRT have specific effects in certain subgroups of women. Large clinical trials currently underway in the USA may provide more information on these uncertainties by the year 2010. Based on the available evidence, ERT or HRT cannot be recommended for overall cognitive improvement or maintenance in older postmenopausal women without cognitive impairment.",
+  "metadata": {
+    "wall_time_s": 82.556234,
+    "done_reason": "stop",
+    "eval_count": 223,
+    "prompt_eval_count": 3231,
+    "total_duration": 80492322900,
+    "load_duration": 6568700,
+    "prompt_eval_duration": 5679042000,
+    "eval_duration": 74787406000,
+    "total_duration_s": 80.492323,
+    "prompt_eval_duration_s": 5.679042,
+    "eval_duration_s": 74.787406,
+    "prompt_tokens_per_s": 568.934,
+    "eval_tokens_per_s": 2.9818,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

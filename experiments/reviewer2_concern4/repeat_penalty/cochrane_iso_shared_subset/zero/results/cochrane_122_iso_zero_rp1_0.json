@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_122_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_122_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "Five studies involving 235 breast cancer survivors met the review's criteria. These studies tested four types of interventions: computer-assisted cognitive training, compensatory strategy training, meditation, and physical activity. All studies had a high risk of bias.\n\n The studies looked at cognitive function. However, the data couldn't be combined for statistical analysis. \n\n Computer-assisted cognitive training improved objectively measured cognitive function, subjective cognitive function, and mental well-being. Compensatory strategy training enhanced objectively measured memory, self-reported cognitive function, and spiritual quality of life. \n\n Two studies on compensatory strategy training found no immediate or two-month post-intervention benefits for physical or mental well-being. However, a slight decrease in mental well-being immediately after the intervention was noted compared to wait-list controls.\n\n The quality of evidence for physical and mental health outcomes was low. The impact of physical activity and meditation on cognitive outcomes is unclear. \n\n Despite the low-quality evidence, non-pharmacological interventions might reduce or ameliorate cognitive impairment following systemic cancer treatment. More research is needed, especially on cognitive impairment in cancer patient groups other than women with breast cancer. Larger, multi-site studies with active attentional control groups and functional outcome considerations are required.",
+  "metadata": {
+    "wall_time_s": 94.681841,
+    "done_reason": "stop",
+    "eval_count": 289,
+    "prompt_eval_count": 1525,
+    "total_duration": 92614776500,
+    "load_duration": 2248600,
+    "prompt_eval_duration": 4946997000,
+    "eval_duration": 87655609000,
+    "total_duration_s": 92.614777,
+    "prompt_eval_duration_s": 4.946997,
+    "eval_duration_s": 87.655609,
+    "prompt_tokens_per_s": 308.2678,
+    "eval_tokens_per_s": 3.297,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

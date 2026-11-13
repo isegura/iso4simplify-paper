@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_8_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_8_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "A study of 125 glioblastoma (GBM) patients compared having post-operative imaging within 48 hours to having no early imaging. Most patients had maximal surgery followed by radiation and temozolomide treatment. The study, which had a high risk of bias, found little or no difference in one-year and two-year survival rates between the two groups. There is little evidence on the effectiveness of other imaging schedules or their impact on health outcomes. Current imaging schedules for glioma seem practical but not based on strong evidence. Further research is needed on the effect of early post-operative imaging on GBM patient survival, especially since it can also serve as a quality control measure. Using a large glioma patient database for mathematical modeling could help determine the best timing for surveillance imaging based on individual tumor growth rates, molecular biomarkers, and other prognostic factors. Additionally, insights from pediatric glioma studies could guide future imaging strategy research in adult glioma patients.",
+  "metadata": {
+    "wall_time_s": 72.064703,
+    "done_reason": "stop",
+    "eval_count": 219,
+    "prompt_eval_count": 1420,
+    "total_duration": 70001565500,
+    "load_duration": 3887600,
+    "prompt_eval_duration": 4314989000,
+    "eval_duration": 65674344000,
+    "total_duration_s": 70.001565,
+    "prompt_eval_duration_s": 4.314989,
+    "eval_duration_s": 65.674344,
+    "prompt_tokens_per_s": 329.0854,
+    "eval_tokens_per_s": 3.3346,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

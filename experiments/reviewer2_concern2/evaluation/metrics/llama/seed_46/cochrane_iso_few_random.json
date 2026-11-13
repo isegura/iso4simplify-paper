@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "record": {
+    "model": "llama",
+    "dataset": "cochrane",
+    "prompt": "iso",
+    "strategy": "few_random",
+    "selection_seed": 46,
+    "n": 125,
+    "SARI": 38.41408,
+    "BERTScore-F1": 0.8724896,
+    "MeaningBERT": 69.90424,
+    "FKGL": 12.061760000000001,
+    "FRE": 39.95584,
+    "BLEU": 6.094644604453539,
+    "empty_n": 0,
+    "capped_n": 0
+  },
+  "fingerprint": {
+    "inputs": {
+      "experiments/reviewer2_concern2/predictions/llama/seed_46/predictions_llama3_1_8b_cochrane_iso_few_random.csv": "41fc4700aee0c6b893ef1830e340915ae3744c3867410ef7b1f82e8215379dbd",
+      "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e"
+    },
+    "code": {
+      "experiments/reviewer2_concern2/evaluate_metrics.py": "1d30a47898dfb7679d5e2d8fc709bb07f029c2a0a43aa998b574f0ba10724bfc",
+      "eval_utils.py": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+      "focused_metric_runtime.py": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+      "experiments/focused_ablation/metric_sources/provenance.json": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+      "experiments/focused_ablation/metric_sources/meaningbert_original/meaningbert_original.py": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda"
+    },
+    "versions": {
+      "numpy": "2.4.3",
+      "pandas": "3.0.1",
+      "sacrebleu": "2.6.0",
+      "evaluate": "0.4.6",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128"
+    }
+  },
+  "items_sha256": "f142267bf2e4c25c570f72465a5bea78f342d7ad9786ff2026e08a0f93a056f7",
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "elapsed_seconds": 14.721575499977916,
+  "historical_items_reused": false,
+  "predictions_verified_unchanged": true,
+  "methodology": "Historical rounded item scores averaged without further rounding; corpus BLEU; all rows retained; TSAR A2/B1 jointly; MeaningBERT versus source; BERTScore scale 0--1."
+}

@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_23_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_23_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at 18 studies with 4843 participants who received bisphosphonate treatment or a control regimen for bone metastases from prostate cancer.\n\nPrimary outcome: There is no clear difference in pain response between the two groups (",
+  "metadata": {
+    "wall_time_s": 31.497632,
+    "done_reason": "stop",
+    "eval_count": 57,
+    "prompt_eval_count": 3712,
+    "total_duration": 29442869700,
+    "load_duration": 8120000,
+    "prompt_eval_duration": 10117437000,
+    "eval_duration": 19296872000,
+    "total_duration_s": 29.44287,
+    "prompt_eval_duration_s": 10.117437,
+    "eval_duration_s": 19.296872,
+    "prompt_tokens_per_s": 366.8913,
+    "eval_tokens_per_s": 2.9538,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

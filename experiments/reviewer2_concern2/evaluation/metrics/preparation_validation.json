@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "original_configurations": 36,
+  "original_rows": 4476,
+  "metric_comparisons": 216,
+  "all_match_original_statistics_audit": true,
+  "synthetic_contract_tests": 3,
+  "checkpoint_reuse_verified": true,
+  "semantic_evaluation_of_new_seeds_started": false,
+  "ollama_calls": 0,
+  "generation_manifest_validation": "72 planned configurations passed; frozen inputs unchanged"
+}

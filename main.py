@@ -86,6 +86,8 @@ def ollama_device():
     return "gpu" if models[0].get("size_vram", 0) > 0 else "cpu"
 
 def build_prompt_map(dataset_name: str, prompt_type: str, sampling_method: str) -> Dict[str, str]:
+    if prompt_type in {"iso_ablated", "iso_examples_ablated"}:
+        return {"zero": f"{prompt_type.removesuffix('_ablated')}_zero_ablated.md"}
     return {
         "zero": f"{prompt_type}_zero.md",
         "one": f"{dataset_name}_{prompt_type}_one.md",

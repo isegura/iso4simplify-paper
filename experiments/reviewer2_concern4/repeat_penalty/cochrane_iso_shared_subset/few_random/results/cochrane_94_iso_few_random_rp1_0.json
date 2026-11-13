@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_94_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_94_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Sixty-seven trials with 6197 participants were included, but all were at high risk of bias. A total of 5771 participants from 64 trials provided data for outcomes included in this review. There was no evidence of differences in most comparisons, and where there was, these differences were in single trials, mostly of small sample size. The only outcome with evidence of a difference from more than one trial was the number of adverse events (complications), which was higher with radiofrequency dissecting sealer than with the clamp-crush method. Among the secondary outcomes, the only differences found from more than one trial were the following: blood transfusion (proportion) was higher in the low central venous pressure group than in the acute normovolemic haemodilution plus low central venous pressure group; blood transfusion quantity (red blood cells) was lower in the fibrin sealant group than in the control; blood transfusion quantity (fresh frozen plasma) was higher in the oxidised cellulose group than in the fibrin sealant group; blood loss, total hospital stay, and operating time were lower with low central venous pressure than with control. There is low-quality evidence that liver resection using a radiofrequency dissecting sealer may be associated with more adverse events than with the clamp-crush method. Low-quality evidence also suggests that the proportion of people requiring a blood transfusion is higher with low central venous pressure than with acute normovolemic haemodilution plus low central venous pressure. Very low-quality evidence suggests that blood transfusion quantity (red blood cells) was lower with fibrin sealant than control; blood transfusion quantity (fresh frozen plasma) was higher with oxidised cellulose than with fibrin sealant; and blood loss, total hospital stay, and operating time were lower with low central venous pressure than with control. There is no evidence to suggest that using special equipment for liver resection is of any benefit in decreasing the mortality, morbidity, or blood transfusion requirements. Radiofrequency dissecting sealer should not be used outside the clinical trial setting since there is low-quality evidence for increased harm without any evidence of benefits. However, the sample size was small and the credible intervals were wide, and we cannot rule out considerable benefit or",
+  "metadata": {
+    "wall_time_s": 190.240511,
+    "done_reason": "length",
+    "eval_count": 512,
+    "prompt_eval_count": 3663,
+    "total_duration": 188201680500,
+    "load_duration": 2199600,
+    "prompt_eval_duration": 9293353000,
+    "eval_duration": 178887770000,
+    "total_duration_s": 188.201681,
+    "prompt_eval_duration_s": 9.293353,
+    "eval_duration_s": 178.88777,
+    "prompt_tokens_per_s": 394.1527,
+    "eval_tokens_per_s": 2.8621,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

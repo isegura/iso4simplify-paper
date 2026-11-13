@@ -1,0 +1,25 @@
+{
+  "status": "design_validated_not_fitted",
+  "configurations": 144,
+  "rows": 17904,
+  "source_clusters": 335,
+  "model_rank": 144,
+  "primary_contrasts": 7,
+  "secondary_contrasts": 36,
+  "outcome_columns_read": false,
+  "new_prediction_files_read": false,
+  "ollama_calls": 0,
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261023,
+  "cluster": "dataset/text_id",
+  "multiplicity": "BH separately: 7 primary SARI; 36 secondary SARI",
+  "source_sha256": {
+    "data/cochrane/cochrane_test.csv": "164bd07b1f4109b715a38498bf40e824edd1d995de2f84367b763f67a21ce84e",
+    "data/plaba/plaba_test.csv": "aecfcf5af437a2c3ec6c0898f04b839a8d92b90c4136f4a3c66b7eaf96a94ebd",
+    "data/tsar2025/tsar2025_test.csv": "dc081d1947d13f77b0eb5b93a0350bcc9fadf65ebe90a54bb1a3835ac6baa9b1"
+  },
+  "code_sha256": "a5f8020c9a7b775e540ac97fc0ecb117c4a7669f56f90bd6714c3ee89ace49ea",
+  "plan_sha256": "4db10c2e7619c951101175f6761055a830863fa65698744b6b6c235075ff3194",
+  "statistics_core_sha256": "e2d2727b16765629d5acdf4f392069f7d1ae499818b501c41a1a8a7e3543dd62",
+  "synthetic_tests": "test_statistics_plan.py: 3 passed; OLS/CR1 equivalence, margins, bootstrap repeatability, BH families"
+}

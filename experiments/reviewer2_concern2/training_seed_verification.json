@@ -1,0 +1,35 @@
+{
+  "training_files": {
+    "cochrane": {
+      "supplied_file": "C:\\Users\\isegu\\Downloads\\cochrane_train.csv",
+      "project_file": "data\\cochrane\\cochrane_train.csv",
+      "sha256": "26a0933de01af683fe45d6da2613ed3637828fe08719e7db673f203eb32ae640"
+    },
+    "plaba": {
+      "supplied_file": "C:\\Users\\isegu\\Downloads\\plaba_train.csv",
+      "project_file": "data\\plaba\\plaba_train.csv",
+      "sha256": "5102a4d29a83aa2bd33640188fa7e77c23f9c8b1a3bce9aaf395e85bdfcbdf4c"
+    },
+    "tsar2025": {
+      "supplied_file": "C:\\Users\\isegu\\Downloads\\tsar2025_train.csv",
+      "project_file": "data\\tsar2025\\tsar2025_train.csv",
+      "sha256": "60a3a531c2834ad799033f4dcd8e28c57b7fec86cd9af055a79dd9c9c8a5f32b"
+    }
+  },
+  "pandas_version": "3.0.1",
+  "numpy_version": "2.4.3",
+  "algorithm": "DataFrame.sample(n=3, random_state=seed), without replacement; retain returned order",
+  "inspected_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "selection_replay_seed": 42,
+  "all_36_prompt_occurrences_match_content_and_order": true,
+  "original_prompt_files_modified": false,
+  "models_run": false,
+  "new_experimental_seeds_finalized": false,
+  "note": "Inspected additional seed inputs before outcome generation. 43 repeats TSAR one-shot from 42; 45 repeats TSAR one-shot from 44. 44 and 46 are an available alternative if distinct one-shot inputs are required."
+}

@@ -1,0 +1,17 @@
+--- prompts/iso_zero.md
++++ prompts/iso_zero_ablated.md
+@@ -15,14 +15,6 @@
+ - **Usable** (the reader can use the information for its intended purpose)
+ 
+ You must prioritize the reader’s needs by eliminating irrelevant or superfluous information and writing in a direct and precise manner.
+-
+-# PRINCIPLES OF ORGANIZATION AND HIERARCHY
+-
+-1. **Information hierarchy:** Place the most important message at the beginning of the document.
+-
+-2. **Initial summary:** Introduce a brief summary at the beginning so the reader understands the essential content before reading the details.
+-
+-3. **Logical grouping:** Group related information together and, for processes or instructions, use chronological order.
+ 
+ # WRITING INSTRUCTIONS (LINGUISTIC LEVEL)
+ 

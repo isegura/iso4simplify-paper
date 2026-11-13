@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_78_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_78_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "1. No new studies were found for this update. Six studies with 5193 participants were included.\n2. Zinc supplementation reduced pneumonia incidence by 13% and prevalence by 41%.\n   - The fixed-effect risk ratio (RR) was 0.87 (95% CI 0.81 to 0.94), based on six studies with low-quality evidence.\n   - One study with 609 participants and low-quality evidence showed a random-effects RR of 0.59 (95% CI 0.35 to 0.99).\n3. Zinc reduced pneumonia defined by specific clinical criteria (chest examination or chest radiograph) by 21%.\n   - Four studies with 3261 participants showed a fixed-effect RR of 0.79 (95% CI 0.71 to 0.88).\n   - Zinc had no effect on lower specificity pneumonia case definition (age-specific fast breathing with or without lower chest indrawing).\n   - Four studies with 1932 participants showed a fixed-effect RR of 0.95 (95% CI 0.86 to 1.06).\n4. Zinc supplementation in children is linked to fewer pneumonia cases and lower prevalence.",
+  "metadata": {
+    "wall_time_s": 97.515838,
+    "done_reason": "stop",
+    "eval_count": 312,
+    "prompt_eval_count": 1227,
+    "total_duration": 95467973700,
+    "load_duration": 5921300,
+    "prompt_eval_duration": 2542905000,
+    "eval_duration": 92754089000,
+    "total_duration_s": 95.467974,
+    "prompt_eval_duration_s": 2.542905,
+    "eval_duration_s": 92.754089,
+    "prompt_tokens_per_s": 482.519,
+    "eval_tokens_per_s": 3.3637,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

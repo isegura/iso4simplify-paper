@@ -1,0 +1,79 @@
+CASE tsar2025/iso row=0 id=21
+
+SOURCE: Your dreams might show you all kinds of insights into things that you didn't realise you were thinking about. Common dreams like being able to fly or falling, your teeth falling out or having no clothes on in a public place probably mean something similar in most people. But the key to understanding exactly what they mean to you is to connect them to the events and feelings in your daily life.
+
+ORIGINAL: Your dreams can give you clues about things you didn't realize were on your mind. Common dreams like flying, falling, or being naked in public usually mean similar things for most people. To understand what they mean to you, connect them to events and feelings from your daily life.
+
+(Note: I have applied the principles of organization and hierarchy, writing instructions (linguistic level), visual format, and response format as per the given guidelines.)
+
+ABLATED: Your dreams can give you clues about things you didn't realize were on your mind. Common dreams like flying, falling, or being naked in public usually mean similar things for most people. To understand what they mean to you, connect them to events and feelings from your daily life.
+
+(Note: I have applied the instructions for lexicon, syntax, style, and tone to simplify the original text.)
+
+END CASE
+
+
+CASE tsar2025/iso row=24 id=45
+
+SOURCE: I'm a freelancer and work for myself. This is great because I am in control of what I do and how I spend my time. At first, I was working from home, but I found it really hard to concentrate. There were just too many distractions around: housework that needed doing, another cup of tea, my family members wanting my attention for various things. So I started to go to a nearby café to work, but the Wi-Fi connection wasn't ideal and I found myself drinking too much coffee. In the end, I decided to rent a desk in a co-working space with five other freelancers like myself. I liked getting dressed to go to work in the morning and being able to focus in an office environment.
+
+ORIGINAL: I'm a freelancer who works for myself. This is good because I have control over what I do and how I spend my time.
+
+At first, I worked from home but it was hard to concentrate. There were too many distractions: household chores, family members needing attention, etc.
+
+To solve this problem, I started going to a nearby café to work. However, the Wi-Fi connection wasn't good and I drank too much coffee.
+
+Now, I rent a desk in a co-working space with five other freelancers like myself. I prefer getting dressed for work and focusing in an office environment.
+
+ABLATED: I'm a freelancer who works for myself. This is great because I have control over what I do and how I spend my time.
+
+At first, I worked from home but found it hard to concentrate due to distractions like household chores and family members needing attention.
+
+To solve this problem, I started going to a nearby café to work. However, the Wi-Fi connection was not ideal and I drank too much coffee.
+
+In the end, I decided to rent a desk in a co-working space with five other freelancers. This allowed me to focus better in an office environment and even get dressed for work each morning.
+
+END CASE
+
+
+CASE tsar2025/iso row=49 id=70
+
+SOURCE: Chloe arrived home from school, made herself a cup of coffee and took it up to her bedroom. She had some homework to do, but that could wait for later. She wanted to enjoy the quiet hour before her parents arrived home and the house filled up with the evening sounds of chatter, television or her dad listening to his beloved jazz while he cooked dinner. She liked this time of day too because she could play with her pet rats.
+
+ORIGINAL: Chloe came home from school and made a cup of coffee in her bedroom. She had homework, but decided to do it later. She wanted some quiet time before her parents arrived home.
+
+She liked this hour because she could relax and play with her pet rats.
+
+ABLATED: Chloe came home from school and made a cup of coffee. She went upstairs to do her homework later, but first wanted some quiet time before her parents arrived.
+
+She liked this hour because she could relax and play with her pet rats without distractions like TV or loud noises.
+
+END CASE
+
+
+CASE tsar2025/iso row=74 id=95
+
+SOURCE: Horror films love uninhabited places. This could be an abandoned hospital, a scary empty house or a ghost town. There's something about lonely, empty places. What was it like when people lived there? Why did they leave? Maybe it's also that they are so quiet, which can be very scary too. Of course, abandoned places are also handy for horror film directors in that it's more believable that you will have no phone coverage there either.
+
+ORIGINAL: Horror movies often use empty places like old hospitals or ghost towns. These locations can be scary because they're quiet and lonely. People might wonder what happened to those who lived there and why they left.
+
+Abandoned places are also useful for horror movie makers because it's believable that phones won't work there.
+
+ABLATED: Horror movies often take place in empty buildings or towns. These can be old hospitals, houses, or ghost towns. People find these places scary because they are quiet and lonely.
+
+When people lived there, what was it like? Why did they leave? Horror directors like using abandoned places because it's believable that phones won't work there.
+
+END CASE
+
+
+CASE tsar2025/iso row=99 id=120
+
+SOURCE: Don't always follow positive feedback with negative feedback. When positive and negative feedback always appear to go hand in hand, the positives can become devalued and ignored. Ensure there are times when positive feedback is given for its own sake and resist the temptation to offer constructive criticism.
+
+ORIGINAL: Don't just follow positive comments with negative ones. This makes positives seem less important. Give positive feedback sometimes just because it's true, not just to balance out negatives.
+
+(Note: I have rewritten the text in a way that is clear, concise, and easy to understand, following the principles of ISO 24495-1 standard for plain language communication.)
+
+ABLATED: Don't mix positive and negative feedback. When you always give both, the positives can be ignored. Give praise without criticizing.
+
+END CASE

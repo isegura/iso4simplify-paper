@@ -1,0 +1,90 @@
+CASE plaba/iso_examples/0 id=30377698 words 190->236 termination stop->stop
+
+ORIGINAL: Osteoarthritis of the knee often occurs with a Baker's cyst. Other knee joint problems can also cause this cyst. Radiotherapy treats osteoarthritis effectively by reducing inflammation. We thought that radiotherapy might also lower synovial production and Baker's cyst volume due to excessive synovia from intraarticular inflammation.
+
+We conducted a trial involving 20 knees given radiotherapy for arthritis. We documented NRS, WOMAC score, and Knee Society Score. We also calculated the Baker's cyst volume for short-term (6 to 12 weeks) and long-term (9 to 12 months) follow-ups using ultrasonic volumetry with a high-resolution multifrequency linear probe (6-9 MHz).
+
+Radiotherapy significantly improved NRS, WOMAC score, and Knee Society Score. The mean Baker's cyst volume decreased from 22.3 ml to 10.7 ml after 6 to 12 weeks and further dropped to 3.1 ml after 9 to 12 months. In short-term follow-ups, 75% of patients had a decrease in cyst volume by over 25%. This percentage increased to 79% in long-term follow-ups.
+
+Radiotherapy for knee osteoarthritis is effective in reducing Baker's cyst volume, with most patients responding well to treatment. Further examination is needed to determine if radiotherapy benefits Baker's cyst without associated osteoarthritis.
+
+ABLATED: Osteoarthritis of the knee is often linked to a condition called Baker's cyst. Other knee joint issues can also cause this cyst. Radiotherapy is a common treatment for osteoarthritis, as it reduces inflammation. We thought that radiotherapy might also lower the production of synovial fluid and shrink the size of a Baker's cyst, which is often caused by too much synovial fluid due to inflammation.
+
+We conducted a trial involving 20 knees that received radiotherapy for knee arthritis. We measured pain levels using the Numeric Rating Scale, as well as WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index) scores and Knee Society Scores. We also calculated the volume of the Baker's cyst for short-term (6 to 12 weeks) and long-term (9 to 12 months) follow-ups using ultrasonic volumetry with a high-resolution multifrequency linear probe (6-9 MHz).
+
+Here's what we found:
+- Low-dose radiotherapy significantly improved pain, WOMAC scores, and Knee Society Scores.
+- The average Baker's cyst volume decreased from 22.3 ml to 10.7 ml after short-term follow-up and further shrank to 3.1 ml after long-term follow-up.
+- 75% of patients saw a reduction of more than 25% in the short term, and 79% had this decrease in the long term.
+
+In conclusion, radiotherapy for knee osteoarthritis is effective at reducing Baker's cyst volume, with most patients responding to treatment. Further research is needed to determine if radiotherapy can effectively treat Baker's cyst without associated osteoarthritis.
+
+END CASE
+
+CASE plaba/iso_examples/36 id=6445384 words 117->141 termination stop->stop
+
+ORIGINAL: "A study was done to see how single doses of 10, 15, or 30 mg of prednisone affect the immune system in healthy people. The results showed that doses as low as 10 mg can have immunosuppressive effects, including a decrease in certain types of white blood cells and a reduction in certain immune responses. These effects were most noticeable 6 hours after taking the drug and had disappeared by 24 hours. The body's response to its own cells in the autologous MLR was especially sensitive to prednisone, being significantly suppressed just 2 hours after administration. This reduction in the autologous MLR may have clinical relevance and should be considered in studies of patients receiving glucocorticoid therapy."
+
+ABLATED: "A study looked at the effects of taking single oral doses of 10, 15, or 30 mg of prednisone in healthy volunteers. The results showed that even a dose as low as 10 mg had immunosuppressive effects. This included a decrease in circulating T cells and monocytes, and a significant reduction in autologous MLR responses. However, allogeneic MLR responses were not affected. These effects were most noticeable 6 hours after taking the drug and had disappeared by 24 hours. Autologous MLR responses were found to be especially sensitive to prednisone, being significantly suppressed just 2 hours after drug administration. Suppression of macrophage-enriched stimulating cells was easier than suppressing responding T cells. The reduction of the autologous MLR by low-dose glucocorticoids may have clinical relevance and should be taken into consideration in studies of the autologous MLR in patients receiving glucocorticoid therapy."
+
+END CASE
+
+CASE plaba/iso_examples/73 id=34477130 words 245->202 termination length->stop
+
+ORIGINAL: This study compared how well minimally invasive percutaneous nephrolithotomy (MPCNL) and standard percutaneous nephrolithotomy work in treating kidney and upper ureter stones. The analysis was based on 10 randomized controlled trials involving 1612 patients.
+
+The results showed that:
+- MPCNL had a higher stone-free rate (odds ratio = 1.46, 95% confidence interval [1.12,1.88], P = .004).
+- The difference in operative time was not significant (mean difference = 4.10, 95% CI [-1.37,9.56], P = .14).
+- MPCNL had a shorter hospital stay (MD = -15.31, 95% CI [-29.43,-1.19], P = .03).
+- MPCNL resulted in a greater decrease in hemoglobin levels (MD = -0.86, 95% CI [-1.19,-0.53], P < .00001).
+- The incidence of postoperative fever was similar for both procedures (MD = 0.83, 95% CI [0.49,1.40], P = .49).
+- There was no significant difference in urine leakage between the two procedures (MD = 0.59, 95% CI [0.25,1.37], P = .22).
+
+Subgroup analysis based on vacuum suction effect and multiple kidney stones was also performed. The results showed that:
+- Vacuum suction in MPCNL increased the stone-free rate (P = .007) but had no significant effect in non-vacuum suction group (P = .19).
+- Operative time was not significantly different between vacuum and non-vacuum suction groups (P = .89 and P = .16, respectively).
+- The incidence of postoperative fever was similar for both procedures in vacuum and non-vacuum suction groups (P = .49 and P = .85, respectively).
+
+The study concluded that MPCNL
+
+ABLATED: This study compared minimally invasive percutaneous nephrolithotomy (MPCNL) and standard percutaneous nephrolithotomy in patients with kidney and upper ureter stones. The analysis of 10 randomized controlled trials with 1612 patients showed:
+- Stone-free rate: MPCNL was more successful (odds ratio = 1.46, 95% confidence interval [1.12,1.88], P = .004).
+- Operative time: Similar for both procedures (mean difference = 4.10, 95% CI [-1.37,9.56], P = .14).
+- Hospital stay length: Shorter for MPCNL (MD = -15.31, 95% CI [-29.43,-1.19], P = .03).
+- Hemoglobin decrease: Greater with standard percutaneous nephrolithotomy (MD = -0.86, 95% CI [-1.19,-0.53], P < .00001).
+- Postoperative fever and urine leakage: Similar for both procedures (P = .49 and P = .22, respectively).
+
+Subgroup analysis based on vacuum suction effect and multiple kidney stones was also performed. The vacuum suction effect in MPCNL played a more important role, but the longer operative time in MPCNL for multiple or staghorn stones should not be ignored.
+
+In conclusion, this study found that MPCNL is a safe and effective method for treating renal stones compared to standard percutaneous nephrolithotomy, with vacuum suction effect being particularly important. However, the longer operative time for multiple or staghorn stones in MPCNL should be considered.
+
+END CASE
+
+CASE plaba/iso_examples/110 id=27630909 words 13->69 termination stop->stop
+
+ORIGINAL: Title: Trends of hCG Levels in Ectopic Pregnancy and Their Role in Management
+
+ABLATED: Introduction: Ectopic pregnancy (EP) can have different symptoms. Checking the level of hCG (a hormone) in the blood is important for early diagnosis.
+
+Goal: The goal of this study was to analyze hCG levels in EP and see how it helps make decisions about EP treatment and follow-up.
+
+The study looked at women with EP who were treated at a big hospital in southern India from 2006 to 2
+
+END CASE
+
+CASE plaba/iso_examples/147 id=35008695 words 195->218 termination stop->stop
+
+ORIGINAL: During infections, the body moves iron around to keep it away from harmful germs. Many proteins help with absorbing, moving, and storing iron. Ferritin is a key protein for storing iron. It's made up of different amounts of two parts called FTL and FTH. We discovered that when certain immune cells (macrophages) are infected in a lab, they produce more FTH1 but not much more FTL.
+
+We wanted to know if this increase in FTH1 helps or harms the body during real infections. So, we studied mice that couldn't make FTH1 in their immune cells. These mice were better at fighting off infection by a germ called M. avium. They had fewer germs in their bodies and lower levels of inflammatory signals called cytokines. This was because there was less iron available for the germs to use.
+
+Interestingly, we also found that FTH1 made by infected immune cells can be found in the bloodstream. In mice without FTH1 in their immune cells, we saw higher expression of a protein called ferroportin in liver granulomas and more iron buildup in liver cells. This shows that FTH1 from immune cells is important for managing iron during infection.
+
+ABLATED: During infections, the body moves iron around to keep it away from harmful germs. Many proteins help with absorbing, moving, and storing iron. Ferritin is an important protein for storing iron. It's made up of different amounts of two substances called FTL and FTH. We previously found that a type of immune cell called macrophages make more FTH1 when they are infected with a germ called Mycobacterium avium, but they don't make much more FTL. 
+
+In this study, we looked at the role of FTH1 in M. avium infection in living animals. We found that mice without FTH1 in their immune cells were better able to fight off M. avium infection. They had fewer germs in their bodies and lower levels of inflammatory signals than normal mice. This is because they had less iron available in their tissues. 
+
+We also discovered that FTH1 made by infected immune cells can be found in the bloodstream, where it plays a key role in moving iron around. In particular, when FTH1 is missing from immune cells, there is more expression of a protein called ferroportin in liver granulomas and more iron builds up in liver cells. These findings show how important it is for FTH1 to be present in immune cells so that iron can be moved around properly during infection.
+
+END CASE

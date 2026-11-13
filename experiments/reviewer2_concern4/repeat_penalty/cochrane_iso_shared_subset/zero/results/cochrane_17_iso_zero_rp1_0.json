@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_17_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_17_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "A review of nine studies with 1512 women looked at whether intentionally damaging the lining of the womb (endometrial injury) helps with pregnancy. Most women in the studies had unexplained infertility. Seven studies involved women undergoing IUI (artificial insemination) and two studies involved women trying to conceive naturally.\n\nThe studies compared:\n- Intentionally damaging the womb lining versus no treatment or a sham procedure.\n- Intentionally damaging the womb lining before IUI versus during IUI.\n- A higher degree of damage versus a lower degree.\n\nThe results are uncertain for live birth/ongoing pregnancy (RR 2.22, 95% CI 1.56 to 3.15; six RCTs, 950 participants; very low quality evidence). The evidence is low quality for improved clinical pregnancy rates (RR 1.98, 95% CI 1.51 to 2.58; eight RCTs, 1180 participants).\n\nOne study reported an average pain score of 6/10 for participants undergoing endometrial injury. There is no evidence of a difference in ongoing or clinical pregnancy rates when comparing hysteroscopy with endometrial injury to hysteroscopy alone.\n\nPerforming endometrial injury in the cycle before IUI compared to the same cycle as the IUI showed no difference in ongoing or clinical pregnancy rates. No studies reported bleeding or pain during the procedure.\n\nThere is uncertainty about whether endometrial injury improves the probability of pregnancy and live birth/ongoing pregnancy in women undergoing IUI or attempting to conceive naturally. More well-conducted RCTs are needed to confirm or refute these findings.",
+  "metadata": {
+    "wall_time_s": 130.303577,
+    "done_reason": "stop",
+    "eval_count": 395,
+    "prompt_eval_count": 1763,
+    "total_duration": 128258577300,
+    "load_duration": 6415400,
+    "prompt_eval_duration": 6238522000,
+    "eval_duration": 121854383000,
+    "total_duration_s": 128.258577,
+    "prompt_eval_duration_s": 6.238522,
+    "eval_duration_s": 121.854383,
+    "prompt_tokens_per_s": 282.599,
+    "eval_tokens_per_s": 3.2416,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

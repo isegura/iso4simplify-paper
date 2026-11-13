@@ -1,0 +1,139 @@
+CASE plaba/iso_examples row=0 id=30377698
+
+SOURCE: Purpose: Osteoarthritis of the knee is a common disease, often associated with a Baker's cyst.  Besides osteoarthritis, also other joint pathologies of the knee can be causative for a Baker's cyst.  Radiotherapy is known to be an effective treatment for osteoarthritis, with an anti-inflammatory effect.  As the excessive production of synovia usually is associated with intraarticular inflammation, our hypothesis was that radiotherapy might positively influence the synovial production and reduce the volume of a Baker's cyst.  Materials and methods: We performed a prospective trial, including 20 knees receiving radiotherapy for knee arthritis.  Besides documentation of NRS (numeric rating scale), WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index) score and Knee Society Score, the volume of the Baker's cyst was calculated for a short- (6 to 12 weeks) and long-term (9 to 12 months) follow-up.  Ultrasonic volumetry was performed using an ultrasound device with a high-resolution multifrequency linear probe (6-9 MHz).  Results: Low-dose radiotherapy improved NRS, WOMAC score and Knee Society Score significantly.  The mean volume of Baker's cyst decreased from 22.3 ml to 10.7 respectively 3.1 ml during follow-up.  A decrease in volume of more than 25% compared to the baseline could be achieved for 75% of the patients in the short-term and 79% of the patients in the long-term follow up.  Conclusion: Radiotherapy of knee osteoarthritis is an effective treatment that decreases the volume of a Baker's cyst.  Most patients respond to the treatment.  Whether radiotherapy is an effective treatment for Baker's cyst without associated osteoarthritis has to be further examined.
+
+ORIGINAL: Knee osteoarthritis is a common disease that often causes a Baker's cyst. Other knee problems can also cause this condition. Radiotherapy is known to help with knee arthritis by reducing inflammation. Since excessive synovia production is linked to inflammation, we thought radiotherapy might reduce the volume of a Baker's cyst.
+
+We did a study on 20 knees that received radiotherapy for knee arthritis. We measured pain and joint function using three scales: NRS, WOMAC, and Knee Society Score. We also used ultrasound to measure the size of the Baker's cyst before and after treatment. The results showed that radiotherapy improved pain and joint function. The size of the Baker's cyst decreased from 22.3 ml to 10.7 ml or 3.1 ml during follow-up. Most patients (75% in the short-term and 79% in the long-term) saw a decrease in volume of more than 25% compared to the baseline.
+
+Radiotherapy is an effective treatment for knee osteoarthritis that reduces the size of a Baker's cyst. Most patients respond well to this treatment. However, we need further research to see if radiotherapy helps with Baker's cysts without associated osteoarthritis.
+
+ABLATED: Osteoarthritis of the knee is a common disease that can cause a Baker's cyst. Other joint problems in the knee can also lead to a Baker's cyst.
+
+Radiotherapy is an effective treatment for osteoarthritis, reducing inflammation. Since excessive synovia production is often linked to intraarticular inflammation, we hypothesized that radiotherapy might reduce synovial production and decrease the volume of a Baker's cyst.
+
+We conducted a trial with 20 knees receiving radiotherapy for knee arthritis. We measured pain (NRS), joint function (WOMAC score), and knee health (Knee Society Score). We also calculated the volume of the Baker's cyst before and after treatment using an ultrasound device.
+
+The results showed that low-dose radiotherapy significantly improved pain, joint function, and knee health. The mean volume of the Baker's cyst decreased from 22.3 ml to 10.7 ml in the short-term (6-12 weeks) and 3.1 ml in the long-term (9-12 months). Most patients (75% in the short-term and 79% in the long-term) experienced a decrease in volume of more than 25% compared to the baseline.
+
+Radiotherapy is an effective treatment for osteoarthritis that decreases the volume of a Baker's cyst. Most patients respond well to this treatment. However, further research is needed to determine if radiotherapy is also effective for Baker's cyst without associated osteoarthritis.
+
+END CASE
+
+
+CASE plaba/iso_examples row=36 id=6445384
+
+SOURCE: The effects of single oral doses of 10, 15, or 30 mg of prednisone on circulating mononuclear cells, autologous MLR, mitogen responses, and allogeneic MLR were studied in healthy volunteers. Doses as low as 10 mg were immunosuppressive, causing diminution of circulating T cells and monocytes, and significant reduction in autologous but not allogeneic MLR responses. These effects were maximal 6 hr after drug administration and gone by 24 hr. Autologous MLR responses were particularly sensitive to the effects of prednisone being significantly and consistently suppressed 2 hr after drug administration, before significant cell redistribution had occurred. Macrophage-enriched stimulating cells were more easily suppressed than responding T cells. Since the autologous MLR may be important in in vivo regulation of immune responses, its reduction by low-dose glucocorticoids may be of clinical relevance. This suppressive effect must be considered in studies of the autologous MLR in patients receiving glucocorticoid therapy.
+
+ORIGINAL: The effects of single doses of prednisone on immune cells were studied in healthy volunteers. Doses as low as 10 mg reduced the number of T cells and monocytes, and decreased autologous but not allogeneic immune responses. These effects lasted for 6 hours and disappeared by 24 hours. Autologous immune responses were particularly sensitive to prednisone, being suppressed within 2 hours after administration. This effect may be important in patients receiving glucocorticoid therapy.
+
+Note: I have rewritten the text using simple language, avoiding technical jargon and complex sentences. The original text has been condensed while maintaining its essential meaning.
+
+ABLATED: The effects of single oral doses of 10, 15, or 30 mg of prednisone on circulating mononuclear cells, autologous MLR, mitogen responses, and allogeneic MLR were studied in healthy volunteers. Doses as low as 10 mg caused a decrease in the number of T cells and monocytes in the blood and reduced the response to autologous but not allogeneic MLR. These effects were strongest 6 hours after taking the drug and gone by 24 hours. The autologous MLR was particularly sensitive to prednisone, being significantly suppressed 2 hours after taking the drug, before any changes in cell distribution occurred. Macrophage-enriched cells were more easily suppressed than responding T cells. Since the autologous MLR may be important for regulating immune responses in the body, its reduction by low-dose glucocorticoids could have clinical relevance. This effect must be considered when studying the autologous MLR in patients taking glucocorticoid therapy.
+
+Note: I've rewritten the text to make it more accessible and easier to understand, while maintaining the original meaning and content.
+
+END CASE
+
+
+CASE plaba/iso_examples row=73 id=34477130
+
+SOURCE: Background: This study aimed to assess the efficacy and safety of minimally invasive percutaneous nephrolithotomy (MPCNL) versus standard percutaneous nephrolithotomy in patients with renal and upper ureteric stones. Methods: We conducted a pooled analysis on randomized controlled trials (RCTs). The eligible RCTs were selected from the following databases: MEDLINE, Embase, Web of Science, and the Cochrane Library. The reference lists of retrieved studies were also investigated. Results: Our analysis included 10 RCTs with 1612 patients. Pooled data from 10 RCTs revealed the following: stone-free rate (odds ratio = 1.46, 95% confidence interval (CI) [1.12,1.88], P = .004), operative time (mean difference [MD] = 4.10, 95% CI [-1.37,9.56], P = .14), length of hospital stay (MD = -15.31, 95% CI [-29.43,-1.19], P = .03), hemoglobin decrease (MD = -0.86, 95% CI [-1.19,-0.53], P < .00001), postoperative fever (MD = 0.83, 95% CI [0.49,1.40], P = .49), and urine leakage (MD = 0.59, 95% CI [0.25,1.37], P = .22). Besides, we performed sub-group analysis based on vacuum suction effect and multiple kidney stones. For vacuum suction effect, it revealed the following: stone-free rate in vacuum suction group (P = .007) and in non-vacuum suction group (P = .19). Operative time in vacuum suction group (P = .89), non-vacuum suction group (P = .16). Postoperative fever in vacuum suction group (P = .49), non-vacuum suction group (P = .85). Conclusion: This pooled analysis indicated that MPCNL was a safe and effective method for treating renal stones compared with standard percutaneous nephrolithotomy. Besides, the vacuum suction effect in MPCNL played a more important role. When it comes to multiple or staghorn stones, the longer operative time in MPCNL could not be ignored.
+
+ORIGINAL: This study compared two methods for removing kidney stones: minimally invasive percutaneous nephrolithotomy (MPCNL) and standard percutaneous nephrolithotomy. We analyzed 10 studies with a total of 1612 patients.
+
+Our results showed that MPCNL was more effective in removing stones, especially when using vacuum suction. However, the longer operating time for MPCNL should be considered when treating multiple or staghorn stones.
+
+The benefits of MPCNL include:
+
+* Higher stone-free rate
+* Shorter hospital stay
+* Less hemoglobin decrease
+* Lower risk of postoperative fever and urine leakage
+
+However, the study also found that MPCNL had a longer operating time compared to standard percutaneous nephrolithotomy.
+
+ABLATED: This study compared two methods for removing kidney stones: minimally invasive percutaneous nephrolithotomy (MPCNL) and standard percutaneous nephrolithotomy. We analyzed 10 studies with a total of 1612 patients.
+
+Our results showed that MPCNL was more effective in removing stones, especially when using vacuum suction. However, the longer operating time for MPCNL should be considered when treating multiple or staghorn stones.
+
+The benefits of MPCNL include:
+
+* Higher stone-free rate
+* Shorter hospital stay
+* Less hemoglobin decrease
+* Lower risk of postoperative fever and urine leakage
+
+However, the study also found that MPCNL had a longer operating time compared to standard percutaneous nephrolithotomy.
+
+END CASE
+
+
+CASE plaba/iso_examples row=110 id=27630909
+
+SOURCE: Introduction: The presentation of Ectopic Pregnancy (EP) can be highly variable and serum Beta hCG estimation plays an important role in early diagnosis. Aim: Aim of the study was to determine the trends of hCG levels in EP and to explore the role of hCG in decisions related to management and follow-up of EPs. Materials and methods: A retrospective study of women who had EPs from January 2006 to December 2012 at an advanced tertiary care centre in southern India was carried out. These women had undergone treatment based on the hospital protocol. Results: The study identified 337 women with EP. Thirty one surgically confirmed cases were diagnosed below the discriminatory zone of 1500 mIU/ml. Among women who had Beta hCG estimations 48 hours apart, plateauing was observed in 22.5% while decrease >15% was noted in 26.8%. Almost half (47.9%) of the cases had an increase >15% and a few (2.8%) demonstrated an initial fall followed by a rise in titres. In 23.9% of these women, there was a rise >53% similar to intrauterine pregnancy. The average pre-treatment Beta hCG was 429.8, 3866.2 and 12961.5 mIU/ml for those who received expectant, medical and direct surgical treatment respectively. 43 women with relative contraindications received medical management and 39 were lost to follow-up after medical and expectant management. Excluding them, the success rate of these two modalities was 76.6% and 85.0% respectively. Conclusion: No single level of Beta hCG is diagnostic of EP and serial levels can demonstrate atypical trends in some cases. Hence, interpretation of these results should be done in conjunction with clinical and sonographic findings to arrive at a correct diagnosis.
+
+ORIGINAL: The presentation of Ectopic Pregnancy (EP) can vary greatly. Serum Beta hCG estimation is crucial for early diagnosis.
+
+Aim: This study aimed to determine the trends of hCG levels in EP and explore its role in managing and following up on EPs.
+
+Methods: We studied 337 women with EP from January 2006 to December 2012 at a hospital in southern India. They received treatment based on the hospital's protocol.
+
+Results:
+
+* 31 surgically confirmed cases were diagnosed below 1500 mIU/ml.
+* Among those who had Beta hCG estimations 48 hours apart:
+	+ 22.5% showed no change
+	+ 26.8% decreased by more than 15%
+	+ 47.9% increased by more than 15%
+	+ 2.8% initially fell, then rose
+	+ 23.9% had a rise of more than 53%, similar to intrauterine pregnancy
+* The average pre-treatment Beta hCG was:
+	+ 429.8 mIU/ml for expectant treatment
+	+ 3866.2 mIU/ml for medical treatment
+	+ 12961.5 mIU/ml for direct surgical treatment
+
+Conclusion: No single level of Beta hCG can diagnose EP, and serial levels may show unusual trends in some cases. These results should be interpreted with clinical and sonographic findings to make an accurate diagnosis.
+
+ABLATED: The presentation of Ectopic Pregnancy (EP) can vary greatly. Serum Beta hCG estimation is crucial for early diagnosis.
+
+Aim: This study aimed to determine the trends of hCG levels in EP and explore its role in managing and following up on EPs.
+
+Methods: We studied 337 women with EP from January 2006 to December 2012 at a hospital in southern India. They received treatment based on the hospital's protocol.
+
+Results:
+
+* 31 surgically confirmed cases were diagnosed below 1500 mIU/ml.
+* Among those who had Beta hCG estimations 48 hours apart:
+	+ 22.5% showed no change
+	+ 26.8% decreased by more than 15%
+	+ 47.9% increased by more than 15%
+	+ 2.8% initially fell, then rose
+	+ 23.9% had a rise of more than 53%, similar to intrauterine pregnancy
+* The average pre-treatment Beta hCG was:
+	+ 429.8 mIU/ml for expectant treatment
+	+ 3866.2 mIU/ml for medical treatment
+	+ 12961.5 mIU/ml for direct surgical treatment
+
+Conclusion: No single level of Beta hCG can diagnose EP, and serial levels may show unusual trends in some cases. These results should be interpreted with clinical and sonographic findings to make an accurate diagnosis.
+
+END CASE
+
+
+CASE plaba/iso_examples row=147 id=35008695
+
+SOURCE: During infections, the host redistributes iron in order to starve pathogens from this nutrient. Several proteins are involved in iron absorption, transport, and storage. Ferritin is the most important iron storage protein. It is composed of variable proportions of two peptides, the L- and H-ferritins (FTL and FTH). We previously showed that macrophages increase their expression of FTH1 when they are infected in vitro with Mycobacterium avium, without a significant increase in FTL. In this work, we investigated the role of macrophage FTH1 in M. avium infection in vivo. We found that mice deficient in FTH1 in myeloid cells are more resistant to M. avium infection, presenting lower bacterial loads and lower levels of proinflammatory cytokines than wild-type littermates, due to the lower levels of available iron in the tissues. Importantly, we also found that FTH1 produced by myeloid cells in response to infection may be found in circulation and that it plays a key role in iron redistribution. Specifically, in the absence of FTH1 in myeloid cells, increased expression of ferroportin is observed in liver granulomas and increased iron accumulation occurs in hepatocytes. These results highlight the importance of FTH1 expression in myeloid cells for iron redistribution during infection.
+
+ORIGINAL: During infections, the body redistributes iron to starve pathogens of this nutrient. Several proteins are involved in iron absorption, transport, and storage. Ferritin is the main iron storage protein. It's made up of two peptides: L-ferritin (FTL) and H-ferritin (FTH). We previously found that macrophages increase FTH1 expression when infected with Mycobacterium avium in a lab setting, without increasing FTL.
+
+In this study, we investigated the role of macrophage FTH1 in M. avium infection in mice. We found that mice lacking FTH1 in myeloid cells are more resistant to M. avium infection. They have lower bacterial loads and less inflammation than normal mice. This is because they have less available iron in their tissues.
+
+We also found that FTH1 produced by myeloid cells during infection can be found in the blood. It plays a key role in iron redistribution. Without FTH1, liver granulomas produce more ferroportin and hepatocytes accumulate more iron. These results show how important it is for myeloid cells to express FTH1 during infections.
+
+ABLATED: During infections, the body redistributes iron to starve pathogens of this nutrient. Several proteins are involved in iron absorption, transport, and storage. Ferritin is the main iron storage protein. It's made up of two peptides: L-ferritin (FTL) and H-ferritin (FTH). We previously found that macrophages increase FTH1 expression when infected with Mycobacterium avium in a lab setting, without increasing FTL.
+
+We investigated how macrophage FTH1 affects M. avium infection in mice. We found that mice lacking FTH1 in myeloid cells are more resistant to M. avium infection. They have lower bacterial loads and less inflammation than normal mice. This is because they have less available iron in their tissues.
+
+We also found that FTH1 produced by myeloid cells during infection can be found in the blood. It plays a key role in iron redistribution. Without FTH1, liver granulomas produce more ferroportin and hepatocytes accumulate more iron. These results show how important it is for myeloid cells to express FTH1 during infections.
+
+END CASE

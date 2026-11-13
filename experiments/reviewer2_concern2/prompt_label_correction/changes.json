@@ -1,0 +1,62 @@
+[
+  {
+    "path": "prompts\\cochrane_minimal_few_random.md",
+    "old_label": "EXAMPLE 3 (CD008514)",
+    "new_label": "EXAMPLE 3 (CD004329)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\cochrane_minimal_few_random.md",
+    "before_sha256": "2a5674d1272ca8c0d95795dabd6bca4618900ff2e3965aec8c7b0f7e69784719",
+    "after_sha256": "6c660865cc9809db07597c275a79c116c0cbe604f18bf6946ee3fc1c287cf396",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  },
+  {
+    "path": "prompts\\cochrane_iso_few_random.md",
+    "old_label": "EXAMPLE 3 (CD008514)",
+    "new_label": "EXAMPLE 3 (CD004329)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\cochrane_iso_few_random.md",
+    "before_sha256": "d6f9b7a62142fded8563458ea15c0097d7305fafea9a445d2f27165c871d6e5f",
+    "after_sha256": "ea42eab9f26429d8b44d7cfac01aad57a275713494a1a2791e35fea897ba8ecd",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  },
+  {
+    "path": "prompts\\cochrane_iso_examples_few_random.md",
+    "old_label": "EXAMPLE 3 (CD008514)",
+    "new_label": "EXAMPLE 3 (CD004329)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\cochrane_iso_examples_few_random.md",
+    "before_sha256": "dfd1756d1be38a10e0c2cf0c473489cf5c32a45308c3a6da0fb45d8486577aa4",
+    "after_sha256": "43d18b82d77394613e989f20e92acb2649f468917c9f018baa0bd2c37efa2cbc",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  },
+  {
+    "path": "prompts\\plaba_minimal_few_random.md",
+    "old_label": "EXAMPLE 3 (15507061)",
+    "new_label": "EXAMPLE 3 (23939641)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\plaba_minimal_few_random.md",
+    "before_sha256": "dc02e98afef0de2c6d60558828e73e35e4dba3d78cf23a7a9a414d5e4c93d235",
+    "after_sha256": "a16d6150c4aef06de26f581935b5c0cf3050926804ff783622f085855b05e9c8",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  },
+  {
+    "path": "prompts\\plaba_iso_few_random.md",
+    "old_label": "EXAMPLE 3 (15507061)",
+    "new_label": "EXAMPLE 3 (23939641)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\plaba_iso_few_random.md",
+    "before_sha256": "9b8425fb0418e1d9088cfc48f038906f3bdec1390ccf2edc1272be666cd289f5",
+    "after_sha256": "21d4841d4758e86c90723e785a8ecf4b652b3601f27be00a2b601395fc7ffafe",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  },
+  {
+    "path": "prompts\\plaba_iso_examples_few_random.md",
+    "old_label": "EXAMPLE 3 (15507061)",
+    "new_label": "EXAMPLE 3 (23939641)",
+    "historical_snapshot": "experiments\\reviewer2_concern2\\prompt_label_correction\\historical_prompts\\plaba_iso_examples_few_random.md",
+    "before_sha256": "44d40fdb9662afdf9815cb9579684889a4ac1f9752ea2e615ab0e928cef1cfe3",
+    "after_sha256": "f467f14a0701905b7534aa3fb55eba1d18f6fa7d76ccb7d25d5b09f9a3709c94",
+    "only_third_example_label_changed": true,
+    "demonstration_pairs_unchanged": true
+  }
+]

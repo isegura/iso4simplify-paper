@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_49_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_49_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Two new studies and five older studies looked at the use of pregabalin for treating fibromyalgia. Pregabalin increased the number of people who experienced at least a 50% reduction in pain intensity after 12 or 13 weeks of treatment. This benefit was also seen for moderate pain relief (at least 30% reduction in pain intensity). The number needed to treat (NNT) for these outcomes ranged between 7 and 14. A small study found no difference in effect between nightly and twice-daily pregabalin. Two other studies looked at maintaining pain relief after initial treatment. Of those who continued to take pregabalin, 40% had maintained therapeutic response (MTR) compared to 20% who took a placebo. The NNT for this outcome was 5, but when normalized to the starting population, it was 12. About 10% of the initial population would have achieved the MTR outcome. Most participants in all treatment groups experienced adverse events, with specific adverse events being more common with pregabalin than placebo. Withdrawals for any reason were more common with pregabalin than placebo only with the 600 mg dose in studies of classic design. Pregabalin 300 to 600 mg produces a major reduction in pain intensity over 12 to 26 weeks with tolerable adverse events for a small proportion of people with moderate or severe pain due to fibromyalgia. The degree of pain relief is known to be accompanied by improvements in other symptoms, quality of life, and function. These results are similar to other effective medicines in fibromyalgia.",
+  "metadata": {
+    "wall_time_s": 138.35371,
+    "done_reason": "stop",
+    "eval_count": 363,
+    "prompt_eval_count": 3695,
+    "total_duration": 136292656500,
+    "load_duration": 7366900,
+    "prompt_eval_duration": 10141723000,
+    "eval_duration": 126122969000,
+    "total_duration_s": 136.292656,
+    "prompt_eval_duration_s": 10.141723,
+    "eval_duration_s": 126.122969,
+    "prompt_tokens_per_s": 364.3365,
+    "eval_tokens_per_s": 2.8781,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

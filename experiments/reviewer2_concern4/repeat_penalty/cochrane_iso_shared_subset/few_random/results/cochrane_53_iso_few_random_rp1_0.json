@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_53_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_53_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at five studies with 240 children aged one to 18 years with mild to moderate obstructive sleep apnea (OSA). The studies were done at specialized sleep clinics. Follow-up time ranged from six weeks to four months. Three studies (137 children) compared intranasal steroids to a placebo, and two studies (103 children) compared oral montelukast to a placebo. \n\nWe are uncertain about the difference in OSA severity between children receiving intranasal corticosteroids compared to placebo (two studies, 75 participants; low-certainty evidence). However, children receiving oral montelukast had fewer OSA episodes (MD −3.41, 95% CI −5.36 to −1.45) compared to those in the placebo group (two studies, 103 participants; moderate-certainty evidence). \n\nChildren receiving oral montelukast also had fewer respiratory arousals and higher oxygen saturation levels compared to those in the placebo group (moderate and high certainty, respectively). \n\nAdverse events were rare, minor, and evenly distributed between study groups. No study examined the avoidance of surgical treatment for OSA as an outcome. \n\nThere is insufficient evidence for the efficacy of intranasal corticosteroids for the treatment of OSA in children. Montelukast has short-term beneficial treatment effects for OSA in otherwise healthy, non-obese, surgically untreated children (moderate certainty for primary outcome and moderate and high certainty, respectively, for two secondary outcomes). The clinical relevance of the observed treatment effects remains unclear. Long-term efficacy and safety data on the use of anti-inflammatory medications for the treatment of OSA in childhood are not available. There are currently no RCTs on the use of other kinds of anti-inflammatory medications for the treatment of OSA in children. Future RCTs should investigate sustainability of treatment effects, avoidance of surgical treatment for OSA, and long-term safety of anti-inflammatory medications for the treatment of OSA in children and include patient-centered outcomes.",
+  "metadata": {
+    "wall_time_s": 184.588917,
+    "done_reason": "stop",
+    "eval_count": 492,
+    "prompt_eval_count": 3724,
+    "total_duration": 182549078300,
+    "load_duration": 7446600,
+    "prompt_eval_duration": 10345221000,
+    "eval_duration": 172175887000,
+    "total_duration_s": 182.549078,
+    "prompt_eval_duration_s": 10.345221,
+    "eval_duration_s": 172.175887,
+    "prompt_tokens_per_s": 359.973,
+    "eval_tokens_per_s": 2.8575,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

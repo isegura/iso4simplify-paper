@@ -1,0 +1,19 @@
+{
+  "input_sha256": "7ee4a03343fab9fd351ee62e921713f860938437738976e4899c0bd997e55e51",
+  "candidates": 446,
+  "scope": "Only screened stop outputs from original Mixtral runs; not ablations",
+  "annotation": "AI-assisted exploratory single review; not a human study; not blinded; no interrater agreement",
+  "procedure": "All candidate outputs inspected; full sources consulted for ambiguous numeric and technical expressions. This is a fixed review export, not a newly validated detector.",
+  "labels": {
+    "clear_apparent_cut": "Unfinished syntax, enumeration, numerical expression or technical identifier apparent from output/context",
+    "uncertain": "Insufficient coverage or anomalous closure without unambiguous cutoff",
+    "no_clear_cut": "No clear abrupt endpoint; may contain other quality/format/coverage problems"
+  },
+  "limitations": [
+    "Not all 4476 outputs were qualitatively reviewed; false negatives outside the screening remain possible.",
+    "107 length outputs and two empty outputs are outside this candidate review.",
+    "Apparent cuts do not establish that repeat penalty caused them.",
+    "Source rows, repeated PLABA IDs and repeated configurations are not independent observations.",
+    "Numbers here are provisional assistant annotations, not a validated human failure rate."
+  ]
+}

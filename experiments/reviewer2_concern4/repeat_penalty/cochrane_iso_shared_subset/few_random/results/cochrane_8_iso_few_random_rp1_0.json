@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_8_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_8_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We reviewed a study of 125 glioblastoma patients who had surgery. The study compared getting imaging tests within 48 hours after surgery to not getting these tests. Most patients had maximal surgery followed by radiation and temozolomide treatment. The study was biased, so its results should be interpreted with caution. The study found that getting early imaging tests or not made little to no difference in the number of deaths at one and two years after diagnosis. We found no evidence on the effectiveness of other imaging schedules or their cost-effectiveness. The impact of different imaging strategies on survival and other health outcomes is largely unknown. Existing imaging schedules in glioma seem to be based on practical considerations rather than strong evidence. Further research is needed on the potential benefits of early post-operative imaging in glioblastoma patients, as it may help identify residual tumors and improve quality control. Mathematical modeling and pediatric glioma studies could inform future research on imaging strategies in adult glioma patients.",
+  "metadata": {
+    "wall_time_s": 80.92366,
+    "done_reason": "stop",
+    "eval_count": 219,
+    "prompt_eval_count": 3195,
+    "total_duration": 78861588700,
+    "load_duration": 2399200,
+    "prompt_eval_duration": 5424983000,
+    "eval_duration": 73415792000,
+    "total_duration_s": 78.861589,
+    "prompt_eval_duration_s": 5.424983,
+    "eval_duration_s": 73.415792,
+    "prompt_tokens_per_s": 588.9419,
+    "eval_tokens_per_s": 2.983,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

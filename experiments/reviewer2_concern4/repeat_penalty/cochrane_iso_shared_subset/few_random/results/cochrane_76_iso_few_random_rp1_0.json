@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_76_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_76_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "A single trial with 75 participants compared doing early laparoscopic cholecystectomy (surgery to remove the gallbladder) within 24 hours of diagnosis to doing it after a delay of around 4 months. The trial had a high risk of bias. \n\nThere were no deaths in the early group, while one person died in the delayed group. There were also more complications during the waiting period in the delayed group, including pancreatitis, empyema of the gallbladder, gallbladder perforation, acute cholecystitis, cholangitis, obstructive jaundice, and recurrent biliary colic. \n\nOverall, 22.5% of people in the delayed group had serious adverse events, compared to 0% in the early group. There was no significant difference in the number of people who required conversion to open cholecystectomy between the two groups. However, people in the early group had a shorter hospital stay and operating time.\n\nBased on this one trial, early laparoscopic cholecystectomy appears to decrease the morbidity during the waiting period for elective laparoscopic cholecystectomy, the hospital stay, and operating time. However, more randomized clinical trials are needed to confirm these findings.",
+  "metadata": {
+    "wall_time_s": 111.039512,
+    "done_reason": "stop",
+    "eval_count": 296,
+    "prompt_eval_count": 3493,
+    "total_duration": 108976573900,
+    "load_duration": 6847000,
+    "prompt_eval_duration": 7722209000,
+    "eval_duration": 101227951000,
+    "total_duration_s": 108.976574,
+    "prompt_eval_duration_s": 7.722209,
+    "eval_duration_s": 101.227951,
+    "prompt_tokens_per_s": 452.3317,
+    "eval_tokens_per_s": 2.9241,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

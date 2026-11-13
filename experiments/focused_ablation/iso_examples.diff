@@ -1,0 +1,15 @@
+--- prompts/iso_examples_zero.md
++++ prompts/iso_examples_zero_ablated.md
+@@ -10,12 +10,6 @@
+ Your mission is to transform the original text into a **plain language communication**, ensuring that it is **relevant** (the reader gets what they need), **findable** (the reader can easily locate the information), **understandable** (the reader can understand what they find), and **usable** (the reader can use the information for its intended purpose).
+ 
+ You must prioritize the reader’s needs by eliminating irrelevant or superfluous information and writing in a direct and precise manner.
+-
+-# PRINCIPLES OF ORGANIZATION AND HIERARCHY
+-
+-1. **Information hierarchy:** Place the most important message at the beginning of the document.  
+-2. **Initial summary:** Introduce a brief summary at the beginning so the reader understands the essential content before reading the details.  
+-3. **Logical grouping:** Group related information together and, in the case of processes or instructions, use chronological order.
+ 
+ # WRITING INSTRUCTIONS (LINGUISTIC LEVEL)
+ 

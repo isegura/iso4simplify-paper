@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_82_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_82_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at four studies with 522 women who underwent in vitro maturation (IVM) fertility treatment. Three studies compared giving 10,000 units of hCG (a hormone) before IVM to not giving any hCG. One study compared giving 20,00",
+  "metadata": {
+    "wall_time_s": 31.302239,
+    "done_reason": "stop",
+    "eval_count": 70,
+    "prompt_eval_count": 3280,
+    "total_duration": 29264334300,
+    "load_duration": 3221400,
+    "prompt_eval_duration": 6067825000,
+    "eval_duration": 23174791000,
+    "total_duration_s": 29.264334,
+    "prompt_eval_duration_s": 6.067825,
+    "eval_duration_s": 23.174791,
+    "prompt_tokens_per_s": 540.5561,
+    "eval_tokens_per_s": 3.0205,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

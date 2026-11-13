@@ -1,0 +1,19 @@
+{
+  "status": "prepared_not_executed_on_research_outcomes",
+  "statistical_plan_unchanged": true,
+  "synthetic_tests": 4,
+  "full_synthetic_cells": 144,
+  "full_synthetic_contrasts": 43,
+  "new_prediction_files_read": false,
+  "new_metric_results_examined": false,
+  "ollama_calls": 0,
+  "original_latex_edited": false,
+  "sha256": {
+    "run_statistics.py": "da1a357841b93da1cde43cae82dffcdbffb1a085b1cffa8577b3b1b0fa423efa",
+    "statistics_core.py": "e2d2727b16765629d5acdf4f392069f7d1ae499818b501c41a1a8a7e3543dd62",
+    "test_run_statistics.py": "5d98a374eb17422b14d4988cac0f1b3c6df0e69cfda7e13790691ba3d4009e44",
+    "test_statistics_plan.py": "5f8f55f24ef4ba79805642e6bf3a11f45a2357d9ee59d9177122c940266ce862",
+    "EJECUCION_ESTADISTICA.md": "d83e782a5025880228b781bd9b3e56a428da6b78620a133d5079a499481b9db9",
+    "PLAN_ESTADISTICO.md": "4db10c2e7619c951101175f6761055a830863fa65698744b6b6c235075ff3194"
+  }
+}

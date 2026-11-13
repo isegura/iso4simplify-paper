@@ -1,0 +1,7 @@
+strategy,stratum,n,old_stop_cut,new_stop_cut,old_length,new_length,old_any_cut,new_any_cut
+few_random,historical_few_random_failure,8,8,3,0,1,8,4
+few_random,random_from_remaining,10,0,0,0,0,0,0
+few_random,selected_for_zero_shot_failure_only,13,0,1,1,0,1,1
+zero,historical_zero_shot_failure,15,15,5,0,0,15,5
+zero,random_from_remaining,10,0,1,2,0,2,1
+zero,selected_for_few_random_failure_only,6,0,1,0,1,0,2

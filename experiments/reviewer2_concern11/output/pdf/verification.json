@@ -1,0 +1,11 @@
+{
+  "source": "experiments\\joint_analysis_all_pairs\\results\\local_sari.csv",
+  "source_sha256": "70e6d4674c65f11953f51e2de5069ecabc8af634429ac9eb1cbb7c930350a5cd",
+  "contrasts": 12,
+  "inference_calls": 0,
+  "new_statistical_tests": 0,
+  "intervals": "bootstrap_ci_low/high, pointwise 95%",
+  "adjustment": "q_bh from the full local_78 family; not recalculated for the 12 plotted contrasts",
+  "max_absolute_rounding_error": 0,
+  "source_unchanged": true
+}

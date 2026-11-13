@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_89_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_89_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Four studies looked at ways to improve adherence to HIV medication in children. No single way was studied twice. Two studies were done in low-income countries. Two studies were randomized controlled trials, and two were not.\n\nA home-based nursing program was studied in one trial and was found to improve knowledge and medication refills, but not CD4 count or viral load. A second trial looked at caregiver medication diaries and found no significant difference in missed doses or CD4 percentage or viral load.\n\nA non-randomized trial of peer support group therapy for adolescents found no change in self-reported adherence, but the percentage of participants with suppressed viral load increased. A second non-randomized trial found no difference in adherence between children on different types of medication, but more children on one type had suppressed viral load.\n\nA home-based nursing intervention may help improve adherence to HIV medication, but more evidence is needed. Medication diaries do not seem to affect adherence or disease outcomes. Two interventions, an LPV/r-containing regimen and peer support therapy for adolescents, did not show improvements in adherence, but they did show greater viral load suppression compared to control groups. More well-designed studies of interventions to improve pediatric adherence to HIV medication are needed.",
+  "metadata": {
+    "wall_time_s": 106.968206,
+    "done_reason": "stop",
+    "eval_count": 300,
+    "prompt_eval_count": 3132,
+    "total_duration": 104908819700,
+    "load_duration": 2314500,
+    "prompt_eval_duration": 4399223000,
+    "eval_duration": 100489236000,
+    "total_duration_s": 104.90882,
+    "prompt_eval_duration_s": 4.399223,
+    "eval_duration_s": 100.489236,
+    "prompt_tokens_per_s": 711.9439,
+    "eval_tokens_per_s": 2.9854,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

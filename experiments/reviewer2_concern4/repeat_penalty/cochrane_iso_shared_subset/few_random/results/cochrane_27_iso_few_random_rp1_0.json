@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_27_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_27_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at two trials from 1987 and 2004 with 148 people who had heart valve surgery. Both trials had a high risk of bias. We couldn't tell if exercise-based rehab reduced deaths or serious side effects compared to no exercise at 3 to 6 months (104 participants, very low quality evidence) or if it improved quality of life, New York Heart Association class, left ventricular ejection fraction, or cost. However, exercise-based rehab may increase exercise capacity (140 participants, moderate quality evidence). We also couldn't determine if it helped people return to work at 12 months (44 participants, low quality evidence). Due to limited information, we couldn't perform a trial sequential analysis as planned. Our findings suggest that exercise-based rehab after heart valve surgery may improve exercise capacity, but we can't assess its impact on other outcomes. More high-quality randomized clinical trials are needed to evaluate the impact of exercise-based rehab on patient-relevant outcomes, including mortality and quality of life.",
+  "metadata": {
+    "wall_time_s": 85.231755,
+    "done_reason": "stop",
+    "eval_count": 237,
+    "prompt_eval_count": 3115,
+    "total_duration": 83183670900,
+    "load_duration": 2557900,
+    "prompt_eval_duration": 4227444999,
+    "eval_duration": 78935868000,
+    "total_duration_s": 83.183671,
+    "prompt_eval_duration_s": 4.227445,
+    "eval_duration_s": 78.935868,
+    "prompt_tokens_per_s": 736.8517,
+    "eval_tokens_per_s": 3.0024,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

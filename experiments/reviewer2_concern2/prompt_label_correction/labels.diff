@@ -1,0 +1,66 @@
+--- prompts\cochrane_minimal_few_random.md (historical)
++++ prompts\cochrane_minimal_few_random.md (corrected)
+@@ -33,7 +33,7 @@
+ SIMPLIFIED TEXT:
+ We included 26 randomised controlled studies (involving over 33,000 people) that compared smoking quit rates in people who received text messages or smartphone apps to help them quit, with people who did not receive these programmes. We were interested in studies that measured smoking for six months or longer. We found that text messaging programmes may be effective in supporting people to quit, increasing quit rates by 50% to 60%. This was the case when they were compared to minimal support or were tested as an addition to other forms of stop-smoking support. There was not enough evidence to determine the effect of smartphone apps. Most of the studies were of high quality, although three studies had high drop out rates. We are moderately confident in the results of the text messaging interventions, but there were some issues with unexplained differences between study findings and for some comparisons there was not much data. We have low confidence in the results concerning smartphone apps, and more studies are needed in this field.
+ 
+-EXAMPLE 3 (CD008514)
++EXAMPLE 3 (CD004329)
+ 
+ ORIGINAL:
+ """
+--- prompts\cochrane_iso_few_random.md (historical)
++++ prompts\cochrane_iso_few_random.md (corrected)
+@@ -104,7 +104,7 @@
+ SIMPLIFIED TEXT:
+ We included 26 randomised controlled studies (involving over 33,000 people) that compared smoking quit rates in people who received text messages or smartphone apps to help them quit, with people who did not receive these programmes. We were interested in studies that measured smoking for six months or longer. We found that text messaging programmes may be effective in supporting people to quit, increasing quit rates by 50% to 60%. This was the case when they were compared to minimal support or were tested as an addition to other forms of stop-smoking support. There was not enough evidence to determine the effect of smartphone apps. Most of the studies were of high quality, although three studies had high drop out rates. We are moderately confident in the results of the text messaging interventions, but there were some issues with unexplained differences between study findings and for some comparisons there was not much data. We have low confidence in the results concerning smartphone apps, and more studies are needed in this field.
+ 
+-EXAMPLE 3 (CD008514)
++EXAMPLE 3 (CD004329)
+ 
+ ORIGINAL:
+ """
+--- prompts\cochrane_iso_examples_few_random.md (historical)
++++ prompts\cochrane_iso_examples_few_random.md (corrected)
+@@ -418,7 +418,7 @@
+ SIMPLIFIED TEXT:
+ We included 26 randomised controlled studies (involving over 33,000 people) that compared smoking quit rates in people who received text messages or smartphone apps to help them quit, with people who did not receive these programmes. We were interested in studies that measured smoking for six months or longer. We found that text messaging programmes may be effective in supporting people to quit, increasing quit rates by 50% to 60%. This was the case when they were compared to minimal support or were tested as an addition to other forms of stop-smoking support. There was not enough evidence to determine the effect of smartphone apps. Most of the studies were of high quality, although three studies had high drop out rates. We are moderately confident in the results of the text messaging interventions, but there were some issues with unexplained differences between study findings and for some comparisons there was not much data. We have low confidence in the results concerning smartphone apps, and more studies are needed in this field.
+ 
+-EXAMPLE 3 (CD008514)
++EXAMPLE 3 (CD004329)
+ 
+ ORIGINAL:
+ """
+--- prompts\plaba_minimal_few_random.md (historical)
++++ prompts\plaba_minimal_few_random.md (corrected)
+@@ -34,7 +34,7 @@
+ The new Covid-19 (a viral, respiratory disease) is a serious threat to health and financial stability because of a lack of vaccines and treatments. Low-grade inflammation (how the body responds to infection) is a common factor in cases that become more serious, and low levels of vitamins and minerals may contribute to this inflammation. The aim of this paper is to explore the usefulness of starting certain vitamins and minerals early, especially zinc, selenium (a mineral found in water and foods), and vitamin D, to keep Covid-19 infections from becoming more serious. Researchers did an online search for scientific articles published from 2010 to 2020 on zinc, selenium, and vitamin D, in addition to corona and similar virus infections. There are a few studies that show direct evidence on associations between zinc, selenium, and vitamin D, and Covid-19. Getting enough zinc, selenium, and vitamin D is important for the body to resist other viral infections, as well as for immune function and to reduce inflammation, which is the body's response to infections. Therefore, it is suggested that changing nutrition to get enough of these vitamins and minerals might provide protection against the coronavirus and keep Covid-19 infection from becoming serious. Researchers of this paper recommend giving supplements to high-risk areas and/or soon after suspected infection with coronavirus. People in high-risk groups should have a high priority to receive nutrition supplements and therapies, which should be started before specific and supportive medical measures.
+ 
+ 
+-EXAMPLE 3 (15507061)
++EXAMPLE 3 (23939641)
+ 
+ ORIGINAL:
+ """
+--- prompts\plaba_iso_few_random.md (historical)
++++ prompts\plaba_iso_few_random.md (corrected)
+@@ -105,7 +105,7 @@
+ The new Covid-19 (a viral, respiratory disease) is a serious threat to health and financial stability because of a lack of vaccines and treatments. Low-grade inflammation (how the body responds to infection) is a common factor in cases that become more serious, and low levels of vitamins and minerals may contribute to this inflammation. The aim of this paper is to explore the usefulness of starting certain vitamins and minerals early, especially zinc, selenium (a mineral found in water and foods), and vitamin D, to keep Covid-19 infections from becoming more serious. Researchers did an online search for scientific articles published from 2010 to 2020 on zinc, selenium, and vitamin D, in addition to corona and similar virus infections. There are a few studies that show direct evidence on associations between zinc, selenium, and vitamin D, and Covid-19. Getting enough zinc, selenium, and vitamin D is important for the body to resist other viral infections, as well as for immune function and to reduce inflammation, which is the body's response to infections. Therefore, it is suggested that changing nutrition to get enough of these vitamins and minerals might provide protection against the coronavirus and keep Covid-19 infection from becoming serious. Researchers of this paper recommend giving supplements to high-risk areas and/or soon after suspected infection with coronavirus. People in high-risk groups should have a high priority to receive nutrition supplements and therapies, which should be started before specific and supportive medical measures.
+ 
+ 
+-EXAMPLE 3 (15507061)
++EXAMPLE 3 (23939641)
+ 
+ ORIGINAL:
+ """
+--- prompts\plaba_iso_examples_few_random.md (historical)
++++ prompts\plaba_iso_examples_few_random.md (corrected)
+@@ -419,7 +419,7 @@
+ The new Covid-19 (a viral, respiratory disease) is a serious threat to health and financial stability because of a lack of vaccines and treatments. Low-grade inflammation (how the body responds to infection) is a common factor in cases that become more serious, and low levels of vitamins and minerals may contribute to this inflammation. The aim of this paper is to explore the usefulness of starting certain vitamins and minerals early, especially zinc, selenium (a mineral found in water and foods), and vitamin D, to keep Covid-19 infections from becoming more serious. Researchers did an online search for scientific articles published from 2010 to 2020 on zinc, selenium, and vitamin D, in addition to corona and similar virus infections. There are a few studies that show direct evidence on associations between zinc, selenium, and vitamin D, and Covid-19. Getting enough zinc, selenium, and vitamin D is important for the body to resist other viral infections, as well as for immune function and to reduce inflammation, which is the body's response to infections. Therefore, it is suggested that changing nutrition to get enough of these vitamins and minerals might provide protection against the coronavirus and keep Covid-19 infection from becoming serious. Researchers of this paper recommend giving supplements to high-risk areas and/or soon after suspected infection with coronavirus. People in high-risk groups should have a high priority to receive nutrition supplements and therapies, which should be started before specific and supportive medical measures.
+ 
+ 
+-EXAMPLE 3 (15507061)
++EXAMPLE 3 (23939641)
+ 
+ ORIGINAL:
+ """

@@ -1,0 +1,27 @@
+{
+  "n": 31,
+  "historical_stop_cuts": 15,
+  "new_stop_cuts": 7,
+  "original_zero_failures_resolved": 10,
+  "original_zero_failures_persisting": 5,
+  "historical_limit_count": 2,
+  "new_limit_count": 1,
+  "historical_any_apparent_cut": 17,
+  "new_any_apparent_cut": 8,
+  "old_complete_to_new_stop_cut_ids": [
+    "CD009919"
+  ],
+  "old_complete_to_new_length_cut_ids": [
+    "CD010683"
+  ],
+  "old_length_to_new_stop_cut_ids": [
+    "CD007074"
+  ],
+  "exactly_unchanged_cut_ids": [
+    "CD010876",
+    "CD011627",
+    "CD009953",
+    "CD005015"
+  ],
+  "generation_minutes": 44.64552476666667
+}

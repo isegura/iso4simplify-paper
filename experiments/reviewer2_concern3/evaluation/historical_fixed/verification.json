@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "new_configurations": 36,
+  "new_rows_checked": 4476,
+  "all_original_configurations": 72,
+  "all_original_rows": 8952,
+  "original_model_dataset_cells_have_12_configurations": true,
+  "prediction_lengths_checked_against_raw": true,
+  "compression_checked_against_raw": true,
+  "all_input_hashes_unchanged": true
+}

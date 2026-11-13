@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_43_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_43_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "We analyzed nine suitable studies. These studies included 593 premature babies and compared feeding methods during the transition from tube to oral feeding. The studies had some issues, such as not blinding participants and not fully assessing all randomly assigned babies.\n\nAccording to our analysis, which is limited by data quality and availability, responsive feeding may lead to slower weight gain and helps preterm babies switch from tube to oral feeding faster. However, the impact on hospital stay length is unclear, as there's no strong or consistent effect.\n\nNo studies reported opinions from parents, caregivers, or staff. The data doesn't strongly or consistently show that responsive feeding benefits preterm infants or their families. There's some low-quality evidence that babies fed in response to hunger cues reach full oral feeding earlier. This should be interpreted carefully due to study limitations. A large study is needed to confirm this finding and explore other outcomes.",
+  "metadata": {
+    "wall_time_s": 63.490126,
+    "done_reason": "stop",
+    "eval_count": 198,
+    "prompt_eval_count": 1247,
+    "total_duration": 61438934400,
+    "load_duration": 6566400,
+    "prompt_eval_duration": 2538737000,
+    "eval_duration": 58706441000,
+    "total_duration_s": 61.438934,
+    "prompt_eval_duration_s": 2.538737,
+    "eval_duration_s": 58.706441,
+    "prompt_tokens_per_s": 491.1891,
+    "eval_tokens_per_s": 3.3727,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

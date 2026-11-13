@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_89_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_89_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "1. Four studies were analyzed. No study looked at the same intervention. Two studies took place in low-income countries.\n\n2. Two studies were randomized controlled trials (RCTs). The other two were non-randomized trials.\n\n3. The first RCT of a home-based nursing program showed:\n   - Better knowledge and medication refills (p=.002).\n   - No change in CD4 count and viral load.\n\n4. The second RCT of caregiver medication diaries showed:\n   - Fewer participants in the intervention group missed doses (85% vs. 92%).\n   - This difference was not significant (p=.08).\n   - No effect on CD4 percentage or viral load.\n\n5. A non-randomized trial of peer support group therapy for adolescents found:\n   - No change in self-reported adherence.\n   - More participants with suppressed viral load (30% to 80%).\n\n6. The second non-randomized trial found:\n   - No difference in children achieving >80% adherence between regimens (p=.781).\n   - A greater proportion of children on the LPV/r regimen had virological suppression (p=.002).\n\n7. A home-based nursing intervention might improve ART adherence, but more evidence is needed.\n8. Medication diaries do not seem to affect adherence or disease outcomes.\n9. Two interventions, an LPV/r-containing regimen and peer support therapy for adolescents, did not improve adherence but showed greater viral load suppression compared to control groups.\n10. Well-designed evaluations of interventions to improve paediatric ART adherence are needed.",
+  "metadata": {
+    "wall_time_s": 129.96879,
+    "done_reason": "stop",
+    "eval_count": 413,
+    "prompt_eval_count": 1357,
+    "total_duration": 127911673600,
+    "load_duration": 1975500,
+    "prompt_eval_duration": 3410354000,
+    "eval_duration": 124352570000,
+    "total_duration_s": 127.911674,
+    "prompt_eval_duration_s": 3.410354,
+    "eval_duration_s": 124.35257,
+    "prompt_tokens_per_s": 397.9059,
+    "eval_tokens_per_s": 3.3212,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

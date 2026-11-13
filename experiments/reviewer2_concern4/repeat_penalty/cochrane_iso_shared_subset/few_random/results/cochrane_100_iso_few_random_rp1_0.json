@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_100_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_100_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "We looked at 20 studies with 2125 participants. The studies covered 23 different treatments for melasma. These treatments included bleaching agents, triple-combination creams, combination therapies, and less conventional therapies. Triple-combination cream was found to be more effective at lightening melasma than hydroquinone alone or when compared to certain dual combinations. Azelaic acid (20%) was more effective than 2% hydroquinone but not when compared to 4% hydroquinone. Tretinoin was found to significantly reduce the severity of melasma when compared to placebo. Thiospot was also more effective than placebo. The most commonly reported side effects were mild and transient. The quality of studies evaluating melasma treatments was generally poor. High-quality trials on well-defined participants with long-term outcomes are needed.",
+  "metadata": {
+    "wall_time_s": 70.87653,
+    "done_reason": "stop",
+    "eval_count": 187,
+    "prompt_eval_count": 3273,
+    "total_duration": 68827019000,
+    "load_duration": 4592800,
+    "prompt_eval_duration": 5984135000,
+    "eval_duration": 62820136000,
+    "total_duration_s": 68.827019,
+    "prompt_eval_duration_s": 5.984135,
+    "eval_duration_s": 62.820136,
+    "prompt_tokens_per_s": 546.9462,
+    "eval_tokens_per_s": 2.9768,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

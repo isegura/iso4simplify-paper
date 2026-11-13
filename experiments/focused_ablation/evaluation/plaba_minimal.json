@@ -1,0 +1,35 @@
+{
+  "fingerprint": {
+    "prediction": "783f031353ad719e899b9674f0ef7dec2ea3eae0a20ebb0e0357ce266a37ca31",
+    "evaluator": "e9b7c1fa4b21176a69288f192897f84e91c31b503abd757d862baf7b75024447",
+    "meaningbert_module": "0389ccc9664d3ac73371bb73cba209c34fa94e309bf79ef64cde64cc65710fda",
+    "metric_runtime": "9fcbbb1c18df310c109a76b88474ce2c11a708d950f42e4efcf9222463436fb2",
+    "meaningbert_provenance": "009bfa94177c8d148044947801edf98f5ed6c18037efba3ebc0ac350e8534651",
+    "loader": "2f518e2279aad46e65198889b800b6df4cec59dce658b1cdc163974fc57eba5e",
+    "driver": "0f50cb88449d1fa07558c7a0ee0f141263923c8b7f551976705ebf6d51d7d096",
+    "versions": {
+      "evaluate": "0.4.6",
+      "sacrebleu": "2.6.0",
+      "bert-score": "0.3.13",
+      "textstat": "0.7.13",
+      "transformers": "5.3.0",
+      "torch": "2.10.0+cu128",
+      "numpy": "2.4.3"
+    }
+  },
+  "record": {
+    "dataset": "plaba",
+    "prompt": "minimal",
+    "n": 148,
+    "BLEU": 6.07,
+    "SARI": 33.81,
+    "FKGL": 9.28,
+    "FRE": 59.08,
+    "BERTScore-F1": 0.8757,
+    "MeaningBERT": 61.81,
+    "output_length": 132.21621621621622,
+    "compression_ratio": 0.64788579760636,
+    "copy_rate": 0.48578087562061534
+  },
+  "elapsed_seconds": 16.682499200000166
+}

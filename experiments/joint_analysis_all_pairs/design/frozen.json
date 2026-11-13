@@ -1,0 +1,18 @@
+{
+  "status": "expanded_list_frozen_after_prior_outcomes_known",
+  "global_contrasts": 14,
+  "local_contrasts": 78,
+  "omnibus_tests": 15,
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261104,
+  "code_plan_hashes": {
+    "experiments/joint_analysis_all_pairs/run_analysis.py": "74d6d511a9f2cbb1cc532051400faa661e6a2451aed0d0d2ea92661c281cb72b",
+    "experiments/joint_analysis_all_pairs/ANALYSIS_PLAN.md": "f9e54d9fd9e500c9a71efb757d448dce009251474f993328d0fa79e3708ba292",
+    "experiments/joint_analysis_final/run_analysis.py": "d22d61011532eb8ec075dd119b168517552c843724f1d186509c7f1e39a51e3e",
+    "experiments/reviewer2_concern2/statistics_core.py": "e2d2727b16765629d5acdf4f392069f7d1ae499818b501c41a1a8a7e3543dd62"
+  },
+  "design_hashes": {
+    "contrasts.csv": "9608337c0d920b5ec611602eaf11fb26fc6e030074dd284a6c5202026df818b5",
+    "contrast_weights.npy": "92706f39c5f722a28ad123c701b902b324cb164cba8501e36839e7afb44fdf68"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "configurations": 72,
+  "outputs": 8952,
+  "all_original_descriptor_summaries_match": true,
+  "per_configuration_flag_sums_checked": true,
+  "all_input_hashes_unchanged": true,
+  "detector_unit_tests": 2,
+  "spot_check_outputs": 21,
+  "spot_check_is_not_human_validation": true,
+  "ollama_calls": 0
+}

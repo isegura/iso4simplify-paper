@@ -1,0 +1,4 @@
+dataset,training_rows,distinct_sources_before_exclusions,eligible_distinct_sources,exact_test_source_exclusions,duplicate_source_policy
+cochrane,3568,3568,3568,0,first original training row; no reference quality/CEFR-based choice
+plaba,635,531,531,0,first original training row; no reference quality/CEFR-based choice
+tsar2025,40,20,20,0,"one reference per source; 10 A2/10 B1 in candidate pool; source IDs sorted, PCG64 seed 42"

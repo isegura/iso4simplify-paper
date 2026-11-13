@@ -1,0 +1,14 @@
+{
+  "new_prompt_files": 36,
+  "new_configurations": 72,
+  "new_predictions": 8952,
+  "generation_schema_version": 3,
+  "raw_generation_only": true,
+  "common_post_generation_descriptors": true,
+  "original_seed42_evaluated_configurations": 36,
+  "original_seed42_evaluated_rows": 4476,
+  "simulated_generation_and_resume_rows": 600,
+  "simulated_separate_evaluation_rows": 600,
+  "tsar_two_references_verified": true,
+  "actual_model_calls": 0
+}

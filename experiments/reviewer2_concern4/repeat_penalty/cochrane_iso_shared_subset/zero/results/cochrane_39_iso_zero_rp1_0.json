@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_39_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_39_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "\"No new studies are included in this update. Four trials with over 13,000 women from the UK and Ireland, involving women in labor, were included. Three trials were funded by hospitals and one by the Scottish government. Two trials had no conflicts of interest declared, and the remaining two did not mention any. The studies were generally assessed as low risk of bias.\n\nThe results from the 2012 review remain the same. There is no clear difference in the risk of instrumental vaginal birth or perinatal mortality rate between women using admission CTG and intermittent auscultation. However, women using admission CTG had a higher probability of an increase in incidence of caesarean section and higher rates of electronic fetal monitoring and fetal blood sampling.\n\nThere is no evidence of benefit for low-risk women using admission CTG on admission in labor. In fact, it likely increases the caesarean section rate by approximately 20%. The data lacked power to detect possible important differences in perinatal mortality.\n\nThe findings of this review support recommendations that the admission CTG not be used for low-risk women on admission in labor. Women should be informed of the potential increase in caesarean section risk without evidence of benefit.\n\nThe evidence quality ranged from moderate to very low, with downgrading decisions based on imprecision, inconsistency, and a lack of blinding for participants and personnel. All four included trials were conducted in developed Western European countries.\n\nFuture studies evaluating the effects of the admission CTG should consider including women admitted with signs of labor and before a formal diagnosis of labor.\"",
+  "metadata": {
+    "wall_time_s": 119.977366,
+    "done_reason": "stop",
+    "eval_count": 357,
+    "prompt_eval_count": 1879,
+    "total_duration": 117907106300,
+    "load_duration": 7651800,
+    "prompt_eval_duration": 7017590000,
+    "eval_duration": 110588193000,
+    "total_duration_s": 117.907106,
+    "prompt_eval_duration_s": 7.01759,
+    "eval_duration_s": 110.588193,
+    "prompt_tokens_per_s": 267.7557,
+    "eval_tokens_per_s": 3.2282,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

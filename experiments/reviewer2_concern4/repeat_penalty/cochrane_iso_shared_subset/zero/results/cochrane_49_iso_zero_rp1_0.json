@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_49_iso_zero",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_49_iso_zero_rp1_0"
+  },
+  "manifest_sha256": "6c8675fc7235e104a6fe71b97f5b64d81acf401297beef29c1b3f6eb477c886c",
+  "prediction": "We found three new studies on pregabalin for fibromyalgia. Five studies with 3283 participants compared pregabalin to a placebo. These studies show that:\n\n- Pregabalin can help reduce pain for some people with fibromyalgia. \n- About 14% of people on placebo had substantial pain relief, but about 9% more had relief with pregabalin (22% to 24%).\n- Similar results were seen for moderate pain relief.\n- A small study found no difference between taking pregabalin once or twice a day.\n\nTwo studies with 1492 participants used a different design. They showed that:\n\n- People who felt better after initial doses had similar pain relief whether they continued taking pregabalin or switched to a placebo.\n- About 10% of people in all groups had major pain relief.\n- Most participants had side effects, with more side effects in the pregabalin groups.\n\nIn summary, pregabalin can help reduce pain for some people with fibromyalgia. However, it also has side effects, and only about 10% of people may experience significant relief. These results are similar to other effective fibromyalgia medicines.",
+  "metadata": {
+    "wall_time_s": 95.581814,
+    "done_reason": "stop",
+    "eval_count": 276,
+    "prompt_eval_count": 1920,
+    "total_duration": 93498267700,
+    "load_duration": 2592900,
+    "prompt_eval_duration": 8027191000,
+    "eval_duration": 85460298000,
+    "total_duration_s": 93.498268,
+    "prompt_eval_duration_s": 8.027191,
+    "eval_duration_s": 85.460298,
+    "prompt_tokens_per_s": 239.187,
+    "eval_tokens_per_s": 3.2296,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

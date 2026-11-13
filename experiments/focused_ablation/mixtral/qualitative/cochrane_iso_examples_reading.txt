@@ -1,0 +1,59 @@
+CASE cochrane/iso_examples/0 id=CD009601 words 222->10 termination stop->stop
+
+ORIGINAL: We reviewed 11 studies with 414 participants. Some studies compared different types of ultrasound therapy, while others combined ultrasound with other treatments. The quality of these studies was low in some cases.
+
+Only two studies looked at short-term overall improvement after treatment. A low-quality study with 68 participants suggested that ultrasound might improve symptoms when compared to a placebo. However, this result should be interpreted carefully due to high dropout rates and other issues. Another low-quality study with 60 participants found that adding ultrasound to splint therapy improved patient satisfaction at three months, but it decreased the chance of improvement when compared to laser therapy plus splint.
+
+Differences in ultrasound frequency, intensity, and combination with other treatments showed little or no significant impact on symptoms, function, or neurophysiologic parameters. Only three studies reported adverse effects, making it difficult to draw conclusions about the safety of ultrasound therapy.
+
+There is poor evidence suggesting that ultrasound may be more effective than a placebo for short- or long-term symptom improvement in carpal tunnel syndrome (CTS). There is insufficient support for one type of ultrasound regimen over another, and there is no clear proof that ultrasound therapy is more effective than other non-surgical treatments like splinting, exercises, and oral drugs. More rigorous studies are needed to determine the effectiveness and safety of ultrasound therapy for CTS.
+
+ABLATED: We reviewed 11 studies with 414 participants. Some studies compared:
+
+END CASE
+
+CASE cochrane/iso_examples/31 id=CD008053 words 214->7 termination stop->stop
+
+ORIGINAL: Two studies (including 116 women) compared home and hospital management for preterm premature rupture of membranes (PPROM). However, each trial had too few participants to thoroughly assess most outcomes. Women were monitored for 2 to 3 days before randomization.
+
+There was not enough evidence to say if perinatal mortality differed between the two groups (RR 1.93, 95% CI 0.19 to 20.05). There were no differences in serious neonatal morbidity, chorioamnionitis, gestational age at delivery, birthweight, or admission to neonatal intensive care. No information was provided on serious maternal morbidity or mortality.
+
+There was some evidence that women managed in the hospital were more likely to have a caesarean section (RR 0.28, 95% CI 0.07 to 1.15). However, this result should be interpreted cautiously due to moderate heterogeneity (I² = 35%).
+
+Women cared for at home spent about 10 fewer days in the hospital (mean difference -9.60, 95% CI -14.59 to -4.61) and were more satisfied with their care. Home care also had lower costs. However, these findings come from two small studies that lacked statistical power to detect meaningful differences between groups.
+
+Larger randomized controlled trials are needed to measure differences in relevant outcomes, especially maternal satisfaction with care and cost analysis, which have social and economic implications for both developed and developing countries.
+
+ABLATED: Two studies with a total of 1
+
+END CASE
+
+CASE cochrane/iso_examples/62 id=CD011655 words 159->172 termination stop->stop
+
+ORIGINAL: We reviewed three studies with 161 people with schizophrenia. Only two out of seven main results had data. We measured significant improvement using the Clinical Global Impression (CGI). There is no clear difference between chlorpromazine and metiapine groups (2 studies, 120 people, relative risk 1.11, 95% confidence interval 0.84 to 1.47, very low-quality evidence). The number of participants with parkinsonism at eight weeks was also similar (2 studies, 70 people, relative risk 0.97, 95% confidence interval 0.46 to 2.03, very low-quality evidence).
+
+We don't have usable data for the other important results: significant improvement in mental state, readmission due to relapse, satisfaction with treatment, aggressive or violent behavior, or cost of care. Chlorpromazine has been a common treatment for schizophrenia for years. However, there is not enough high-quality evidence from trials comparing chlorpromazine and metiapine. It may not be necessary to find out if metiapine is more or less effective than chlorpromazine, making future research on this comparison unlikely.
+
+ABLATED: We looked at three studies with 161 people with schizophrenia. We only have data for two of our seven main results. We measured significant improvement in overall condition using the Clinical Global Impression (CGI). There is no clear difference between chlorpromazine and metiapine groups (2 studies, 120 people, Relative Risk 1.11, 95% Confidence Interval 0.84 to 1.47, very low-quality evidence). The number of participants with parkinsonism at eight weeks was also similar (2 studies, 70 people, Relative Risk 0.97, 95% Confidence Interval 0.46 to 2.03, very low-quality evidence).
+
+We don't have usable data for the other important results: significant improvement in mental state, readmission due to relapse, satisfaction with treatment, aggressive or violent behavior, or cost of care. Chlorpromazine has been a common treatment for schizophrenia for many years. However, available evidence comparing this drug to metiapine lacks high-quality trial data. It also seems that finding out if metiapine is more or less effective than chlorpromazine isn't very relevant in clinical practice. Therefore, future research on this comparison may not be necessary.
+
+END CASE
+
+CASE cochrane/iso_examples/93 id=CD004510 words 161->146 termination stop->stop
+
+ORIGINAL: We looked at 33 studies with 5110 patients. Most studies were not high quality. We applied Transcutaneous Fetal Monitoring (TFU) to many patient groups in various ways (who did it, how often, structure, duration, etc.). Many outcomes were measured, but only a few were measured in more than one study. The effects of TFU are not the same across all studies or within each patient group. We could only combine results for a few outcomes due to differences in methods and clinical features. Out of eight reviews, five showed significant statistical inconsistency.
+
+Overall, there is no clear evidence that TFU has any effects. The low quality of the studies means we need to be careful with the results. No bad effects were reported. Some studies found that TFU had positive effects for some outcomes, but overall, the studies show similar results between TFU and control groups. Therefore, we cannot say that TFU is an effective intervention. No harmful effects were reported.
+
+ABLATED: We looked at 33 studies with 5110 patients. Most studies were not highly reliable. We applied Transcutaneous Fetal Monitoring (TFU) to various groups of patients, in many different ways. Many outcomes were measured, but only a few were measured in more than one study. The effects of TFU varied between studies and within patient groups. Due to differences in methods and patient characteristics, we could only combine the results for a few outcomes. Of the eight combined analyses, five showed significant statistical variation. In general, the evidence about the effects of TFU is not clear. We should be cautious because the studies were not highly reliable. No negative effects were reported. However, some studies found that TFU had positive effects for certain outcomes, but overall the results are similar between TFU and control groups. Therefore, we cannot say for sure that TFU is an effective intervention.
+
+END CASE
+
+CASE cochrane/iso_examples/124 id=CD007497 words 15->17 termination stop->stop
+
+ORIGINAL: A search found 3,952 abstracts, with three trials meeting inclusion criteria (Milinkovic 2007; McComsey 2
+
+ABLATED: A search found 3,952 abstracts, with three trials meeting inclusion criteria (Milinkovic 2007; McComsey 2008; Sanchez-Conde 2
+
+END CASE

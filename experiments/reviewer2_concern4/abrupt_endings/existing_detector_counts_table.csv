@@ -1,0 +1,10 @@
+dataset,prompt,zero,one,few_random,few_metric
+cochrane,ISO,12,10,7,9
+cochrane,ISO+examples,21,12,14,22
+cochrane,baseline,4,5,4,5
+plaba,ISO,15,13,6,12
+plaba,ISO+examples,22,14,14,16
+plaba,baseline,8,16,10,6
+tsar2025,ISO,4,6,6,9
+tsar2025,ISO+examples,4,6,6,7
+tsar2025,baseline,9,6,9,5

@@ -1,0 +1,19 @@
+{
+  "status": "prepared_and_verified_no_generation",
+  "configurations": 18,
+  "new_outputs": 2238,
+  "prompt_files_checked": 1119,
+  "selected_demo_occurrences": 1119,
+  "rankings_recomputed_from_frozen_embeddings": true,
+  "instruction_prefixes_preserved": true,
+  "training_source_reference_pairs_preserved": true,
+  "examples_shared_across_prompts_and_models": true,
+  "duplicate_test_sources_share_selection": true,
+  "exact_test_source_matches_excluded": true,
+  "synthetic_tests_passed": 4,
+  "ollama_calls": 0,
+  "embedding_inference": "CPU only, cached MiniLM; no generated simplifications",
+  "context_exact_fit_not_certified": true,
+  "contexts_above_original_character_max": 372,
+  "source_sha256_verified": true
+}

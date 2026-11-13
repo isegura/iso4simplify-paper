@@ -1,0 +1,26 @@
+{
+  "job": {
+    "case_id": "cochrane_28_iso_few_random",
+    "repeat_penalty": 1.0,
+    "job_id": "cochrane_28_iso_few_random_rp1_0"
+  },
+  "manifest_sha256": "12a9fa4a1bf6587783343a366da585af487ad5ff2c9b18b6f51c51cb357c04da",
+  "prediction": "Two studies were included. The first study looked at 210 men with urethral stricture disease and found no significant difference in the success rates of surgical urethral dilatation and optical urethrotomy after three years. The second study looked at 50 men with traumatic stricture of the posterior urethra following pelvic fracture injury and found that those who had urethroplasty were less likely to need further surgery in the first six months and less likely to have stricture recurrence after two years. There is not enough evidence to determine the best treatment for urethral stricture disease as there were not enough data to compare the adverse effects and costs of the interventions. More research is needed to answer relevant clinical questions regarding treatment of men with urethral strictures.",
+  "metadata": {
+    "wall_time_s": 64.356888,
+    "done_reason": "stop",
+    "eval_count": 179,
+    "prompt_eval_count": 3000,
+    "total_duration": 62289363700,
+    "load_duration": 2311000,
+    "prompt_eval_duration": 3139052000,
+    "eval_duration": 59129305000,
+    "total_duration_s": 62.289364,
+    "prompt_eval_duration_s": 3.139052,
+    "eval_duration_s": 59.129305,
+    "prompt_tokens_per_s": 955.7025,
+    "eval_tokens_per_s": 3.0273,
+    "num_predict": 512,
+    "num_ctx": 8192
+  }
+}

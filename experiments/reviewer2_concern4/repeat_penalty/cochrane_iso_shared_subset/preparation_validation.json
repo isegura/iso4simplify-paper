@@ -1,0 +1,14 @@
+{
+  "texts_shared": 31,
+  "strategies": [
+    "zero",
+    "few_random"
+  ],
+  "jobs_per_strategy": 31,
+  "total_jobs": 62,
+  "only_new_penalty": 1.0,
+  "new_penalty_1_1_jobs": 0,
+  "hashes_and_alignment_verified": true,
+  "simulated_dispatch_and_resume_passed": true,
+  "actual_ollama_calls": 0
+}

@@ -1,0 +1,4 @@
+stratum,n,historical_stop_cut,new_stop_cut,historical_limit,new_limit,historical_any_apparent_cut,new_any_apparent_cut,resolved_historical_zero_cut
+historical_zero_shot_failure,15,15,5,0,0,15,5,10
+random_from_remaining,10,0,1,2,0,2,1,0
+selected_for_few_random_failure_only,6,0,1,0,1,0,2,0
