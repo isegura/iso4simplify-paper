@@ -6,7 +6,7 @@ Both local instruction-tuned models use an 8,192-token context and a 512-token g
 
 Model identifiers are `llama3.1:8b` and `mixtral:latest`; quantization formats reported for the study are Q4_K_M and Q4_0, respectively. Model tags are mutable. Saved provenance and metadata should be consulted when reproducing a particular run; fixed decoding parameters alone do not ensure identical outputs across environments.
 
-Recorded Ollama versions differ between experiment groups: v0.23.1 for the initial environment, v0.40.6 for the ablation and v0.40.13 for retrieval. These environment records must not be interpreted as independent per-output attestations for every historical run. Consult preserved environment/manifests for the relevant experiment. The release does not assert that every run used one common Ollama version.
+The recorded Ollama version for the initial inference environment was v0.23.1.
 
 ## Inspect and rebuild reports without inference
 
