@@ -12,6 +12,8 @@ Separate experiments contain 1,492 newly generated zero-shot ablation outputs (1
 
 ## Start here
 
+- [Revised qualitative error-analysis materials](experiments/error_analysis_revision_20261125/index.html) (AI-assisted inspection; author validation pending).
+
 - [Results and artifact map](RESULTS_GUIDE.md).
 - [Reproduction and inference settings](REPRODUCIBILITY.md).
 - [Complete HTML report index](experiments/html_reports_20261113/reports/index.html). Download or clone the repository and open this file locally; GitHub displays HTML source rather than rendering the reports.

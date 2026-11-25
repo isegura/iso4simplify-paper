@@ -1,0 +1,173 @@
+{
+  "method": "AI-assisted reading of90selected outputs, sources and all supplied references, plus five explicitly documented same-input retrieval/random pairs.",
+  "status": "author_validation_pending",
+  "source_sha256": "ba2814a0bb358c661cbafa8979009f53c01f04a9c3953188c7537396bd92ff12",
+  "manuscript_changed": false,
+  "submission_package_changed": false,
+  "scope": "Illustrative evidence, not error rates or causal selector rankings.",
+  "groups": {
+    "llama_cochrane_iso_few_random": {
+      "case_keys": [
+        "llama_cochrane_iso_few_random/43",
+        "llama_cochrane_iso_few_random/69",
+        "llama_cochrane_iso_few_random/6",
+        "llama_cochrane_iso_few_random/4",
+        "llama_cochrane_iso_few_random/77",
+        "llama_cochrane_iso_few_random/26",
+        "llama_cochrane_iso_few_random/40",
+        "llama_cochrane_iso_few_random/23",
+        "llama_cochrane_iso_few_random/90",
+        "llama_cochrane_iso_few_random/66",
+        "llama_cochrane_iso_few_random/30",
+        "llama_cochrane_iso_few_random/75",
+        "llama_cochrane_iso_few_random/91",
+        "llama_cochrane_iso_few_random/103",
+        "llama_cochrane_iso_few_random/115"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Short summaries and missing reference explanations remain, but excessive/shorter only because are stronger than evidence supports.",
+        "Statistical RR/CI notation and specialized treatment names remain. OHSS is explicitly expanded in row4, so remove it from unexplained acronym examples for this condition.",
+        "Random row4 expands OHSS while same-input ISO retrieval does not; both retain HES. Random also preserves uncertainty on pregnancy effects more precisely.",
+        "Random row6 assigns fewer injection-site reactions to detemir; source and corresponding retrieval output assign them to glargine.",
+        "Rows40 and77 change reported side-effect/study details; some other cases are coherent source-based compression.",
+        "Row26 retains large near-verbatim technical source portions, so shortening is not uniform."
+      ]
+    },
+    "llama_plaba_iso_examples_few_random": {
+      "case_keys": [
+        "llama_plaba_iso_examples_few_random/11",
+        "llama_plaba_iso_examples_few_random/114",
+        "llama_plaba_iso_examples_few_random/146",
+        "llama_plaba_iso_examples_few_random/10",
+        "llama_plaba_iso_examples_few_random/112",
+        "llama_plaba_iso_examples_few_random/144",
+        "llama_plaba_iso_examples_few_random/12",
+        "llama_plaba_iso_examples_few_random/115",
+        "llama_plaba_iso_examples_few_random/116",
+        "llama_plaba_iso_examples_few_random/108",
+        "llama_plaba_iso_examples_few_random/142",
+        "llama_plaba_iso_examples_few_random/24",
+        "llama_plaba_iso_examples_few_random/3",
+        "llama_plaba_iso_examples_few_random/98",
+        "llama_plaba_iso_examples_few_random/103"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO+examples random, not ISO random.",
+        "Explanatory omissions and technical terms (parity/hyperemesis gravidarum) remain; BMI is expanded in row115.",
+        "Rows144 and98 include introductory phrase;144,142,24,103 include final explanatory compliance notes.",
+        "Row24 overstates source uncertainty/exceptions as inability to prevent asthma.",
+        "Rows3 and12 conflate cyst-disappearance percentages with disappearance-or-shrinkage.",
+        "Matched row140 (outside comparative lowest15, explicitly paired material) addresses target in random; retrieval reproduces demonstrations and reaches cap. No overall selector-error-rate inference."
+      ]
+    },
+    "llama_tsar2025_iso_examples_few_random": {
+      "case_keys": [
+        "llama_tsar2025_iso_examples_few_random/45",
+        "llama_tsar2025_iso_examples_few_random/81",
+        "llama_tsar2025_iso_examples_few_random/20",
+        "llama_tsar2025_iso_examples_few_random/51",
+        "llama_tsar2025_iso_examples_few_random/19",
+        "llama_tsar2025_iso_examples_few_random/31",
+        "llama_tsar2025_iso_examples_few_random/57",
+        "llama_tsar2025_iso_examples_few_random/69",
+        "llama_tsar2025_iso_examples_few_random/56",
+        "llama_tsar2025_iso_examples_few_random/26",
+        "llama_tsar2025_iso_examples_few_random/48",
+        "llama_tsar2025_iso_examples_few_random/21",
+        "llama_tsar2025_iso_examples_few_random/77",
+        "llama_tsar2025_iso_examples_few_random/13",
+        "llama_tsar2025_iso_examples_few_random/54"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO+examples random, not ISO random.",
+        "Unrequested preambles in rows45,51,54; final compliance notes in19,57,56,48.",
+        "No inspected target simplification uses an actual bulleted list; row81 separates findings by line breaks. Remove old bulleted-list statement.",
+        "Generally coherent complete endings, some details omitted. Do not infer low SARI is caused exclusively by wording/presentation.",
+        "Row19 target summary omits overall hero-journey framing and adds ISO compliance claim."
+      ]
+    },
+    "mixtral_cochrane_minimal_few_retrieval": {
+      "case_keys": [
+        "mixtral_cochrane_minimal_few_retrieval/6",
+        "mixtral_cochrane_minimal_few_retrieval/60",
+        "mixtral_cochrane_minimal_few_retrieval/75",
+        "mixtral_cochrane_minimal_few_retrieval/108",
+        "mixtral_cochrane_minimal_few_retrieval/23",
+        "mixtral_cochrane_minimal_few_retrieval/123",
+        "mixtral_cochrane_minimal_few_retrieval/94",
+        "mixtral_cochrane_minimal_few_retrieval/90",
+        "mixtral_cochrane_minimal_few_retrieval/40",
+        "mixtral_cochrane_minimal_few_retrieval/4",
+        "mixtral_cochrane_minimal_few_retrieval/10",
+        "mixtral_cochrane_minimal_few_retrieval/76",
+        "mixtral_cochrane_minimal_few_retrieval/68",
+        "mixtral_cochrane_minimal_few_retrieval/64",
+        "mixtral_cochrane_minimal_few_retrieval/8"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is baseline retrieval, compared with selected baseline random, not ISO random versus zero-shot.",
+        "Abrupt fragments at rows6,60,75,108,23,64,8; row123 ends at colon announcing missing findings. All below512 tokens, stop.",
+        "Row40 falsely says withdrawn COX2 drugs were studied although source says none were; row76 states no deaths whereas source reports one delayed-group death.",
+        "Row90 adds mean-age range36to41 not in source; statistical and biomedical detail often retained.",
+        "Matched row6 retrieval ends24to5; random completes insulin comparison, so retrieval not uniformly more complete."
+      ]
+    },
+    "mixtral_plaba_iso_few_random": {
+      "case_keys": [
+        "mixtral_plaba_iso_few_random/110",
+        "mixtral_plaba_iso_few_random/146",
+        "mixtral_plaba_iso_few_random/114",
+        "mixtral_plaba_iso_few_random/10",
+        "mixtral_plaba_iso_few_random/116",
+        "mixtral_plaba_iso_few_random/93",
+        "mixtral_plaba_iso_few_random/3",
+        "mixtral_plaba_iso_few_random/8",
+        "mixtral_plaba_iso_few_random/55",
+        "mixtral_plaba_iso_few_random/12",
+        "mixtral_plaba_iso_few_random/108",
+        "mixtral_plaba_iso_few_random/11",
+        "mixtral_plaba_iso_few_random/97",
+        "mixtral_plaba_iso_few_random/145",
+        "mixtral_plaba_iso_few_random/142"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO random, counterpart selected ISO retrieval, not ISO versus ISO+examples random.",
+        "Abrupt fragments in rows10,93,8,55 before512 tokens. Row110 ends in complete sentence after aim but omits all methods/results/conclusion.",
+        "Section labels in110 retained from source; not automatically errors. Complete outputs retain specialized terms despite some useful definitions.",
+        "Matched row110 retrieval retains study results and diagnostic conclusion; random contains introduction and aim only."
+      ]
+    },
+    "mixtral_tsar2025_minimal_few_random": {
+      "case_keys": [
+        "mixtral_tsar2025_minimal_few_random/53",
+        "mixtral_tsar2025_minimal_few_random/1",
+        "mixtral_tsar2025_minimal_few_random/68",
+        "mixtral_tsar2025_minimal_few_random/72",
+        "mixtral_tsar2025_minimal_few_random/15",
+        "mixtral_tsar2025_minimal_few_random/34",
+        "mixtral_tsar2025_minimal_few_random/51",
+        "mixtral_tsar2025_minimal_few_random/36",
+        "mixtral_tsar2025_minimal_few_random/75",
+        "mixtral_tsar2025_minimal_few_random/98",
+        "mixtral_tsar2025_minimal_few_random/47",
+        "mixtral_tsar2025_minimal_few_random/89",
+        "mixtral_tsar2025_minimal_few_random/99",
+        "mixtral_tsar2025_minimal_few_random/65",
+        "mixtral_tsar2025_minimal_few_random/58"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is baseline random, counterpart selected baseline retrieval, not ISO+examples random.",
+        "Abrupt numeric/date endings in53,1,68,72,15,36 below512 tokens.",
+        "Row51 adds unrequested rewriting/omission note; row65 numbered paragraph is not intrinsically error.",
+        "Matched row53 random only4,00 whereas retrieval completes target. Reverse completeness pattern to Cochrane row6.",
+        "Complete examples generally coherent; not direct comprehension or ISO-adherence judgments."
+      ]
+    }
+  }
+}

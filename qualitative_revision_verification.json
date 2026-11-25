@@ -1,0 +1,17 @@
+{
+  "addition": "experiments/error_analysis_revision_20261125",
+  "files": 35,
+  "html_links_and_anchors_verified": true,
+  "complete_selected_texts_verified": true,
+  "selected_conditions": 18,
+  "selected_outputs": 270,
+  "review_notes_cover": 270,
+  "metric_probe_excluded": true,
+  "historical_source_hashes_verified": true,
+  "note": "Content verification before authorized publication; independent human validation is not claimed.",
+  "modified_navigation_hashes": {
+    "README.md": "93076689ef775ed0c7981fddef713003da19adf713164f5825215c69bcb255fb",
+    "RESULTS_GUIDE.md": "ddf1f6bc4b45d1a500f94c0d0eaf65a1fdaa9a56d795f0e9c9017f1d67e8742f",
+    "experiments/html_reports_20261113/reports/index.html": "4c4a0241a9ab6ce640888361fc7cd0de1c14f8b4a586ee2b93fb15caa130b7e2"
+  }
+}

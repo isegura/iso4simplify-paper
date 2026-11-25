@@ -1,0 +1,13 @@
+QUALITATIVE ERROR-ANALYSIS MATERIALS
+
+18 selected conditions from the historical main study (162 observed configurations; 90 structural means). Each selected condition contributes 15 low-SARI outputs, yielding 270 output occurrences over 122 dataset/test-row combinations. Random conditions are ranked by the mean of seeds 42, 44 and 46; inspection uses seed 42. Selection rules are recorded in evidence_final/manifest.json.
+
+The reports include complete source texts, all references, generated predictions, five per-item metrics (SARI, BERTScore-F1, MeaningBERT, FKGL, FRE), word counts and termination metadata. BLEU is corpus-level and is not mislabeled as an instance metric. Case observations were AI-assisted; source/prompt checks are recorded separately. They are not independent human ratings, validated error rates or ISO-adherence scores. Author review is pending.
+
+The 137 retrieval/random matched pairs are provided for further inspection; five have explicit comparison notes. Retained technical language, shortness and list formatting alone do not establish an error. The complete automatic screening of all main-study outputs remains separate.
+
+Historical qualitative reports remain archived. The new metric-selector probe, its prompts, and its new Llama/Mixtral inference or evaluation outputs are excluded. No new inference was executed to prepare these reports. The package is distributed with the public paper repository.
+
+Dataset attribution and third-party text terms in the repository data/README.md also apply to source/reference texts reproduced in these reports.
+
+The reviews/ directory records the subsequent AI-assisted close reading of all 270 selected outputs against their sources and supplied references: case-level observations for high and low conditions, and condition-level notes for the comparative sample. These notes remain subject to author validation. They supplement the original 32 documented observations; they do not constitute independent human annotations.

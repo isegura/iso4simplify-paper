@@ -1,0 +1,6 @@
+model,dataset,prompt,row_index,text_id,retrieval_SARI,random_SARI,interpretation,scope
+llama,cochrane,iso,4,CD001302,29.42,29.91,Differences in technical expansion or completion depend on the specific pair.,"AI-assisted illustration, not an error-frequency or causal estimate"
+llama,plaba,iso_examples,140,34960751,21.76,39.67,"Retrieval can either reproduce demonstrations or retain more of the target, depending on the pair.","AI-assisted illustration, not an error-frequency or causal estimate"
+mixtral,cochrane,minimal,6,CD006383,16.96,31.83,Differences in technical expansion or completion depend on the specific pair.,"AI-assisted illustration, not an error-frequency or causal estimate"
+mixtral,plaba,iso,110,27630909,31.64,14.95,"Retrieval can either reproduce demonstrations or retain more of the target, depending on the pair.","AI-assisted illustration, not an error-frequency or causal estimate"
+mixtral,tsar2025,minimal,53,74,44.3,17.15,Retrieval has a complete ending where random ends in a numeric fragment.,"AI-assisted illustration, not an error-frequency or causal estimate"

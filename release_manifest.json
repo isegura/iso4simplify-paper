@@ -24576,8 +24576,9 @@
   },
   "experiments/html_reports_20261113/reports/index.html": {
     "source": "experiments/html_reports_20261113/reports/index.html",
-    "sha256": "d6a9a4b6ba30baab0b3f656d0b758b09bb996dc0bcda65eac0beda3e9a4da3ea",
-    "bytes": 47847
+    "sha256": "4c4a0241a9ab6ce640888361fc7cd0de1c14f8b4a586ee2b93fb15caa130b7e2",
+    "bytes": 48100,
+    "note": "Navigation updated to link the separate qualitative revision; scientific report payloads unchanged."
   },
   "experiments/html_reports_20261113/reports/ablation/llama_cochrane_iso.html": {
     "source": "experiments/html_reports_20261113/reports/ablation/llama_cochrane_iso.html",
@@ -26763,5 +26764,180 @@
     "source": "experiments/updated_result_tables/delivery/table_values_full_precision.csv",
     "sha256": "d9199f4d53e691a5784f8622a1b9ee5e7cfe4219741463a88c5cfc386d71bd81",
     "bytes": 39874
+  },
+  "experiments/error_analysis_revision_20261125/index.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/index.html",
+    "sha256": "f816702283b675c7cf9c51dad2fdb5e776232ada296f787570ab272105e324a7",
+    "bytes": 3105
+  },
+  "experiments/error_analysis_revision_20261125/METHOD_AND_SCOPE.txt": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/METHOD_AND_SCOPE.txt",
+    "sha256": "770737139ff19005494b5924a1ee7b22de129b25b8d051090df22ed7b31108f4",
+    "bytes": 2015
+  },
+  "experiments/error_analysis_revision_20261125/package_manifest.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/package_manifest.json",
+    "sha256": "c212996059e3c653123548fcae933e5320f99353443aaf14743dee842906fffc",
+    "bytes": 4555
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/index.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/index.html",
+    "sha256": "281b2aed2da27259646c826eb2c054a3e96310a58ad94ddbd5a9a90b2cf60ea6",
+    "bytes": 4325
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_iso_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_iso_few_random.html",
+    "sha256": "fd6854d7e4aff73b48997200bea6e88b57d1bd689ea846125f745f0304fd8943",
+    "bytes": 102670
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_iso_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_iso_few_retrieval.html",
+    "sha256": "c33124919b20b11a9ecaab1719f1fced2622a0dba75eda1a9ff7d5da008652fa",
+    "bytes": 98766
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_minimal_one.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_minimal_one.html",
+    "sha256": "b89a371d4b54f63c3cfb33cddcffa9ac7004ea3757345e8848f3ff20f35dc116",
+    "bytes": 101723
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_iso_examples_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_iso_examples_few_random.html",
+    "sha256": "9c17aa3b4f167c9ef48deebb7b1a72f59defbdecbcd39c558a1f18926ca1f752",
+    "bytes": 81357
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_iso_examples_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_iso_examples_few_retrieval.html",
+    "sha256": "d283d2daf25fa44069e950bd05ca00c5bc9faefef26ef6263fa770d19b7fc979",
+    "bytes": 89170
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_minimal_one.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_minimal_one.html",
+    "sha256": "669503977629bc6b9dac8563dcf38ef494366831d118aafb8fbcdb47d1381ffa",
+    "bytes": 81473
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_iso_examples_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_iso_examples_few_random.html",
+    "sha256": "8eca364a64d63abf1ab934726dc7e5602a227e963255277d750dbfc1b6277f8d",
+    "bytes": 54779
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_iso_examples_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_iso_examples_few_retrieval.html",
+    "sha256": "c5d88154216b3027f3fd7228f34897b5ddb5b3877876d6dddb47d0ef3ae706df",
+    "bytes": 56401
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_minimal_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_minimal_few_random.html",
+    "sha256": "34f77b73db5effecdc5a57438c817c27de5bc5cb296ab2c81d005e42fcb861ea",
+    "bytes": 55069
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/manifest.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/manifest.json",
+    "sha256": "358a328e645b43c574ac8e304968882d9219d13538a82210d0449a3e6319313a",
+    "bytes": 6084
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/matched_retrieval_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/matched_retrieval_random.html",
+    "sha256": "8521f5d23a04234ac66eea87e87114511427634f966676496918627e569d2aa2",
+    "bytes": 612936
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/matched_retrieval_random.jsonl": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/matched_retrieval_random.jsonl",
+    "sha256": "5a9261aaba2477089a9363277ff209e302c9d6023949b0995a424cbde9227656",
+    "bytes": 602967
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_iso_zero.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_iso_zero.html",
+    "sha256": "66ce09989ba95699a9e51b8240976988341d1f50c1ee1c20dff05c8b68792196",
+    "bytes": 100766
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_minimal_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_minimal_few_random.html",
+    "sha256": "1a18846ef5c7e7a551a0b4178ec503bb9f532bdbeec6e30770f48f3ffb7d1eb6",
+    "bytes": 102229
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_minimal_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_minimal_few_retrieval.html",
+    "sha256": "1b18a706879a04a4b32d79ed7a0195bf04d40758b35ef6246ed729e01c887907",
+    "bytes": 104490
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_few_random.html",
+    "sha256": "87950d3b58c01ed87acad4f6e7ed7e22a36efa8c3fb50206dd79e4c9971286c9",
+    "bytes": 82570
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_few_retrieval.html",
+    "sha256": "dffdfea0c4dc131990fff2c24de03037738b6a66d51fcd3af6fe59c86c9a88b9",
+    "bytes": 82746
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_zero.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_zero.html",
+    "sha256": "4e99c890e607f1147ddaae90f7f12229cfbbae70e1a0126a1d91f5255530efd5",
+    "bytes": 77609
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_iso_zero.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_iso_zero.html",
+    "sha256": "e56eff68d5e8fe7168bbceb9e903579e25c020cb5032650f3329cc7195ac24b1",
+    "bytes": 55113
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_minimal_few_random.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_minimal_few_random.html",
+    "sha256": "5700041305e59799fd6381d9e1ab7d6fc87eab2167a29c209e3609e689f0fa73",
+    "bytes": 54973
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_minimal_few_retrieval.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_minimal_few_retrieval.html",
+    "sha256": "52a0996e608ce3f837a58c1eb0435ee7bfff2953a2cd11bc06a3ffbace4a0494",
+    "bytes": 54249
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/selected_cases.jsonl": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/selected_cases.jsonl",
+    "sha256": "ba2814a0bb358c661cbafa8979009f53c01f04a9c3953188c7537396bd92ff12",
+    "bytes": 1706128
+  },
+  "experiments/error_analysis_revision_20261125/evidence_final/selected_configurations.csv": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/selected_configurations.csv",
+    "sha256": "757f04c2124fdadc2a452e65f576a1793f9ee5abeb760b9eefc8b2f56ef0818f",
+    "bytes": 1182
+  },
+  "experiments/error_analysis_revision_20261125/proposal/prompt_provenance_checks.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/prompt_provenance_checks.json",
+    "sha256": "c0d665438ee6dccf30cb2361c9759ab7e24130ef1c998f9771267ede23279a03",
+    "bytes": 1061
+  },
+  "experiments/error_analysis_revision_20261125/proposal/reviewed_evidence.csv": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_evidence.csv",
+    "sha256": "7b8267429a590deae0da774f9758934bb8744cd694f084aa6ecd670b3690c1d3",
+    "bytes": 11108
+  },
+  "experiments/error_analysis_revision_20261125/proposal/reviewed_evidence.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_evidence.html",
+    "sha256": "be75201737899faba41ab6b47bf16b7baabe84f935e0b56428487d4db10346b8",
+    "bytes": 11239
+  },
+  "experiments/error_analysis_revision_20261125/proposal/reviewed_matched_pairs.csv": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_matched_pairs.csv",
+    "sha256": "724933e26145a70112c27bc6f6acca2bdb0cb78449c9c3dba619186eb5341cff",
+    "bytes": 1099
+  },
+  "experiments/error_analysis_revision_20261125/reviews/comparative_configuration_review_20261125.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/comparative_configuration_review_20261125.json",
+    "sha256": "c2d41f4ab01e4a4548e3b6762bccbde59b0f2ee06ff5364d657c220f68539a27",
+    "bytes": 9850
+  },
+  "experiments/error_analysis_revision_20261125/reviews/high_configuration_review_20261125.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/high_configuration_review_20261125.json",
+    "sha256": "684e646432e638ae7ce2529ec7e79a9080019b436ce1bd68b2e1fcec1898a357",
+    "bytes": 50328
+  },
+  "experiments/error_analysis_revision_20261125/reviews/index.html": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/index.html",
+    "sha256": "9c32cb7da24f59e0246d54cd0ca6dbcf3ab31586377c118477b6af74df37754d",
+    "bytes": 66216
+  },
+  "experiments/error_analysis_revision_20261125/reviews/low_configuration_review_20261125.json": {
+    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/low_configuration_review_20261125.json",
+    "sha256": "c2dd79e1e097cd214c465aad541a69f275efb9432744c81f37bbb013b1103499",
+    "bytes": 45419
   }
 }

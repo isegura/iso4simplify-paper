@@ -25,3 +25,7 @@
 - Original qualitative error-analysis evidence: `error_analysis_candidates_512/`. These historical selections use the original experiment set. The new complete reports do not redefine the paper's qualitative sample or introduce new qualitative judgments.
 
 The released five item-level metrics exclude BLEU: corpus BLEU is stored with run-level evaluation summaries. The two TSAR references are used jointly where required. Never average sentence BLEU values to reconstruct corpus BLEU.
+
+## Revised qualitative inspection
+
+[Selected reports and evidence](experiments/error_analysis_revision_20261125/index.html) cover 18 conditions from the main study, including retrieval. They are separate from the original archived selection. Inspection is AI-assisted and awaiting author validation; no validated error rates or human ISO-adherence scores are claimed. The later metric-selector probe is excluded. The package also includes review notes covering all 270 selected outputs.

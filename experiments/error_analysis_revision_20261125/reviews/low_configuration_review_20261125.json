@@ -1,0 +1,1209 @@
+{
+  "method": "AI-assisted close reading of outputs, sources and supplied references; author validation pending. Not frequency estimates or independent human annotation.",
+  "scope": "15 low-instance-SARI outputs per six lowest-mean-SARI selected conditions; seed42 for one-shot.",
+  "source_sha256": "ba2814a0bb358c661cbafa8979009f53c01f04a9c3953188c7537396bd92ff12",
+  "manuscript_changed": false,
+  "submission_package_changed": false,
+  "records": [
+    {
+      "case_key": "llama_cochrane_minimal_one/43",
+      "text_id": "CD005255",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_43",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete, compressed; source transition from tube to oral feeding becomes transition to solid food, a changed endpoint.",
+      "output_words": 87,
+      "reference_words": [
+        201
+      ],
+      "generated_tokens": 98,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/6",
+      "text_id": "CD006383",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_6",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; fewer injection-site reactions incorrectly assigned to detemir rather than glargine.",
+      "output_words": 97,
+      "reference_words": [
+        269
+      ],
+      "generated_tokens": 127,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/40",
+      "text_id": "CD007744",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_40",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary with safety uncertainty; absent clear benefits added though source focuses on disease exacerbation and safety. Biomedical explanations/details omitted.",
+      "output_words": 73,
+      "reference_words": [
+        384
+      ],
+      "generated_tokens": 87,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/84",
+      "text_id": "CD007876",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_84",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete summary; IVF and cleavage-stage embryo transfer unexplained. Main uncertainty retained.",
+      "output_words": 123,
+      "reference_words": [
+        214
+      ],
+      "generated_tokens": 147,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/76",
+      "text_id": "CD007196",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_76",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete summary; biliary colic unexplained. Shorter operating time becomes faster recovery, which source did not measure.",
+      "output_words": 85,
+      "reference_words": [
+        352
+      ],
+      "generated_tokens": 97,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/69",
+      "text_id": "CD009170",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_69",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary. Some statistical simplification; keeps findings largely faithful and removes many numeric details.",
+      "output_words": 94,
+      "reference_words": [
+        243
+      ],
+      "generated_tokens": 113,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/90",
+      "text_id": "CD009860",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete very short summary; omits counts and many caveats. Hand function not measured becomes insufficient evidence whether it improves.",
+      "output_words": 75,
+      "reference_words": [
+        569
+      ],
+      "generated_tokens": 89,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/77",
+      "text_id": "CD011077",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_77",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but misallocates immediate swallowing and later pneumonia to one study, then describes other study as no big difference. Source first study immediate, second follow-up.",
+      "output_words": 119,
+      "reference_words": [
+        333
+      ],
+      "generated_tokens": 138,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/4",
+      "text_id": "CD001302",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_4",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; OHSS/HES unexpanded. Retains quality, safety uncertainty and need for further trials.",
+      "output_words": 166,
+      "reference_words": [
+        231
+      ],
+      "generated_tokens": 191,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/108",
+      "text_id": "CD002745",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed summary retaining limited-benefit and unknown-safety conclusion. No obvious major added-information error.",
+      "output_words": 86,
+      "reference_words": [
+        232
+      ],
+      "generated_tokens": 113,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/7",
+      "text_id": "CD002835",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_7",
+      "source_and_all_references_inspected": true,
+      "observation": "Incorrectly concludes taking medicine after exposure did not reduce infection risk; source says cases had lower odds of having taken zidovudine. Confuses offering PEP with taking it.",
+      "output_words": 107,
+      "reference_words": [
+        220
+      ],
+      "generated_tokens": 116,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/120",
+      "text_id": "CD007569",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_120",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete short summary; reference explains intervention types in much greater detail. Main multidisciplinary benefit retained.",
+      "output_words": 98,
+      "reference_words": [
+        251
+      ],
+      "generated_tokens": 110,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/94",
+      "text_id": "CD010683",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_94",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; all trials at high risk of bias becomes most. Transfusion comparator loses acute normovolemic haemodilution plus low-pressure group, changing comparison.",
+      "output_words": 119,
+      "reference_words": [
+        411
+      ],
+      "generated_tokens": 144,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/30",
+      "text_id": "CD008678",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_30",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed; amniocentesis and CVS retained unexplained. Main inconclusive-benefit finding retained.",
+      "output_words": 73,
+      "reference_words": [
+        106
+      ],
+      "generated_tokens": 86,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_minimal_one/115",
+      "text_id": "CD008039",
+      "report": "evidence_final/llama_cochrane_minimal_one.html#row_115",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete summary; removes reference absolute benefits and time windows, but broad dose comparison and transient side-effect finding retained.",
+      "output_words": 83,
+      "reference_words": [
+        259
+      ],
+      "generated_tokens": 107,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/11",
+      "text_id": "32443304",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_11",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed knee study, with techniques usefully described as one/two cuts; main direction preserved, many reference explanations and numeric outcomes omitted.",
+      "output_words": 110,
+      "reference_words": [
+        305
+      ],
+      "generated_tokens": 126,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/115",
+      "text_id": "25963653",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_115",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed pregnancy study, preserves general dating-method variation and uncertainty, omits much detail and explicit direction of reference-range comparison.",
+      "output_words": 108,
+      "reference_words": [
+        251
+      ],
+      "generated_tokens": 136,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/3",
+      "text_id": "32631287",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_3",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete short cyst summary; key tradeoff retained, definitions and quantitative results omitted.",
+      "output_words": 91,
+      "reference_words": [
+        309
+      ],
+      "generated_tokens": 109,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/110",
+      "text_id": "27630909",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_110",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent compact EP account, preserves no single hCG diagnostic level and need for clinical/ultrasound context.",
+      "output_words": 115,
+      "reference_words": [
+        275
+      ],
+      "generated_tokens": 140,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/146",
+      "text_id": "34924800",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_146",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; treatment statements already in source. Explains ferritin and chelation partly; omits doses and other functions. Not new invented doses.",
+      "output_words": 110,
+      "reference_words": [
+        213
+      ],
+      "generated_tokens": 149,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/114",
+      "text_id": "30422545",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_114",
+      "source_and_all_references_inspected": true,
+      "observation": "Very short complete account; hCG unexpanded, choriocarcinoma unexplained, tissue eventually forming placenta simplified to embryo placenta.",
+      "output_words": 39,
+      "reference_words": [
+        81
+      ],
+      "generated_tokens": 55,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/112",
+      "text_id": "24724425",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_112",
+      "source_and_all_references_inspected": true,
+      "observation": "Output discusses elderly emergency-department medications (Beers), not urine/serum hCG target. Matches subject of one-shot demonstration; target absent.",
+      "output_words": 132,
+      "reference_words": [
+        250
+      ],
+      "generated_tokens": 182,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/108",
+      "text_id": "33818024",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrelated Beers demonstration paraphrase precedes target. Single molar-pregnancy patient becomes two women; changed case history.",
+      "output_words": 235,
+      "reference_words": [
+        242
+      ],
+      "generated_tokens": 302,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/111",
+      "text_id": "26368010",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_111",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed pregnancy summary; hormone unnamed and GDM unexpanded; simplifies association using causal increased-risk language.",
+      "output_words": 87,
+      "reference_words": [
+        184
+      ],
+      "generated_tokens": 103,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/145",
+      "text_id": "35136706",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_145",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrelated Beers demonstration paraphrase precedes shorter COVID biomarker target summary; target broadly preserved.",
+      "output_words": 216,
+      "reference_words": [
+        247
+      ],
+      "generated_tokens": 295,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/116",
+      "text_id": "17872745",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_116",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete generally faithful concise HCG account, unexpanded acronym and omitted normal-range caveat.",
+      "output_words": 62,
+      "reference_words": [
+        87
+      ],
+      "generated_tokens": 77,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/12",
+      "text_id": "30639028",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_12",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact account; many reference definitions omitted, but simple description and core treatment outcome retained.",
+      "output_words": 113,
+      "reference_words": [
+        191
+      ],
+      "generated_tokens": 129,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/98",
+      "text_id": "34619975",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_98",
+      "source_and_all_references_inspected": true,
+      "observation": "Restoration of balanced redox state presented as established mechanism, although source explicitly treats mechanism as unresolved.",
+      "output_words": 84,
+      "reference_words": [
+        214
+      ],
+      "generated_tokens": 108,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/142",
+      "text_id": "34883281",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_142",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete concise summary, but not satisfactory inflammation explanation becomes infection did not seem the cause, stronger/different claim.",
+      "output_words": 96,
+      "reference_words": [
+        249
+      ],
+      "generated_tokens": 116,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_minimal_one/10",
+      "text_id": "29169352",
+      "report": "evidence_final/llama_plaba_minimal_one.html#row_10",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete concise knee-treatment summary; main no-recurrence outcome preserved, reference procedural definitions omitted.",
+      "output_words": 89,
+      "reference_words": [
+        225
+      ],
+      "generated_tokens": 106,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/38",
+      "text_id": "59",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_38",
+      "source_and_all_references_inspected": true,
+      "observation": "No adventure-target simplification. Reproduces embedded instruction illustrations concerning ID, grants, exams and pet travel; verified prompt provenance separately. Lists here contain wrong material, not an intrinsically faulty format.",
+      "output_words": 125,
+      "reference_words": [
+        76,
+        88
+      ],
+      "generated_tokens": 150,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/65",
+      "text_id": "86",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_65",
+      "source_and_all_references_inspected": true,
+      "observation": "Final note claims only simplified text/no explanation while itself adding explanation. Also introduces deliberate bridge collapses absent from source.",
+      "output_words": 92,
+      "reference_words": [
+        71,
+        83
+      ],
+      "generated_tokens": 106,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/89",
+      "text_id": "110",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_89",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; omits Steven Pinker/book attribution so reported viewpoint becomes unattributed assertion. Demagogues/tribalism/fatalism retained.",
+      "output_words": 51,
+      "reference_words": [
+        75,
+        87
+      ],
+      "generated_tokens": 67,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/19",
+      "text_id": "40",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_19",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but omits George Lucas and hero-journey framing, retaining only Star Wars illustration.",
+      "output_words": 39,
+      "reference_words": [
+        61,
+        80
+      ],
+      "generated_tokens": 49,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/57",
+      "text_id": "78",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_57",
+      "source_and_all_references_inspected": true,
+      "observation": "Final explanatory compliance note. Removes expense/scale and odd phrasing bridges important when fail; main bridge topic remains.",
+      "output_words": 68,
+      "reference_words": [
+        47,
+        57
+      ],
+      "generated_tokens": 83,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/31",
+      "text_id": "52",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_31",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete concise target summary plus unrequested explanatory compliance note.",
+      "output_words": 47,
+      "reference_words": [
+        40,
+        46
+      ],
+      "generated_tokens": 55,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/45",
+      "text_id": "66",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_45",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested introduction. Omits millennial birth-year explanation and changes response pool to people, but survey topics broadly preserved.",
+      "output_words": 40,
+      "reference_words": [
+        66,
+        66
+      ],
+      "generated_tokens": 57,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/25",
+      "text_id": "46",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_25",
+      "source_and_all_references_inspected": true,
+      "observation": "Near-copy of source retaining NEOs and PHAs without expansion; no obvious abrupt ending or invented topic.",
+      "output_words": 69,
+      "reference_words": [
+        62,
+        67
+      ],
+      "generated_tokens": 85,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/79",
+      "text_id": "100",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_79",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested introduction. Murder-rate decline generalized to violent crime decreased; precise statistic retained but broader claim unsupported.",
+      "output_words": 87,
+      "reference_words": [
+        107,
+        119
+      ],
+      "generated_tokens": 119,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/44",
+      "text_id": "65",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_44",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent concise account. Minor temporal simplification, no obvious gross error.",
+      "output_words": 54,
+      "reference_words": [
+        63,
+        68
+      ],
+      "generated_tokens": 62,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/29",
+      "text_id": "50",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_29",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete shortened clothing-waste argument. Economic/environmental specificity lost; cheaply/quickly-made context added.",
+      "output_words": 64,
+      "reference_words": [
+        72,
+        80
+      ],
+      "generated_tokens": 79,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/41",
+      "text_id": "62",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_41",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent concise dream-writing advice; final reference to feelings omitted.",
+      "output_words": 54,
+      "reference_words": [
+        52,
+        61
+      ],
+      "generated_tokens": 64,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/34",
+      "text_id": "55",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_34",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent simplified culture comparison. High/low distance labels removed with basic contrast retained.",
+      "output_words": 55,
+      "reference_words": [
+        67,
+        82
+      ],
+      "generated_tokens": 63,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/90",
+      "text_id": "111",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent horror-film account; no obvious gross error or unrelated text.",
+      "output_words": 65,
+      "reference_words": [
+        68,
+        87
+      ],
+      "generated_tokens": 78,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_iso_examples_few_retrieval/95",
+      "text_id": "116",
+      "report": "evidence_final/llama_tsar2025_iso_examples_few_retrieval.html#row_95",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent account preserving stereotypes as false. Core role-model conclusion retained.",
+      "output_words": 97,
+      "reference_words": [
+        96,
+        119
+      ],
+      "generated_tokens": 111,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/76",
+      "text_id": "CD007196",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_76",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt average age: 4, 15 tokens, stop.",
+      "output_words": 8,
+      "reference_words": [
+        352
+      ],
+      "generated_tokens": 15,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/55",
+      "text_id": "CD011627",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_55",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt 13 trials with 1, seven tokens, stop.",
+      "output_words": 4,
+      "reference_words": [
+        278
+      ],
+      "generated_tokens": 7,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/27",
+      "text_id": "CD010876",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_27",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt 1987 and 2, 12 tokens, stop.",
+      "output_words": 6,
+      "reference_words": [
+        256
+      ],
+      "generated_tokens": 12,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/58",
+      "text_id": "CD009953",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_58",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt 984 participants from 1, eight tokens, stop.",
+      "output_words": 4,
+      "reference_words": [
+        227
+      ],
+      "generated_tokens": 8,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/82",
+      "text_id": "CD008720",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_82",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt 20,00, 61 tokens, stop.",
+      "output_words": 35,
+      "reference_words": [
+        236
+      ],
+      "generated_tokens": 61,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/3",
+      "text_id": "CD012638",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_3",
+      "source_and_all_references_inspected": true,
+      "observation": "Grammatically complete opening-only summary; leaves out all treatment-effect results and evidence conclusion. NSAID and opioid unexpanded.",
+      "output_words": 51,
+      "reference_words": [
+        282
+      ],
+      "generated_tokens": 72,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/114",
+      "text_id": "CD005015",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_114",
+      "source_and_all_references_inspected": true,
+      "observation": "Only In a 2, five tokens, stop.",
+      "output_words": 3,
+      "reference_words": [
+        228
+      ],
+      "generated_tokens": 5,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/43",
+      "text_id": "CD005255",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_43",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete comparatively detailed feeding summary preserving uncertainty; some technical trial language remains.",
+      "output_words": 180,
+      "reference_words": [
+        201
+      ],
+      "generated_tokens": 242,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/23",
+      "text_id": "CD006250",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_23",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt per 1, 54 tokens, stop; adds heading, not automatically wrong formatting.",
+      "output_words": 32,
+      "reference_words": [
+        268
+      ],
+      "generated_tokens": 54,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/69",
+      "text_id": "CD009170",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_69",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete statistical summary, retains RR/CI notation and technical surgical names; core evidence largely preserved.",
+      "output_words": 162,
+      "reference_words": [
+        243
+      ],
+      "generated_tokens": 271,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/7",
+      "text_id": "CD002835",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_7",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete list-format source summary preserving distinction between offered and taken PEP; lists alone not error. PEP unexplained.",
+      "output_words": 186,
+      "reference_words": [
+        220
+      ],
+      "generated_tokens": 296,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/103",
+      "text_id": "CD010803",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_103",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete opening-only summary of cohort/follow-up; omits diagnostic accuracy and source conclusion on uncertainty/clinical value.",
+      "output_words": 50,
+      "reference_words": [
+        561
+      ],
+      "generated_tokens": 96,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/40",
+      "text_id": "CD007744",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_40",
+      "source_and_all_references_inspected": true,
+      "observation": "Changes total etoricoxib-study sample n159 to 159 treated plus77placebo. Says GI events did not lead to withdrawal whereas source reports3percent. Also extrapolates adverse-event comparison to both studies though one did not report.",
+      "output_words": 206,
+      "reference_words": [
+        384
+      ],
+      "generated_tokens": 329,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/49",
+      "text_id": "CD011790",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_49",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt pregabalin dose 45, 49 tokens, stop. Two new classic studies described as two studies with3283 participants, source says five classic total.",
+      "output_words": 23,
+      "reference_words": [
+        306
+      ],
+      "generated_tokens": 49,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_iso_zero/108",
+      "text_id": "CD002745",
+      "report": "evidence_final/mixtral_cochrane_iso_zero.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete and includes source conclusion on limited benefits/safety. Unexplained clinical drugs/notation remain. Source itself has inconsistency around rimantadine assumed-risk label; do not automatically blame output.",
+      "output_words": 160,
+      "reference_words": [
+        232
+      ],
+      "generated_tokens": 317,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/145",
+      "text_id": "35136706",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_145",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt Covid-1, 38 tokens, stop.",
+      "output_words": 18,
+      "reference_words": [
+        247
+      ],
+      "generated_tokens": 38,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/110",
+      "text_id": "27630909",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_110",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt Dec 2, 68 tokens, stop.",
+      "output_words": 34,
+      "reference_words": [
+        275
+      ],
+      "generated_tokens": 68,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/144",
+      "text_id": "35240553",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_144",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt COVID-1, 32 tokens, stop.",
+      "output_words": 13,
+      "reference_words": [
+        280
+      ],
+      "generated_tokens": 32,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/140",
+      "text_id": "34960751",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_140",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt November 2, 18 tokens, stop.",
+      "output_words": 14,
+      "reference_words": [
+        207
+      ],
+      "generated_tokens": 18,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/146",
+      "text_id": "34924800",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_146",
+      "source_and_all_references_inspected": true,
+      "observation": "Ends at completed list item,133tokens,stop; not definite abrupt grammar failure, but omits treatment discussion and article objective. Provides partial explanations.",
+      "output_words": 67,
+      "reference_words": [
+        213
+      ],
+      "generated_tokens": 133,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/116",
+      "text_id": "17872745",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_116",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent HCG account; broad approximate doubling and peak follow source, missing range caveat.",
+      "output_words": 76,
+      "reference_words": [
+        87
+      ],
+      "generated_tokens": 102,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/10",
+      "text_id": "29169352",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_10",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt March 2,72tokens,stop.",
+      "output_words": 42,
+      "reference_words": [
+        225
+      ],
+      "generated_tokens": 72,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/147",
+      "text_id": "35008695",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_147",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete introductory fragment at sentence boundary with unclosed quote; omits mouse experiment, FTH1 role and core findings.",
+      "output_words": 47,
+      "reference_words": [
+        229
+      ],
+      "generated_tokens": 81,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/5",
+      "text_id": "21636864",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_5",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt July 2,52tokens,stop.",
+      "output_words": 25,
+      "reference_words": [
+        185
+      ],
+      "generated_tokens": 52,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/109",
+      "text_id": "30848135",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_109",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt age20-5,59tokens,stop.",
+      "output_words": 39,
+      "reference_words": [
+        276
+      ],
+      "generated_tokens": 59,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/114",
+      "text_id": "30422545",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_114",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; trophoblast/choriocarcinoma/extra-uterine malignancies unexplained relative to reference.",
+      "output_words": 54,
+      "reference_words": [
+        81
+      ],
+      "generated_tokens": 86,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/96",
+      "text_id": "34659263",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_96",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt2014-2,80tokens,stop.",
+      "output_words": 43,
+      "reference_words": [
+        319
+      ],
+      "generated_tokens": 80,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/3",
+      "text_id": "32631287",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_3",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; named scores and statistical notation retained. Fewer persistent OR shrunken cysts is less precise than distinct source disappearance/shrinkage categories.",
+      "output_words": 147,
+      "reference_words": [
+        309
+      ],
+      "generated_tokens": 254,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/12",
+      "text_id": "30639028",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_12",
+      "source_and_all_references_inspected": true,
+      "observation": "Changed all knees improved to20of21; disappearance/shrinkage total also changed to20 rather than21. Median29.4months becomes average.",
+      "output_words": 78,
+      "reference_words": [
+        191
+      ],
+      "generated_tokens": 121,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_zero/142",
+      "text_id": "34883281",
+      "report": "evidence_final/mixtral_plaba_iso_zero.html#row_142",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete reasonably faithful ferritin discussion, retains hyperferritinemic/pathogenetic language without reference explanations.",
+      "output_words": 115,
+      "reference_words": [
+        249
+      ],
+      "generated_tokens": 191,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/33",
+      "text_id": "54",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_33",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent art summary, omits weather/cleaners detail; no obvious gross error.",
+      "output_words": 46,
+      "reference_words": [
+        77,
+        72
+      ],
+      "generated_tokens": 63,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/48",
+      "text_id": "69",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_48",
+      "source_and_all_references_inspected": true,
+      "observation": "Only Pi and Richard Parker spend 2, eight tokens, stop.",
+      "output_words": 6,
+      "reference_words": [
+        77,
+        86
+      ],
+      "generated_tokens": 8,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/51",
+      "text_id": "72",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_51",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent compressed Auggie account preserving broad emotional progression.",
+      "output_words": 59,
+      "reference_words": [
+        114,
+        122
+      ],
+      "generated_tokens": 78,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/75",
+      "text_id": "96",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_75",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but repetitive basement account with added summary and details such as isolation/visibility not explicit in source.",
+      "output_words": 72,
+      "reference_words": [
+        53,
+        59
+      ],
+      "generated_tokens": 112,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/68",
+      "text_id": "89",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_68",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt published in 2,32tokens,stop.",
+      "output_words": 23,
+      "reference_words": [
+        85,
+        81
+      ],
+      "generated_tokens": 32,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/45",
+      "text_id": "66",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_45",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt1983 and199,24tokens,stop.",
+      "output_words": 13,
+      "reference_words": [
+        66,
+        66
+      ],
+      "generated_tokens": 24,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/1",
+      "text_id": "22",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_1",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt In 2,44tokens,stop.",
+      "output_words": 31,
+      "reference_words": [
+        67,
+        86
+      ],
+      "generated_tokens": 44,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/31",
+      "text_id": "52",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_31",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent concise art summary; no obvious gross error.",
+      "output_words": 32,
+      "reference_words": [
+        40,
+        46
+      ],
+      "generated_tokens": 44,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/34",
+      "text_id": "55",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_34",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent culture comparison, not an error merely because source vocabulary remains.",
+      "output_words": 51,
+      "reference_words": [
+        67,
+        82
+      ],
+      "generated_tokens": 74,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/95",
+      "text_id": "116",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_95",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact account retaining stereotypes as perceptions; markdown wrapper not by itself substantive error.",
+      "output_words": 59,
+      "reference_words": [
+        96,
+        119
+      ],
+      "generated_tokens": 79,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/35",
+      "text_id": "56",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_35",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent team-conversation account; purpose of questioning as clarification added, central autonomy contrast preserved.",
+      "output_words": 74,
+      "reference_words": [
+        91,
+        96
+      ],
+      "generated_tokens": 95,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/55",
+      "text_id": "76",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_55",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete faithful numbered list. List formatting alone not error; four examples retained.",
+      "output_words": 46,
+      "reference_words": [
+        66,
+        70
+      ],
+      "generated_tokens": 67,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/74",
+      "text_id": "95",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_74",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent horror-location account; no obvious gross error, some advanced synonyms persist.",
+      "output_words": 62,
+      "reference_words": [
+        63,
+        69
+      ],
+      "generated_tokens": 90,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/44",
+      "text_id": "65",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_44",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent concise Collins account, dislikes news slightly less precise than finds upsetting.",
+      "output_words": 50,
+      "reference_words": [
+        63,
+        68
+      ],
+      "generated_tokens": 63,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_zero/65",
+      "text_id": "86",
+      "report": "evidence_final/mixtral_tsar2025_iso_zero.html#row_65",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete concise bridge explanation; size substitutes for mass, less precise but main contrast preserved.",
+      "output_words": 60,
+      "reference_words": [
+        71,
+        83
+      ],
+      "generated_tokens": 80,
+      "done_reason": "stop"
+    }
+  ]
+}

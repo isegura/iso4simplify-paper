@@ -1,0 +1,28 @@
+{
+  "experiments/reviewer2_concern5/prepared_retrieval_20261102/prompts/plaba/iso_examples/row_140.md": {
+    "sha256": "972124317fb2a92b4ae1734a1378a16451c84c8781728b9320219e8e4a4832e6",
+    "verified_phrases": [
+      "Having a healthy balance of specific nutrients"
+    ]
+  },
+  "experiments/reviewer2_concern5/prepared_retrieval_20261102/prompts/plaba/iso_examples/row_059.md": {
+    "sha256": "23a0e860dcb8d4a4def71595a96fb89e974fe8c3eee65c4f3e7ae4a9059ec07a",
+    "verified_phrases": [
+      "A 72-year-old man has a confirmed human coronavirus HKU1 pneumonia"
+    ]
+  },
+  "prompts/plaba_minimal_one.md": {
+    "sha256": "bab50510e1eb99a9b086cc419a59deb15c77ec9ed9237b76bbefa7b32da1e507",
+    "verified_phrases": [
+      "Dr. Beers"
+    ]
+  },
+  "experiments/reviewer2_concern5/prepared_retrieval_20261102/prompts/tsar2025/iso_examples/row_038.md": {
+    "sha256": "8abcd673f6652cbb2b1f86144b91c3030a1718637fa2a4950dc2f6dafbfe52c7",
+    "verified_phrases": [
+      "residence certificate",
+      "pet",
+      "exam"
+    ]
+  }
+}
