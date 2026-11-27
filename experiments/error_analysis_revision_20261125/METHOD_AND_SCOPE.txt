@@ -1,13 +1,43 @@
 QUALITATIVE ERROR-ANALYSIS MATERIALS
 
-18 selected conditions from the historical main study (162 observed configurations; 90 structural means). Each selected condition contributes 15 low-SARI outputs, yielding 270 output occurrences over 122 dataset/test-row combinations. Random conditions are ranked by the mean of seeds 42, 44 and 46; inspection uses seed 42. Selection rules are recorded in evidence_final/manifest.json.
+This qualitative evidence package uses the current analysis with 162 observed configurations and
+90 dataset/model/prompt/strategy means. It contains 18 selected configurations,
+15 low-instance-SARI outputs per configuration, and 270 output occurrences over
+123 distinct dataset/test-row combinations.
 
-The reports include complete source texts, all references, generated predictions, five per-item metrics (SARI, BERTScore-F1, MeaningBERT, FKGL, FRE), word counts and termination metadata. BLEU is corpus-level and is not mislabeled as an instance metric. Case observations were AI-assisted; source/prompt checks are recorded separately. They are not independent human ratings, validated error rates or ISO-adherence scores. Author review is pending.
+Selection: within each model/dataset, choose the highest and lowest mean SARI.
+If neither uses retrieval, add the highest-mean-SARI retrieval configuration.
+Otherwise add random few-shot with the same prompt as the selected retrieval
+configuration. One-shot and random few-shot are ranked by the equal-weight mean
+over seeds 42, 44, and 46; inspected outputs use seed 42. Instance ties are broken
+by original test-row index.
 
-The 137 retrieval/random matched pairs are provided for further inspection; five have explicit comparison notes. Retained technical language, shortness and list formatting alone do not establish an error. The complete automatic screening of all main-study outputs remains separate.
+Each report preserves complete sources, all supplied references, and generations.
+TSAR has A2 and B1 evaluation references jointly supplied to the metrics.
+The reports display five item-level metrics and word counts. BLEU is displayed
+only as a configuration/corpus-level metric. BERTScore-F1 uses its 0–1 scale.
+All configuration metrics and selection means come from the current scored data.
 
-Historical qualitative reports remain archived. The new metric-selector probe, its prompts, and its new Llama/Mixtral inference or evaluation outputs are excluded. No new inference was executed to prepare these reports. The package is distributed with the public paper repository.
+Sources: 255 selected output occurrences are retained from the earlier selection;
+15 come from the newly selected Mixtral/TSAR/ISO+examples/metric configuration.
+Baseline retrieval on Mixtral/TSAR now has the Comparative role. Baseline random
+on Mixtral/TSAR is not part of this package's selected configurations.
 
-Dataset attribution and third-party text terms in the repository data/README.md also apply to source/reference texts reproduced in these reports.
+The reviews document AI-assisted close reading, not independent human ratings.
+High/low have case-level notes; comparative groups have group-level notes and
+Mixtral/TSAR additionally retains its case-level notes. Author validation remains
+pending. These selected examples are not representative frequency samples,
+validated error rates, reader-comprehension measurements, or ISO-adherence scores.
+The complete automatic screening of all evaluated outputs is a separate analysis.
 
-The reviews/ directory records the subsequent AI-assisted close reading of all 270 selected outputs against their sources and supplied references: case-level observations for high and low conditions, and condition-level notes for the comparative sample. These notes remain subject to author validation. They supplement the original 32 documented observations; they do not constitute independent human annotations.
+Five same-prompt selected random/retrieval pairs are available for inspection.
+Their reports show the union of the two configurations' bottom-15 source rows.
+Only four explicitly documented matched examples are carried forward as reviewed
+pair evidence. No claim is made that all matched outputs received close reading.
+Mixtral/TSAR has no selected same-prompt random/retrieval pair.
+
+Preparation performs no inference and computes no new model-evaluation metrics.
+The repository contains the current version of this selected qualitative package.
+Input paths and hashes retain their project-workspace provenance; the selected
+source/reference/output texts and scores are included in this folder.
+Dataset attribution and applicable source/reference-text terms remain in force.

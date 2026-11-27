@@ -1,0 +1,817 @@
+{
+  "method": "AI-assisted close reading, not independent human annotation.",
+  "status": "author_validation_pending",
+  "source_sha256": "d70c48d20cd81a514851536fbe03c94eed63e4ba3c42fabd50b069cec3af9040",
+  "records": [
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/90",
+      "text_id": "CD009860",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested introductory phrase. Strong compression removes evidence-quality and adverse-event qualifications, although uncertainty about some outcomes remains.",
+      "generated_tokens": 65,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/4",
+      "text_id": "CD001302",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_4",
+      "source_and_all_references_inspected": true,
+      "observation": "RCTs, HES and OHSS unexpanded. No evidence of an effect on pregnancy rates becomes had no effect, strengthening the conclusion.",
+      "generated_tokens": 100,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/52",
+      "text_id": "CD006301",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_52",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains specialized terms and does not supply reference explanations of event-free survival, renal effects, interstitial pneumonitis or veno-occlusive disease. Omits the applicability caveat concerning revised age cutoffs.",
+      "generated_tokens": 218,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/83",
+      "text_id": "CD010261",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_83",
+      "source_and_all_references_inspected": true,
+      "observation": "Near-verbatim reproduction of a long source prefix, retaining statistical notation and specialized terms. Ends in a complete sentence; not an abrupt fragment.",
+      "generated_tokens": 481,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/60",
+      "text_id": "CD011256",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_60",
+      "source_and_all_references_inspected": true,
+      "observation": "Histologic scoring/healing is recast as scoring symptoms. Criterion validity is paraphrased as predicting outcomes; these paraphrases change the measurement target.",
+      "generated_tokens": 160,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/30",
+      "text_id": "CD008678",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_30",
+      "source_and_all_references_inspected": true,
+      "observation": "CVS and specialized intervention names retained. No conclusive evidence of benefit becomes finding no benefit for the CVS interventions.",
+      "generated_tokens": 115,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/23",
+      "text_id": "CD006250",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_23",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested final note claims instruction compliance. Reference explains renal complications and disease progression; output retains technical formulations. Do not classify omitted irrelevant endpoints as errors solely by length.",
+      "generated_tokens": 149,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/84",
+      "text_id": "CD007876",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_84",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary preserving the main uncertainty. Culture medium and cleavage-stage embryo transfer remain technical; no clear gross factual error identified.",
+      "generated_tokens": 114,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/14",
+      "text_id": "CD003540",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_14",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary largely preserves uncertainty and lack of resource evidence. Reference is more explanatory, but shorter length alone is not an error.",
+      "generated_tokens": 99,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/6",
+      "text_id": "CD006383",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_6",
+      "source_and_all_references_inspected": true,
+      "observation": "Preserves the direction of injection-site reactions, unlike other selected conditions outside high. Retains basal insulin and efficacy; claims information on quality of life was unavailable although one study reported it.",
+      "generated_tokens": 281,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/98",
+      "text_id": "CD001964",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_98",
+      "source_and_all_references_inspected": true,
+      "observation": "Distinguishes cancer-specific advantage from overall survival, but the generic first survival statement is less precise. Adds due to complications to postoperative deaths, not explicitly given in source.",
+      "generated_tokens": 107,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/77",
+      "text_id": "CD011077",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_77",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested final compliance note. Aspiration and videofluoroscopy are unexplained, unlike reference. Omits explicit excess pneumonia with honey-thick liquids; no difference in deaths is not identical to no deaths classified definitely related.",
+      "generated_tokens": 221,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/108",
+      "text_id": "CD002745",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Ends with no evidence of harm but omits the source and reference conclusion about unknown safety and limited benefits. The problem is omitted qualification, not merely shortness.",
+      "generated_tokens": 92,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/69",
+      "text_id": "CD009170",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_69",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains a relative-risk expression; otherwise reasonably faithful and complete. Converts RR .31 to 69 percent reduction consistently. No clear major error identified.",
+      "generated_tokens": 165,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_cochrane_iso_few_retrieval/75",
+      "text_id": "CD010814",
+      "report": "reports/llama_cochrane_iso_few_retrieval.html#row_75",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary. Haematomas and seromas retained without explanation; reference explains seroma. Main low-quality-evidence qualification retained.",
+      "generated_tokens": 171,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/140",
+      "text_id": "34960751",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_140",
+      "source_and_all_references_inspected": true,
+      "observation": "Reproduces nutrient-status and rapid-test demonstrations rather than the 303-patient target; reaches 512-token cap. Earlier prompt provenance inspection corroborates demonstration origin. Does not actually reach the target in this output.",
+      "generated_tokens": 512,
+      "done_reason": "length"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/146",
+      "text_id": "34924800",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_146",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; explains ferritin and chelation partly but leaves several treatment terms unexplained. Drug doses and treatment claims already occur in source; not new model inventions.",
+      "generated_tokens": 255,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/114",
+      "text_id": "30422545",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_114",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but compressed. Choriocarcinoma remains unexplained whereas reference provides an explanation. Omits tissue-to-placenta relation and definition of pregnancy hormone.",
+      "generated_tokens": 67,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/12",
+      "text_id": "30639028",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_12",
+      "source_and_all_references_inspected": true,
+      "observation": "Explains painful fluid-filled sacs. Combines disappearance/reduction into 95.2 percent, whereas source has 95.2 percent disappearance and 4.8 percent reduction. Numerical summary loses distinction.",
+      "generated_tokens": 162,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/82",
+      "text_id": "33895124",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_82",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains neutrophil extracellular traps, antimicrobial, sepsis and thrombosis without reference explanations. Adds bloodstream localization not explicit in source; main beneficial/harmful contrast remains.",
+      "generated_tokens": 127,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/59",
+      "text_id": "32609390",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_59",
+      "source_and_all_references_inspected": true,
+      "observation": "Reproduces HKU1 and rapid-test-temperature demonstrations, then begins target summary, which is cut at 512 tokens. Demonstration origin corroborated by prior prompt inspection.",
+      "generated_tokens": 512,
+      "done_reason": "length"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/11",
+      "text_id": "32443304",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_11",
+      "source_and_all_references_inspected": true,
+      "observation": "Replaces named OPP/TPP groups with one technique/the other; cannot tell which technique has longer operation, lower recurrence or superior results. Loss of comparison identity despite complete ending.",
+      "generated_tokens": 242,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/3",
+      "text_id": "32631287",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_3",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains clinical score names without reference explanations. Broad conclusion preserved; compresses quantitative cyst outcomes and follow-up details.",
+      "generated_tokens": 248,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/108",
+      "text_id": "33818024",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains molar pregnancy, suction and curettage, and hormone name without reference explanations. Plant-treatment conclusion already in source; not invented. Removes monitoring objective.",
+      "generated_tokens": 190,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/115",
+      "text_id": "25963653",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_115",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains BMI, parity and hyperemesis gravidarum without explanation. Source parity should not be marked wrong because reference says monetary income. Promotes linked to growth to helps growth; preserve distinction between source and reference.",
+      "generated_tokens": 306,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/145",
+      "text_id": "35136706",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_145",
+      "source_and_all_references_inspected": true,
+      "observation": "Lists numerous numerical laboratory values and cutoffs; omits several reference definitions. Odd sex percentages and malformed units also occur in source and must not automatically be treated as new errors.",
+      "generated_tokens": 299,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/97",
+      "text_id": "34659214",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_97",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains autoimmune, dendritic and refractory terminology without reference explanations. Adds causal framing about prior therapies having many side effects and an unspecified third factor.",
+      "generated_tokens": 213,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/5",
+      "text_id": "21636864",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_5",
+      "source_and_all_references_inspected": true,
+      "observation": "Unrequested Here is the simplified text preamble. Source section labels largely retained. Omits failure to identify/correct valve in one patient; no major complications narrowed to during surgery.",
+      "generated_tokens": 163,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/2",
+      "text_id": "32631287",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_2",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary but almost all cysts completely gone overstates 81.8 percent disappearance. Technical cyst/drainage terms less explained than reference.",
+      "generated_tokens": 142,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_plaba_iso_examples_few_retrieval/109",
+      "text_id": "30848135",
+      "report": "reports/llama_plaba_iso_examples_few_retrieval.html#row_109",
+      "source_and_all_references_inspected": true,
+      "observation": "Strong compression retains biochemical pregnancy without reference explanation of hormone/context. Raised probability is expressed as hCG values increased probability; source itself contains similar predictive language. No abrupt ending.",
+      "generated_tokens": 158,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/99",
+      "text_id": "120",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_99",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent advice; central message preserved. No obvious major error; source and reference wording differ.",
+      "generated_tokens": 56,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/57",
+      "text_id": "78",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_57",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent bridge summary. Omits cost, other roads and narrowing scrutiny especially when collapse to when fail; some detail lost, no gross unrelated content.",
+      "generated_tokens": 51,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/74",
+      "text_id": "95",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_74",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete and coherent; broadly faithful horror-film explanation. Output longer than either reference, so blanket equal-length claim is imprecise.",
+      "generated_tokens": 101,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/51",
+      "text_id": "72",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_51",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but omits highs in ups and downs and traumatic nature of camp event; difficult times is narrower. Main story preserved.",
+      "generated_tokens": 103,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/25",
+      "text_id": "46",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_25",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete but ten years to complete is ambiguous about building telescope versus locating asteroids. Adds really big and already known to dangerous asteroids; alters source detail.",
+      "generated_tokens": 65,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/90",
+      "text_id": "111",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete and generally faithful; reframes absence of signal as recommendation for suspense. No clear major formatting or unrelated-content error.",
+      "generated_tokens": 98,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/82",
+      "text_id": "103",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_82",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent feedback explanation. Uses idiom bad news easier to swallow; not evidence of comprehension failure by itself.",
+      "generated_tokens": 70,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/52",
+      "text_id": "73",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_52",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent narrative. Largest horse becomes a big horse and land stretches beyond sight; small detail changes. No abrupt ending.",
+      "generated_tokens": 112,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/88",
+      "text_id": "109",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_88",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent summary; omits knife/car-door skill and exact award name. General story retained; shorter length alone does not establish important omission.",
+      "generated_tokens": 88,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/65",
+      "text_id": "86",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_65",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent bridge account but very large mass becomes large size and extreme rarity is omitted. Physical distinction becomes less precise.",
+      "generated_tokens": 84,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/56",
+      "text_id": "77",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_56",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent dream account; past belief changes to present belief in second sentence. No unrelated content or abrupt ending.",
+      "generated_tokens": 55,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/41",
+      "text_id": "62",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_41",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent writing advice. Explicit link to feelings is omitted in final sentence; main instruction retained.",
+      "generated_tokens": 67,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/55",
+      "text_id": "76",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_55",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent compression of unused possessions. Changes fashionable thick coat to old coat, an unsupported detail but no gross error.",
+      "generated_tokens": 69,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/29",
+      "text_id": "50",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_29",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent clothing-waste account; adds cheaply/quickly made and omits specific poor-quality-to-recycle connection. Main argument remains.",
+      "generated_tokens": 95,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "llama_tsar2025_minimal_few_random/20",
+      "text_id": "41",
+      "report": "reports/llama_tsar2025_minimal_few_random.html#row_20",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent asteroid-defense account; omits mission name, film detail and rocket mass. Core alternatives and conditional nuclear option preserved.",
+      "generated_tokens": 85,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/82",
+      "text_id": "CD008720",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_82",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending giving 10,00, 29 tokens, done_reason stop; not generation cap.",
+      "generated_tokens": 29,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/40",
+      "text_id": "CD007744",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_40",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary; IBD expanded, COX-2 and rheumatological terms remain. Omits many reference explanations but core uncertainty about safety remains.",
+      "generated_tokens": 148,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/52",
+      "text_id": "CD006301",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_52",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains technical terms, hazard ratios and confidence intervals without reference explanations. Omits revised-age-cutoff caveat; preserves loss of overall-survival significance with follow-up.",
+      "generated_tokens": 333,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/74",
+      "text_id": "CD003122",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_74",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending but only 1, 11 tokens, done_reason stop.",
+      "generated_tokens": 11,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/43",
+      "text_id": "CD005255",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_43",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete reasonably faithful responsive-feeding summary; explains responsive feeding but retains blinding, meta-analysis terminology. Preserves evidence uncertainty.",
+      "generated_tokens": 207,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/30",
+      "text_id": "CD008678",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_30",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact summary retaining amniocentesis and CVS without expansion. Main absence of conclusive benefit and evidence-quality caveat preserved.",
+      "generated_tokens": 94,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/4",
+      "text_id": "CD001302",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_4",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; HES and OHSS unexpanded, though OHSS contextualized as fertility condition. Pregnancy uncertainty preserved; adverse-event uncertainty retained.",
+      "generated_tokens": 224,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/20",
+      "text_id": "CD011787",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_20",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; MMR unexpanded. Parent information preferences largely retained but health-worker interaction findings compressed; grouping confidence levels loses precision.",
+      "generated_tokens": 219,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/6",
+      "text_id": "CD006383",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_6",
+      "source_and_all_references_inspected": true,
+      "observation": "Adds type 1 or type 2 diabetes not stated in source; reference concerns type 2. Fewer injection-site reactions becomes fewer side effects in closing, broadening advantage.",
+      "generated_tokens": 190,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/94",
+      "text_id": "CD010683",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_94",
+      "source_and_all_references_inspected": true,
+      "observation": "Misattributes lower blood loss, hospital stay and operating time to fibrin sealant instead of low central venous pressure. No trial reported quality of life/return-to-work becomes no significant difference. Clear information changes.",
+      "generated_tokens": 206,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/10",
+      "text_id": "CD001833",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_10",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete and generally faithful. Longer than unusually short reference; demonstrates why reference length alone should not define excessive compression.",
+      "generated_tokens": 219,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/109",
+      "text_id": "CD003844",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_109",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending mortality at day 2, 64 tokens, done_reason stop.",
+      "generated_tokens": 64,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/75",
+      "text_id": "CD010814",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_75",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; specialized haematoma retained. Uses OR-based percentage as pain reduction, mirroring source OR framing; avoid confident new clinical-error judgment. Quality caveat retained.",
+      "generated_tokens": 250,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/86",
+      "text_id": "CD012089",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_86",
+      "source_and_all_references_inspected": true,
+      "observation": "Very short but complete summary preserving overall insufficient-evidence conclusion. Omits reference explanations of parent-mediated procedures and temporary targeted-word gains; not all compression is an error.",
+      "generated_tokens": 147,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_cochrane_minimal_few_random/17",
+      "text_id": "CD011424",
+      "report": "reports/mixtral_cochrane_minimal_few_random.html#row_17",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending zero-1, 152 tokens, stop. Before ending conflates clinical-pregnancy estimate RR 1.98 with live-birth evidence.",
+      "generated_tokens": 152,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/140",
+      "text_id": "34960751",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_140",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending Covid-1, 21 tokens, stop.",
+      "generated_tokens": 21,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/59",
+      "text_id": "32609390",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_59",
+      "source_and_all_references_inspected": true,
+      "observation": "Output only In the current COVID-1, seven tokens, stop.",
+      "generated_tokens": 7,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/96",
+      "text_id": "34659263",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_96",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending Sweden from 2, 31 tokens, stop.",
+      "generated_tokens": 31,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/146",
+      "text_id": "34924800",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_146",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; iron chelators and several treatment terms unexplained relative to reference. Treatment claims and doses already in source; not new inventions.",
+      "generated_tokens": 314,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/3",
+      "text_id": "32631287",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_3",
+      "source_and_all_references_inspected": true,
+      "observation": "Explains cysts, expands AI/AICR and MRI, but retains arthroscopic, resection and named clinical scores. Main treatment tradeoff preserved.",
+      "generated_tokens": 193,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/108",
+      "text_id": "33818024",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_108",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compressed case with βhCG unexpanded and unexplained procedure removed though later called post procedure. Plant-treatment possibility already in source.",
+      "generated_tokens": 223,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/114",
+      "text_id": "30422545",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_114",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; choriocarcinoma and extra-uterine malignancies retained without reference explanations. Tissue-to-placenta relation preserved.",
+      "generated_tokens": 98,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/109",
+      "text_id": "30848135",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_109",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending 321 (216-47, 175 tokens, stop; partial numeric results dominate before ending.",
+      "generated_tokens": 175,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/90",
+      "text_id": "34667098",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "H3.3 subtype recast as one of five main histone types; reference and source distinguish subtype. Retains methylation/acetylation and gene names; some useful explanations also present.",
+      "generated_tokens": 248,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/8",
+      "text_id": "30088053",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_8",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending January 2, 55 tokens, stop.",
+      "generated_tokens": 55,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/36",
+      "text_id": "6445384",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_36",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; replaces technical immunology measures with descriptions, but prednisone becomes type of hormone and glucocorticoid therapy becomes hormone therapy, broader/less precise than source.",
+      "generated_tokens": 184,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/70",
+      "text_id": "34518466",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_70",
+      "source_and_all_references_inspected": true,
+      "observation": "Abrupt ending February 2, 97 tokens, stop; technical procedure name and source section headings retained.",
+      "generated_tokens": 97,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/98",
+      "text_id": "34619975",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_98",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; useful definitions of redox/oxidative stress added, while other molecular terms persist. Added diabetes use is contextual information outside supplied source, not established false.",
+      "generated_tokens": 336,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/11",
+      "text_id": "32443304",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_11",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete; explains cyst location, retains OPP/TPP technique names and clinical score terminology with no explanation of one/two portals. Main comparison direction retained.",
+      "generated_tokens": 256,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_plaba_iso_few_retrieval/97",
+      "text_id": "34659214",
+      "report": "reports/mixtral_plaba_iso_few_retrieval.html#row_97",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete coherent summary preserving uncertainty and need for safety research, but autoimmune/MSC/dendritic terminology remains less explained than reference.",
+      "generated_tokens": 296,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/72",
+      "text_id": "93",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_72",
+      "source_and_all_references_inspected": true,
+      "observation": "Ends abruptly at 'In 2' after 13 generated tokens; done_reason is stop. The remainder of the Mars methane account is absent.",
+      "generated_tokens": 13,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/20",
+      "text_id": "41",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_20",
+      "source_and_all_references_inspected": true,
+      "observation": "Ends abruptly at 'in 199' after 38 generated tokens, before completing the Armageddon date. PHA is retained without expansion.",
+      "generated_tokens": 38,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/15",
+      "text_id": "36",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_15",
+      "source_and_all_references_inspected": true,
+      "observation": "Ends abruptly at 'around 2,00' after 34 generated tokens; the rest of the dream-frequency explanation is absent.",
+      "generated_tokens": 34,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/75",
+      "text_id": "96",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_75",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete, coherent basement account. The central source information is retained; no obvious major error identified.",
+      "generated_tokens": 60,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/97",
+      "text_id": "118",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_97",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete account, but investigating employee engagement becomes investigating why employees leave. This changes the stated focus of the report. Employee turnover remains less directly explained than in the references.",
+      "generated_tokens": 60,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/90",
+      "text_id": "111",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_90",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete horror-film phone account. It preserves the main explanation, using a conversational style. No instruction-compliance comment or duplicated second version.",
+      "generated_tokens": 112,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/10",
+      "text_id": "31",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_10",
+      "source_and_all_references_inspected": true,
+      "observation": "Reproduces most source wording about Theseus and the Minotaur, with minor grammatical and spelling changes and 'maze (labyrinth)'. It is not accurate to say that no modification was made.",
+      "generated_tokens": 158,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/29",
+      "text_id": "50",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_29",
+      "source_and_all_references_inspected": true,
+      "observation": "Presents the simplification as three numbered items. Formatting alone is not an established error. 'Unwearable items' is more specific than clothes the charities cannot sell.",
+      "generated_tokens": 109,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/57",
+      "text_id": "78",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_57",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete bridge summary, enclosed in quotation marks. It retains 'mountain gorges' and 'civil engineering'; the central account remains coherent.",
+      "generated_tokens": 56,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/55",
+      "text_id": "76",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_55",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact reformulation retaining the four examples of underused possessions. No obvious major error identified.",
+      "generated_tokens": 64,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/85",
+      "text_id": "106",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_85",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete account of the feedback sandwich; the explanation of praise, criticism, and praise is retained.",
+      "generated_tokens": 82,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/47",
+      "text_id": "68",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_47",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact account of online marketplaces. It contains no '(126 characters)' comment; that comment belongs to baseline retrieval.",
+      "generated_tokens": 59,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/48",
+      "text_id": "69",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_48",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete compact account retaining the 227 days and the main hardships, religious comfort, and arrival at the Mexican coast.",
+      "generated_tokens": 86,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/79",
+      "text_id": "100",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_79",
+      "source_and_all_references_inspected": true,
+      "observation": "Complete violence-statistics account, including the final 2000-to-2015 comparison. The baseline retrieval output for this input is incomplete. These configurations also differ in prompt type.",
+      "generated_tokens": 155,
+      "done_reason": "stop"
+    },
+    {
+      "case_key": "mixtral_tsar2025_iso_examples_few_metric/39",
+      "text_id": "60",
+      "report": "reports/mixtral_tsar2025_iso_examples_few_metric.html#row_39",
+      "source_and_all_references_inspected": true,
+      "observation": "Retains DART without 'Double Asteroid Redirection Test', which is present in the source and both references. The output has a complete ending.",
+      "generated_tokens": 90,
+      "done_reason": "stop"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Separate experiments contain 1,492 newly generated zero-shot ablation outputs (1
 
 ## Start here
 
-- [Revised qualitative error-analysis materials](experiments/error_analysis_revision_20261125/index.html) (AI-assisted inspection; author validation pending).
+- [Qualitative error-analysis reports and evidence](experiments/error_analysis_revision_20261125/index.html) (18 configurations, 270 selected outputs; AI-assisted inspection).
 
 - [Results and artifact map](RESULTS_GUIDE.md).
 - [Reproduction and inference settings](REPRODUCIBILITY.md).
@@ -20,7 +20,7 @@ Separate experiments contain 1,492 newly generated zero-shot ablation outputs (1
 - [Main-study configuration manifest](experiments/html_reports_20261113/manifest.json).
 - [Release status](RELEASE_STATUS.md).
 
-Saved predictions and item-level scores are the inputs for the released analyses. No human evaluation or quantitative assessment of adherence to individual ISO principles is claimed. Automatic screening indicators are candidates, not confirmed error rates. Historical qualitative selections remain distinct from the new full-coverage reports.
+Saved predictions and item-level scores are the inputs for the released analyses. No human evaluation or quantitative assessment of adherence to individual ISO principles is claimed. Automatic screening indicators are candidates, not confirmed error rates. Selected qualitative examples and full-output reports serve different inspection scopes.
 
 ## Layout
 

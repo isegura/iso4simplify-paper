@@ -24575,10 +24575,10 @@
     "bytes": 51872
   },
   "experiments/html_reports_20261113/reports/index.html": {
-    "source": "experiments/html_reports_20261113/reports/index.html",
-    "sha256": "4c4a0241a9ab6ce640888361fc7cd0de1c14f8b4a586ee2b93fb15caa130b7e2",
-    "bytes": 48100,
-    "note": "Navigation updated to link the separate qualitative revision; scientific report payloads unchanged."
+    "source": "publication/iso4simplify-paper/experiments/html_reports_20261113/reports/index.html",
+    "sha256": "21b4777538310e217dd5168231174be30aba5acef560e5f103bd98538d281e4c",
+    "bytes": 48114,
+    "note": "Qualitative-package navigation or verification."
   },
   "experiments/html_reports_20261113/reports/ablation/llama_cochrane_iso.html": {
     "source": "experiments/html_reports_20261113/reports/ablation/llama_cochrane_iso.html",
@@ -26765,179 +26765,262 @@
     "sha256": "d9199f4d53e691a5784f8622a1b9ee5e7cfe4219741463a88c5cfc386d71bd81",
     "bytes": 39874
   },
+  "experiments/error_analysis_revision_20261125/comparisons/index.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/index.html",
+    "sha256": "cde8218d80abf005c807d8393dadf4c023aeb7363eff2986c6176e59cd021ab6",
+    "bytes": 3321,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/comparisons/llama_cochrane_iso.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/llama_cochrane_iso.html",
+    "sha256": "59c71572d4bd03cf62b0a0190c1ebea7b90285e4d031a62025377ca8834e9c96",
+    "bytes": 131987,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/comparisons/llama_plaba_iso_examples.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/llama_plaba_iso_examples.html",
+    "sha256": "0c3a83242f9cc32ab41eaa8b2a96ab7d333753210acc8acc252fa053111fb967",
+    "bytes": 122441,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/comparisons/llama_tsar2025_iso_examples.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/llama_tsar2025_iso_examples.html",
+    "sha256": "322551c254fa6140036a1fd051cc81de357e28912eaede765c229ae474ee9a7e",
+    "bytes": 71191,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/comparisons/mixtral_cochrane_minimal.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/mixtral_cochrane_minimal.html",
+    "sha256": "0160ca14c975ea36c59610f095be915958ceded7a660ccb91e696838fcbe26ca",
+    "bytes": 155173,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/comparisons/mixtral_plaba_iso.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/comparisons/mixtral_plaba_iso.html",
+    "sha256": "c99c09618adda380e24e92954bb4a6593d18a7c5f9a383546ab72d301584e480",
+    "bytes": 116829,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/index.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/index.html",
+    "sha256": "30bd0a36124d9b7e34e868bf1b0c4553ac53313863ddf3df8be200db38235538",
+    "bytes": 17951,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/matched_random_retrieval.jsonl": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/matched_random_retrieval.jsonl",
+    "sha256": "962d20557e7201d6a3c5072cdc59f4d0c70f5ab21ba32b4619f0a5fd401eff35",
+    "bytes": 565758,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/prompt_provenance_checks.json": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/prompt_provenance_checks.json",
+    "sha256": "e86c03e05ceec94618bb97a29227304fdc9306afd1196ff4e7d264d12d3a2586",
+    "bytes": 1063,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/reviewed_evidence.csv": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/reviewed_evidence.csv",
+    "sha256": "643a74723ad0821f15cd5654d94aa5e5fb1667384726c36e034fec66c369a76f",
+    "bytes": 16663,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/reviewed_matched_pairs.csv": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/reviewed_matched_pairs.csv",
+    "sha256": "da7dd515fd4efdbb34781fd094e54b42e4ffbd4dd6f2d2abe6d209ea6b2ce3f6",
+    "bytes": 1115,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/selected_cases.jsonl": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/selected_cases.jsonl",
+    "sha256": "d70c48d20cd81a514851536fbe03c94eed63e4ba3c42fabd50b069cec3af9040",
+    "bytes": 1685528,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/selected_configurations.csv": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/selected_configurations.csv",
+    "sha256": "086d442516e5ba552fbfc36fb89e8f1471f64bf11656b507a2daed77eb0b7557",
+    "bytes": 1174,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/selection_changes.csv": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/selection_changes.csv",
+    "sha256": "88350eb0d470954375bc996aab3de7676074550a1eccdfa7efc090f2b7bce324",
+    "bytes": 248,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "experiments/error_analysis_revision_20261125/evidence/source_manifest.json": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/evidence/source_manifest.json",
+    "sha256": "2d3713ce86fb292d22fc09d6805423b7c9e299a4516c8a849137f196009e4c63",
+    "bytes": 9852,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
   "experiments/error_analysis_revision_20261125/index.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/index.html",
-    "sha256": "f816702283b675c7cf9c51dad2fdb5e776232ada296f787570ab272105e324a7",
-    "bytes": 3105
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/index.html",
+    "sha256": "400757d7bac700e9e60457347b05e54b3f9e4c0c560e3d5ebe0928794b4ca201",
+    "bytes": 6715,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
   "experiments/error_analysis_revision_20261125/METHOD_AND_SCOPE.txt": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/METHOD_AND_SCOPE.txt",
-    "sha256": "770737139ff19005494b5924a1ee7b22de129b25b8d051090df22ed7b31108f4",
-    "bytes": 2015
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/METHOD_AND_SCOPE.txt",
+    "sha256": "c8e9070421065376c40bdb54950684be68c264cc3b5f579b688cf765c8bcab5b",
+    "bytes": 2777,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
   "experiments/error_analysis_revision_20261125/package_manifest.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/package_manifest.json",
-    "sha256": "c212996059e3c653123548fcae933e5320f99353443aaf14743dee842906fffc",
-    "bytes": 4555
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/package_manifest.json",
+    "sha256": "9b9ee0494bb01191afc860796744f484e367aa74deeb850b6ca98a699937d3a0",
+    "bytes": 4698,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/index.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/index.html",
-    "sha256": "281b2aed2da27259646c826eb2c054a3e96310a58ad94ddbd5a9a90b2cf60ea6",
-    "bytes": 4325
+  "experiments/error_analysis_revision_20261125/reports/llama_cochrane_iso_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_cochrane_iso_few_random.html",
+    "sha256": "0bcc97e7f5ebc357d9ed0e34cd876da1bc84b30d7cff52c4b376655f74a8adf1",
+    "bytes": 103954,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_iso_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_iso_few_random.html",
-    "sha256": "fd6854d7e4aff73b48997200bea6e88b57d1bd689ea846125f745f0304fd8943",
-    "bytes": 102670
+  "experiments/error_analysis_revision_20261125/reports/llama_cochrane_iso_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_cochrane_iso_few_retrieval.html",
+    "sha256": "fa8fb6c9059750ba4bad4f50420b57b046d7784ff9f97765b955c6c8fccf63ec",
+    "bytes": 99880,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_iso_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_iso_few_retrieval.html",
-    "sha256": "c33124919b20b11a9ecaab1719f1fced2622a0dba75eda1a9ff7d5da008652fa",
-    "bytes": 98766
+  "experiments/error_analysis_revision_20261125/reports/llama_cochrane_minimal_one.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_cochrane_minimal_one.html",
+    "sha256": "120900ff9d258fa06e89c4fbc07aa9ba7597a285228319263db5baa34575846a",
+    "bytes": 103006,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_cochrane_minimal_one.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_cochrane_minimal_one.html",
-    "sha256": "b89a371d4b54f63c3cfb33cddcffa9ac7004ea3757345e8848f3ff20f35dc116",
-    "bytes": 101723
+  "experiments/error_analysis_revision_20261125/reports/llama_plaba_iso_examples_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_plaba_iso_examples_few_random.html",
+    "sha256": "77437cb0d756d6cff656e36a42d08ff627d801d170435bbab042c7bdb2f8dc02",
+    "bytes": 82642,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_iso_examples_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_iso_examples_few_random.html",
-    "sha256": "9c17aa3b4f167c9ef48deebb7b1a72f59defbdecbcd39c558a1f18926ca1f752",
-    "bytes": 81357
+  "experiments/error_analysis_revision_20261125/reports/llama_plaba_iso_examples_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_plaba_iso_examples_few_retrieval.html",
+    "sha256": "78d605f20dbcfd8d29533952bee641557ec01dd3ef50f3aec9fc9a3e01dc6ea0",
+    "bytes": 90285,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_iso_examples_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_iso_examples_few_retrieval.html",
-    "sha256": "d283d2daf25fa44069e950bd05ca00c5bc9faefef26ef6263fa770d19b7fc979",
-    "bytes": 89170
+  "experiments/error_analysis_revision_20261125/reports/llama_plaba_minimal_one.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_plaba_minimal_one.html",
+    "sha256": "659d0eae81cad251f37b4d2b713866e8aeff9f5bb2c1def8d7b297d8927aff2c",
+    "bytes": 82755,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_plaba_minimal_one.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_plaba_minimal_one.html",
-    "sha256": "669503977629bc6b9dac8563dcf38ef494366831d118aafb8fbcdb47d1381ffa",
-    "bytes": 81473
+  "experiments/error_analysis_revision_20261125/reports/llama_tsar2025_iso_examples_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_tsar2025_iso_examples_few_random.html",
+    "sha256": "e06eaf038251ccc8a34cedff65c490b2684d1ffb2b9571108cc1b2c9f5a0ef8d",
+    "bytes": 56215,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_iso_examples_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_iso_examples_few_random.html",
-    "sha256": "8eca364a64d63abf1ab934726dc7e5602a227e963255277d750dbfc1b6277f8d",
-    "bytes": 54779
+  "experiments/error_analysis_revision_20261125/reports/llama_tsar2025_iso_examples_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_tsar2025_iso_examples_few_retrieval.html",
+    "sha256": "3b3b06575545af12040780dd2f095ee4b0a26299a9740458685ebff90fba9341",
+    "bytes": 57666,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_iso_examples_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_iso_examples_few_retrieval.html",
-    "sha256": "c5d88154216b3027f3fd7228f34897b5ddb5b3877876d6dddb47d0ef3ae706df",
-    "bytes": 56401
+  "experiments/error_analysis_revision_20261125/reports/llama_tsar2025_minimal_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/llama_tsar2025_minimal_few_random.html",
+    "sha256": "8b5d9e227f8f0c78b4882167622392e5a2fb949ca862eb9764f223dbb19a9fec",
+    "bytes": 56505,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/llama_tsar2025_minimal_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/llama_tsar2025_minimal_few_random.html",
-    "sha256": "34f77b73db5effecdc5a57438c817c27de5bc5cb296ab2c81d005e42fcb861ea",
-    "bytes": 55069
+  "experiments/error_analysis_revision_20261125/reports/mixtral_cochrane_iso_zero.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_cochrane_iso_zero.html",
+    "sha256": "25e6ab5709a265ee1f09a6fd6015e11871555d1f1bc223dddf0b0f0d44fcb3a5",
+    "bytes": 101863,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/manifest.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/manifest.json",
-    "sha256": "358a328e645b43c574ac8e304968882d9219d13538a82210d0449a3e6319313a",
-    "bytes": 6084
+  "experiments/error_analysis_revision_20261125/reports/mixtral_cochrane_minimal_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_cochrane_minimal_few_random.html",
+    "sha256": "1b4b3bad3a9c324ada98a794dc861919e4723ea11b68229d067b69ab1092542c",
+    "bytes": 103510,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/matched_retrieval_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/matched_retrieval_random.html",
-    "sha256": "8521f5d23a04234ac66eea87e87114511427634f966676496918627e569d2aa2",
-    "bytes": 612936
+  "experiments/error_analysis_revision_20261125/reports/mixtral_cochrane_minimal_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_cochrane_minimal_few_retrieval.html",
+    "sha256": "deb6758825ce5c35a007e38405982e48ad4f688c0a987bd0aca7b0c6656482c7",
+    "bytes": 105605,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/matched_retrieval_random.jsonl": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/matched_retrieval_random.jsonl",
-    "sha256": "5a9261aaba2477089a9363277ff209e302c9d6023949b0995a424cbde9227656",
-    "bytes": 602967
+  "experiments/error_analysis_revision_20261125/reports/mixtral_plaba_iso_few_random.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_plaba_iso_few_random.html",
+    "sha256": "5d06a259ef481f73f38cb467bb8c46543aec0691077f1e72d2cc1551271801bc",
+    "bytes": 83851,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_iso_zero.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_iso_zero.html",
-    "sha256": "66ce09989ba95699a9e51b8240976988341d1f50c1ee1c20dff05c8b68792196",
-    "bytes": 100766
+  "experiments/error_analysis_revision_20261125/reports/mixtral_plaba_iso_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_plaba_iso_few_retrieval.html",
+    "sha256": "917b44e17f31f0caf0a04f6582a5eb647cc03db00eb37e7cda108829b13231dc",
+    "bytes": 83857,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_minimal_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_minimal_few_random.html",
-    "sha256": "1a18846ef5c7e7a551a0b4178ec503bb9f532bdbeec6e30770f48f3ffb7d1eb6",
-    "bytes": 102229
+  "experiments/error_analysis_revision_20261125/reports/mixtral_plaba_iso_zero.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_plaba_iso_zero.html",
+    "sha256": "f3c8990713d45805c042aac5693e413d4c6aa51d9fb0976818275476e71478c4",
+    "bytes": 78706,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_cochrane_minimal_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_cochrane_minimal_few_retrieval.html",
-    "sha256": "1b18a706879a04a4b32d79ed7a0195bf04d40758b35ef6246ed729e01c887907",
-    "bytes": 104490
+  "experiments/error_analysis_revision_20261125/reports/mixtral_tsar2025_iso_examples_few_metric.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_tsar2025_iso_examples_few_metric.html",
+    "sha256": "8498f51c210917b72a3cf0c7d2ad73de3fc525a0924e6163fc756d105cd8cae9",
+    "bytes": 56248,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_few_random.html",
-    "sha256": "87950d3b58c01ed87acad4f6e7ed7e22a36efa8c3fb50206dd79e4c9971286c9",
-    "bytes": 82570
+  "experiments/error_analysis_revision_20261125/reports/mixtral_tsar2025_iso_zero.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_tsar2025_iso_zero.html",
+    "sha256": "cb368d4216843ac1c662a0210538befd83322f7bf634368e89ff6b68fefa5e22",
+    "bytes": 56362,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_few_retrieval.html",
-    "sha256": "dffdfea0c4dc131990fff2c24de03037738b6a66d51fcd3af6fe59c86c9a88b9",
-    "bytes": 82746
+  "experiments/error_analysis_revision_20261125/reports/mixtral_tsar2025_minimal_few_retrieval.html": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reports/mixtral_tsar2025_minimal_few_retrieval.html",
+    "sha256": "417f21ac5cbd527593c106d64c5f9fb018d7ba6e02f37d2e76431ab54fdf913c",
+    "bytes": 55515,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_plaba_iso_zero.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_plaba_iso_zero.html",
-    "sha256": "4e99c890e607f1147ddaae90f7f12229cfbbae70e1a0126a1d91f5255530efd5",
-    "bytes": 77609
+  "experiments/error_analysis_revision_20261125/reviews/comparative.json": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reviews/comparative.json",
+    "sha256": "d56fe315a34eaa97f9023256ad3764a087756460a9fd13b5ea36359c737be2e8",
+    "bytes": 12801,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_iso_zero.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_iso_zero.html",
-    "sha256": "e56eff68d5e8fe7168bbceb9e903579e25c020cb5032650f3329cc7195ac24b1",
-    "bytes": 55113
-  },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_minimal_few_random.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_minimal_few_random.html",
-    "sha256": "5700041305e59799fd6381d9e1ab7d6fc87eab2167a29c209e3609e689f0fa73",
-    "bytes": 54973
-  },
-  "experiments/error_analysis_revision_20261125/evidence_final/mixtral_tsar2025_minimal_few_retrieval.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/mixtral_tsar2025_minimal_few_retrieval.html",
-    "sha256": "52a0996e608ce3f837a58c1eb0435ee7bfff2953a2cd11bc06a3ffbace4a0494",
-    "bytes": 54249
-  },
-  "experiments/error_analysis_revision_20261125/evidence_final/selected_cases.jsonl": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/selected_cases.jsonl",
-    "sha256": "ba2814a0bb358c661cbafa8979009f53c01f04a9c3953188c7537396bd92ff12",
-    "bytes": 1706128
-  },
-  "experiments/error_analysis_revision_20261125/evidence_final/selected_configurations.csv": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/evidence_final/selected_configurations.csv",
-    "sha256": "757f04c2124fdadc2a452e65f576a1793f9ee5abeb760b9eefc8b2f56ef0818f",
-    "bytes": 1182
-  },
-  "experiments/error_analysis_revision_20261125/proposal/prompt_provenance_checks.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/prompt_provenance_checks.json",
-    "sha256": "c0d665438ee6dccf30cb2361c9759ab7e24130ef1c998f9771267ede23279a03",
-    "bytes": 1061
-  },
-  "experiments/error_analysis_revision_20261125/proposal/reviewed_evidence.csv": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_evidence.csv",
-    "sha256": "7b8267429a590deae0da774f9758934bb8744cd694f084aa6ecd670b3690c1d3",
-    "bytes": 11108
-  },
-  "experiments/error_analysis_revision_20261125/proposal/reviewed_evidence.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_evidence.html",
-    "sha256": "be75201737899faba41ab6b47bf16b7baabe84f935e0b56428487d4db10346b8",
-    "bytes": 11239
-  },
-  "experiments/error_analysis_revision_20261125/proposal/reviewed_matched_pairs.csv": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/proposal/reviewed_matched_pairs.csv",
-    "sha256": "724933e26145a70112c27bc6f6acca2bdb0cb78449c9c3dba619186eb5341cff",
-    "bytes": 1099
-  },
-  "experiments/error_analysis_revision_20261125/reviews/comparative_configuration_review_20261125.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/comparative_configuration_review_20261125.json",
-    "sha256": "c2d41f4ab01e4a4548e3b6762bccbde59b0f2ee06ff5364d657c220f68539a27",
-    "bytes": 9850
-  },
-  "experiments/error_analysis_revision_20261125/reviews/high_configuration_review_20261125.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/high_configuration_review_20261125.json",
-    "sha256": "684e646432e638ae7ce2529ec7e79a9080019b436ce1bd68b2e1fcec1898a357",
-    "bytes": 50328
+  "experiments/error_analysis_revision_20261125/reviews/high.json": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reviews/high.json",
+    "sha256": "39adbf481c3c019f4a5c21fe65f98803bba69aaca7e5853b686f3e528e72bf88",
+    "bytes": 42931,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
   "experiments/error_analysis_revision_20261125/reviews/index.html": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/index.html",
-    "sha256": "9c32cb7da24f59e0246d54cd0ca6dbcf3ab31586377c118477b6af74df37754d",
-    "bytes": 66216
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reviews/index.html",
+    "sha256": "ba72a96c270a3a1a245e7302a3452819997cb5b731fb39b2c0010d6ad9452067",
+    "bytes": 68690,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
   },
-  "experiments/error_analysis_revision_20261125/reviews/low_configuration_review_20261125.json": {
-    "source": "experiments/error_analysis_revision_20261125/submission_package/reviews/low_configuration_review_20261125.json",
-    "sha256": "c2dd79e1e097cd214c465aad541a69f275efb9432744c81f37bbb013b1103499",
-    "bytes": 45419
+  "experiments/error_analysis_revision_20261125/reviews/low.json": {
+    "source": "experiments/metric_chunk_probe/joint_analysis_20261127/integration/error_analysis/submission_package/reviews/low.json",
+    "sha256": "05e44179643601e2cf0b7ff936616c62f0e311c8ff93702d1147b4253a04b851",
+    "bytes": 37159,
+    "note": "Current qualitative package; repository-facing scope metadata adapted where needed."
+  },
+  "RESULTS_GUIDE.md": {
+    "source": "publication/iso4simplify-paper/RESULTS_GUIDE.md",
+    "sha256": "23fd7542c487cfca34c40f39f9778748ed148487af775661e7da56b1d3c869c8",
+    "bytes": 3484,
+    "note": "Qualitative-package navigation or verification."
+  },
+  "README.md": {
+    "source": "publication/iso4simplify-paper/README.md",
+    "sha256": "76146852e7a0058e4f9d8e2b4b0fd30fb10c535c9914c976961a421a68088cd4",
+    "bytes": 4274,
+    "note": "Qualitative-package navigation or verification."
+  },
+  "qualitative_revision_verification.json": {
+    "source": "publication/iso4simplify-paper/qualitative_revision_verification.json",
+    "sha256": "1154415e75c02b4dc15ca03eabbaf8b9d0795aba653292caffa4f2ab431081b5",
+    "bytes": 602,
+    "note": "Qualitative-package navigation or verification."
   }
 }

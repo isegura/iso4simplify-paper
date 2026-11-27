@@ -26,6 +26,15 @@
 
 The released five item-level metrics exclude BLEU: corpus BLEU is stored with run-level evaluation summaries. The two TSAR references are used jointly where required. Never average sentence BLEU values to reconstruct corpus BLEU.
 
-## Revised qualitative inspection
+## Qualitative error analysis
 
-[Selected reports and evidence](experiments/error_analysis_revision_20261125/index.html) cover 18 conditions from the main study, including retrieval. They are separate from the original archived selection. Inspection is AI-assisted and awaiting author validation; no validated error rates or human ISO-adherence scores are claimed. The later metric-selector probe is excluded. The package also includes review notes covering all 270 selected outputs.
+[Selected reports and evidence](experiments/error_analysis_revision_20261125/index.html)
+cover 18 configurations and 270 selected outputs. Mixtral on TSAR uses
+ISO+examples with metric-based few-shot prompting as High-SARI, ISO zero-shot as
+Low-SARI, and baseline retrieval as Comparative. Each report contains complete
+sources, all evaluation references, generated simplifications, metrics and word
+counts. Review notes are AI-assisted and remain subject to author validation.
+
+The package also includes matched random/retrieval reports for the five selected
+model–dataset pairs that share a prompt type. These illustrative cases do not
+establish error frequencies, reader comprehension or ISO adherence.

@@ -1,0 +1,232 @@
+{
+  "method": "AI-assisted inspection; group notes with case notes for Mixtral TSAR.",
+  "status": "author_validation_pending",
+  "source_sha256": "d70c48d20cd81a514851536fbe03c94eed63e4ba3c42fabd50b069cec3af9040",
+  "groups": {
+    "llama_cochrane_iso_few_random": {
+      "case_keys": [
+        "llama_cochrane_iso_few_random/43",
+        "llama_cochrane_iso_few_random/69",
+        "llama_cochrane_iso_few_random/6",
+        "llama_cochrane_iso_few_random/4",
+        "llama_cochrane_iso_few_random/77",
+        "llama_cochrane_iso_few_random/26",
+        "llama_cochrane_iso_few_random/40",
+        "llama_cochrane_iso_few_random/23",
+        "llama_cochrane_iso_few_random/90",
+        "llama_cochrane_iso_few_random/66",
+        "llama_cochrane_iso_few_random/30",
+        "llama_cochrane_iso_few_random/75",
+        "llama_cochrane_iso_few_random/91",
+        "llama_cochrane_iso_few_random/103",
+        "llama_cochrane_iso_few_random/115"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Short summaries and missing reference explanations remain, but excessive/shorter only because are stronger than evidence supports.",
+        "Statistical RR/CI notation and specialized treatment names remain. OHSS is explicitly expanded in row4, so remove it from unexplained acronym examples for this condition.",
+        "Random row4 expands OHSS while same-input ISO retrieval does not; both retain HES. Random also preserves uncertainty on pregnancy effects more precisely.",
+        "Random row6 assigns fewer injection-site reactions to detemir; source and corresponding retrieval output assign them to glargine.",
+        "Rows40 and77 change reported side-effect/study details; some other cases are coherent source-based compression.",
+        "Row26 retains large near-verbatim technical source portions, so shortening is not uniform."
+      ]
+    },
+    "llama_plaba_iso_examples_few_random": {
+      "case_keys": [
+        "llama_plaba_iso_examples_few_random/11",
+        "llama_plaba_iso_examples_few_random/114",
+        "llama_plaba_iso_examples_few_random/146",
+        "llama_plaba_iso_examples_few_random/10",
+        "llama_plaba_iso_examples_few_random/112",
+        "llama_plaba_iso_examples_few_random/144",
+        "llama_plaba_iso_examples_few_random/12",
+        "llama_plaba_iso_examples_few_random/115",
+        "llama_plaba_iso_examples_few_random/116",
+        "llama_plaba_iso_examples_few_random/108",
+        "llama_plaba_iso_examples_few_random/142",
+        "llama_plaba_iso_examples_few_random/24",
+        "llama_plaba_iso_examples_few_random/3",
+        "llama_plaba_iso_examples_few_random/98",
+        "llama_plaba_iso_examples_few_random/103"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO+examples random, not ISO random.",
+        "Explanatory omissions and technical terms (parity/hyperemesis gravidarum) remain; BMI is expanded in row115.",
+        "Rows144 and98 include introductory phrase;144,142,24,103 include final explanatory compliance notes.",
+        "Row24 overstates source uncertainty/exceptions as inability to prevent asthma.",
+        "Rows3 and12 conflate cyst-disappearance percentages with disappearance-or-shrinkage.",
+        "Matched row140 (outside comparative lowest15, explicitly paired material) addresses target in random; retrieval reproduces demonstrations and reaches cap. No overall selector-error-rate inference."
+      ]
+    },
+    "llama_tsar2025_iso_examples_few_random": {
+      "case_keys": [
+        "llama_tsar2025_iso_examples_few_random/45",
+        "llama_tsar2025_iso_examples_few_random/81",
+        "llama_tsar2025_iso_examples_few_random/20",
+        "llama_tsar2025_iso_examples_few_random/51",
+        "llama_tsar2025_iso_examples_few_random/19",
+        "llama_tsar2025_iso_examples_few_random/31",
+        "llama_tsar2025_iso_examples_few_random/57",
+        "llama_tsar2025_iso_examples_few_random/69",
+        "llama_tsar2025_iso_examples_few_random/56",
+        "llama_tsar2025_iso_examples_few_random/26",
+        "llama_tsar2025_iso_examples_few_random/48",
+        "llama_tsar2025_iso_examples_few_random/21",
+        "llama_tsar2025_iso_examples_few_random/77",
+        "llama_tsar2025_iso_examples_few_random/13",
+        "llama_tsar2025_iso_examples_few_random/54"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO+examples random, not ISO random.",
+        "Unrequested preambles in rows45,51,54; final compliance notes in19,57,56,48.",
+        "No inspected target simplification uses an actual bulleted list; row81 separates findings by line breaks. Remove old bulleted-list statement.",
+        "Generally coherent complete endings, some details omitted. Do not infer low SARI is caused exclusively by wording/presentation.",
+        "Row19 target summary omits overall hero-journey framing and adds ISO compliance claim."
+      ]
+    },
+    "mixtral_cochrane_minimal_few_retrieval": {
+      "case_keys": [
+        "mixtral_cochrane_minimal_few_retrieval/6",
+        "mixtral_cochrane_minimal_few_retrieval/60",
+        "mixtral_cochrane_minimal_few_retrieval/75",
+        "mixtral_cochrane_minimal_few_retrieval/108",
+        "mixtral_cochrane_minimal_few_retrieval/23",
+        "mixtral_cochrane_minimal_few_retrieval/123",
+        "mixtral_cochrane_minimal_few_retrieval/94",
+        "mixtral_cochrane_minimal_few_retrieval/90",
+        "mixtral_cochrane_minimal_few_retrieval/40",
+        "mixtral_cochrane_minimal_few_retrieval/4",
+        "mixtral_cochrane_minimal_few_retrieval/10",
+        "mixtral_cochrane_minimal_few_retrieval/76",
+        "mixtral_cochrane_minimal_few_retrieval/68",
+        "mixtral_cochrane_minimal_few_retrieval/64",
+        "mixtral_cochrane_minimal_few_retrieval/8"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is baseline retrieval, compared with selected baseline random, not ISO random versus zero-shot.",
+        "Abrupt fragments at rows6,60,75,108,23,64,8; row123 ends at colon announcing missing findings. All below512 tokens, stop.",
+        "Row40 falsely says withdrawn COX2 drugs were studied although source says none were; row76 states no deaths whereas source reports one delayed-group death.",
+        "Row90 adds mean-age range36to41 not in source; statistical and biomedical detail often retained.",
+        "Matched row6 retrieval ends24to5; random completes insulin comparison, so retrieval not uniformly more complete."
+      ]
+    },
+    "mixtral_plaba_iso_few_random": {
+      "case_keys": [
+        "mixtral_plaba_iso_few_random/110",
+        "mixtral_plaba_iso_few_random/146",
+        "mixtral_plaba_iso_few_random/114",
+        "mixtral_plaba_iso_few_random/10",
+        "mixtral_plaba_iso_few_random/116",
+        "mixtral_plaba_iso_few_random/93",
+        "mixtral_plaba_iso_few_random/3",
+        "mixtral_plaba_iso_few_random/8",
+        "mixtral_plaba_iso_few_random/55",
+        "mixtral_plaba_iso_few_random/12",
+        "mixtral_plaba_iso_few_random/108",
+        "mixtral_plaba_iso_few_random/11",
+        "mixtral_plaba_iso_few_random/97",
+        "mixtral_plaba_iso_few_random/145",
+        "mixtral_plaba_iso_few_random/142"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "Configuration is ISO random, counterpart selected ISO retrieval, not ISO versus ISO+examples random.",
+        "Abrupt fragments in rows10,93,8,55 before512 tokens. Row110 ends in complete sentence after aim but omits all methods/results/conclusion.",
+        "Section labels in110 retained from source; not automatically errors. Complete outputs retain specialized terms despite some useful definitions.",
+        "Matched row110 retrieval retains study results and diagnostic conclusion; random contains introduction and aim only."
+      ]
+    },
+    "mixtral_tsar2025_minimal_few_retrieval": {
+      "case_keys": [
+        "mixtral_tsar2025_minimal_few_retrieval/79",
+        "mixtral_tsar2025_minimal_few_retrieval/68",
+        "mixtral_tsar2025_minimal_few_retrieval/45",
+        "mixtral_tsar2025_minimal_few_retrieval/1",
+        "mixtral_tsar2025_minimal_few_retrieval/55",
+        "mixtral_tsar2025_minimal_few_retrieval/75",
+        "mixtral_tsar2025_minimal_few_retrieval/57",
+        "mixtral_tsar2025_minimal_few_retrieval/15",
+        "mixtral_tsar2025_minimal_few_retrieval/58",
+        "mixtral_tsar2025_minimal_few_retrieval/20",
+        "mixtral_tsar2025_minimal_few_retrieval/31",
+        "mixtral_tsar2025_minimal_few_retrieval/51",
+        "mixtral_tsar2025_minimal_few_retrieval/47",
+        "mixtral_tsar2025_minimal_few_retrieval/40",
+        "mixtral_tsar2025_minimal_few_retrieval/14"
+      ],
+      "source_and_all_supplied_references_inspected": true,
+      "findings": [
+        "This is the highest-mean-SARI retrieval configuration for Mixtral on TSAR; its role is Comparative.",
+        "Six inspected outputs end abruptly inside dates or numerical expressions, before 512 generated tokens.",
+        "Row 75 contains two similar versions separated by '(Simplified version)'.",
+        "Row 47 adds the unrequested '(126 characters)' note.",
+        "Other inspected outputs have complete endings; these selected cases do not estimate corpus error frequencies."
+      ],
+      "records": [
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/79",
+          "observation": "Abrupt ending from 2000 to 2, 78 tokens, stop. Increase in violent crime also added, not asserted in source. This is selected figure case."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/68",
+          "observation": "Abrupt ending published in 2, 30 tokens, stop."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/45",
+          "observation": "Abrupt ending 40,00, 35 tokens, stop."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/1",
+          "observation": "Abrupt ending In 2, 52 tokens, stop."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/55",
+          "observation": "Complete but very compact; adds This is true for most people not explicitly supported. Main examples retained."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/75",
+          "observation": "Gives two near-duplicate complete versions separated by unrequested (Simplified version) label; avoid calling this merely intro phrase."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/57",
+          "observation": "Complete coherent bridge summary, close to source. No obvious major error."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/15",
+          "observation": "Abrupt ending 2,00, 36 tokens, stop."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/58",
+          "observation": "Complete coherent account but Instead of helping introduces narrator judgment where source reports Gabriela perception."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/20",
+          "observation": "Complete core asteroid-defense account; broad film analogy shifted toward entire HAMMER plan. No abrupt ending."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/31",
+          "observation": "Complete coherent art summary; minor omission of big-city scope, no obvious major error."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/51",
+          "observation": "Complete coherent narrative preserving emotional highs/lows and camp turning point. No obvious major error."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/47",
+          "observation": "Complete shortened marketplace summary followed by unrequested (126 characters) note, which does not describe actual output length."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/40",
+          "observation": "Complete coherent narrative; retains tributes unexplained while references clarify selection to fight; omits bow-and-arrow skill."
+        },
+        {
+          "case_key": "mixtral_tsar2025_minimal_few_retrieval/14",
+          "observation": "Abrupt ending In 2, 43 tokens, stop."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+action,configuration,previous_role,current_role
+add,mixtral_tsar2025_iso_examples_few_metric,,high
+change_role,mixtral_tsar2025_minimal_few_retrieval,high,comparative
+omit_from_current_selection,mixtral_tsar2025_minimal_few_random,comparative,
