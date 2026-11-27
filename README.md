@@ -24,7 +24,9 @@ Saved predictions and item-level scores are the inputs for the released analyses
 
 ## Layout
 
-`data/` holds evaluation splits and dataset attribution; `prompts/` holds the original fixed templates. `outputs/*_512/` contains the original 72 main-study runs. The additional 72 seed runs and 18 retrieval runs retain their original paths under `experiments/` so that source hashes and analysis manifests remain usable. `scores_512/` contains historical aggregates; **it is not the complete current results table**. Use the artifact map for the current results.
+`data/` holds evaluation splits and dataset attribution; `prompts/` holds the fixed templates, including the nine current metric-based few-shot prompts. `outputs/*_512/` contains the original 72 main-study runs. The additional 72 seed runs and 18 retrieval runs retain their original paths under `experiments/` so that source hashes and analysis manifests remain usable. `scores_512/` contains historical aggregates; **it is not the complete current results table**. Use the artifact map for the current results.
+
+The nine `*_few_metric.md` templates match the demonstration sets used in the current metric-based runs. Existing predictions under `outputs/*_512/` retain the original runs; historical run manifests retain the hashes of the prompts used for those runs.
 
 Folders named `reviewer2_concern*` are archival implementation paths retained for reproducibility. Current scientific conclusions use the all-pairs joint analysis, not older intermediate statistical plans.
 

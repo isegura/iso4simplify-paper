@@ -54,9 +54,10 @@
     "bytes": 97985
   },
   "prompts/cochrane_iso_examples_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/cochrane_iso_examples_few_metric.md",
-    "sha256": "754a972bb29ffb31f5bef64481da460905bdc5e13f9fe34e5f20b38339d57a38",
-    "bytes": 22413
+    "source": "experiments/metric_chunk_probe/new_prompts_context/cochrane_iso_examples_few_metric.md",
+    "sha256": "6b7bc05ef377a134e8de0253ae6ca90f797ee078ee25ebff2bb093ff5c7028b4",
+    "bytes": 26856,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/cochrane_iso_examples_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/cochrane_iso_examples_few_random.md",
@@ -69,9 +70,10 @@
     "bytes": 16412
   },
   "prompts/cochrane_iso_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/cochrane_iso_few_metric.md",
-    "sha256": "ff810b79ab1d445d04231636f514c39ef73d3dd25e82475140e6c60513cde9a6",
-    "bytes": 11564
+    "source": "experiments/metric_chunk_probe/new_prompts_context/cochrane_iso_few_metric.md",
+    "sha256": "dd198b4705c43542bb3c4b5cff7879a0bf39edc059483d29e05074830ae7cc80",
+    "bytes": 16007,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/cochrane_iso_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/cochrane_iso_few_random.md",
@@ -84,9 +86,10 @@
     "bytes": 5562
   },
   "prompts/cochrane_minimal_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/cochrane_minimal_few_metric.md",
-    "sha256": "2d3b940075def737f32b379c50e286844a7e70e3f521a294c22b4c54357fd154",
-    "bytes": 8395
+    "source": "experiments/metric_chunk_probe/new_prompts_context/cochrane_minimal_few_metric.md",
+    "sha256": "b1db82cc4e6626f1b1395eb744df6b08ed58d7570807f5ffe05eb5be7e8f2c76",
+    "bytes": 12838,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/cochrane_minimal_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/cochrane_minimal_few_random.md",
@@ -114,9 +117,10 @@
     "bytes": 510
   },
   "prompts/plaba_iso_examples_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/plaba_iso_examples_few_metric.md",
-    "sha256": "8f17f5bb6806909e60560d8ea0f011f01c1904b46f55eddfedd87183c159af76",
-    "bytes": 26021
+    "source": "experiments/metric_chunk_probe/new_prompts_context/plaba_iso_examples_few_metric.md",
+    "sha256": "ffcc1f5ddf85bb2e3228730f7fdef2828c3acf9a6e3dfcd9636e7727b5448a48",
+    "bytes": 26950,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/plaba_iso_examples_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/plaba_iso_examples_few_random.md",
@@ -129,9 +133,10 @@
     "bytes": 17755
   },
   "prompts/plaba_iso_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/plaba_iso_few_metric.md",
-    "sha256": "b605ae43b831f81f9be6d4d0e4b45157f8d07be7eb90e085700d5c900edcafae",
-    "bytes": 15172
+    "source": "experiments/metric_chunk_probe/new_prompts_context/plaba_iso_few_metric.md",
+    "sha256": "822c7530d2c9f14ad59a6fc0010f549dd8ed352c3dc92828055408725f5d5b34",
+    "bytes": 16101,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/plaba_iso_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/plaba_iso_few_random.md",
@@ -144,9 +149,10 @@
     "bytes": 6906
   },
   "prompts/plaba_minimal_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/plaba_minimal_few_metric.md",
-    "sha256": "73ed7f62c1f1763546c4ea74e3d4a75375ddc17114445c7d8104c27f52442930",
-    "bytes": 12002
+    "source": "experiments/metric_chunk_probe/new_prompts_context/plaba_minimal_few_metric.md",
+    "sha256": "86d597c157ee5f7c58dd8d0af0d6492f888c073205f2dfd32331d4c44410576d",
+    "bytes": 12932,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/plaba_minimal_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/plaba_minimal_few_random.md",
@@ -159,9 +165,10 @@
     "bytes": 3737
   },
   "prompts/tsar2025_iso_examples_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/tsar2025_iso_examples_few_metric.md",
-    "sha256": "88f9985c13a9fb545d7263044eb29bae89a432eda47f1d6440b480cac562ca4c",
-    "bytes": 18208
+    "source": "experiments/metric_chunk_probe/new_prompts_context/tsar2025_iso_examples_few_metric.md",
+    "sha256": "05fe2fefc5ef75b3cb28ac4edd257110808adbcec9b4d6b11e2459f913c2bcab",
+    "bytes": 18247,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/tsar2025_iso_examples_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/tsar2025_iso_examples_few_random.md",
@@ -174,9 +181,10 @@
     "bytes": 15836
   },
   "prompts/tsar2025_iso_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/tsar2025_iso_few_metric.md",
-    "sha256": "2fe042cb8e7d9ca77d1086f8728b421f2ea3b94dd77f688c8d79b93183709e94",
-    "bytes": 7361
+    "source": "experiments/metric_chunk_probe/new_prompts_context/tsar2025_iso_few_metric.md",
+    "sha256": "c904ce5884857e66a5acc6a9076511fdaaa3290bf3c392c29b2ed0adc52eb583",
+    "bytes": 7400,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/tsar2025_iso_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/tsar2025_iso_few_random.md",
@@ -189,9 +197,10 @@
     "bytes": 4983
   },
   "prompts/tsar2025_minimal_few_metric.md": {
-    "source": "publication/iso4simplify-paper/prompts/tsar2025_minimal_few_metric.md",
-    "sha256": "a790afda5e184ac6316ab14d07d6360309a7ee76b5688cfc3858a857c4e7a7b3",
-    "bytes": 4191
+    "source": "experiments/metric_chunk_probe/new_prompts_context/tsar2025_minimal_few_metric.md",
+    "sha256": "803108e503fbb36da366a2cfc329215665703acb4b1deaed8a6919d1d96fcb7b",
+    "bytes": 4231,
+    "note": "Exact prompt bytes verified against both completed model-run manifests."
   },
   "prompts/tsar2025_minimal_few_random.md": {
     "source": "publication/iso4simplify-paper/prompts/tsar2025_minimal_few_random.md",
@@ -27013,8 +27022,8 @@
   },
   "README.md": {
     "source": "publication/iso4simplify-paper/README.md",
-    "sha256": "76146852e7a0058e4f9d8e2b4b0fd30fb10c535c9914c976961a421a68088cd4",
-    "bytes": 4274,
+    "sha256": "5ee98bf8798f27a551edfc3778dcf5456a7157898b7fb290fd9f0aa86278fdea",
+    "bytes": 4580,
     "note": "Qualitative-package navigation or verification."
   },
   "qualitative_revision_verification.json": {
